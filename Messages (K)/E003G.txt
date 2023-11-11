@@ -1,0 +1,10 @@
+MESS_ARCHIVE_E003G
+
+
+Message Name: Message
+
+
+MIID_予約０１: 모든 능력 +2의 책
+MIID_H_予約０１: 사용하면 스킬 「모든 능력 +2」를 습득\n스킬 효과: 유닛의 모든 능력 +2
+MRSID_予約０１: 모든 능력 +2
+MRSID_H_予約０１: 유닛의 모든 능력 +2

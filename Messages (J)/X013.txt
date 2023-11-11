@@ -1,0 +1,34 @@
+MESS_ARCHIVE_X013
+
+
+Message Name: Message
+
+
+MID_X013_OP1: $t1$WmボスＡ|3$WmボスＢ|7$w0|$WsボスＡ|$Wa$SvpSE_VOICE_BOSS1_EVT_3|$E怒,|てめーら、俺たちジラル重装団と\n本気でやりあうつもりらしいなぁ？$k$pいいぜ？　そんなにやりてーんなら\nてめーら全員血祭りにあげてやらぁ！$k\n$WsボスＢ|$Wa$SvpSE_VOICE_BOSS3_EVT_4|$E怒,|はっ！\nこっちのセリフだぜ馬鹿野郎が！$k$pここは俺たちディン騎兵隊のなわばりよ！\nよそ者はとっとと消えなぁ！$k
+MID_X013_OP2: $t1$Wmクロム|3$Wmフレデリク|7$w0|$Wsフレデリク|$Wa$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_2|何だ？$k\n$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_8|傭兵団同士のいさかいのようですね。\nよくあることです。$k$pしかし、こんなところで\n争いを始めるとは…$k$p巻き添えになる付近の住民には\n迷惑な話でしょう。$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_6|$E怒,|仕方ない、止めに入るか。$k
+MID_X013_OP3: $t1$WmボスＡ|3$WmボスＢ|7$w0|$WsボスＡ|$Wa$Wv$SvpSE_VOICE_BOSS1_EVT_3|$E怒,|$Wvやっちまえぇっ！$k\n$WsボスＢ|$Wa$Wv$SvpSE_VOICE_BOSS3_EVT_3|$E怒,|$Wvぶちのめせぇっ！$k\n$WsボスＡ|$Wd$WsボスＢ|$Wd$w0|$Wmクロム|3$Wmフレデリク|7$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_34|まずいな、交戦が始まったか…\n話が通じる状態じゃなさそうだな。$k\n$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|そのようです。\n戦いを早く終わらせるには…$k$pいっそどちらかに味方するのが\n手っ取り早いかもしれませんね。$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_11|一方は騎兵中心…\nもう一方は重装歩兵中心…$k$pどちらに味方すべきか、か…$k
+MID_X013_EV1: $t1$WmボスＡ|3$w0|$WsボスＡ|$Wa$SvpSE_VOICE_BOSS1_EVT_4|おう、あんたらも傭兵か？\n良いところに来たぜ！$k$p$E笑,|俺たちにジラル重装団に味方してくれりゃ\n報酬は弾むぜ！$k\n$WsボスＡ|$Wd$w0|$Wmusername|3$Wmクロム|7$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_6|どうする？　$Nu\n重装団に味方するか？$k
+MID_X013_EV2: $t1$WmボスＢ|3$w0|$WsボスＢ|$Wa$SvpSE_VOICE_BOSS3_EVT_2|おうおう！\nならこっちに味方してくれよ！$k$p$E笑,|俺たちディン騎兵団に味方してくれりゃ\n報酬は払うぜ！$k\n$WsボスＢ|$Wd$w0|$Wmusername|3$Wmクロム|7$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_25|どうする？　$Nu\n騎兵団に味方するか？$k
+MID_X013_EV3: $t1$Wmusername|3$Wmクロム|7$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_3|どちらでもない？$k$pということは、\n両方まとめて倒す気か？$k
+MID_X013_EV4: $t1$Wmusername|3$Wmクロム|7$w0|$Wsクロム|$Wa$E苦,汗|$SvpSE_VOICE_CHROM_EVT_11|本気か？\n思い切ったな…$k$p$E怒,|だが隠れている敵がいるかもしれん。\nそれでもやるか？$k
+MID_X013_EV_YN: 赤軍の味方をする？
+MID_X013_EV_YN2: 緑軍の味方をする？
+MID_X013_EV_YN3: 両方と戦う？
+MID_X013_EV_YN4: 本当に両方と戦う？
+MID_X013_EV_YES: $t1$Wmusername|3$Wmクロム|7$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_42|わかった！　では行くぞ！$k
+MID_X013_TK3: $t1$Wmクロム|3$Wmシャンブレー|7$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_24|$E通常,|おい。$k\n$SbpSTRM_BGM_EVT_ITAZURA1_3|100|$Wsシャンブレー|$Wa$Wv$SvpSE_VOICE_CHAMBRAY_EVT_17|$E苦,汗|うひゃい！　い、いきなり声を\nかけるなよな！　寿命が縮んだだろ！$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_11|目の前に立って声をかけただけで、\n怯えながらキレられたのは初めてだ。$k\n$Wsシャンブレー|$Wa$SvpSE_VOICE_CHAMBRAY_EVT_5|$E苦,汗|れ、冷静な切り返し…\n大物の風格だな…$k$p$E怒,|戦ったら寿命が縮みそうだ…$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_25|死ぬのが怖いなら降伏してくれ。\n無用な血は流したくない。$k\n$Wsシャンブレー|$Wa$SvpSE_VOICE_CHAMBRAY_EVT_4|$E怒,|わ、わかった！\nあんたの言うとおりにする！$k
+MID_X013_TK4: $t1$Wmベルベット|3$Wmシャンブレー|7$w0|$Wsベルベット|$Wa$SvpSE_VOICE_VELVET_EVT_11|$E通常,|！　この匂い、やっぱり…！\nねぇ、あなた！$k\n$SbpSTRM_BGM_EVT_ITAZURA1_3|100|$Wsシャンブレー|$Wa$Wv$SvpSE_VOICE_CHAMBRAY_EVT_17|$E苦,汗|うひゃい！　な、なに！？$k\n$Wsベルベット|$Wa$SvpSE_VOICE_VELVET_EVT_2|あなた…タグエルね？$k\n$Wsシャンブレー|$Wa$SvpSE_VOICE_CHAMBRAY_EVT_2|$E苦,汗|$Wvえ…あ、あぁぁぁっ！\nか、か、母ちゃん！！$k\n$Wsベルベット|$Wa$SvpSE_VOICE_VELVET_EVT_1|母ちゃん？　私のことかしら？$k\n$Wsシャンブレー|$Wa$SvpSE_VOICE_CHAMBRAY_EVT_9|$E笑,|うっはぁ、びびったぁ！\nまさか母ちゃんに会えるなんて！$k$p$E通常,|未来から来た甲斐があったよ！\n寿命は縮まったけど！$k\n$Wsベルベット|$Wa$SvpSE_VOICE_VELVET_EVT_4|未来から…？\nじゃあ…やっぱりルキナと同じ…！$k$p$E怒,|私の息子が、\nなぜゴロツキに味方しているの？$k\n$Wsシャンブレー|$Wa$SvpSE_VOICE_CHAMBRAY_EVT_7|だ、だって母ちゃんたちはどこにもいねえし、\n俺一人っきりじゃ絶滅しちまうし…$k$p強い奴らに混じってたら安全だと思って…\nって、か、母ちゃん怒ってる？$k\n$Wsベルベット|$Wa$SvpSE_VOICE_VELVET_EVT_5|ええ、怒ってるわ。まったく…\nタグエルの誇りはどこに行ったの。$k$p一緒に来なさい、\n性根を鍛えなおしてあげる。$k
+MID_X013_ED1: $t1$Wmクロム|3$Wmフレデリク|7$w0|$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_8|戦闘は終了しました。$k$pこれで、ひとまず村に\n被害が広がることもないでしょう。$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_8|しかし、なぜ\nこんな争いが起こったんだ？$k\n$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_6|戦乱の世では、無理もないことです。$k$p畑を耕せば荒らされ、\n物を売れば奪われる…$k$p$E怒,|それならいっそ、\n山賊や傭兵にでもなった方が良い。$k$p$E通常,|今、各地では武を売りにする\n傭兵団があふれ返っているそうです。$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_11|平和が来ない限り…\n状況は変わらないということか。$k$p$E怒,|なら、俺たちが取り戻すしかないな。\nその平和を。$k\n$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|はい、クロム様。$k
+MID_X013_ED2: $t1$Wmクロム|3$Wmフレデリク|7$w0|$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_9|そうそう、我々が加勢した\n傭兵団から報酬が届いています。$k$p旅に先立つものは必要です。\n軍資金に加えておきましょう。$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_7|わかった。そうしてくれ。$k
+MID_X013_ED3: $t1$Wmクロム|3$Wm村人男|7$w0|$Ws村人男|$Wa$SvpSE_VOICE_VIRREGER2_EVT_9|$E笑,|傭兵団をまとめて追い払っていただき、\nありがとうございました。$k$pあの乱暴者たちには困っていたのです。\nこちらはお礼です。$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_7|わかった。\nありがたくもらっておく。$k
+MID_X013_ED4: $t1$Wmベルベット|3$Wmシャンブレー|7$w0|$Wsベルベット|$Wa$SvpSE_VOICE_VELVET_EVT_11|$E通常,|ねぇ。$k\n$Wsシャンブレー|$Wa$Wv$SvpSE_VOICE_CHAMBRAY_EVT_18|$E苦,汗|あひょう！　び、びびったぁ…！\nうしろから声かけないでくれよな。$k\n$Wsベルベット|$Wa$SvpSE_VOICE_VELVET_EVT_1|あなた、名前は？$k\n$Wsシャンブレー|$Wa$SvpSE_VOICE_CHAMBRAY_EVT_5|$E通常,|シャンブレーだよ。\n母ちゃんがつけてくれたんだ。$k\n$Wsベルベット|$Wa$SvpSE_VOICE_VELVET_EVT_4|$Eキメ,|…本当に、私の息子なのね？$k\n$Wsシャンブレー|$Wa$SvpSE_VOICE_CHAMBRAY_EVT_4|そうさ！　俺がタグエルだってことが\nなによりも真実を物語ってるだろ！$k\n$Wsベルベット|$Wa$SvpSE_VOICE_VELVET_EVT_2|$E笑,|そうね。血は嘘をつかない。\nあなたは、私の子…一族の希望よ。$k\n$Wsシャンブレー|$Wa$SvpSE_VOICE_CHAMBRAY_EVT_12|母ちゃん？$k\n$Wsベルベット|$Wa$SvpSE_VOICE_VELVET_EVT_8|人とタグエルは共に生きていける。\nそれをあなたは証明してくれている。$k\n$Wsシャンブレー|$Wa$SvpSE_VOICE_CHAMBRAY_EVT_11|なに言ってんだよ。\n証明したのは母ちゃんだろ？$k$p父ちゃんと結婚して、\n俺を産んでくれた。$k$p$E笑,|ありがとう、母ちゃん。$k$p父ちゃんと母ちゃんの血が\n半分ずつ入ってるのが、俺の誇りだ。$k\n$Wsベルベット|$Wa$SvpSE_VOICE_VELVET_EVT_4|$E通常,|そう…あなたは誇りを持って\n生きられているのね…$k$p$E笑,|よかった…$k
+MID_X013_VIL1: $t1$Wm村長|7$Wm自分|3$w0|$Ws村長|$Wa$SvpSE_VOICE_VIRREGER4_EVT_3|ようこそいらっしゃいました。\n我々は重装団を応援しております。$k$pさあ、これをお使いください。\n騎兵に特に効くという槍です。$k
+MID_X013_VIL2: $t1$Wm村人男|7$Wm自分|3$w0|$SvpSE_VOICE_VIRREGER2_EVT_4|$Ws村人男|$Wa$E苦,|あいつらがああやって暴れるたびに\n村や畑に被害が出るんだよ…$k$pこれを渡すから早く終わらせてくれないか？\nどっちが勝ってもいいからさ。$k
+MID_X013_VIL3: $t1$Wm村人女|7$Wm自分|3$w0|$Ws村人女|$Wa$E苦,|$SvpSE_VOICE_VIRREGER3_EVT_4|あの乱暴者たちがああやって暴れるたびに\n村や畑はめちゃくちゃです…$k$pこれをお渡ししますから、\n早く戦いを終わらせてくれませんか？$k
+MID_X013_VIL4: $t1$Wm村長|7$Wm自分|3$w0|$Ws村長|$Wa$SvpSE_VOICE_VIRREGER4_EVT_3|ようこそいらっしゃいました。\n我々は騎兵団を応援しております。$k$pさあ、これをお使いください。\n重装兵に特に効くという斧です。$k
+MID_X013_BT1: $t0$WmボスＡ|0$w0|$WsボスＡ|$Wa$E怒,|俺たち重装団の守備！\n崩せるもんなら崩してみやがれ！$k
+MID_X013_BT2: $t0$WmボスＢ|0$w0|$WsボスＢ|$Wa$E怒,|俺たち騎兵団の突撃！\n止められるもんなら止めてみやがれ！$k
+MID_X013_BT3: $t0$WmボスＢ|0$w0|$WsボスＢ|$Wa$SvpSE_VOICE_BOSS3_EVT_5|$E怒,|覚悟しな！\nその鎧ごと吹っ飛ばしてやるぜ！$k\n$WmボスＡ|6$w0|$WsボスＡ|$Wa$SvpSE_VOICE_BOSS1_EVT_5|$E怒,|往生しな！\nその馬ごと弾き返してやるぜ！$k
+MID_X013_BOSS_DIE1: $t0$WmボスＡ|0$w0|$WsボスＡ|$Wa$E苦,|ば、ばかな…\nなんてぇ…強さだ…$k
+MID_X013_BOSS_DIE2: $t0$WmボスＢ|0$w0|$WsボスＢ|$Wa$E苦,|ば、ばかな…\nなんてぇ…強さだ…$k
+MID_X013_DIE_シャンブレー: $t1$Wmシャンブレー|3$w0|$Wsシャンブレー|$Wa$E苦,汗|うわ…\n絶滅…した……$k

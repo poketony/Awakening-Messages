@@ -1,0 +1,73 @@
+MESS_ARCHIVE_002
+
+
+Message Name: Message
+
+
+MID_002_OP1: $t1$Wmリズ|3$w0|$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_15|$E通常,|はーい！　ここがわたしたち、\nクロム自警団のアジトでーす！$k$p$E笑,|ほら、入って入って！$k
+MID_002_OP2_01: $t1$Wmマリアベル|3$w0|$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_15|$E苦,汗|リズ！　無事でしたの？$k
+MID_002_OP2_02: $t1$Wmリズ|3$w0|$Wsリズ|$Wa$b動作,リズ,Ge2|$b動作,リズ,RizRe|$SvpSE_VOICE_LIZ_EVT_19|$E通常,|あ、マリアベル！$k\n$Wsリズ|$Wd$w0|$Wmマリアベル|3$w0|$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_20|$E苦,汗|$b動作,マリアベル,Ac1|心配しましたわ！　リズったら、もう！\nお怪我はございませんこと？$k\n$Wsマリアベル|$Wd$w0|$Wmリズ|3$w0|$Wsリズ|$Wa$b動作,リズ,RizAc4|$b動作,リズ,RizRe|$SvpSE_VOICE_LIZ_EVT_16|$E笑,|あはは！　大丈夫だよー！\nお風呂とかご飯は大変だったけど。$k\n$Wsリズ|$Wd$w0|$Wmヴェイク|3$w0|$b動作,ヴェイク,Ac1|$Wsヴェイク|$Wa$SvpSE_VOICE_WYCK_EVT_1|$Eキメ,|クロムはどうした？　俺様のライバルは\nビビッて腰を抜かしてたんじゃねえか？$k\n$Wsヴェイク|$Wd$w0|$Wmリズ|3$w0|$Wsリズ|$Wa$b注目,リズ,ヴェイク|$SvpSE_VOICE_LIZ_EVT_29|大丈夫だったよ。良かったね！\nヴェイクはお兄ちゃん大好きだもんね？$k\n$Wsリズ|$Wd$w0|$Wmヴェイク|3$w0|$Wsヴェイク|$Wa$b動作,ヴェイク,Ge4|$SvpSE_VOICE_WYCK_EVT_3|$E苦,汗|冗談でもよしてくれ、\nそういう事言うのは！$k\n$Wsヴェイク|$Wd$w0|$Wmスミア|3$w0|$Wsスミア|$Wa$b動作,スミア,SumRe|$SvpSE_VOICE_SMIA_EVT_21|$E笑,|クロム様もご無事……\n良かった……$k\n$Wsスミア|$Wd$w0|$Wmマリアベル|3$w0|$Wsマリアベル|$Wa$b向き,マリアベル,C|$b動作,マリアベル,WalkTurn|$b注目,ヴェイク,スミア|$SvpSE_VOICE_MARIABELL_EVT_7|$E通常,|スミアさんは、クロムさんを心配するあまり\n毎日花占いをして…$k$pこの部屋を花で\nいっぱいにしてしまいましたのよ。$k\n$Wsマリアベル|$Wd$w0|$Wmリズ|3$w0|$Wsリズ|$Wa$b向き,リズ,C|$b動作,リズ,WalkTurn|$b注目,プレイヤー女,スミア|$E笑,|$SvpSE_VOICE_LIZ_EVT_15|えへへ。ありがとね、スミアさん。\nお兄ちゃんのこと心配してくれて。$k\n$Wsリズ|$Wd$w0|$Wmスミア|3$w0|$Wsスミア|$Wa$b動作,スミア,SumAc1|$b動作,スミア,SumRe|$SvpSE_VOICE_SMIA_EVT_14|$E笑,|いえ、そんな…$k\n$Wsスミア|$Wd$w0|$Wmヴェイク|3$w0|$b注目,ヴェイク,プレイヤー女|$Wsヴェイク|$Wa$b向き,マリアベル,B|$b動作,マリアベル,WalkTurn|$b注目,マリアベル,プレイヤー女|$b動作,ヴェイク,Ac5|$SvpSE_VOICE_WYCK_EVT_7|$E通常,|ところでよ、この人誰だい？$k\n$Wsヴェイク|$Wd$w0|$Wmリズ|3$w0|$b注目,リズ,プレイヤー女|$Wsリズ|$Wa$b向き,リズ,D|$b動作,リズ,RizAc7|$b動作,リズ,RizRe|$SvpSE_VOICE_LIZ_EVT_21|$E笑,|えへへ…じゃーん！　新しく自警団に入る\n$Nuさんですっ！$k$p$E通常,|えっとね、$Nuさんはスゴいんだよ！\n軍師の才能があるの！$k$p$b動作,リズ,RizAc8|$b動作,リズ,RizRe|$b動作,プレイヤー女,Ge7|$E笑,|こう……きらーんって来て\nばーんみたいな感じ？$k\n$Wsリズ|$Wd$w0|$Wmヴェイク|3$w0|$Wsヴェイク|$Wa$b動作,ヴェイク,Ac7|$SvpSE_VOICE_WYCK_EVT_5|$E笑,|おお、なんかすげーぜ！$k
+MID_002_OP2_02_2_PCM1: $t1$Wmusername|3$w0|$Wsusername|$Wa$b注目,プレイヤー女,マリアベル|$b動作,プレイヤー女,Ge8|$SvpSE_VOICE_PLAYER_M#_EVT_17|$E笑,|$Nuだ！　 よろしく。$k
+MID_002_OP2_02_2_PCM2: $t1$Wmusername|3$w0|$Wsusername|$Wa$b注目,プレイヤー女,マリアベル|$b動作,プレイヤー女,Ge8|$SvpSE_VOICE_PLAYER_M#_EVT_17|$E笑,|$Nuです。 よろしく。$k
+MID_002_OP2_02_2_PCM3: $t1$Wmusername|3$w0|$Wsusername|$Wa$b注目,プレイヤー女,マリアベル|$b動作,プレイヤー女,Ge8|$E笑,|……！$k
+MID_002_OP2_02_2_PCF1: $t1$Wmusername|3$w0|$Wsusername|$Wa$b注目,プレイヤー女,マリアベル|$b動作,プレイヤー女,Ge8|$SvpSE_VOICE_PLAYER_F#_EVT_17|$E笑,|$Nuよ。 よろしくね。$k
+MID_002_OP2_02_2_PCF2: $t1$Wmusername|3$w0|$Wsusername|$Wa$b注目,プレイヤー女,マリアベル|$b動作,プレイヤー女,Ge8|$SvpSE_VOICE_PLAYER_F#_EVT_17|$E笑,|$Nuと申します。\nよろしくお願いします。$k
+MID_002_OP2_02_2_PCF3: $t1$Wmusername|3$w0|$Wsusername|$Wa$b注目,プレイヤー女,マリアベル|$b動作,プレイヤー女,Ge8|$E笑,|……！$k
+MID_002_OP2_02_3: $t1$Wmマリアベル|3$w0|$Wsマリアベル|$Wa$b注目,マリアベル,プレイヤー女|$b注目,リズ,マリアベル|$b動作,マリアベル,MriGe1|$b動作,マリアベル,MriGe2|$SvpSE_VOICE_MARIABELL_EVT_2|$E怒,|…わたくし、庶民の方と\nおつきあいする気はありませんの。$k$p$E苦,汗|リズに馴れ馴れしすぎじゃありませんこと？\n失礼させていただきます！$k
+MID_002_OP2_03: $t1$Wmスミア|3$w0|$b注目,プレイヤー,スミア|$b注目,ヴェイク,スミア|$b向き,スミア,B|$b動作,スミア,Ge2|$Wsスミア|$Wa$SvpSE_VOICE_SMIA_EVT_10|$E通常,|あ、あの…\nあまりお気になさらないで下さいね。$k\n$Wmリズ|3$w0|$Wsリズ|$Wa$b向き,リズ,B|$b動作,リズ,WalkTurn|$b動作,リズ,RizRe|$b注目,プレイヤー,リズ|$b注目,スミア,リズ|$b動作,リズ,RizThank|$b動作,リズ,RizRe|$SvpSE_VOICE_LIZ_EVT_34|$E通常,|ごめんね、$Nuさん。\nマリアベルはちょっと人見知りなの。$k
+MID_002_OP2_スミア_00: $t1$Wmスミア|3$w0|$Wsスミア|$Wa$E笑,|$SvpSE_VOICE_SMIA_EVT_1|$b動作,スミア,SumRe|クロム様！$k
+MID_002_OP2_スミア: $t1$Wmクロム|3$w0|$b動作,クロム,Ge1|$Wsクロム|$Wa$E苦,汗|$SvpSE_VOICE_CHROM_EVT_26|だ、大丈夫かスミア？$k\n$Wmスミア|3$w0|$b動作,スミア,SumAc1|$b動作,スミア,SumRe|$Wsスミア|$Wa$E苦,汗|$SvpSE_VOICE_SMIA_EVT_27|うぅ…すみません。\n私ったらいつもこうで…$k
+MID_002_OP2_04: $t1$Wmクロム|3$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_24|$b動作,クロム,Ge2|$E通常,|みんな聞いてくれ。\n俺はフェリア連合王国に向かうことになった。$k
+MID_002_OP2_04_2_PCM1: $t1$Wmusername|3$w0|$Wsusername|$Wa$b動作,プレイヤー,Ge2|$SvpSE_VOICE_PLAYER_M#_EVT_5|$E通常,|フェリア連合王国？$k
+MID_002_OP2_04_2_PCM2: $t1$Wmusername|3$w0|$Wsusername|$Wa$b動作,プレイヤー,Ge2|$SvpSE_VOICE_PLAYER_M#_EVT_5|$E通常,|フェリア連合王国？$k
+MID_002_OP2_04_2_PCM3: $t1$Wmusername|3$w0|$Wsusername|$Wa$b動作,プレイヤー,Ge2|$E通常,|？$k
+MID_002_OP2_04_2_PCF1: $t1$Wmusername|3$w0|$Wsusername|$Wa$b動作,プレイヤー,Ge2|$SvpSE_VOICE_PLAYER_F#_EVT_5|$E通常,|フェリア連合王国？$k
+MID_002_OP2_04_2_PCF2: $t1$Wmusername|3$w0|$Wsusername|$Wa$b動作,プレイヤー,Ge2|$SvpSE_VOICE_PLAYER_F#_EVT_5|$E通常,|フェリア連合王国、というと…？$k
+MID_002_OP2_04_2_PCF3: $t1$Wmusername|3$w0|$Wsusername|$Wa$b動作,プレイヤー,Ge2|$E通常,|？$k
+MID_002_OP2_04_3: $t1$Wmスミア|3$w0|$Wsスミア|$Wa$b動作,スミア,Ge1|$b注目,プレイヤー,スミア|$b注目,リズ,スミア|$b注目,ヴェイク,スミア|$SvpSE_VOICE_SMIA_EVT_9|$E通常,|イーリス聖王国の北にある\n少し変わった…軍事大国です。$k\n$Wsスミア|$Wd$w0|$Wmクロム|3$w0|$Wsクロム|$Wa$b動作,クロム,Ge2|$b注目,プレイヤー,クロム|$b注目,リズ,クロム|$b注目,ヴェイク,クロム|$b注目,スミア,クロム|$SvpSE_VOICE_CHROM_EVT_7|$E通常,|イーリスだけでは、あの化け物に対処できない。\nだから、フェリアに助力を求めに行く。$k$p本来なら姉さんが行くところだが、\n今、国を離れるわけにはいかない。$k
+MID_002_OP2_05: $t1$Wmクロム|3$w0|$Wsクロム|$Wa$b注目,クロム,ヴェイク|$SvpSE_VOICE_CHROM_EVT_38|$E笑,|この自警団からも\n名乗りを上げた奴を連れていく。$k\n$Wsクロム|$Wd$w0|$Wmリズ|3$w0|$Wsリズ|$Wa$b動作,リズ,RizAc4|$b動作,リズ,RizRe|$SvpSE_VOICE_LIZ_EVT_19|$E笑,|あ、じゃあわたしも行く！$k\n$Wsリズ|$Wd$w0|$Wmヴェイク|3$w0|$b動作,ヴェイク,Ac7|$Wsヴェイク|$Wa$SvpSE_VOICE_WYCK_EVT_17|$E笑,|当然、俺様も行くぜ！\nクロムだけじゃ荷が重いだろうからな！$k\n$Wsヴェイク|$Wd$w0|$Wmカラム|3$w0|$Wsカラム|$Wa$E通常,|僕もがんばろう…$k\n$Wsカラム|$Wd$w0|$Wmスミア|3$w0|$Wsスミア|$Wa$SvpSE_VOICE_SMIA_EVT_10|$E苦,汗|……$k\n$Wsスミア|$Wd$w0|$Wmクロム|3$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_25|$b動作,クロム,Ge1|…スミア、お前も来るか？$k\n$Wsクロム|$Wd$w0|$Wmスミア|3$w0|$Wsスミア|$Wa$b注目,プレイヤー女,スミア|$b注目,リズ,スミア|$b注目,ヴェイク,スミア|$b動作,スミア,SumRe|$SvpSE_VOICE_SMIA_EVT_1|$E苦,汗|！　クロム様…！\nでも、私…まだ自分のペガサスさえ…$k\n$Wsスミア|$Wd$w0|$Wmクロム|3$w0|$Wsクロム|$Wa$b動作,クロム,Ac5|$SvpSE_VOICE_CHROM_EVT_10|見てるだけでも戦いの勉強になる。\n来たければ来るといい。$k\n$Wsクロム|$Wd$w0|$Wmスミア|3$w0|$Wsスミア|$Wa$E通常,|$SvpSE_VOICE_SMIA_EVT_6|$b動作,スミア,Re|いいんですか…？$k\n$Wsスミア|$Wd$w0|$Wmクロム|3$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_7|$b動作,クロム,Ge2|$E笑,|ああ、でもなるべく\n俺の側から離れるなよ。$k\n$Wsクロム|$Wd$w0|$Wmスミア|3$w0|$Wsスミア|$Wa$b動作,スミア,Ge14|$b動作,スミア,SumRe|$SvpSE_VOICE_SMIA_EVT_25|$E笑,|はい…！　約束します！$k\n
+MID_002_OP3: $t1$Wmクロム|3$w0|$Wsクロム|$Wa$b動作,クロム,Ge1|$SvpSE_VOICE_CHROM_EVT_42|$E通常,|全員、集まったな。\nでは、出発するぞ。$k\n$Wsクロム|$Wd$w0|$Wmソール|3$w0|$Wsソール|$Wa$b画面揺れ回数,0.6, 4|$SvpSE_VOICE_SORT_EVT_1|$E苦,汗|ままま、待ってーーー！$k
+MID_002_OP3_02: $t1$Wmクロム|3$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_2|$E通常,|ソール？$k\n$Wsクロム|$Wd$w0|$Wmソール|3$w0|$Wsソール|$Wa$b動作,ソール,Ge2|$SvpSE_VOICE_SORT_EVT_16|$p$E通常,|つ、ついさっき聞いたんだけど、\n今からフェリア連合王国に行くってほんと！？$k\n$Wsソール|$Wd$w0|$Wmリズ|3$w0|$Wsリズ|$Wa$b動作,リズ,ReShock2|$b動作,リズ,RizRe|$b画面揺れ回数,0.6, 2|$SvpSE_VOICE_LIZ_EVT_10|$E苦,汗|ええー！　情報おそっ！\nてっきりソールは来ないんだと思ってたよー。$k$p$b注目,ソール,ヴェイク|$b向き,リズ,D|$b動作,リズ,WalkTurn|$E怒,|ていうか…このことはヴェイクが\n昨日のうちに伝えておくって言ってたよね？$k\n$Wsリズ|$Wd$w0|$Wmヴェイク|3$w0|$b動作,ヴェイク,Ac2|$Wsヴェイク|$Wa$SvpSE_VOICE_WYCK_EVT_13|$E苦,汗|あ…。俺様としたことが忘れてた。$k\n$Wsヴェイク|$Wd$w0|$Wmリズ|3$w0|$Wsリズ|$Wa$b動作,リズ,Ac1|$b動作,リズ,RizRe|$SvpSE_VOICE_LIZ_EVT_11|$p$E怒,|んもーーーー！$k$pもぅ。ヴェイクってば、ほんっと適当！\n今日はこの前みたいに武器忘れてない！？$k\n$Wsリズ|$Wd$w0|$Wmヴェイク|3$w0|$Wsヴェイク|$Wa$b向き,ヴェイク,G|$b動作,ヴェイク,WalkTurn|$SvpSE_VOICE_WYCK_EVT_6|$p$E怒,|うっせー！　今日はちゃんと持ってるよ！$k$p$b注目,ヴェイク,ソール|$E笑,|…まぁでも、こうして間に合ったんだし、\n良かったな！　ソール！$k\n$Wsヴェイク|$Wd$w0|$Wmソール|3$w0|$Wsソール|$Wa$b向き,ソール,D|$b動作,ソール,WalkTurnSh|$b動作,ソール,Ac6|$SvpSE_VOICE_SORT_EVT_8|$E苦,汗|全然良くないよ！急いで準備したから\n髪はボサボサだしお腹はペコペコだよ！$k
+MID_002_OP3_03_PCM1: $t1$Wmusername|3$w0|$Wsusername|$Wa$b向き,プレイヤー,B|$b動作,プレイヤー,WalkTurn|$SvpSE_VOICE_PLAYER_M#_EVT_10|$E通常,|この人も仲間か？$k
+MID_002_OP3_03_PCM2: $t1$Wmusername|3$w0|$Wsusername|$Wa$b向き,プレイヤー,B|$b動作,プレイヤー,WalkTurn|$SvpSE_VOICE_PLAYER_M#_EVT_10|$E通常,|あの、この方は…？$k
+MID_002_OP3_03_PCM3: $t1$Wmusername|3$w0|$Wsusername|$Wa$b向き,プレイヤー,B|$b動作,プレイヤー,WalkTurn|$E通常,|……？$k
+MID_002_OP3_03_PCF1: $t1$Wmusername|3$w0|$Wsusername|$Wa$b向き,プレイヤー,B|$b動作,プレイヤー,WalkTurn|$SvpSE_VOICE_PLAYER_F#_EVT_10|$E通常,|この人も仲間なの？$k
+MID_002_OP3_03_PCF2: $t1$Wmusername|3$w0|$Wsusername|$Wa$b向き,プレイヤー,B|$b動作,プレイヤー,WalkTurn|$SvpSE_VOICE_PLAYER_F#_EVT_10|$E通常,|あの、こちらの方は…？$k
+MID_002_OP3_03_PCF3: $t1$Wmusername|3$w0|$Wsusername|$Wa$b向き,プレイヤー,B|$b動作,プレイヤー,WalkTurn|$E通常,|……？$k
+MID_002_OP3_04: $t1$Wmクロム|3$w0|$Wsクロム|$Wa$b動作,クロム,Ge2|$b注目,クロム,プレイヤー女|$SvpSE_VOICE_CHROM_EVT_7|$E笑,|あぁ、悪かった。こいつはソール。\nこう見えて、頼りになる騎士だ。$k\n$Wsクロム|$Wd$w0|$Wmソール|3$w0|$Wsソール|$Wa$b向き,ソール,E|$b動作,ソール,WalkTurnSh|$b動作,ソール,Ge1|$SvpSE_VOICE_SORT_EVT_17|$E笑,|よろしくね、$Nu。\n君が入団したことは、ミリエルから聞いてるよ。$k$p$E通常,|あ、ちなみにミリエルは\nこの自警団の魔道士なんだ。$k$p彼女も後から合流するって。$k
+MID_002_OP4: $t1$Wmクロム|3$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_4|$E苦,汗|こんなところにも\n屍兵（しかばねへい）が…！？$k
+MID_002_OP4_2_PCM1: $t1$Wmusername|3$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_5|$E通常,|屍兵、って何だ？$k
+MID_002_OP4_2_PCM2: $t1$Wmusername|3$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_5|$E通常,|屍兵？$k
+MID_002_OP4_2_PCM3: $t1$Wmusername|3$w0|$Wsusername|$Wa$E通常,|？$k
+MID_002_OP4_2_PCF1: $t1$Wmusername|3$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_F#_EVT_5|$E通常,|屍兵、って何のこと？$k
+MID_002_OP4_2_PCF2: $t1$Wmusername|3$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_F#_EVT_5|$E通常,|屍兵…？$k
+MID_002_OP4_2_PCF3: $t1$Wmusername|3$w0|$Wsusername|$Wa$E通常,|？$k
+MID_002_OP4_3: $t1$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_6|$E怒,|名前がないと不便ですので、\nあの異形の化け物に名前をつけたものですよ。$k\n$Wsフレデリク|$Wd$w0|$Wmクロム|3$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_34|$E怒,|手強いぞ。\nみんな、気をつけろ。$k\n$Wmヴェイク|7$w0|$Wsヴェイク|$Wa$SvpSE_VOICE_WYCK_EVT_22|$E笑,|おう！　任せとけ！\n俺様の斧の一撃で…って、あれ？$k$p$E苦,汗|お、斧がねえ！\nどっかに落とした！$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_11|$E通常,|何をやってるんだお前は…$k\n$Wsヴェイク|$Wa$SvpSE_VOICE_WYCK_EVT_15|$E苦,汗|ヤバいぜ！\n斧がねえと俺様、戦えねえ！$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_35|$E苦,汗|いいからお前は下がってろ！\n敵が来るぞ！$k\n$Sbs1000|
+MID_002_ED1: $t1$Wmクロム|3$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_11|片づいたな。しかし、\nこんな街道にも奴らが湧くとは…$k\n$Wmフレデリク|7$w0|$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|今後も、このように屍兵と遭遇することが\nありそうですね。用心しましょう。$k
+MID_002_ED2_PCM1: $t1$Wmusername|3$w0|$Wsusername|$Wa$b動作,プレイヤー,Ge2|$SvpSE_VOICE_PLAYER_M#_EVT_13|$E通常,|ん？　あそこに何かいるぞ。$k
+MID_002_ED2_PCM2: $t1$Wmusername|3$w0|$Wsusername|$Wa$b動作,プレイヤー,Ge2|$SvpSE_VOICE_PLAYER_M#_EVT_13|$E通常,|あれ？　あそこに何かいる…$k
+MID_002_ED2_PCM3: $t1$Wmusername|3$w0|$Wsusername|$Wa$b動作,プレイヤー,Ge2|$E通常,|……？$k\n$Wmリズ|3$w0|$Wsリズ|$Wa$b注目,リズ,プレイヤー|$SvpSE_VOICE_LIZ_EVT_9|$E通常,|え？　向こうに何かいるの？$k
+MID_002_ED2_PCF1: $t1$Wmusername|3$w0|$Wsusername|$Wa$b動作,プレイヤー,Ge2|$SvpSE_VOICE_PLAYER_F#_EVT_13|$E通常,|あれ？　あそこになにかいるわ…$k
+MID_002_ED2_PCF2: $t1$Wmusername|3$w0|$Wsusername|$Wa$b動作,プレイヤー,Ge2|$SvpSE_VOICE_PLAYER_F#_EVT_13|$E通常,|あれ？　あそこになにかいます…$k
+MID_002_ED2_PCF3: $t1$Wmusername|3$w0|$Wsusername|$Wa$b動作,プレイヤー,Ge2|$E通常,|……？$k\n$Wmリズ|3$w0|$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_9|$b注目,リズ,プレイヤー|$E通常,|え？　向こうに何かいるの？$k
+MID_002_ED2_2: $t1$Wmリズ|3$w0|$Wsリズ|$Wa$b向き,リズ,E|$b動作,リズ,RizAc12|$b動作,リズ,RizRe|$SvpSE_VOICE_LIZ_EVT_19|$E通常,|あ、ほんとだ。$k
+MID_002_ED2_3: $t1$Wmクロム|3$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_3|$E通常,|ペガサス、か？$k$p怪我してるみたいだな。\nどれ、見せてみろ。$k
+MID_002_ED2_6: $t1$Wmクロム|3$w0|$Wsクロム|$Wa$Wv$b動作,クロム,KroStagger2|$SvpSE_VOICE_CHROM_EVT_36|$E苦,汗|う、おっ！？$k$p$E怒,|くっ…おとなしくしろ…！$k\n$Wsクロム|$Wd$w0|$Wmスミア|3$w0|$Wsスミア|$Wa$Sre70|$SvpSE_VOICE_SMIA_EVT_16|$E通常,|待ってください！$k
+MID_002_ED2_7: $t1$Wmクロム|3$w0|$b向き,プレイヤー女,K|$b動作,プレイヤー女,WalkTurn|$Wsクロム|$Wa$b動作,クロム,Ac5|$SvpSE_VOICE_CHROM_EVT_11|スミア、近づくのは危険だ。\n下がっていろ。$k\n$Wsクロム|$Wd$w0|$Wmスミア|3$w0|$Wsスミア|$Wa$b注目,スミア,クロム|$SvpSE_VOICE_SMIA_EVT_15|$p$E通常,|クロム様、ここは私に…$k$p$E笑,|ほら、怖がらないで。\n私の目を見て…$k
+MID_002_ED2_8: $t0$Wmスミア|0$w0|$Wsスミア|$Wa$E通常,|…………$k
+MID_002_ED2_8_2_PCM1: $t0$Wmusername|0$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_18|$E通常,|おとなしくなったな。$k
+MID_002_ED2_8_2_PCM2: $t0$Wmusername|0$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_18|$E通常,|おとなしくなった…？$k
+MID_002_ED2_8_2_PCM3: $t0$Wmusername|0$w0|$Wsusername|$Wa$E通常,|……$k
+MID_002_ED2_8_2_PCF1: $t0$Wmusername|0$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_F#_EVT_18|$E通常,|おとなしくなったわね。$k
+MID_002_ED2_8_2_PCF2: $t0$Wmusername|0$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_F#_EVT_18|$E通常,|おとなしくなりました…$k
+MID_002_ED2_8_2_PCF3: $t0$Wmusername|0$w0|$Wsusername|$Wa$E通常,|……$k
+MID_002_ED2_8_3: $t0$Wmリズ|0$w0|$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_32|$E笑,|すごーい、スミアさん！\nあんなに暴れてたのに！$k\n$Wsリズ|$Wd$w0|$Wmクロム|0$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_11|$E通常,|驚いたな…\nすごいじゃないか、スミア。$k\n$Wsクロム|$Wd$w0|$Wmスミア|0$w0|$Wsスミア|$Wa$SvpSE_VOICE_SMIA_EVT_22|$E笑,|そんなこと…\n私はただ、必死で…$k\n$Wsスミア|$Wd$w0|$Wmクロム|0$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_8|$E笑,|そうか…スミアの気持ちが\nそいつに届いたんだな。$k
+MID_002_ED2_9: $t0$Wmスミア|0$w0|$Wsスミア|$Wa$SvpSE_VOICE_SMIA_EVT_17|$E通常,|みなさんは先に行ってください。$k$p私はこの子の手当てをしてから\n追いかけますから。$k\n$Wsスミア|$Wd$w0|$Wmクロム|0$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_2|$E通常,|ひとりでだいじょうぶか？\n少しくらい遅れても問題は…$k\n$Wsクロム|$Wd$w0|$Wmスミア|0$w0|$Wsスミア|$Wa$SvpSE_VOICE_SMIA_EVT_14|$E笑,|いえ、だいじょうぶです。$k$p今イーリスは大変なときですから。\n少しでも早く助けを求めてきて下さい。$k\n$Wsスミア|$Wd$w0|$Wmクロム|0$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_21|$E笑,|…ありがとう。\nくれぐれも気をつけて来てくれ。$k\n$Wsクロム|$Wd$w0|$Wmスミア|0$w0|$Wsスミア|$Wa$SvpSE_VOICE_SMIA_EVT_8|$E笑,|はい。$k
+MID_002_EV1: $t1$Wmミリエル|3$w0|$Wsミリエル|$Wa$SvpSE_VOICE_MYRIEL_EVT_16|ふぅ、無事に合流できました。\n戦闘中のようですね…私も加勢しましょう。$k
+MID_002_EV2: $t0$Wmミリエル|0$w0|$Wsミリエル|$Wa$SvpSE_VOICE_MYRIEL_EVT_1|……ん？\n$E通常,|この斧は…落し物でしょうか。$k$p$Eキメ,|まったく、落し物をするなど、\n気持ちがたるんでいる証拠です。$k$p持ち物ひとつ満足に管理できない、\nその神経を疑います。$k$p$E通常,|…とは言え、落し物は落とし主に返すのが\n人としての規律及び道徳。$k$p…万が一、丸腰で戦場に立つような\n大馬鹿者を見つけたら$k$pこの斧を渡して差し上げても\n良いかもしれませんね。$k
+MID_002_EV3: $t0$Wmヴェイク|0$w0|$Wsヴェイク|$Wa$SvpSE_VOICE_WYCK_EVT_11|$E苦,汗|おお！？\n俺様の斧が、ある！？$k\n$Wmミリエル|6$w0|$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_16|私が渡したんですよこの馬鹿者。$k\n$Wsヴェイク|$Wa$SvpSE_VOICE_WYCK_EVT_23|$E笑,|$pおお、そうか！\nありがとよミリエル、助かったぜ！$k\n$Wsミリエル|$Wa$E怒,|$SvpSE_VOICE_MYRIEL_EVT_18|$pまったく…次からは\n名前でも書いておくのですね。$k
+MID_002_BT1: $t0$Wm002_ボス|0$w0|$Ws002_ボス|$Wa$E通常,|オオオオオオ…！$k
+MID_002_BOSS_DIE1: $t0$Wm002_ボス|0$w0|$Ws002_ボス|$Wa$E通常,|ァァァァァァ……$k
+MID_002_TUT_武器の相性: $t0$Wmフレデリク|0$w0|$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_9|$E通常,|武器がない人はともかく…\n武器には各々相性があります。$k$p槍は剣に強い、剣は斧に強い…\nそれらを考えて戦うのが良いでしょうね。$k
+MID_002_TUT_持ち物の落下: $t0$Wmフレデリク|0$w0|$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_6|$E通常,|倒した敵が、何か落としたようですね。\n有効に使わせていただきましょう。$k
+MID_002_TUT_おまかせボタン: $t0$Wmクロム|0$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_38|$E通常,|まだ敵が残っているな。\n$Nu、続けて指示を…$k\n$Wmフレデリク|6$w0|$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_8|クロム様。\nそのことについてですが…$k$p軍師である$Nuさんは、\n休みなく皆に指示を出し続けています。$k$pこれは大変な役目です。\n$Nuさんの負担が心配です。$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_6|$p確かに、そうだな。$k\n$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_9|$pそこで、少しでも$Nuさんの\n負担を軽くする方法として…$k$p時々、仲間たちに\n『おまかせ』してみるのも一手です。$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_3|$p『おまかせ』？$k\n$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|$p$E通常,|はい。大体の指示を与えて、\n後は仲間に勝手に動いてもらいます。$k$p…ただし、『おまかせ』はあくまで\n仲間たちが自由に戦うものです。$k$p『おまかせ』すれば必ず勝てるわけでは\nありませんので、ご注意ください。$k

@@ -1,0 +1,100 @@
+MESS_ARCHIVE_Support_S
+
+
+Message Name: Message
+
+
+MID_支援Ｓ_クロム_01: You are the wind at my back\nand the sword at my side.
+MID_支援Ｓ_クロム_02: Together, my love, we shall build a\npeaceful world. Just you and me.
+MID_支援Ｓ_フレデリク_01: My heart is yours, milady.
+MID_支援Ｓ_フレデリク_02: I vow to defend you as knight and\nhusband, until death should part us.
+MID_支援Ｓ_ソール_01: Milady, I may never take\nmy eyes off you again.
+MID_支援Ｓ_ソール_02: Unless I'm about to run into a wall...
+MID_支援Ｓ_カラム_01: You make me feel like I'm really here.\nL-like I mean something...
+MID_支援Ｓ_カラム_02: I am yours...forever.
+MID_支援Ｓ_リヒト_01: I wish I could throw my arms\naround you and never let go!
+MID_支援Ｓ_リヒト_02: Just...wait for me to get\na little taller. Okay?
+MID_支援Ｓ_ヴェイク_01: This has gotta be the first time I've\never rated someone else first!
+MID_支援Ｓ_ヴェイク_02: Is this...love? The Vaike is stunned!
+MID_支援Ｓ_リベラ_01: I am yours forever, my love.
+MID_支援Ｓ_リベラ_02: May the gods smile upon our union\nand bring us joy in the years to come.
+MID_支援Ｓ_ロンクー_01: I confess... I do have feelings for...
+MID_支援Ｓ_ロンクー_02: Gods, must all these\nemotions be so vexing?!
+MID_支援Ｓ_グレゴ_01: Now you listen! Gregor promise to\nbring his beloved many happiness
+MID_支援Ｓ_グレゴ_02: for as long as they both\nkeep on with the living!
+MID_支援Ｓ_ガイア_01: Baby, you're a river of chocolate\nin an ocean of cream.
+MID_支援Ｓ_ガイア_02: I'm gonna steal your heart on a daily basis.
+MID_支援Ｓ_ヴィオール_01: I love you! No―I am enamoured with you!\nNo―we are soulmates!
+MID_支援Ｓ_ヴィオール_02: Ah! The sultry sonnets we shall spin!
+MID_支援Ｓ_バジーリオ_01: Just think of all the fun times we're\ngonna have! All the battles!
+MID_支援Ｓ_バジーリオ_02: Ha! I'm gonna make you proud.
+MID_支援Ｓ_ヘンリー_01: I'll love you with every ounce\nof my blood until I die.
+MID_支援Ｓ_ヘンリー_02: ...Ooh! When do you think that'll be?
+MID_支援Ｓ_ドニ_01: I love ya. I don't reckon\nI could live without ya!
+MID_支援Ｓ_ドニ_02: Let's you 'n' me settle down on the farm!
+MID_支援Ｓ_スミア_01: 저도 당신이 좋아요.
+MID_支援Ｓ_スミア_02: 절 특별하게 만들어준 당신을…\n누구보다도… 사랑하고 있어요.
+MID_支援Ｓ_リズ_01: 정말 좋아해.\n이 반지를 받아서 너무 기뻐!
+MID_支援Ｓ_リズ_02: 앞으로도 쭈~욱\n사이좋게 지내자.
+MID_支援Ｓ_ソワレ_01: I...I love you, you bastard...\nThere. I said it.
+MID_支援Ｓ_ソワレ_02: Now don't ask me again!
+MID_支援Ｓ_マリアベル_01: My lord, you saw to the\nvery core of my heart.
+MID_支援Ｓ_マリアベル_02: ...And may the gods help\nyou if you break it!
+MID_支援Ｓ_ティアモ_01: 고마워.\n둘이서 행복해지자…
+MID_支援Ｓ_ティアモ_02: 정말 사랑해…\n누구보다도 사랑하고 있어…
+MID_支援Ｓ_ベルベット_01: To think that I might love a human...
+MID_支援Ｓ_ベルベット_02: What a strange world this is.
+MID_支援Ｓ_ノノ_01: Oh, I'm so happy!\nI've always wanted a husband!
+MID_支援Ｓ_ノノ_02: Think of all the wonderful\ncenturies―uh, years―we'll have!
+MID_支援Ｓ_オリヴィエ_01: 저도…
+MID_支援Ｓ_オリヴィエ_02: 당신이 정말 좋아요!\n이… 이런 말은… 당신한테밖에 못 해요!!
+MID_支援Ｓ_セルジュ_01: It's funny. Being close like\nthis just feels...right.
+MID_支援Ｓ_セルジュ_02: It's as if it was always meant to be.
+MID_支援Ｓ_フラヴィア_01: In the name of Regna Ferox, I'll tear the\nwhole world down if you but ask it of me.
+MID_支援Ｓ_フラヴィア_02: That's a khan's promise.
+MID_支援Ｓ_ミリエル_01: What rapture, to have an\nastute significant other
+MID_支援Ｓ_ミリエル_02: with whom to scrutinise this\nworld's illimitable mysteries!
+MID_支援Ｓ_サーリャ_01: I can't believe you made me love you.
+MID_支援Ｓ_サーリャ_02: Course if you back out, I'll\nmurder you in your sleep.
+MID_支援Ｓ_ジェローム_01: From today on we'll hone\nour edges...together.
+MID_支援Ｓ_ジェローム_02: We'll carve a path to happiness\nthrough whatever fate may bring.
+MID_支援Ｓ_ウード_01: You eluded my defences\nand pierced my heart.
+MID_支援Ｓ_ウード_02: It seems I've finally found...my weakness!
+MID_支援Ｓ_アズール_01: I used to say this to all the ladies, but...
+MID_支援Ｓ_アズール_02: you're truly the only one for me!
+MID_支援Ｓ_ブレディ_01: You make me want to be stronger. Better!
+MID_支援Ｓ_ブレディ_02: I swear to become a guy\nworthy of your love!
+MID_支援Ｓ_シャンブレー_01: I love you! Let's repopulate my species!
+MID_支援Ｓ_シャンブレー_02: ...Sorry, was that awkward?
+MID_支援Ｓ_ロラン_01: You've been an object of fascination\nsince I first saw you.
+MID_支援Ｓ_ロラン_02: One I would gladly spend\nmy life investigating.
+MID_支援Ｓ_ルキナ_01: I love you. And no matter\nwhat the future holds,
+MID_支援Ｓ_ルキナ_02: I'm going to cherish every moment.
+MID_支援Ｓ_デジェル_01: With you at my side, I feel as\nstrong as newly-forged steel.
+MID_支援Ｓ_デジェル_02: I...I adore you.
+MID_支援Ｓ_シンシア_01: I love you best of all!
+MID_支援Ｓ_シンシア_02: You're like my own personal hero!
+MID_支援Ｓ_セレナ_01: I...I love you.
+MID_支援Ｓ_セレナ_02: ...HEY! Pay attention for once!\nAnd say something sweet, why don't you?!
+MID_支援Ｓ_ノワール_01: You fill me with a strength\nI never thought to have.
+MID_支援Ｓ_ノワール_02: ...Please, stay with me always.
+MID_支援Ｓ_ンン_01: Look, it's gonna be you.
+MID_支援Ｓ_ンン_02: Better just give up and accept it now.
+MID_支援Ｓ_サイリ_01: 그대와 평생을 함께하겠다는 약속이
+MID_支援Ｓ_サイリ_02: 이렇게까지 행복한 것일 줄이야.
+MID_支援Ｓ_アンナ_01: Keep this up, and someday I may\nlove you more than money!
+MID_支援Ｓ_アンナ_02: ...No, seriously.
+MID_支援Ｓ_ギャンレル_01: How in blazes did you get me to...love you?
+MID_支援Ｓ_ギャンレル_02: If you're trying to make a new\nman of me...it's working.
+MID_支援Ｓ_ヴァルハルト_01: With you at my side, the path to\nglory shall be an easier one.
+MID_支援Ｓ_ヴァルハルト_02: Let us become as gods of\nstrength and happiness!
+MID_支援Ｓ_レンハ_01: I claim to be no master\nin the arts of romance,
+MID_支援Ｓ_レンハ_02: but my love for you shall\nbe challenged by none.
+MID_支援Ｓ_エメリナ_01: Thank you...for this chance...
+MID_支援Ｓ_エメリナ_02: I...love you... You make me...whole again...
+MID_支援Ｓ_チキ_01: 좋아해.\n언젠가 이별하는 날이 와도…
+MID_支援Ｓ_チキ_02: 몇 천 년을 잠든다고 해도…\n계속 기억할 거야.
+MID_支援Ｓ_インバース_01: From now on, I live only for you.
+MID_支援Ｓ_インバース_02: And as you may have noticed,\nI'm the fiercely loyal type.
+MID_支援Ｓ_パリス_01: You give my strength purpose and meaning.
+MID_支援Ｓ_パリス_02: I'll let the world burn before I see you hurt.

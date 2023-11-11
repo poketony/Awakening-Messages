@@ -1,0 +1,74 @@
+MESS_ARCHIVE_通信
+
+
+Message Name: Message
+
+
+MID_LINK_NSD_CONFIRM: 통신 데이터가 손상되었습니다.\n통신 데이터를 지웁니다.
+MID_LINK_EXT_CONFIRM: 추가 데이터가 손상되었습니다.\n추가 데이터를 다시 작성합니다.
+MID_LINK_DLC_CONFIRM: 추가 콘텐츠가 손상되었습니다.\n추가 콘텐츠를 재구축합니다.
+MID_LINK_NSD_RESULT: 통신 데이터가 지워졌습니다.\n어느새 통신을\n다시 등록해 주십시오.
+MID_LINK_EXT_RESULT: 추가 데이터가 작성되었습니다.\n어느새 통신과 추가 콘텐츠를\n다시 등록해 주십시오.
+MID_LINK_DLC_RESULT: 추가 콘텐츠를 재구축했습니다.
+MID_EXT_NOT_FOUND: SD 카드가 없습니다.
+MID_EXT_NOT_MEDIA: SD 카드를 인식하지 못했습니다.
+MID_EXT_NOT_SPACE: SD 카드의 빈 블록이 부족합니다.\n본체 설정의「데이터 관리」에 들어가\nSD 카드의 불필요한 데이터를 삭제해 주십시오.
+MID_EXT_NOT_WRITE: SD 카드가 쓰기 금지 상태입니다.\n전원을 끄고 SD 카드의\n쓰기 금지 스위치를 해제하고\n다시 꽂아 주십시오.
+MID_EXT_NOT_ACCESS: SD 카드를 인식할 수 없습니다.
+MID_EXT_BAD_FORMAT: SD 카드를 인식할 수 없습니다.
+MID_EXT_NOT_EXT: 추가 데이터를 발견하지 못했습니다.
+MID_EXT_READ_ONLY: SD 카드의 데이터 처리에 실패했습니다.\n추가 데이터가 읽기 전용 설정으로\n되어 있을 가능성이 있습니다.
+MID_EXT_ERROR: SD 카드를 인식하지 못했습니다.
+MID_EXT_RESET: 추가 데이터를 재작성하고 있습니다.\nSD 카드나 전원 버튼을\n건드리지 마십시오.
+MID_DLC_READ: 추가 콘텐츠를 읽는 중
+MID_DLC_MOUNT: 추가 콘텐츠 확인 중.\nSD 카드나 전원 버튼을\n건드리지 마십시오.
+MID_DLC_EXTSAVE: SD 카드에\n추가 데이터를 작성했습니다.
+MID_DLC_RESTORE: 추가 콘텐츠 재구축 중.\nSD 카드나 전원 버튼을\n건드리지 마십시오.
+MID_DLC_RESTORE_FAILED: 추가 콘텐츠가 삭제되어 있기 때문에\n재구축에 실패할 가능성이 있습니다.\n추가 콘텐츠를 다시 다운로드해 주십시오.
+MID_DLC_NOT_MEDIA: SD 카드를 인식할 수 없습니다.
+MID_DLC_NOT_ACCESS: SD 카드를 인식할 수 없습니다.
+MID_DLC_NOT_ARCHIVE: SD 카드를 인식할 수 없습니다.
+MID_DLC_BAD_FORMAT: SD 카드를 인식할 수 없습니다.
+MID_DLC_NOT_VERIFY: 추가 콘텐츠가 손상되어 있습니다.\n추가 콘텐츠를 다시 다운로드해 주십시오.
+MID_DLC_ERROR: SD 카드를 인식할 수 없습니다.\n추가 콘텐츠를 다시 다운로드해 주십시오.
+MID_DLC_NOT_CONTENT: 추가 콘텐츠를 발견하지 못했습니다.\n추가 콘텐츠를 다운받아 주십시오.
+MID_DLC_NOT_TITLE: 추가 콘텐츠를 발견하지 못했습니다.\n추가 콘텐츠를 구입하면 이용할 수 있습니다.
+MID_DLC_CHECK: 추가 콘텐츠 체크를 실시하겠습니까?
+MID_CEC_オーバー: 더 이상 본체에 엇갈림 통신을 등록할 수 없습니다.\n본체 설정의 엇갈림 통신 관리에서\n다른 소프트웨어의\n엇갈림 통신을 사용 중지해 주십시오.
+MID_CEC_ビジー: 엇갈림 통신을\n등록할 수 없습니다.\n잠시 후 다시 시도하면\n성공할 가능성이 있습니다.
+MID_CEC_規約確認: 엇갈림 통신을 이용하려면\n최신 이용 약관에 동의할 필요가 있습니다.\n엇갈림 통신을 이용할 경우에는\n본체 설정에서 『인터넷 설정』→\n『기타 정보』→『이용 약관의 확인』을\n선택해 최신 이용 약관에 동의해 주십시오.
+MID_CEC_保護者制限: 다른 유저와의 엇갈림 통신이\n청소년 보호 기능에 의해 제한되어\n엇갈림 통신을 이용할 수 없습니다.
+MID_CEC_登録失敗: 엇갈림 통신의\n등록에 실패했습니다.
+MID_CEC_登録確認: 편성된 팀에게\n엇갈림 통신으로 메시지를 송신하시겠습니까?
+MID_CEC_上書確認: 다른 저장 데이터에서\n엇갈림 통신을 등록하고 있습니다.\n덮어써도 되겠습니까?
+MID_CEC_登録中: 엇갈림 통신 등록 중.\n본체의 전원을 끄지 마십시오.
+MID_CEC_登録完了: 엇갈림 통신 설정을 완료했습니다.\n게임을 종료해도\n엇갈림 통신은 자동으로 연결됩니다.\n엇갈림 통신을 한 상대는\n월드 갱신 시에 나타납니다.
+MID_CEC_更新中: 월드 갱신 중
+MID_BOSS_ENTRY_TASK: 어느새 통신을 이용하여\n알림(광고/선전을 포함)과\n데이터를 수신하겠습니까?
+MID_BOSS_ENTRY_EXT: 어느새 통신을 이용하기 위해\nSD 카드에 추가 데이터를 작성하시겠습니까?
+MID_BOSS_EXTSAVE: SD 카드에\n추가 데이터를 작성했습니다.
+MID_BOSS_CONFIRM_STOP: 어느새 통신이 등록되어 있습니다.\n어느새 통신을 중지하겠습니까?
+MID_BOSS_CONFIRM_TASK: 인터넷에 연결하여\n현재 배포 중인\n데이터를 수신하겠습니까?
+MID_BOSS_EXEC_TASK: 다운로드 중입니다.\nSD 카드나 전원 버튼을\n건드리지 마십시오.
+MID_BOSS_CREATE_TASK: 어느새 통신 등록 중.\nSD 카드나 전원 버튼을\n건드리지 마십시오.
+MID_BOSS_CREATE_EXT: 추가 데이터 작성 중.\nSD 카드나 전원 버튼을\n건드리지 마십시오.
+MID_BOSS_STOP_TASK: 어느새 통신 중지 중.\nSD 카드나 전원 버튼을\n건드리지 마십시오.
+MID_BOSS_MOUNT_TASK: 배포 데이터 확인 중
+MID_BOSS_RESULT_ENTRY: 어느새 통신을 등록했습니다.
+MID_BOSS_RESULT_STOP: 어느새 통신을 중지했습니다.
+MID_BOSS_NOT_EULA: 어느새 통신을 이용하려면\n최신 이용 약관에 동의할 필요가 있습니다.\n어느새 통신을 이용할 경우에는\n본체 설정에서 『인터넷 설정』→\n『기타 정보』→『이용 약관의 확인』을\n선택해 최신 이용 약관에 동의해 주십시오.
+MID_BOSS_NSD_DELETE: 배포 데이터를 삭제하고 있습니다.\nSD 카드나 전원 버튼을\n건드리지 마십시오.
+MID_BOSS_INIT_NOT_MEDIA: SD 카드를 인식할 수 없기 때문에\n어느새 통신을 이용할 수 없습니다.\n어느새 통신을 중지하겠습니까?
+MID_BOSS_INIT_NOT_WRITE: SD 카드가 쓰기 금지 상태이기 때문에\n어느새 통신을 이용할 수 없습니다.\n어느새 통신을 중지하겠습니까?
+MID_BOSS_INIT_NOT_EXT: 추가 데이터를 찾지 못했기 때문에\n어느새 통신을 이용할 수 없습니다.\n어느새 통신을 중지하겠습니까?
+MID_BOSS_NOT_TASK: 데이터를 수신하기 전에\n어느새 통신을\n등록할 필요가 있습니다.
+MID_BOSS_NOT_RECV: 새로운 데이터는\n수신하지 못했습니다.
+MID_BOSS_ERROR_ENTRY: 어느새 통신의 등록에 실패했습니다.
+MID_BOSS_ERROR_STOP: 어느새 통신의 중지에 실패했습니다.
+MID_BOSS_NOT_MEDIA: SD 카드를 인식할 수 없습니다.
+MID_BOSS_NOT_WRITE: SD 카드가 쓰기 금지 상태입니다.\n전원을 끄고 SD 카드의\n쓰기 금지 스위치를 해제하고\n다시 꽂아 주십시오.
+MID_BOSS_NOT_EXT: 추가 데이터를 발견하지 못했습니다.
+MID_BOSS_NOT_STORAGE: 어느새 통신이 등록되어 있지 않습니다.
+MID_BOSS_NOT_DELETE: 배포 데이터 삭제에 실패했습니다.\n어느새 통신을 다시 등록해 주십시오.
+MID_CEC_BOX_NAME: 파이어 엠블렘 각성
+MID_CEC_BOX_INFO: 새로운 엇갈림 통신 팀이 도착했습니다.

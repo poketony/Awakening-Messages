@@ -1,0 +1,9 @@
+MESS_ARCHIVE_000
+
+
+Message Name: Message
+
+
+MCID_E000: 통신 맵
+MID_000_BATTLE: $t0$Wmクロム|0$w0|$Wsクロム|$Wa$E通常,|보스전 회화.$k
+MID_000_DIE: $t0$Wmクロム|0$w0|$Wsクロム|$Wa$E通常,|보스 사망.$k

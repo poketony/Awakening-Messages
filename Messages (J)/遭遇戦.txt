@@ -1,0 +1,13 @@
+MESS_ARCHIVE_遭遇戦
+
+
+Message Name: Message
+
+
+MID_緑商人生存: $t1$Wmクロム|3$Wmフレデリク|7$w0|$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_8|クロム様、先ほど助けた旅商人から\nお礼の品を預かりました。$k$pこれからの戦いに\n使わせていただきましょう。$k
+MID_緑商人死亡: $t1$Wmクロム|3$Wmフレデリク|7$w0|$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_8|クロム様…先ほどの旅商人は\n助けられませんでした…$k$p残念ですが…\n先を急ぎましょう。$k
+MID_緑リーダー生存: $t1$Wmクロム|3$Wmフレデリク|7$w0|$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_8|クロム様、先ほど共に戦った者たちは\n無事のようです。$k$pせっかくですから、交渉してみるのも\n良いかもしれませんね。$k
+MID_緑リーダー死亡: $t1$Wmクロム|3$Wmフレデリク|7$w0|$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_8|クロム様…先ほど共に戦った者たちは\nどこかへ去ったようです…$k$p残念ですが…\n先を急ぎましょう。$k
+MID_緑リーダー撃破: $t1$Wmクロム|3$Wmフレデリク|7$w0|$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_8|クロム様、お見事です。\n敵軍を撃破しました。$k$p彼らのリーダーはクロム様の力を認め、\n仲間になることを希望しています。$k
+MID_両赤軍全滅: $t1$Wmクロム|3$Wmフレデリク|7$w0|$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_8|クロム様、この地の村人たちから\n屍兵討伐の謝礼を預かりました。$k$pこれからの戦いに\n使わせていただきましょう。$k
+MID_赤軍全滅: $t1$Wmクロム|3$Wmフレデリク|7$w0|$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_8|クロム様、屍兵は討伐しました。\nこれでしばらくは安全でしょう。$k

@@ -1,0 +1,13 @@
+MESS_ARCHIVE_Backup
+
+
+Message Name: Message
+
+//이 파일은 반드시 LZ11 압축할 것(지울 거면 이 행만 지우셈, 별다른 행 추가 안 했음)
+MID_BACKUP_NOT_FOUND: 저장 데이터의 액세스에 실패했습니다.\n전원을 끄고 게임 카드를 다시 꽂아 주십시오.
+MID_BACKUP_NOT_FORMATTED: 게임을 시작할 준비를 합니다.
+MID_BACKUP_VERIFICATION_FAILED: 저장 데이터 파손이 확인되었습니다.\n손상된 저장 데이터를 삭제하고\n게임을 시작합니다.
+MID_BACKUP_NOT_ENOUGH_SPACE: 저장 데이터의 빈 용량이 부족합니다.
+MID_BACKUP_FORMAT: 게임을 시작할 준비를 하고 있습니다.\n전원을 끄거나\n게임 카드를 뽑지 말아 주십시오.
+MID_BACKUP_VERIFICATION_FAILED_FILE: 손상된 저장 데이터를 삭제하고 있습니다.\n전원을 끄거나\n게임 카드를 뽑지 말아 주십시오.
+MID_BACKUP_FORMAT_COMPLETE: 게임을 시작할 준비가\n완료되었습니다.

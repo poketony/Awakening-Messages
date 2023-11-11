@@ -1,0 +1,8 @@
+MESS_ARCHIVE_様子_プレイヤー援軍3
+
+
+Message Name: Message
+
+
+MID_様子_プレイヤー援軍_前: ……！！　……？
+MID_様子_プレイヤー援軍_後: ……。　……♪

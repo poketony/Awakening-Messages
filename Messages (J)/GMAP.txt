@@ -1,0 +1,20 @@
+MESS_ARCHIVE_GMAP
+
+
+Message Name: Message
+
+
+MID_GMAP_章確認: この章に入りますか？
+MID_GMAP_遭遇戦確認: この敵と戦闘を行いますか？
+MID_GMAP_店確認: ここで売買を行いますか？
+MID_GMAP_交渉確認: この部隊と交渉を行いますか？
+MID_GMAP_課金確認: 異界の門に入りますか？
+MID_GMAP_SCENARIO: 入る
+MID_GMAP_ENCOUNT: 戦闘
+MID_GMAP_SHOP: 売買
+MID_GMAP_CONTACT: 交渉
+MID_GMAP_ACCOUNT: 異界
+MID_GMAP_VIEW: 見渡す
+MID_GMAP_SORTIE: 編成
+MID_GMAP_自動移動: 次の目的地に移動
+MID_GMAP_移動中: 自動移動中

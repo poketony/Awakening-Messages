@@ -1,0 +1,254 @@
+MESS_ARCHIVE_E015
+
+
+Message Name: Message
+
+
+MCID_E000: Rogues & Redeemers 3
+MID_E000_OP0: $t1$Wm占い|7$Wmクロム|3$w0|$Ws占い|$Wa$E笑,|$SvjSE_VOICE_SERVANTES_EVT_6|$SveSE_VOICE_VIRREGER4_EVT_4|Ho ho! You've returned!\nAnd none too soon! The―$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_2|Let me guess: More Einherjar\nfor us to battle?$k\n$Ws占い|$Wa$E通常,|$SvpSE_VOICE_SERVANTES_EVT_3|Yes, but not just any Einherjar―all the\nfoes you've beaten in this Outrealm.$k$pThey're all in one place now! Beat them\nagain, and I'll seal them back in their cards!$k\n$Wsクロム|$Wa$E怒,|$SvpSE_VOICE_CHROM_EVT_34|I suppose that means none of them\nwill be fighting on our side this time?$k\n$Ws占い|$Wa$SvpSE_VOICE_VIRREGER4_EVT_7|I'm afraid not. ...But it's so much\nmore romantic this way, isn't it?$k$p$E怒,|A ragtag group of misfits, outnumbered\nand facing history's greatest legends...$k$pOdds stacked against them with no hope of\nvictory in a grueling fight to the death...$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_7|"Romantic" is not the word\nI would choose...$k
+MID_E000_OP1: $t0$Wm配信エルトシャン|0$w0|$Ws配信エルトシャン|$WaIs it true? Eldritch forces in the castle\nruins? And they're heavily armed?$k\n$Wm配信プラハ|6$w0|$Ws配信プラハ|$WaYes. We've already surrounded\nthem with our combined forces.$k\n$Ws配信エルトシャン|$Wa$pShould we not first establish\nwhether or not they mean us harm?$k\n$Ws配信プラハ|$Wa$pNone of us invited them here...\nDid you?$k\n$Ws配信エルトシャン|$Wa$pNo... I suppose that is cause\nenough to brand them enemies.$k\n$Ws配信プラハ|$Wa$pBetter to strike first and ask questions\nlater. A mouse in a bag can still bite.$k$pAlthough I hope we've caught\nsomething more interesting than that...$k
+MID_E000_OP2_PCM1: $t0$Wmクロム|0$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_12|We're completely surrounded.\nEnemies in every direction...$k\n$Wmusername|6$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_15|Strong ones, too,\nand plenty of them.$k\n$Wsクロム|$Wa$p$E怒,|$SvpSE_VOICE_CHROM_EVT_6|Nothing for it but to\nfight our way out...$k$pAll units: prepare yourselves!\nToday we make some new legends!$k
+MID_E000_OP2_PCM2: $t0$Wmクロム|0$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_12|周囲はすべて敵か…$k\n$Wmusername|6$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_15|ああ。ざっと見ただけでも\n相当の戦力だね。$k\n$Wsクロム|$Wa$p$E怒,|$SvpSE_VOICE_CHROM_EVT_6|そうだな。\nでも、やるしかない。$k$p俺たちの力を\n見せつけてやるさ！$k
+MID_E000_OP2_PCM3: $t0$Wmクロム|0$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_12|周囲はすべて敵か…$k\n$Wmusername|6$w0|$Wsusername|$Wa$E苦,汗|……！！$k\n$Wsクロム|$Wa$p$E怒,|$SvpSE_VOICE_CHROM_EVT_6|そうだな…ざっと見ただけでも\n相当な戦力だ。$k$pでも、やるしかない。\n俺たちの力を見せつけてやるさ！$k
+MID_E000_OP2_PCF1: $t0$Wmクロム|0$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_12|We're completely surrounded.\nEnemies in every direction...$k\n$Wmusername|6$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_F#_EVT_15|Strong ones, too,\nand plenty of them.$k\n$Wsクロム|$Wa$p$E怒,|$SvpSE_VOICE_CHROM_EVT_6|Nothing for it but to\nfight our way out...$k$pAll units: prepare yourselves!\nToday we make some new legends!$k
+MID_E000_OP2_PCF2: $t0$Wmクロム|0$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_12|周囲はすべて敵か…$k\n$Wmusername|6$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_F#_EVT_15|はい。ざっと見ただけでも\n相当の戦力ですね。$k\n$Wsクロム|$Wa$p$E怒,|$SvpSE_VOICE_CHROM_EVT_6|そうだな。\nでも、やるしかない。$k$p俺たちの力を\n見せつけてやるさ！$k
+MID_E000_OP2_PCF3: $t0$Wmクロム|0$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_12|周囲はすべて敵か…$k\n$Wmusername|6$w0|$Wsusername|$Wa$E苦,汗|……！！$k\n$Wsクロム|$Wa$p$E怒,|$SvpSE_VOICE_CHROM_EVT_6|そうだな…ざっと見ただけでも\n相当な戦力だ。$k$pでも、やるしかない。\n俺たちの力を見せつけてやるさ！$k
+MID_E000_ED1_PCM1: $t0$Wmクロム|0$w0|$Wsクロム|$Wa$E怒,|$SvpSE_VOICE_CHROM_EVT_39|Did we... Did we get them all?$k\n$Wmusername|6$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_34|I believe so.\nListen... It's finally quiet...$k$pGood gods, that was brutal!$k\n$Wsクロム|$Wa$p$E通常,|$SvpSE_VOICE_CHROM_EVT_7|Indeed. A truly epic battle\nby any measure...$k$pIt's a testament to our troops and your\ntactics that we managed to prevail.$k
+MID_E000_ED1_PCM2: $t0$Wmクロム|0$w0|$Wsクロム|$Wa$E怒,|$SvpSE_VOICE_CHROM_EVT_39|敵はこれで全て…か？$k\n$Wmusername|6$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_34|そうみたいだね。\n今回は本当に手強かったよ。$k\n$Wsクロム|$Wa$p$E通常,|$SvpSE_VOICE_CHROM_EVT_7|ああ。\nこれほど激しい戦いは初めてだ。$k$pだが、なんにせよ勝ててよかった。$k
+MID_E000_ED1_PCM3: $t0$Wmクロム|0$w0|$Wsクロム|$Wa$E怒,|$SvpSE_VOICE_CHROM_EVT_39|敵はこれで全て…か？$k\n$Wmusername|6$w0|$Wsusername|$Wa$E笑,|……！！$k$p$E通常,|………？$k\n$Wsクロム|$Wa$p$E通常,|$SvpSE_VOICE_CHROM_EVT_7|ああ、本当に手強かったな。\nこれほど激しい戦いは初めてだ。$k$pだが、なんにせよ勝ててよかった。$k
+MID_E000_ED1_PCF1: $t0$Wmクロム|0$w0|$Wsクロム|$Wa$E怒,|$SvpSE_VOICE_CHROM_EVT_39|Did we... Did we get them all?$k\n$Wmusername|6$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_F#_EVT_34|I believe so.\nListen... It's finally quiet...$k$pGood gods, that was brutal!$k\n$Wsクロム|$Wa$p$E通常,|$SvpSE_VOICE_CHROM_EVT_7|Indeed. A truly epic battle\nby any measure...$k$pIt's a testament to our troops and your\ntactics that we managed to prevail.$k
+MID_E000_ED1_PCF2: $t0$Wmクロム|0$w0|$Wsクロム|$Wa$E怒,|$SvpSE_VOICE_CHROM_EVT_39|敵はこれで全て…か？$k\n$Wmusername|6$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_F#_EVT_34|そうみたいです。\n今回は本当に手強かったですね。$k\n$Wsクロム|$Wa$p$E通常,|$SvpSE_VOICE_CHROM_EVT_7|ああ。\nこれほど激しい戦いは初めてだ。$k$pだが、なんにせよ勝ててよかった。$k
+MID_E000_ED1_PCF3: $t0$Wmクロム|0$w0|$Wsクロム|$Wa$E怒,|$SvpSE_VOICE_CHROM_EVT_39|敵はこれで全て…か？$k\n$Wmusername|6$w0|$Wsusername|$Wa$E笑,|……！！$k$p$E通常,|………？$k\n$Wsクロム|$Wa$p$E通常,|$SvpSE_VOICE_CHROM_EVT_7|ああ、本当に手強かったな。\nこれほど激しい戦いは初めてだ。$k$pだが、なんにせよ勝ててよかった。$k
+MID_E000_ED1_2: $t0$Wmクロム|0$w0|$Wsクロム|$Wa$E怒,|$SvpSE_VOICE_CHROM_EVT_39|Did we... Did we get them all?$k\n$Wmusername|6$w0|$Wsusername|$Wa$E笑,|...!$k$p$E通常,|...?$k\n$Wsクロム|$Wa$p$E通常,|$SvpSE_VOICE_CHROM_EVT_7|Indeed. A truly epic battle\nby any measure.$k\n$Wsusername|$Wa$p$E笑,|...!$k\n$Wsクロム|$Wa$p$SvpSE_VOICE_CHROM_EVT_11|I pray we never have to face so\npowerful an army ever again...$k$p$E怒,|But the Einherjar cards cannot be\nallowed to run amok...$k$pEspecially if defeating them improves\nour odds back home.$k\n$Wsusername|$Wa$p$E怒,|......$k
+MID_E000_ED2_PCM1: $t0$Wmusername|6$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_2|Chrom, we found\nthis in the ruins.$k\n$Wmクロム|0$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_3|Another Einherjar card?$k\n$Wsusername|$Wa$p$SvpSE_VOICE_PLAYER_M#_EVT_10|Looks like it. This one says:\n"Ike, the Radiant Hero."$k\n$Wsクロム|$Wa$p$E怒,|$SvpSE_VOICE_CHROM_EVT_12|Interesting... The hero who wielded\nAether in the legends of Tellius.$k$pShall we hear him out?$k
+MID_E000_ED2_PCM2: $t0$Wmusername|6$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_2|クロム、さっき兵士が\n廃城の中でこれを見つけたって…$k\n$Wmクロム|0$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_3|なに？\nまた魔符か？$k\n$Wsusername|$Wa$p$SvpSE_VOICE_PLAYER_M#_EVT_10|えっと…どうやらそうらしいね。\n【蒼炎の勇者アイク】とあるよ。$k\n$Wsクロム|$Wa$p$E怒,|$SvpSE_VOICE_CHROM_EVT_12|ほう…アイクといえば、テリウス伝承に\n出てくる天空をあやつる英雄だな。$k$pさて、どうしようか…$k
+MID_E000_ED2_PCM3: $t0$Wmusername|6$w0|$Wsusername|$Wa……！！！$k\n$Wmクロム|0$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_3|なに？　廃城の中から発見した？\nまた魔符か？$k\n$Wsusername|$Wa$p$E笑,|……！！$k\n$Wsクロム|$Wa$p$E怒,|$SvpSE_VOICE_CHROM_EVT_12|ほう…【蒼炎の勇者アイク】か。$k$pアイクといえば、テリウス伝承に\n出てくる天空をあやつる英雄だな。$k$pさて、どうしようか…$k
+MID_E000_ED2_PCF1: $t0$Wmusername|6$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_F#_EVT_2|Chrom, we found\nthis in the ruins.$k\n$Wmクロム|0$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_3|Another Einherjar card?$k\n$Wsusername|$Wa$p$SvpSE_VOICE_PLAYER_F#_EVT_10|Looks like it. This one says:\n"Ike, the Radiant Hero."$k\n$Wsクロム|$Wa$p$E怒,|$SvpSE_VOICE_CHROM_EVT_12|Interesting... The hero who wielded\nAether in the legends of Tellius.$k$pShall we hear him out?$k
+MID_E000_ED2_PCF2: $t0$Wmusername|6$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_F#_EVT_2|クロムさん、さっき兵士が\n廃城の中でこれを見つけたと…$k\n$Wmクロム|0$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_3|なに？\nまた魔符か？$k\n$Wsusername|$Wa$p$SvpSE_VOICE_PLAYER_F#_EVT_10|えっと…どうやらそうらしいですね。\n【蒼炎の勇者アイク】とあります。$k\n$Wsクロム|$Wa$p$E怒,|$SvpSE_VOICE_CHROM_EVT_12|ほう…アイクといえば、テリウス伝承に\n出てくる天空をあやつる英雄だな。$k$pさて、どうしようか…$k
+MID_E000_ED2_PCF3: $t0$Wmusername|6$w0|$Wsusername|$Wa……！！！$k\n$Wmクロム|0$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_3|なに？　廃城の中から発見した？\nまた魔符か？$k\n$Wsusername|$Wa$p$E笑,|……！！$k\n$Wsクロム|$Wa$p$E怒,|$SvpSE_VOICE_CHROM_EVT_12|ほう…【蒼炎の勇者アイク】か。$k$pアイクといえば、テリウス伝承に\n出てくる天空をあやつる英雄だな。$k$pさて、どうしようか…$k
+MID_E000_ED2_2: $t1$Wm予約15|3$w0|$Ws予約15|$WaThat was impressive. I've never fought\nanyone half as strong as you.$k$pAnd believe me, I've crossed paths\nwith my share of armies...$k$pThe name's Ike. Ever heard of me?$k
+MID_E000_ED2_2YN: Have you heard of Ike?
+MID_E000_ED2_2Y: $t1$Wm予約15|3$w0|$Ws予約15|$WaWell, that saves me some explaining.\nI'm not good with introductions anyway.$k
+MID_E000_ED2_2N: $t1$Wm予約15|3$w0|$Ws予約15|$WaAll right, then let me tell you a little\nabout myself.$k$pWell...more like one thing about myself.\nI fight for the Greil Mercenaries.$k$p...Sorry, I'm not very good with\nintroductions.$k
+MID_E000_ED2_3: $t1$Wm予約15|3$w0|$Ws予約15|$WaThe army I was just fighting alongside was\nfull of kings and lords from all over...$k$pI didn't ask for their personal histories,\nbut they were tough.$k$pI could feel it in my bones.$k$pSo, needless to say, I'm surprised\nto have met someone even tougher.$k$pThat wasn't dumb luck, either. You'd have\nbeaten us thirteen times out of a dozen.$k$pHow did you get so strong?$k$pIs it because all your units are skilled?$k$pDoes your strategy make them more\nthan the sum of their parts?$k$pOr, is there some other unseen\nconnection between you all?$k
+MID_E000_ED2_3YN: Does your power come from unseen bonds?
+MID_E000_ED2_3Y: $t1$Wm予約15|3$w0|$Ws予約15|$WaImpressive indeed.$k$pBattle shows who people really are.\nI felt it out there with you.$k$pYour army moved as one. That takes\ntrust, and time, and effort.$k$pYou won because you were there\nfor each other.$k$pThat puts you right up there with Marth,\na man I met here.$k$pOf course, simply finding the strongest\nfighters will still yield a strong army.$k$pThere's no one right answer...but you've\ndefinitely sold me on your method.$k$pSo, are you going back to your\nworld now?$k$pIf you want, I could go with you.\nI am a mercenary, after all.$k$pThis one's free of charge. What you\ntaught me is payment enough!$k
+MID_E000_ED2_4Y: 
+MID_E000_ED2_3N: $t1$Wm予約15|3$w0|$Ws予約15|$WaHmm... Not the answer I expected.\nBut I guess it's a matter of pride, right?$k$pIt takes a lot of work to train strong\nwarriors.$k$pEven more to teach them to move\nas one...$k$pWhy chalk up winning tactics to some\nunseen force? That's your hard work.$k$pTo be honest, that's sort of how I do\nthings, too.$k$pOne thing I realized quick after coming here\nand meeting all these high-and-mighties...$k$pI am not a born leader.$k$pSure, I've led mercenaries. I've even been\ngeneral of an army...but never for long.$k$pI can't explain it. I like my comrades,\nand I've seen the value of teamwork.$k$pIt just never gets...warm and fuzzy.$k$pI end up drifting elsewhere as soon\nas the fighting's done.$k$pI guess it's just in my nature.$k
+MID_E000_ED2_4N: $t1$Wm予約15|3$w0|$Ws予約15|$Wa...Funny, I never talk this much.\nWhat's gotten into me?$k$pIt must have been that fight―\ngoing up against your team.$k$pI feel like we've all known each\nother forever now.$k$pYou know, like you and I are on\nthe same trajectory.$k$pMaybe we should stick together.$k$pI'd like to fight with you again―\nthis time, as an ally.$k
+MID_E000_ED3: $t1$Wm占い|7$Wmクロム|3$w0|$Ws占い|$Wa$E笑,|$SvpSE_VOICE_VIRREGER4_EVT_1|You did it? You actually did it!?\n...Er, that is, I knew you would do it!$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_2|Hubba...? What are you doing here?$k\n$Ws占い|$Wa$E通常,|$SvpSE_VOICE_VIRREGER4_EVT_7|Waiting for you, of course! I knew you\nwould win, and I knew you would come!$k\n$Wsクロム|$Wa$E怒,|$SvpSE_VOICE_CHROM_EVT_3|You didn't sound so certain\na moment ago...$k\n$Ws占い|$Wa$E笑,|$SvpSE_VOICE_SERVANTES_EVT_3|Oh, these weak, bony old hands could have\nnever rounded up all those cards alone.$k$pBut you did it! You're heroes!\nThe Outrealms owe you all a great debt!$k\n$Wsクロム|$Wa$E笑,|$SvpSE_VOICE_CHROM_EVT_12|...Then we're truly done here?\nAll the Einherjar are captured?$k\n$Ws占い|$Wa$E通常,|$SvpSE_VOICE_VIRREGER4_EVT_4|Indeed! No more nostalgic banter battles\nand inter-era cross-generational headaches!$k$pEvery last Einherjar is back, sealed safe\nand sound in their little cards.$k\n$Wsクロム|$Wa$E通常,|$SvpSE_VOICE_CHROM_EVT_11|Strange... Suddenly I almost\nfeel sorry for them.$k\n$Ws占い|$Wa$E怒,|$SvjSE_VOICE_SERVANTES_EVT_3|$SveSE_VOICE_VIRREGER4_EVT_1_ALT|Er, sometimes Old Hubba's hearing\nisn't so great...$k$pDid you just say you felt sorry\nfor those rogue Einherjar?$k\n$Wsクロム|$Wa$E怒,|$SvjSE_VOICE_CHROM_EVT_10|$SveSE_VOICE_CHROM_EVT_31|They didn't seem like phantoms...\nThey seemed like real people.$k\n$Ws占い|$Wa$E通常,|$SvjSE_VOICE_VIRREGER4_EVT_7|$SveSE_VOICE_SERVANTES_EVT_3|Ah... Well yes, they can seem that way.\nBut I assure you, they are just reflections.$k\n$Wsクロム|$Wa$E通常,|$SvpSE_VOICE_CHROM_EVT_6|Mmm... That's a good word for them.\n"Reflections"...$k$p$E怒,|As we fought, and spoke, it often felt like\nthey were reflecting on their lives...$k$pRehearsing some brief moment from\ntheir past they needed us to see...$k\n$Ws占い|$Wa$E笑,|$SvjSE_VOICE_SERVANTES_EVT_6|$SveSE_VOICE_VIRREGER4_EVT_7|Sounds as though you learned some\nthings on the road to victory...$k$pYou honor the memory of those they once\nwere. I'll be sure the Einherjar know that.$k\n$Wsクロム|$Wa$E笑,|$SvpSE_VOICE_CHROM_EVT_7|Thank you.$k$pThen we will head back to our world.\nWhere will you go, Hubba?$k\n$Ws占い|$Wa$E苦,|$SvpSE_VOICE_VIRREGER4_EVT_4|Nowhere. The Outrealms\nare my home, after all.$k\n$Wsクロム|$Wa$E怒,|$SvpSE_VOICE_CHROM_EVT_34|You'll remain here all alone?$k\n$Ws占い|$Wa$E通常,|$SvpSE_VOICE_SERVANTES_EVT_3|Oh, I've been doing it for years!\nCenturies! Eons!$k$pMaybe even decades. I lost count.$k$pTruth is, I used to live in your world...$k$pBut after my sweet Bea passed, the\nOutrealms just felt like a better fit.$k$pBesides, from what you showed me here, it\nseems like the old place is in good hands.$k\n$Wsクロム|$Wa$E通常,|$SvpSE_VOICE_CHROM_EVT_8|Then I suppose this is\ngood-bye, old-timer.$k$pGods help me, I think\nI might even miss you...$k\n$Ws占い|$Wa$E笑,|$SvpSE_VOICE_VIRREGER4_EVT_7|Well now, don't be so sure this is the\nlast you'll ever see of Old Hubba!$k$pYou never know what the future holds...$k$pEr, YOU never do, but Old Hubba does!\nHah ha! Propheseed it ages ago!$k$p...Phophesaw? ...Had prophesiz―$k\n$Wsクロム|$Wa$E笑,|$SvpSE_VOICE_CHROM_EVT_21|Good-bye, Hubba.$k
+MID_E000_EV_YN: Recruit Ike?
+MID_E000_BT_配信マルス王子_クロム: $t0$Wmクロム|6$w0|$Wsクロム|$Wa$E怒,|$SvpSE_VOICE_CHROM_EVT_38|You're formidable opponents,\nall of you.$k\n$Wm配信マルス王子|0$w0|$Ws配信マルス王子|$WaAs are you. So why not spare us this\nviolence and return to your world?$k\n$Wsクロム|$Wa$p$SvpSE_VOICE_CHROM_EVT_10|Sorry, but that cannot happen until\nwe've defeated every last one of you.$k
+MID_E000_BT_配信アルム_レンハ: $t0$Wmレンハ|6$w0|$Wsレンハ|$Wa$SvpSE_VOICE_LENHA_EVT_20|Yield, sir.$k\n$Wm配信アルム|0$w0|$Ws配信アルム|$WaYou'll have to kill me first.\nThis is our land, not yours!$k\n$Wsレンハ|$Wa$p$Eキメ,|$SvpSE_VOICE_LENHA_EVT_13|Then let us see if your heart of fire\ncan prevail over my heart of stone.$k
+MID_E000_BT_配信シグルド_フラヴィア: $t0$Wmフラヴィア|6$w0|$Wsフラヴィア|$Wa$E笑,|$SvpSE_VOICE_FLAVIA_EVT_11|Huh? You want to take me on?$k\n$Wm配信シグルド|0$w0|$Ws配信シグルド|$WaI know a seasoned warrior when\nI see one.$k$pYou may even be a match for me...$k\n$Wsフラヴィア|$Wa$p$SvpSE_VOICE_FLAVIA_EVT_4|Ha! You do know how to\ncompliment a lady!$k
+MID_E000_BT_配信セリス_ガイア: $t0$Wm配信セリス|0$w0|$Ws配信セリス|$WaWill nothing convince you to\nleave our world?$k\n$Wmガイア|6$w0|$Wsガイア|$Wa$Eキメ,|$SvpSE_VOICE_GUIRE_EVT_5|That depends. How well can\nyou play dead?$k\n$Ws配信セリス|$Wa$pAlas, not my strong suit.$k
+MID_E000_BT_配信リーフ_ティアモ: $t0$Wm配信リーフ|0$w0|$Ws配信リーフ|$WaI've already lost one kingdom.\nI refuse to lose another!$k\n$Wmティアモ|6$w0|$Wsティアモ|$Wa$E苦,汗|$SvpSE_VOICE_TIAMO_EVT_15|I know all too well how it feels\nto lose all that you love.$k$p$E怒,|Let us see which of us has\nlearned more from our grief!$k
+MID_E000_BT_配信ロイ_グレゴ: $t0$Wm配信ロイ|0$w0|$Ws配信ロイ|$WaThis is our realm. I won't let you\njust do as you please with it!$k\n$Wmグレゴ|6$w0|$Wsグレゴ|$Wa$Eキメ,|$SvpSE_VOICE_GREGO_EVT_8|Oy! Why so tense? Stress make it hard\nto achieve peak battle performance!$k
+MID_E000_BT_配信エリウッド_ヴィオール: $t0$Wmヴィオール|6$w0|$Wsヴィオール|$Wa$E笑,|$SvpSE_VOICE_VIAUR_EVT_7|You dare challenge me? I only do\nbattle with the most upper of crusts.$k\n$Wm配信エリウッド|0$w0|$Ws配信エリウッド|$WaI see. Would the son of the marquess\nof Pherae fall below your standard?$k\n$Wsヴィオール|$Wa$p$E苦,汗|$SvpSE_VOICE_VIAUR_EVT_20|The what!?$k$p...Sweet gods, is everyone\nhere more noble than I?$k
+MID_E000_BT_配信エフラム_ヴェイク: $t0$Wm配信エフラム|0$w0|$Ws配信エフラム|$WaDo yourself a favor and\nreturn to your own world!$k\n$Wmヴェイク|6$w0|$Wsヴェイク|$Wa$Eキメ,|$SvpSE_VOICE_WYCK_EVT_1|Sorry. No can do.$k$pTeach has a got a quota,\nand you're his next pupil.$k
+MID_E000_BT_予約アイク_パリス: $t0$Wm予約15|0$w0|$Ws予約15|$WaDoubts or no doubts, if you stand\nagainst me, I will show no mercy.$k\n$Wmパリス|6$w0|$Wsパリス|$Wa$E笑,|$SvpSE_VOICE_PARIS_EVT_14|Fine by me. The way you look, the\nway you move―it's all perfect.$k$p$E怒,|You're just the kind of legend\nI'm fighting to become!$k
+MID_E000_BT_配信サザ_オリヴィエ: $t0$Wmオリヴィエ|6$w0|$Wsオリヴィエ|$Wa$SvpSE_VOICE_OLIVIE_EVT_2|Um...I challenge you...$k\n$Wm配信サザ|0$w0|$Ws配信サザ|$Wa"Um"? You don't sound too\nkeen on the idea.$k\n$Wsオリヴィエ|$Wa$p$E苦,照汗|$SvpSE_VOICE_OLIVIE_EVT_18|Ah! Get back! Like, fifty paces.\nPlease... I'm shy.$k\n$Ws配信サザ|$Wa$pThen how do you expect us\nto fight!?$k
+MID_E000_BT_配信シーダ_インバース: $t0$Wm配信シーダ|0$w0|$Ws配信シーダ|$WaStay away! I have no business\nwith a witch like you!$k\n$Wmインバース|6$w0|$Wsインバース|$Wa$Eキメ,|$SvpSE_VOICE_INVERSE_EVT_3|Hmm, you're just not using your\nimagination. Here, I'll show you...$k\n$Ws配信シーダ|$Wa$pStay back, beast!$k
+MID_E000_BT_配信セリカ_デジェル: $t0$Wm配信セリカ|0$w0|$Ws配信セリカ|$WaFight me, milady!$k$pAnd if I win, promise you will\nleave this world forever!$k\n$Wmデジェル|6$w0|$Wsデジェル|$Wa$SvpSE_VOICE_DEGEL_EVT_5|Whether I leave or not is not\nfor me to decide.$k$p$E怒,|But I gladly accept your\nchallenge! En garde!$k
+MID_E000_BT_配信ディアドラ_セレナ: $t0$Wm配信ディアドラ|0$w0|$Ws配信ディアドラ|$WaThis is not your world to conquer!\nGo back whence you came!$k\n$Wmセレナ|6$w0|$Wsセレナ|$Wa$SvpSE_VOICE_SERENA_EVT_6|Like I even care whose land this is!\nLook, it's simple...$k$p$E怒,|We're not going anywhere until\nwe defeat you! Got it?$k
+MID_E000_BT_配信ユリア_スミア: $t0$Wmスミア|6$w0|$Wsスミア|$Wa$E怒,|$SvpSE_VOICE_SMIA_EVT_16|Milady, work with me. Help me\nfind some way to avoid this fight.$k\n$Wm配信ユリア|0$w0|$Ws配信ユリア|$WaI don't want to avoid it.\nI'm tired of running!$k\n$Wsスミア|$Wa$p$E苦,汗|$SvpSE_VOICE_SMIA_EVT_19|That is a shame... I would have\nrather not come to blows.$k
+MID_E000_BT_配信ナンナ_バジーリオ: $t0$Wmバジーリオ|6$w0|$Wsバジーリオ|$Wa$E苦,汗|$SvpSE_VOICE_BASILIO_EVT_11|Just surrender, kid. You don't\nreally think you can beat me?$k\n$Wm配信ナンナ|0$w0|$Ws配信ナンナ|$WaI think it's worth a try!$k
+MID_E000_BT_配信リリーナ_サーリャ: $t0$Wm配信リリーナ|0$w0|$Ws配信リリーナ|$WaThere's something very sinister\nabout you. But I'm not afraid!$k\n$Wmサーリャ|6$w0|$Wsサーリャ|$Wa$E笑,|$SvpSE_VOICE_SALLYA_EVT_6|You should be. I can get frightfully\ncreative with my curses. Hee hee...$k
+MID_E000_BT_配信リン_ソワレ: $t0$Wmソワレ|6$w0|$Wsソワレ|$Wa$Eキメ,|$SvpSE_VOICE_SOIREE_EVT_18|Oh, so you want to butt heads?\nThat's cute.$k\n$Wm配信リン|0$w0|$Ws配信リン|$WaSay what you will. On my honor,\nI will drive you from this land!$k
+MID_E000_BT_配信エイリーク_シンシア: $t0$Wmシンシア|6$w0|$Wsシンシア|$Wa$E怒,|$SvpSE_VOICE_CYNTHIA_EVT_40|Hold it right there, infidel!\nThe mighty Cynthia has come to―$k\n$Wm配信エイリーク|0$w0|$Ws配信エイリーク|$WaHyaaa!$k\n$Wsシンシア|$Wa$p$E苦,汗|$SvpSE_VOICE_CYNTHIA_EVT_12|Wh-whoa! What are you doing?\nI'm still monologuing!$k\n$Ws配信エイリーク|$Wa$pBut...wouldn't it be faster to\njust clash and be done with it?$k\n$Wsシンシア|$Wa$p$SvpSE_VOICE_CYNTHIA_EVT_13|Faster ISN'T better!$k
+MID_E000_BT_配信エリンシア_シャンブレー: $t0$Wm配信エリンシア|0$w0|$Ws配信エリンシア|$WaI wish we could have found a\npeaceful way to settle this.$k\n$Wmシャンブレー|6$w0|$Wsシャンブレー|$Wa$E怒,汗|$SvpSE_VOICE_CHAMBRAY_EVT_5|I'd wish the same, if there wasn't the\nfate of an entire species at stake!$k
+MID_E000_BT_配信ミカヤ_ヘンリー: $t0$Wmヘンリー|6$w0|$Wsヘンリー|$Wa$Eキメ,|$SvpSE_VOICE_HENRI_EVT_11|Hey, it's not too late to avoid being\nsplattered all over the grass.$k$p...I just thought I'd mention that. Seems\nlike it'd be a shame to waste you...$k\n$Wm配信ミカヤ|0$w0|$Ws配信ミカヤ|$WaVery kind of you. But I've managed\nto avoid getting "splattered" so far.$k\n$Wsヘンリー|$Wa$p$E笑,|$SvpSE_VOICE_HENRI_EVT_1|All right then...$k$pI wonder what happens\nif I do...this...$k
+MID_E000_BT_配信ガーネフ_ノノ: $t0$Wm配信ガーネフ|0$w0|$Ws配信ガーネフ|$WaJoin me, and the whole world\ncould be your plaything!$k\n$Wmノノ|6$w0|$Wsノノ|$Wa$E怒,|$SvpSE_VOICE_NONO_EVT_16|Uh huh. Sure it could. Are you\ngoing to offer me candy, too?$k
+MID_E000_BT_配信ハーディン_ギャンレル: $t0$Wm配信ハーディン|0$w0|$Ws配信ハーディン|$WaDefy me, and you will be\nshown no mercy!$k\n$Wmギャンレル|6$w0|$Wsギャンレル|$Wa$E怒,|$SvpSE_VOICE_GANGREL_EVT_5|Pah! I know a few places you\ncan stick your mercy.$k$pIf you're lucky, I'll destroy you\nbefore you find out where.$k
+MID_E000_BT_配信アルヴィス_リベラ: $t0$Wm配信アルヴィス|0$w0|$Ws配信アルヴィス|$WaHa! You could confuse a man, sir.\nDo I need to be delicate?$k\n$Wmリベラ|6$w0|$Wsリベラ|$Wa$E怒,|$SvpSE_VOICE_RIVIERA_EVT_17|Whatever you make of me, you'd\nbe wise not to trifle with my gods.$k
+MID_E000_BT_配信ユリウス_ンン: $t0$Wmンン|6$w0|$Wsンン|$Wa$E怒,|$SvpSE_VOICE_NN_EVT_28|Ours is the just cause!\nI will make you see it!$k\n$Wm配信ユリウス|0$w0|$Ws配信ユリウス|$WaTry, you insignificant worm!$k
+MID_E000_BT_配信レイドリック_ミリエル: $t0$Wmミリエル|6$w0|$Wsミリエル|$Wa$SvpSE_VOICE_MYRIEL_EVT_20|Forgive me, sir, but I see no merit\nin trading blows with you.$k$pNow, step aside and allow me to\nseek out an opponent of worth.$k\n$Wm配信レイドリック|0$w0|$Ws配信レイドリック|$WaI'll punish you for that insult, you―\nyou woman!$k\n$Wsミリエル|$Wa$p$E怒,|$SvpSE_VOICE_MYRIEL_EVT_16|Ugh. Must you demean yourself\nwith every utterance?$k$p$Eキメ,|Now I must squander precious\nseconds to eradicate you.$k
+MID_E000_BT_配信ゼフィール_ドニ: $t0$Wmドニ|6$w0|$Wsドニ|$Wa$E怒,|$SvpSE_VOICE_DENIS_EVT_18|I hereby challenge ya to\nman-to-man combat!$k\n$Wm配信ゼフィール|0$w0|$Ws配信ゼフィール|$WaHa! And where's the man\nI'll be facing?$k$pYou've got a death wish, boy.$k
+MID_E000_BT_配信ネルガル_ロラン: $t0$Wm配信ネルガル|0$w0|$Ws配信ネルガル|$WaHa! You're just a roach beneath\nmy boot!$k\n$Wmロラン|6$w0|$Wsロラン|$Wa$E怒,|$SvpSE_VOICE_LAURENT_EVT_10|Oh dear... How do I even begin\nto dissect that statement?$k
+MID_E000_BT_配信リオン_ヴァルハルト: $t0$Wmヴァルハルト|6$w0|$Wsヴァルハルト|$Wa$SvpSE_VOICE_WALTRUD_EVT_11|You'll never defeat me so long as\ndarkness controls your feeble heart.$k\n$Wm配信リオン|0$w0|$Ws配信リオン|$WaDarkness doesn't control me.\nI control the darkness!$k
+MID_E000_BT_配信アシュナード_セルジュ: $t0$Wmセルジュ|6$w0|$Wsセルジュ|$Wa$E怒,|$SvpSE_VOICE_SERGE_EVT_26|How dare you treat your poor\nwyvern so carelessly!$k\n$Wm配信アシュナード|0$w0|$Ws配信アシュナード|$WaDamn you and damn the wyvern.\nAll that matters is that I win!$k
+MID_E000_BT_配信漆黒の騎士_カラム: $t0$Wmカラム|6$w0|$Wsカラム|$Wa$SvpSE_VOICE_KARM_EVT_2|Before we get started, I was hoping\nyou might give me a few pointers.$k$pHow do you achieve that whole\nlarger-than-life feel?$k\n$Wm配信漆黒の騎士|0$w0|$Ws配信漆黒の騎士|$WaWhat do you care? The less people\nnotice you, the better your chances.$k\n$Wsカラム|$Wa$p$E怒,汗|$SvpSE_VOICE_KARM_EVT_10|Hey... You're right!$k\n$Ws配信漆黒の騎士|$Wa$pA shame you realized it too late.$k
+MID_E000_BT_配信カミュ_ルキナ: $t0$Wm配信カミュ|0$w0|$Ws配信カミュ|$WaWhy do you dress like Prince\nMarth, young lady?$k$pDo you think you can deceive us?$k\n$Wmルキナ|6$w0|$Wsルキナ|$Wa$E怒,|$SvpSE_VOICE_MARTH_EVT_13|Certainly not. I have my reasons...$k$p$Eキメ,|But none of them involve\navoiding a fight with you!$k\n$Ws配信カミュ|$Wa$pGood. Then have at you!$k
+MID_E000_BT_配信トラバント_ソール: $t0$Wm配信トラバント|0$w0|$Ws配信トラバント|$WaI cannot stop now. I have\nyet to earn my gold...$k\n$Wmソール|6$w0|$Wsソール|$Wa$E怒,|$SvpSE_VOICE_SORT_EVT_13|Is that the only reason you fight?\nFor money?$k\n$Ws配信トラバント|$Wa$pI fight for my people―not that some\nknight like you could understand.$k$pWhat matters is that we clash\nand that I break you!$k
+MID_E000_BT_配信イシュタル_チキ: $t0$Wm配信イシュタル|0$w0|$Ws配信イシュタル|$WaFeel the wrath of the goddess\nof lightning!$k\n$Wmチキ|6$w0|$Wsチキ|$Wa$E怒,|$SvpSE_VOICE_TIKI_EVT_16|I feel only sadness, and you'll\nnever defeat me with that.$k\n$Ws配信イシュタル|$Wa$pSilence! I shall be the judge!$k
+MID_E000_BT_配信ナーシェン_マリアベル: $t0$Wm配信ナーシェン|0$w0|$Ws配信ナーシェン|$WaI am strong. I am wise. I am lovely.\nAnd most importantly, I am right!$k$p...Me! No one else!$k\n$Wmマリアベル|6$w0|$Wsマリアベル|$Wa$E怒,|$SvpSE_VOICE_MARIABELL_EVT_17|Yes, you seem "special" indeed,\nbut not how you mean it...$k
+MID_E000_BT_配信ロイド_マーク女: $t0$Wm配信ロイド|0$w0|$Ws配信ロイド|$WaIt matters not who you are.\nIt's too late...$k\n$Wmマーク女|6$w0|$Wsマーク女|$Wa$E苦,汗|$SvpSE_VOICE_MARC_F_EVT_9|Are you sure about that? I could\nbe a fascinating individual.$k$pNot that I know myself... But surely\nit's at least worth talking through?$k$p$E通常,|Make peace, not pieces. ...Of me.$k$p$E怒,汗|...Please?$k
+MID_E000_BT_配信ライナス_マーク男: $t0$Wm配信ライナス|0$w0|$Ws配信ライナス|$WaStart praying! I will crush you myself,\nin the name of the Fang!$k\n$Wmマーク男|6$w0|$Wsマーク男|$Wa$SvpSE_VOICE_MARC_M_EVT_4|Right... Pray, pray...$k$p$E怒,汗|...Hey, wait a second! I didn't\nsign up to be crushed!$k
+MID_E000_BT_配信ウルスラ_アズール: $t0$Wmアズール|6$w0|$Wsアズール|$Wa$Eキメ,|$SvpSE_VOICE_AZUR_EVT_5|Come closer, my dear.$k\n$Wm配信ウルスラ|0$w0|$Ws配信ウルスラ|$WaWhy? Are you flirting with me?$k\n$Wsアズール|$Wa$p$E通常,|$SvpSE_VOICE_AZUR_EVT_1|Actually, in this case,\nit's more of a threat.$k\n$Ws配信ウルスラ|$Wa$pAh...my favorite kind of flirting.$k
+MID_E000_BT_配信セライナ_ジェローム: $t0$Wmジェローム|6$w0|$Wsジェローム|$Wa$SvpSE_VOICE_JEROME_EVT_11|I can see previous battles\nhave not treated you kindly.$k\n$Wm配信セライナ|0$w0|$Ws配信セライナ|$WaPerhaps not. But I am a knight,\nand a knight never wavers.$k$pI will not falter in the service\nof my lord!$k
+MID_E000_BT_配信プラハ_リズ: $t0$Wmリズ|6$w0|$Wsリズ|$Wa$E困る,|$SvpSE_VOICE_LIZ_EVT_17|Aren't you a little, you know...\nold...to be taking the field?$k\n$Wm配信プラハ|0$w0|$Ws配信プラハ|$WaWhat? Grr... You won't live\nto be my age, brat!$k
+MID_E000_BT_配信オリヴァー_ベルベット: $t0$Wmベルベット|6$w0|$Wsベルベット|$Wa$E怒,汗|$SvpSE_VOICE_VELVET_EVT_9|Not a step closer! Something about\nyou chills me to the bone.$k\n$Wm配信オリヴァー|0$w0|$Ws配信オリヴァー|$WaA beautiful creature like you has nothing\nto fear from me. I keep beauty safe.$k$pDo not be afraid...$k\n$Wsベルベット|$Wa$p$E苦,汗|$SvpSE_VOICE_VELVET_EVT_7|Back, I said! Ugh, you make my\nskin crawl...$k
+MID_E000_BT_配信ナバール_オリヴィエ: $t0$Wm配信ナバール|0$w0|$Ws配信ナバール|$WaA woman?$k$pIt's a shame you serve the enemy.\nI would rather not do you harm.$k\n$Wmオリヴィエ|6$w0|$Wsオリヴィエ|$Wa$E笑,|$SvpSE_VOICE_OLIVIE_EVT_19|It's all right. I mean, I'm a bit\nfrightened, I admit...$k$p$E怒,|But it beats not being taken\nseriously at all.$k
+MID_E000_BT_配信カタリナ_プレイヤー男_PCM1: $t0$Wmusername|6$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_10|That garb... You're a\ntactician like me?$k\n$Wm配信カタリナ|0$w0|$Ws配信カタリナ|$WaSomething like that.$k\n$Wsusername|$Wa$p$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_18|Then this should be an\ninteresting battle.$k\n$Ws配信カタリナ|$Wa$pCount on it.$k
+MID_E000_BT_配信カタリナ_プレイヤー男_PCM2: $t0$Wmusername|6$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_10|その格好…\n君も軍師なの？$k\n$Wm配信カタリナ|0$w0|$Ws配信カタリナ|$Waそのようなものです。$k\n$Wsusername|$Wa$p$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_18|そっか、じゃあ軍師同士\nいい戦いができそうだね。$k\n$Ws配信カタリナ|$Wa$p…そうですね…$k
+MID_E000_BT_配信カタリナ_プレイヤー男_PCM3: $t0$Wmusername|6$w0|$Wsusername|$Wa……？$k\n$Wm配信カタリナ|0$w0|$Ws配信カタリナ|$Waええ。\n私も、軍師のようなものです。$k\n$Wsusername|$Wa$p$E笑,|……！！$k\n$Ws配信カタリナ|$Wa$pそうですね…\n軍師同士、いい戦いをしましょう…$k
+MID_E000_BT_配信カタリナ_プレイヤー女_PCF1: $t0$Wmusername|6$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_F#_EVT_10|That garb... You're a\ntactician like me?$k\n$Wm配信カタリナ|0$w0|$Ws配信カタリナ|$WaSomething like that.$k\n$Wsusername|$Wa$p$E笑,|$SvpSE_VOICE_PLAYER_F#_EVT_21|Then this should be an\ninteresting battle.$k\n$Ws配信カタリナ|$Wa$pCount on it.$k
+MID_E000_BT_配信カタリナ_プレイヤー女_PCF2: $t0$Wmusername|6$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_F#_EVT_10|その格好…\nあなたも軍師なのですか？$k\n$Wm配信カタリナ|0$w0|$Ws配信カタリナ|$Waそのようなものです。$k\n$Wsusername|$Wa$p$E笑,|$SvpSE_VOICE_PLAYER_F#_EVT_21|そうですか、じゃあ軍師同士\nいい戦いができそうですね！$k\n$Ws配信カタリナ|$Wa$p…そうですね…$k
+MID_E000_BT_配信カタリナ_プレイヤー女_PCF3: $t0$Wmusername|6$w0|$Wsusername|$Wa……？$k\n$Wm配信カタリナ|0$w0|$Ws配信カタリナ|$Waええ。\n私も、軍師のようなものです。$k\n$Wsusername|$Wa$p$E笑,|……！！$k\n$Ws配信カタリナ|$Wa$pそうですね…\n軍師同士、いい戦いをしましょう…$k
+MID_E000_BT_配信ジャムカ_ノワール: $t0$Wmノワール|6$w0|$Wsノワール|$Wa$SvpSE_VOICE_NOIR_EVT_2|I ch-ch-challenge you...$k\n$Wm配信ジャムカ|0$w0|$Ws配信ジャムカ|$WaEarlier, I saw an audacious woman\nresembling you―your twin sister?$k\n$Wsノワール|$Wa$p$E苦,汗|$SvpSE_VOICE_NOIR_EVT_8|No, we're, uh...sort of the same\nperson. Sorry to disappoint...$k
+MID_E000_BT_配信アレス_ブレディ: $t0$Wmブレディ|6$w0|$Wsブレディ|$Wa$SvpSE_VOICE_BREDY_EVT_6|You, in the black armor...\nGuess who's about to destroy you.$k\n$Wm配信アレス|0$w0|$Ws配信アレス|$WaYou? I might die of laughter first.$k\n$Wsブレディ|$Wa$p$E怒,|$SvpSE_VOICE_BREDY_EVT_1|Oh yeah? You have no idea\nwhat I can do.$k$pEspecially when you're my ticket\nout of here!$k
+MID_E000_BT_配信サイアス_プレイヤー男_PCM1: $t0$Wm配信サイアス|0$w0|$Ws配信サイアス|$WaAren't you the enemy tactician?$k$pWhat sort of fool strategist puts\nhimself at the fore of the battle?$k\n$Wmusername|6$w0|$Wsusername|$Wa$E怒,|$SvpSE_VOICE_PLAYER_M#_EVT_48|The kind who knows he'll win.$k
+MID_E000_BT_配信サイアス_プレイヤー男_PCM2: $t0$Wm配信サイアス|0$w0|$Ws配信サイアス|$Waあなたは軍師ですね。$k$p軍師が前線に出てくるのは\n作戦の失敗ではないのですか？$k\n$Wmusername|6$w0|$Wsusername|$Wa$E怒,|$SvpSE_VOICE_PLAYER_M#_EVT_48|それを自分で取り戻すのが\n僕なりの流儀なんだ。いくよ！$k
+MID_E000_BT_配信サイアス_プレイヤー男_PCM3: $t0$Wm配信サイアス|0$w0|$Ws配信サイアス|$Waあなたは軍師ですね。$k$p軍師が前線に出てくるのは\n作戦の失敗ではないのですか？$k\n$Wmusername|6$w0|$Wsusername|$Wa$E怒,|……！！！$k\n$Ws配信サイアス|$Wa$pなるほど。それを自分で取り戻すのが\nあなたの流儀ですか。$k$p面白い。では取り戻せるかどうか\n試させていただきましょう！$k
+MID_E000_BT_配信レイ_リヒト: $t0$Wmリヒト|6$w0|$Wsリヒト|$Wa$E怒,|$SvpSE_VOICE_LICHT_EVT_5|Don't even think about treating\nme like a child!$k\n$Wm配信レイ|0$w0|$Ws配信レイ|$WaReally, now. Who BUT a child\nwould say that?$k\n$Wsリヒト|$Wa$p$E苦,汗|$SvpSE_VOICE_LICHT_EVT_14|But I―you―\n...Rrgh!$k
+MID_E000_BT_配信ジャファル_ウード: $t0$Wmウード|6$w0|$Wsウード|$Wa$E笑,|$SvpSE_VOICE_EUDES_EVT_17|Woe be upon you this day, evil one,\nfor today my powers are unleashed!$k$pCan you withstand the boundless and\nsublimely awesome power within me?$k\n$Wm配信ジャファル|0$w0|$Ws配信ジャファル|$Wa...Let's find out.$k\n$Wsウード|$Wa$p$E苦,汗|$SvpSE_VOICE_EUDES_EVT_9|...What?$k\n$Ws配信ジャファル|$Wa$pI'm waiting. Unleash your power.$k\n$Wsウード|$Wa$p$E怒,汗|$SvpSE_VOICE_EUDES_EVT_7|I...I will. Just as soon as the\nappointed time comes!$k\n$Ws配信ジャファル|$Wa$pYou won't live that long.$k
+MID_E000_BT_配信マリカ_ロンクー: $t0$Wmロンクー|6$w0|$Wsロンクー|$Wa$E怒,|$SvpSE_VOICE_RONKUU_EVT_12|Out of my sight.$k\n$Wm配信マリカ|0$w0|$Ws配信マリカ|$WaWhy? You don't want to see\nyour own death coming?$k\n$Wsロンクー|$Wa$p$Eキメ,|$SvpSE_VOICE_RONKUU_EVT_5|Hmph. I can look death in\nthe eye. Just not a woman.$k\n$Ws配信マリカ|$Wa$pWell, today you get both.$k
+MID_E000_BT_配信セフェラン_アンナ: $t0$Wmアンナ|6$w0|$Wsアンナ|$Wa$Eキメ,|$SvpSE_VOICE_ANNA_EVT_17|It's just you and me.$k\n$Wm配信セフェラン|0$w0|$Ws配信セフェラン|$WaAren't you going to strike a bargain?\nYou're a merchant.$k\n$Wsアンナ|$Wa$p$E怒,|$SvpSE_VOICE_ANNA_EVT_5|True. Which is why I can tell when\nthere's no use haggling.$k\n$Ws配信セフェラン|$Wa$pAh. Then you've a\nkeen insight, indeed.$k
+MID_E000_BT_配信エルトシャン_フレデリク: $t0$Wm配信エルトシャン|0$w0|$Ws配信エルトシャン|$WaTell me. If you prevail here,\nwhat comes next?$k\n$Wmフレデリク|6$w0|$Wsフレデリク|$Wa$E怒,|$SvpSE_VOICE_FREDERIK_EVT_6|Peace for this land, sir.\nThat would be my hope.$k\n$Ws配信エルトシャン|$Wa$pHa! What nonsense.$k$pIf you want peace like us, then why\nhave you brought war instead?$k
+MID_E000_EV_予約アイク: $t0$Wm予約15|0$w0|$Ws予約15|$WaUgh, it won't stop eating at me...$k$pI can't shake the feeling I'm\nmaking some terrible mistake.$k$pI've never felt that before...\nWho are these people?$k
+MID_E000_BT_予約アイク: $t0$Wm予約15|0$w0|$Ws予約15|$WaDamn these doubts. I believe\nin the path I've chosen!$k
+MID_E000_DIE_予約アイク: $t0$Wm予約15|0$w0|$Ws予約15|$WaNngh...I lost...$k
+MID_E000_BT_配信エルトシャン: $t0$Wm配信エルトシャン|0$w0|$Ws配信エルトシャン|$WaI'm halting your advance\nhere and now!$k
+MID_E000_DIE_配信エルトシャン: $t0$Wm配信エルトシャン|0$w0|$Ws配信エルトシャン|$WaI'm finished... It seems...nngh...\nthat you've won...$k
+MID_E000_BT_汎用_配信マルス王子: $t0$Wm配信マルス王子|0$w0|$Ws配信マルス王子|$WaSo long as you remain an enemy of\nthis realm, I cannot stay judgment!$k
+MID_E000_BT_汎用_配信アルム: $t0$Wm配信アルム|0$w0|$Ws配信アルム|$WaIf you want to go any further,\nyou'll have to get past me!$k
+MID_E000_BT_汎用_配信シグルド: $t0$Wm配信シグルド|0$w0|$Ws配信シグルド|$WaI ask only that you fight me with\nthe same honor I afford you.$k
+MID_E000_BT_汎用_配信セリス: $t0$Wm配信セリス|0$w0|$Ws配信セリス|$WaI won't turn away when this sword\nmay yet save a comrade!$k
+MID_E000_BT_汎用_配信リーフ: $t0$Wm配信リーフ|0$w0|$Ws配信リーフ|$WaI've already lost one kingdom.\nI refuse to lose another!$k
+MID_E000_BT_汎用_配信ロイ: $t0$Wm配信ロイ|0$w0|$Ws配信ロイ|$WaThis is our realm. I won't let you\njust do as you please with it!$k
+MID_E000_BT_汎用_配信エリウッド: $t0$Wm配信エリウッド|0$w0|$Ws配信エリウッド|$WaHow can you not see the madness\nin seeking wars outside your world?$k
+MID_E000_BT_汎用_配信エフラム: $t0$Wm配信エフラム|0$w0|$Ws配信エフラム|$WaRight now, we end this―\nonce and for all!$k
+MID_E000_BT_汎用_配信サザ: $t0$Wm配信サザ|0$w0|$Ws配信サザ|$WaYou looking for a fight?\nDon't expect an easy one.$k
+MID_E000_BT_汎用_配信シーダ: $t0$Wm配信シーダ|0$w0|$Ws配信シーダ|$WaIf a battle is at hand, then I\nwill fight it with all I've got!$k
+MID_E000_BT_汎用_配信セリカ: $t0$Wm配信セリカ|0$w0|$Ws配信セリカ|$WaThis battle might have been avoided\nif you'd only just stayed away.$k
+MID_E000_BT_汎用_配信ディアドラ: $t0$Wm配信ディアドラ|0$w0|$Ws配信ディアドラ|$WaThis is not your world to conquer!\nGo back whence you came!$k
+MID_E000_BT_汎用_配信ユリア: $t0$Wm配信ユリア|0$w0|$Ws配信ユリア|$WaGo home! You have nothing\nmore to gain from this!$k
+MID_E000_BT_汎用_配信ナンナ: $t0$Wm配信ナンナ|0$w0|$Ws配信ナンナ|$WaI'll never give up. Not while this\nrealm is counting on me!$k
+MID_E000_BT_汎用_配信リリーナ: $t0$Wm配信リリーナ|0$w0|$Ws配信リリーナ|$WaWe can win this. I feel it!$k
+MID_E000_BT_汎用_配信リン: $t0$Wm配信リン|0$w0|$Ws配信リン|$WaThe next time we meet, I hope it's\nunder peaceful circumstances.$k$pThat's if there IS a next time...$k
+MID_E000_BT_汎用_配信エイリーク: $t0$Wm配信エイリーク|0$w0|$Ws配信エイリーク|$WaThere's no way to resolve this\namicably, is there? I thought not...$k
+MID_E000_BT_汎用_配信エリンシア: $t0$Wm配信エリンシア|0$w0|$Ws配信エリンシア|$WaStrange... I feel as though\nI've fought you before...$k$pBut this time shall be the last.$k
+MID_E000_BT_汎用_配信ミカヤ: $t0$Wm配信ミカヤ|0$w0|$Ws配信ミカヤ|$WaYou won't shake my confidence.\nI'm going to end this here and now!$k
+MID_E000_BT_汎用_配信ガーネフ: $t0$Wm配信ガーネフ|0$w0|$Ws配信ガーネフ|$WaYou dare oppose Gharnef? Perhaps\nyou need a demonstration of my power!$k
+MID_E000_BT_汎用_配信ハーディン: $t0$Wm配信ハーディン|0$w0|$Ws配信ハーディン|$WaDefying me shall be\nyour last act.$k
+MID_E000_BT_汎用_配信アルヴィス: $t0$Wm配信アルヴィス|0$w0|$Ws配信アルヴィス|$WaYou poor wretches. You can't even\nimagine the hell I'll visit upon you!$k
+MID_E000_BT_汎用_配信ユリウス: $t0$Wm配信ユリウス|0$w0|$Ws配信ユリウス|$WaYou, defeat me?\nDon't make me laugh.$k
+MID_E000_BT_汎用_配信レイドリック: $t0$Wm配信レイドリック|0$w0|$Ws配信レイドリック|$WaHeh. I've scraped worse things\nthan you from my teeth!$k
+MID_E000_BT_汎用_配信ゼフィール: $t0$Wm配信ゼフィール|0$w0|$Ws配信ゼフィール|$WaYou seem to have woefully misjudged\nyour limits...$k$pBut I promise at least to spare you\na lengthy death!$k
+MID_E000_BT_汎用_配信ネルガル: $t0$Wm配信ネルガル|0$w0|$Ws配信ネルガル|$WaHa! You're just a roach beneath\nmy boot!$k
+MID_E000_BT_汎用_配信リオン: $t0$Wm配信リオン|0$w0|$Ws配信リオン|$WaI'll never lose to a mortal like you.$k$pI have already transcended such\nweakness and achieved perfection!$k
+MID_E000_BT_汎用_配信アシュナード: $t0$Wm配信アシュナード|0$w0|$Ws配信アシュナード|$WaHa ha! Yes... Strike me with all\nyour power! Let me delight in it!$k
+MID_E000_BT_汎用_配信漆黒の騎士: $t0$Wm配信漆黒の騎士|0$w0|$Ws配信漆黒の騎士|$WaYou were brave to challenge me―\nbut in the end, foolish!$k
+MID_E000_BT_汎用_配信カミュ: $t0$Wm配信カミュ|0$w0|$Ws配信カミュ|$WaYou cannot best me. Blame ill fortune,\nif you must, in your final moments...$k
+MID_E000_BT_汎用_配信トラバント: $t0$Wm配信トラバント|0$w0|$Ws配信トラバント|$WaI cannot stop now. I have\nyet to earn my gold...$k
+MID_E000_BT_汎用_配信イシュタル: $t0$Wm配信イシュタル|0$w0|$Ws配信イシュタル|$WaFeel the wrath of the goddess\nof lightning!$k
+MID_E000_BT_汎用_配信ナーシェン: $t0$Wm配信ナーシェン|0$w0|$Ws配信ナーシェン|$WaI am strong. I am wise. I am lovely.\nAnd most importantly, I am right!$k$p...Me! No one else!$k
+MID_E000_BT_汎用_配信ロイド: $t0$Wm配信ロイド|0$w0|$Ws配信ロイド|$WaIt matters not who you are.\nIt's too late...$k$pI will finish you all, one by one.$k
+MID_E000_BT_汎用_配信ライナス: $t0$Wm配信ライナス|0$w0|$Ws配信ライナス|$WaStart praying! I will crush you myself,\nin the name of the Fang!$k
+MID_E000_BT_汎用_配信ウルスラ: $t0$Wm配信ウルスラ|0$w0|$Ws配信ウルスラ|$WaTell me...$k$pAre you afraid to die?$k
+MID_E000_BT_汎用_配信セライナ: $t0$Wm配信セライナ|0$w0|$Ws配信セライナ|$WaThere are no more words to be\nspoken―only strength to be tested.$k
+MID_E000_BT_汎用_配信プラハ: $t0$Wm配信プラハ|0$w0|$Ws配信プラハ|$WaHa! You think you stand a chance?\nI'll crush the arrogance out of you!$k
+MID_E000_BT_汎用_配信オリヴァー: $t0$Wm配信オリヴァー|0$w0|$Ws配信オリヴァー|$WaDon't you see?$k$pYour tactics are doomed to fail\nin the face of perfect beauty.$k
+MID_E000_BT_汎用_配信ナバール: $t0$Wm配信ナバール|0$w0|$Ws配信ナバール|$WaLeave in peace, or leave in pieces.$k
+MID_E000_BT_汎用_配信カタリナ: $t0$Wm配信カタリナ|0$w0|$Ws配信カタリナ|$WaI would have rather not taken up a\nweapon, but you've left me no choice!$k
+MID_E000_BT_汎用_配信ジャムカ: $t0$Wm配信ジャムカ|0$w0|$Ws配信ジャムカ|$WaRun home, or die in\nthis foreign world!$k
+MID_E000_BT_汎用_配信アレス: $t0$Wm配信アレス|0$w0|$Ws配信アレス|$WaPrepare to feel the bite\nof Ares' blade...$k
+MID_E000_BT_汎用_配信サイアス: $t0$Wm配信サイアス|0$w0|$Ws配信サイアス|$WaStill determined to fight? You're a\nfool to have come here.$k
+MID_E000_BT_汎用_配信レイ: $t0$Wm配信レイ|0$w0|$Ws配信レイ|$WaYou want to fight me that badly?\nAll right. But it may be quick...$k
+MID_E000_BT_汎用_配信ジャファル: $t0$Wm配信ジャファル|0$w0|$Ws配信ジャファル|$WaYou've no right to be here.\n...So die!$k
+MID_E000_BT_汎用_配信マリカ: $t0$Wm配信マリカ|0$w0|$Ws配信マリカ|$WaI'll never lose. Not until the\nday I surpass my father.$k
+MID_E000_BT_汎用_配信セフェラン: $t0$Wm配信セフェラン|0$w0|$Ws配信セフェラン|$WaWhat do you hope to gain\nfrom this fight?$k$pWill defeating you finally yield\nsome answers?$k
+MID_E000_DIE_配信マルス王子: $t0$Wm配信マルス王子|0$w0|$Ws配信マルス王子|$WaSuch strength... If only you\nfought for our side...$k
+MID_E000_DIE_配信アルム: $t0$Wm配信アルム|0$w0|$Ws配信アルム|$WaI thought...I could keep\nthis land safe...$k
+MID_E000_DIE_配信シグルド: $t0$Wm配信シグルド|0$w0|$Ws配信シグルド|$WaNngh...I regret losing...\nbut it was a good fight...$k
+MID_E000_DIE_配信セリス: $t0$Wm配信セリス|0$w0|$Ws配信セリス|$WaDid I make a difference? Ahh...$k
+MID_E000_DIE_配信リーフ: $t0$Wm配信リーフ|0$w0|$Ws配信リーフ|$WaWill my home be taken from me...\nyet again?$k
+MID_E000_DIE_配信ロイ: $t0$Wm配信ロイ|0$w0|$Ws配信ロイ|$WaYou will be stopped...if not by\nmy hand...then by another's...$k
+MID_E000_DIE_配信エリウッド: $t0$Wm配信エリウッド|0$w0|$Ws配信エリウッド|$WaAgh... I seem to have greatly\nmisjudged you...$k
+MID_E000_DIE_配信エフラム: $t0$Wm配信エフラム|0$w0|$Ws配信エフラム|$WaYou might have defeated me...\nbut this realm will never be yours...$k
+MID_E000_DIE_配信サザ: $t0$Wm配信サザ|0$w0|$Ws配信サザ|$WaDamn... I was so sure...$k
+MID_E000_DIE_配信シーダ: $t0$Wm配信シーダ|0$w0|$Ws配信シーダ|$WaI fought as best I could...\nMaybe...this was meant to be...$k
+MID_E000_DIE_配信セリカ: $t0$Wm配信セリカ|0$w0|$Ws配信セリカ|$WaIt didn't have to...be this way...$k
+MID_E000_DIE_配信ディアドラ: $t0$Wm配信ディアドラ|0$w0|$Ws配信ディアドラ|$WaWill you just keep fighting...\nforever?$k
+MID_E000_DIE_配信ユリア: $t0$Wm配信ユリア|0$w0|$Ws配信ユリア|$WaWhy do you persist...\nIs there some...purpose?$k
+MID_E000_DIE_配信ナンナ: $t0$Wm配信ナンナ|0$w0|$Ws配信ナンナ|$WaI couldn't do it. But at least...\nI stood my ground...$k
+MID_E000_DIE_配信リリーナ: $t0$Wm配信リリーナ|0$w0|$Ws配信リリーナ|$WaIt's all right... The others will\ndo what I couldn't...ahh...$k
+MID_E000_DIE_配信リン: $t0$Wm配信リン|0$w0|$Ws配信リン|$WaI hope I face you again...\nand then I can...ahh...$k
+MID_E000_DIE_配信エイリーク: $t0$Wm配信エイリーク|0$w0|$Ws配信エイリーク|$WaIt feels like every road...\nends in battle...$k
+MID_E000_DIE_配信エリンシア: $t0$Wm配信エリンシア|0$w0|$Ws配信エリンシア|$WaIf I fall here...what will\nbecome of my people...$k
+MID_E000_DIE_配信ミカヤ: $t0$Wm配信ミカヤ|0$w0|$Ws配信ミカヤ|$WaI was powerless to stop it...$k
+MID_E000_DIE_配信ガーネフ: $t0$Wm配信ガーネフ|0$w0|$Ws配信ガーネフ|$WaInconceivable! How could my\nmagic be thwarted? ...Aaagh!$k
+MID_E000_DIE_配信ハーディン: $t0$Wm配信ハーディン|0$w0|$Ws配信ハーディン|$WaNo! I won't let it end...like this...$k
+MID_E000_DIE_配信アルヴィス: $t0$Wm配信アルヴィス|0$w0|$Ws配信アルヴィス|$WaYou may have stopped me...but\nyour trials...have only just begun...$k
+MID_E000_DIE_配信ユリウス: $t0$Wm配信ユリウス|0$w0|$Ws配信ユリウス|$WaI've been defeated?\nBut...that's absurd...$k
+MID_E000_DIE_配信レイドリック: $t0$Wm配信レイドリック|0$w0|$Ws配信レイドリック|$WaNo... There must be some\nmistake...$k
+MID_E000_DIE_配信ゼフィール: $t0$Wm配信ゼフィール|0$w0|$Ws配信ゼフィール|$WaAgh! You...have ability... But you will\nstill crumble...before our army...$k
+MID_E000_DIE_配信ネルガル: $t0$Wm配信ネルガル|0$w0|$Ws配信ネルガル|$WaI...lost? No...I refuse to\naccept it...$k
+MID_E000_DIE_配信リオン: $t0$Wm配信リオン|0$w0|$Ws配信リオン|$WaPerhaps there was still...\nweakness inside me after all...$k
+MID_E000_DIE_配信アシュナード: $t0$Wm配信アシュナード|0$w0|$Ws配信アシュナード|$WaNngh... You see? This is why I fight...\nTo get a taste of something greater...$k
+MID_E000_DIE_配信漆黒の騎士: $t0$Wm配信漆黒の騎士|0$w0|$Ws配信漆黒の騎士|$WaHa... Perhaps...there is hope\nfor you yet...$k
+MID_E000_DIE_配信カミュ: $t0$Wm配信カミュ|0$w0|$Ws配信カミュ|$WaA shame...I had to make an enemy\nof one as strong as you...$k
+MID_E000_DIE_配信トラバント: $t0$Wm配信トラバント|0$w0|$Ws配信トラバント|$WaNo... How can I bring my\nhomeland glory now?$k
+MID_E000_DIE_配信イシュタル: $t0$Wm配信イシュタル|0$w0|$Ws配信イシュタル|$WaLord Julius... Are you pleased?$k
+MID_E000_DIE_配信ナーシェン: $t0$Wm配信ナーシェン|0$w0|$Ws配信ナーシェン|$WaNo! Never! It's not POSSIBLE!$k
+MID_E000_DIE_配信ロイド: $t0$Wm配信ロイド|0$w0|$Ws配信ロイド|$WaI thought I had this one...\nall sewn up...$k
+MID_E000_DIE_配信ライナス: $t0$Wm配信ライナス|0$w0|$Ws配信ライナス|$WaHa! Outfought...$k
+MID_E000_DIE_配信ウルスラ: $t0$Wm配信ウルスラ|0$w0|$Ws配信ウルスラ|$WaNngh... What?$k
+MID_E000_DIE_配信セライナ: $t0$Wm配信セライナ|0$w0|$Ws配信セライナ|$WaWhat can I say? I know when\nI have met my...match...$k
+MID_E000_DIE_配信プラハ: $t0$Wm配信プラハ|0$w0|$Ws配信プラハ|$WaAgh! Pathetic...$k
+MID_E000_DIE_配信オリヴァー: $t0$Wm配信オリヴァー|0$w0|$Ws配信オリヴァー|$WaVictory is nothing...\nNot without beauty...ugh...$k
+MID_E000_DIE_配信ナバール: $t0$Wm配信ナバール|0$w0|$Ws配信ナバール|$WaAm I...not good enough?$k
+MID_E000_DIE_配信カタリナ: $t0$Wm配信カタリナ|0$w0|$Ws配信カタリナ|$Wa*Sigh* I can't win no matter\nwhat I do...$k
+MID_E000_DIE_配信ジャムカ: $t0$Wm配信ジャムカ|0$w0|$Ws配信ジャムカ|$WaDon't let this...go to your head.\nOne wrong move, and you'll be next...$k
+MID_E000_DIE_配信アレス: $t0$Wm配信アレス|0$w0|$Ws配信アレス|$WaWhat an unfitting end...\nfor the knight in black...$k
+MID_E000_DIE_配信サイアス: $t0$Wm配信サイアス|0$w0|$Ws配信サイアス|$WaYou're wrong if you think battle...\nis the answer to everything...$k
+MID_E000_DIE_配信レイ: $t0$Wm配信レイ|0$w0|$Ws配信レイ|$WaNngh... I thought I was\nbetter than this...$k
+MID_E000_DIE_配信ジャファル: $t0$Wm配信ジャファル|0$w0|$Ws配信ジャファル|$WaSo...it was my turn...$k
+MID_E000_DIE_配信マリカ: $t0$Wm配信マリカ|0$w0|$Ws配信マリカ|$WaNext time...just wait...$k
+MID_E000_DIE_配信セフェラン: $t0$Wm配信セフェラン|0$w0|$Ws配信セフェラン|$WaI'll never...understand...$k
+MPID_配信マルス王子: Pr. Marth
+MPID_配信アルム: Alm
+MPID_配信シグルド: Sigurd
+MPID_配信セリス: Seliph
+MPID_配信リーフ: Leif
+MPID_配信ロイ: Roy
+MPID_配信エリウッド: Eliwood
+MPID_配信エフラム: Ephraim
+MPID_予約アイク: Ike
+MPID_予約15: Ike
+MPID_配信サザ: Sothe
+MPID_配信シーダ: Caeda
+MPID_配信セリカ: Celica
+MPID_配信ディアドラ: Deirdre
+MPID_配信ユリア: Julia
+MPID_配信ナンナ: Nanna
+MPID_配信リリーナ: Lilina
+MPID_配信リン: Lyn
+MPID_配信エイリーク: Eirika
+MPID_配信エリンシア: Elincia
+MPID_配信ミカヤ: Micaiah
+MPID_配信ガーネフ: Gharnef
+MPID_配信ハーディン: Hardin
+MPID_配信アルヴィス: Arvis
+MPID_配信ユリウス: Julius
+MPID_配信レイドリック: Raydrik
+MPID_配信ゼフィール: Zephiel
+MPID_配信ネルガル: Nergal
+MPID_配信リオン: Lyon
+MPID_配信アシュナード: Ashnard
+MPID_配信漆黒の騎士: Black Knight
+MPID_配信カミュ: Camus
+MPID_配信トラバント: Travant
+MPID_配信イシュタル: Ishtar
+MPID_配信ナーシェン: Narcian
+MPID_配信ロイド: Lloyd
+MPID_配信ライナス: Linus
+MPID_配信ウルスラ: Ursula
+MPID_配信セライナ: Selena
+MPID_配信プラハ: Petrine
+MPID_配信オリヴァー: Oliver
+MPID_配信ナバール: Navarre
+MPID_配信カタリナ: Katarina
+MPID_配信ジャムカ: Jamke
+MPID_配信アレス: Ares
+MPID_配信サイアス: Saias
+MPID_配信レイ: Raigh
+MPID_配信ジャファル: Jaffar
+MPID_配信マリカ: Marisa
+MPID_配信セフェラン: Sephiran
+MPID_配信エルトシャン: Eldigan
+MPID_占い: Old Hubba
+MID_DLC_名前_アイク: Ike
+MID_DLC_挨拶会話_アイク: I'm from the Greil Mercenaries.
+MID_DLC_戦闘会話_アイク: Nice knowing you!
+MID_DLC_仲間会話_アイク: Seems we should fight together.

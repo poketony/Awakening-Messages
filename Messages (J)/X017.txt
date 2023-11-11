@@ -1,0 +1,21 @@
+MESS_ARCHIVE_X017
+
+
+Message Name: Message
+
+
+MID_X017_OP1: $t1$Wmクロム|3$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_11|$E笑,|ここは…風が澄んでいるな。\n心が落ち着く。$k\n$Wsクロム|$Wd$w0|$Wmリズ|3$w0|$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_20|$E笑,|うんうん！　ふかふかの\nベッドに入ってるみたい。$k\n$Wsリズ|$Wd$w0|$Wmルキナ|3$w0|$Wsルキナ|$Wa$SvpSE_VOICE_MARTH_EVT_34|$E笑,|私も…とても\n心安らぐものを感じます。$k
+MID_X017_OP1_2_PCM1: $t1$Wmusername|3$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_11|そうか？\n特に何も感じないが…$k
+MID_X017_OP1_2_PCM2: $t1$Wmusername|3$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_11|うーん…\n特に何も感じないけど…$k
+MID_X017_OP1_2_PCM3: $t1$Wmusername|3$w0|$Wsusername|$Wa？　？$k
+MID_X017_OP1_2_PCF1: $t1$Wmusername|3$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_F#_EVT_11|そう？\n特に何も感じないけど…$k
+MID_X017_OP1_2_PCF2: $t1$Wmusername|3$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_F#_EVT_11|ええと…\n特に何も感じないです…$k
+MID_X017_OP1_2_PCF3: $t1$Wmusername|3$w0|$Wsusername|$Wa？　？$k
+MID_X017_OP1_3: $t1$Wmサイリ|3$w0|$Wsサイリ|$Wa$SvpSE_VOICE_SAYRI_EVT_2|ここは神竜の大地と呼ばれ、伝承では\n神竜ナーガ様が昔住まわれていたとか…$k$p神竜の巫女チキ様は、ここで\n力を取り戻す儀式を行っておられる。$k
+MID_X017_OP2: $t1$Wmチキ|7$w0|$Wsチキ|$Wa$Eキメ,|……………………$k\n$Wmルキナ|3$w0|$Wsルキナ|$Wa$SvpSE_VOICE_MARTH_EVT_17|チキ様。$k\n$Wsチキ|$Wa……………………$k\n$Wsルキナ|$Wa$SvpSE_VOICE_MARTH_EVT_21|$E通常,|チキ様…？$k\n$Wsチキ|$Wd$w0|$Wmサイリ|7$w0|$Wsサイリ|$Wa$SvpSE_VOICE_SAYRI_EVT_20|お静かに。\n今、巫女様は儀式の最中だ。$k$pこの地に眠る神竜の力を借り、\nまもなく力を取り戻される。$k\n$Wsルキナ|$Wa$SvpSE_VOICE_MARTH_EVT_31|$E苦,汗|し、失礼しました…$k$p$E通常,|それにしても…\nまるで眠っておられるようですね…$k$p$SvpSE_VOICE_MARTH_EVT_34|$E笑,|とても穏やかな顔…\n夢を…見ておられるのでしょうか？$k\n$Wsサイリ|$Wd$w0|$Wmクロム|7$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_24|$E怒,|サイリ、ルキナ！\n儀式の最中にすまんが、敵襲だ。$k$p偶然か、狙われたのか…\n屍兵どもの大軍がここへ飛来してくる。$k
+MID_X017_OP3: $t1$Wmサイリ|7$Wmusername|3$w0|$Wsサイリ|$Wa$SvpSE_VOICE_SAYRI_EVT_23|巫女様は無防備だ。\n儀式が終わるまでお守りせねば…$k$p$E怒,|軍師殿、チキ様を守るように\n布陣をお願い致す。$k
+MID_X017_ED1A: $t1$Wmチキ|3$w0|$Wsチキ|$Wa……………$k\n$Wmサイリ|7$w0|$Wsサイリ|$Wa$SvpSE_VOICE_SAYRI_EVT_18|チキ様、ご無事ですか？$k\n$Wsチキ|$Wa$SvpSE_VOICE_TIKI_EVT_20|$E笑,|ええ、ありがとう。\nあなたたちのおかげ。$k$p時間はかかったけど…\n少しだけ力を取り戻すことができた。$k\n$Wsサイリ|$Wa$SvpSE_VOICE_SAYRI_EVT_9|神竜のお力、ですか？$k\n$Wsチキ|$Wa$SvpSE_VOICE_TIKI_EVT_4|$E通常,|この力があるから、私はずっとひとりぼっち。\nだからいつも一人で泣いてたわ。$k$pこんな力がなければ、\nみんなと仲良くいられるのにって。$k$p何もかも、昨日のことみたい…$k\n$Wsサイリ|$Wd$w0|$Wmルキナ|7$w0|$Wsルキナ|$Wa……チキ様…$k\n$Wsチキ|$Wa$SvpSE_VOICE_TIKI_EVT_16|でも、今はこの力が必要。\n止めなければいけない未来があるもの。$k$p私も力になるわ。\n私も一緒に行かせて。$k\n$Wsルキナ|$Wa$SvpSE_VOICE_MARTH_EVT_10|よろしいのですか？$k\n$Wsチキ|$Wa$SvpSE_VOICE_TIKI_EVT_15|$E笑,|だって、一人はさびしいもの。\nそれに…$k$pみんなが生きているこの世界を、\n私も守りたいの。$k
+MID_X017_ED1B: $t1$Wmサイリ|7$w0|$Wsサイリ|$Wa$SvpSE_VOICE_SAYRI_EVT_16|$E苦,汗|無念だ…\nお守りできなかった……$k$p巫女様……\n申し訳ありません……$k\n$Wmクロム|3$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_35|$E苦,汗|……この痛みは決して忘れない。\nこの痛みを抱えて…進むしかない。$k$p行こう。$k
+MID_X017_BT1: $t0$WmX017_ボス|0$w0|$WsX017_ボス|$Waミコ……コロス……\nニクキ……シンリュウ……$k
+MID_X017_BOSS_DIE1: $t0$WmX017_ボス|0$w0|$WsX017_ボス|$Wa……ミ……コ……$k
+MID_X017_DIE_チキ: $t1$Wmチキ|3$w0|$Wsチキ|$Wa$E苦,汗|…………$k

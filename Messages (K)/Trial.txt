@@ -1,0 +1,16 @@
+MESS_ARCHIVE_Trial
+
+
+Message Name: Message
+
+
+MID_TRIAL_TUT_システムメニュー: A Slide Guide has appeared\non the Touch Screen.
+MID_TRIAL_TUT_システムメニュー_2: Slide Guides present new information.\nUse the L/R Buttons to flip through the\npages below. Once you're ready to move\non, press the A Button.
+MID_TRIAL_TUT_システムメニュー_3: You can view these slides again at any time\nby selecting Guide from the System Menu.
+MID_TRIAL_TUT_チュートリアルオフ: Titles of relevant tutorials appear as\nalerts in the lower right of the 3D Screen.\nTo view them, move the cursor to an\nempty space and press the A Button.\nThis will open the System Menu.\nOnce there, choose the Guide option.
+MID_TRIAL_TUT_移動: $t0$Wmクロム|0$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_28|Good, we haven't been noticed.\nLet's get close while we can!$k$pI'll go first... Where should I\nmove to?$k
+MID_TRIAL_クロム以外をつかむ: $t0$Wmクロム|0$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_10|It's too dangerous. I'll go first.$k
+MID_TRIAL_TUT_制約の解除: $t0$Wmクロム|0$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_28|Good, now show the others where\nto move to.$k$pOr, if everyone is where you want\nthem to be, we can end our movement.$k
+MID_TRIAL_TUT_ユニットのロスト: $t0$WmP002_ボス|0$w0|$WsP002_ボス|$WaAlright boys, y'all know the routine!\nDon't let anyone stand in our way!$k$pIf you take someone down, make sure\nthey stay down!$k
+MID_TRIAL_TUT_戦闘: $t0$Wmクロム|0$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_42|$E怒,|We're close enough!\nNow, it's time to attack!$k
+MID_TRIAL_TUT_敵のＣＰ変更: $t0$WmP002_ボス|0$w0|Blast! The Shepherds!$k$pFinish 'em off! We'll deal\nwith the villagers later!$k

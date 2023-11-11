@@ -1,0 +1,8 @@
+MESS_ARCHIVE_E006G
+
+
+Message Name: Message
+
+
+MIID_予約０５: 실버 카드
+MIID_H_予約０５: 소지하고 있으면 상품을\n반값에 구입 가능

@@ -1,0 +1,71 @@
+MESS_ARCHIVE_ec
+
+
+Message Name: Message
+
+
+MEC_OK: OK
+MEC_Yes: 예
+MEC_No: 아니요
+MEC_InputPINCode: 비밀번호를 입력해 주십시오
+MEC_Retry: 재시도
+MEC_Err: 에러가 발생했습니다.
+MEC_Err_Connect: 다시 네트워크에 접속하려면\n「재시도」를 터치해 주십시오.
+MEC_Err_NoSD: SD 카드가 없습니다
+MEC_Err_NeedSD: 추가 콘텐츠를 이용하려면\nSD 카드가 필요합니다.
+MEC_Result: 에러 코드: %X
+MEC_Conn2AP: 액세스 포인트에 접속 중...
+MEC_DeletingContent: 콘텐츠를 삭제 중...
+MEC_InitSession: 준비 중...
+MEC_GettingBalance: 잔액 정보 취득 중...
+MEC_GettingContent: 추가 콘텐츠 목록 취득 중...
+MEC_GettingItemList: 항목 일람 작성 중...
+MEC_SDEjected: SD 카드가 분리되었습니다.\n처음으로 돌아갑니다.
+MEC_Purchase: 구입
+MEC_Redeem: 교환
+MEC_Filter: 필터
+MEC_Quit: 종료
+MEC_Delete: 삭제
+MEC_ReDL: 재다운로드
+MEC_CantFindItem: 해당되는 항목이 없습니다
+MEC_SelectItem: 추가 맵을 선택해 주십시오
+MEC_Input: 입력
+MEC_GettingCategoryList: 카테고리 목록을 작성 중...
+MEC_CatNotFound: 카테고리가 없습니다.
+MEC_SelectCategory: 카테고리를 선택해 주십시오.
+MEC_NotSelected: 선택되어 있지 않습니다
+MEC_InputSearchWord: 검색할 단어를 입력해 주십시오.
+MEC_UseECard: 교환권 이용
+MEC_SetECard: 교환권 번호 입력
+MEC_AddBalance: 잔액 추가
+MEC_Pages: (%d/%d페이지)
+MEC_ListContents: 콘텐츠 목록
+MEC_ManageContents: 추가 콘텐츠의 구입, 관리가 가능합니다
+MEC_SelectItem_Price_Header: 가격
+MEC_SelectItem_Price_Info: %ls%s%ls
+MEC_SelectItem_Price_Info_None: ----
+MEC_SelectItem_Block_Header: 필요한 블록 수
+MEC_SelectItem_Block_Set_Header: 필요한 최대 블록 수
+MEC_SelectItem_Block_Info: %d블록
+MEC_SelectItem_Release_Header: 발매일
+MEC_SelectItem_Release_Info: %04d/%d/%d
+MEC_SelectItem_Purchased: 구입 완료
+MEC_SelectItem_Purchased_ContentSet: 구입 완료
+MEC_SelectItem_Downloaded: 다운로드 완료
+MEC_SelectItem_Balance: 잔액: %ls%s%ls
+MEC_ParentalControl_Header: 보호자에 의한 사용 제한
+MEC_ParentalControl: 보호자에 의한 사용 제한 때문에\n「상품이나 서비스의 구입」이\n제한되어 있습니다.\n\n해제를 원하시는 경우에는, 비밀번호를\n입력해 주십시오.
+MEC_ContentSet_Header: 이미 구입한 것을 포함한 콘텐츠의 구입
+MEC_ContentSet: 구입하고자 하는 콘텐츠의\n일부에는, 이미 구입하신 것이 포함되어 있습니다.\n\n구입 절차를 계속 진행하겠습니까?
+MEC_Delete_Confirm_Header: 삭제 확인
+MEC_Delete_Confirm: 이 콘텐츠를 삭제하겠습니까?\n콘텐츠는 삭제해도\n후에 다시 다운로드할 수 있습니다.
+MEC_Delete_Exec: 전원을 끄거나,\nSD 카드를 뽑지 말아 주십시오.
+MEC_Delete_Complete_Header: 삭제 완료
+MEC_Delete_Complete: 콘텐츠의 삭제가 완료되었습니다.
+MEC_Guidance_Header: 조작 안내
+MEC_Guidance: 여기서부터는\n터치 조작으로 항목을 선택해 주십시오.
+MEC_InPreparation_Header: 알림
+MEC_InPreparation: 추가 맵은 현재 준비 중입니다.
+MEC_PurchaseEnd: 구매하지 않았습니다
+MEC_NewItem: 신작
+MEC_Free: 무료

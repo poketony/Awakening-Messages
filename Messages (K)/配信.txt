@@ -1,0 +1,777 @@
+MESS_ARCHIVE_配信
+
+
+Message Name: Message
+
+
+MID_BOSS_名前_ニーナ: 니나
+MID_BOSS_名前_シーダ: 시더
+MID_BOSS_名前_リンダ: 린다
+MID_BOSS_名前_マリク: 마리크
+MID_BOSS_名前_チキ: 치키
+MID_BOSS_名前_ミネルバ: 미네르바
+MID_BOSS_名前_オグマ: 오그마
+MID_BOSS_名前_ナバール: 나발루
+MID_BOSS_名前_ガーネフ: 가네프
+MID_BOSS_名前_マルス王子: 마르스 왕자
+MID_BOSS_名前_クレア: 클레어
+MID_BOSS_名前_ボーイ: 보이
+MID_BOSS_名前_マイセン: 마이센
+MID_BOSS_名前_バルボ: 발보
+MID_BOSS_名前_リュート: 류트
+MID_BOSS_名前_クレーベ: 클레베
+MID_BOSS_名前_ノーマ: 노마
+MID_BOSS_名前_ディーン: 딘
+MID_BOSS_名前_セリカ: 세리카
+MID_BOSS_名前_アルム: 아름
+MID_BOSS_名前_ノルン: 노른
+MID_BOSS_名前_カチュア: 카츄아
+MID_BOSS_名前_マリス: 마리스
+MID_BOSS_名前_アテナ: 아테나
+MID_BOSS_名前_ホルス: 호루스
+MID_BOSS_名前_エッツェル: 에첼
+MID_BOSS_名前_ローロー: 로로
+MID_BOSS_名前_カタリナ: 카타리나
+MID_BOSS_名前_ハーディン: 하딘
+MID_BOSS_名前_マルス王: 마르스 왕
+MID_BOSS_名前_ディアドラ: 디아도라
+MID_BOSS_名前_アーダン: 아단
+MID_BOSS_名前_ジャムカ: 자무카
+MID_BOSS_名前_ラケシス: 라케시스
+MID_BOSS_名前_エスリン: 에슬린
+MID_BOSS_名前_キュアン: 큐안
+MID_BOSS_名前_アイラ: 아이라
+MID_BOSS_名前_レヴィン: 레빈
+MID_BOSS_名前_アルヴィス: 알비스
+MID_BOSS_名前_シグルド: 시구르드
+MID_BOSS_名前_フィー: 피
+MID_BOSS_名前_アーサー: 아서
+MID_BOSS_名前_スカサハ: 스카사하
+MID_BOSS_名前_ラクチェ: 라크체
+MID_BOSS_名前_アルテナ: 아르테나
+MID_BOSS_名前_セティ: 세티
+MID_BOSS_名前_ユリア: 율리아
+MID_BOSS_名前_アレス: 아레스
+MID_BOSS_名前_ユリウス: 율리우스
+MID_BOSS_名前_セリス: 세리스
+MID_BOSS_名前_ナンナ: 난나
+MID_BOSS_名前_ダグダ: 다그다
+MID_BOSS_名前_セイラム: 세이람
+MID_BOSS_名前_オルエン: 올웬
+MID_BOSS_名前_エーヴェル: 에벨
+MID_BOSS_名前_フィン: 핀
+MID_BOSS_名前_サイアス: 사이어스
+MID_BOSS_名前_マリータ: 마리타
+MID_BOSS_名前_レイドリック: 레이드릭
+MID_BOSS_名前_リーフ: 리프
+MID_BOSS_名前_ウォルト: 울트
+MID_BOSS_名前_シャニー: 샤니
+MID_BOSS_名前_ルゥ: 루
+MID_BOSS_名前_レイ: 레이
+MID_BOSS_名前_ソフィーヤ: 소피야
+MID_BOSS_名前_セシリア: 세실리아
+MID_BOSS_名前_パーシバル: 퍼시벌
+MID_BOSS_名前_リリーナ: 리리나
+MID_BOSS_名前_ゼフィール: 제피르
+MID_BOSS_名前_ロイ: 로이
+MID_BOSS_名前_フロリーナ: 플로리나
+MID_BOSS_名前_ニノ: 니노
+MID_BOSS_名前_セーラ: 세라
+MID_BOSS_名前_マシュー: 매튜
+MID_BOSS_名前_カレル: 카렐
+MID_BOSS_名前_ジャファル: 자파르
+MID_BOSS_名前_リン: 린
+MID_BOSS_名前_ヘクトル: 헥터
+MID_BOSS_名前_ネルガル: 네르갈
+MID_BOSS_名前_エリウッド: 엘리우드
+MID_BOSS_名前_エイリーク: 에이리카
+MID_BOSS_名前_アメリア: 아멜리아
+MID_BOSS_名前_モルダ: 몰더
+MID_BOSS_名前_ルーテ: 루테
+MID_BOSS_名前_マリカ: 마리카
+MID_BOSS_名前_ヒーニアス: 히니어스
+MID_BOSS_名前_ラーチェル: 라첼
+MID_BOSS_名前_ゼト: 제트
+MID_BOSS_名前_リオン: 리온
+MID_BOSS_名前_エフラム: 에브라임
+MID_BOSS_名前_ミスト: 미스트
+MID_BOSS_名前_セネリオ: 세네리오
+MID_BOSS_名前_ワユ: 와유
+MID_BOSS_名前_ツイハーク: 치하크
+MID_BOSS_名前_ティアマト: 티아마트
+MID_BOSS_名前_エリンシア: 엘린시아
+MID_BOSS_名前_ジョフレ: 제프리
+MID_BOSS_名前_ルキノ: 루키노
+MID_BOSS_名前_アシュナード: 아슈나드
+MID_BOSS_名前_アイク: 아이크
+MID_BOSS_名前_エディ: 에디
+MID_BOSS_名前_レオナルド: 레오나르도
+MID_BOSS_名前_チャップ: 채프
+MID_BOSS_名前_ネフェニー: 네페니
+MID_BOSS_名前_サナキ: 사나키
+MID_BOSS_名前_シグルーン: 시그룬
+MID_BOSS_名前_サザ: 소더
+MID_BOSS_名前_漆黒の騎士: 칠흑의 기사
+MID_BOSS_名前_セフェラン: 세페란
+MID_BOSS_名前_ミカヤ: 미카야
+MID_BOSS_名前_カミュ: 카뮈
+MID_BOSS_名前_トラバント: 트라반트
+MID_BOSS_名前_イシュタル: 이슈타르
+MID_BOSS_名前_ナーシェン: 나셴
+MID_BOSS_名前_ロイド: 로이드
+MID_BOSS_名前_ライナス: 라이너스
+MID_BOSS_名前_ウルスラ: 우르술라
+MID_BOSS_名前_セライナ: 세라이나
+MID_BOSS_名前_プラハ: 프라하
+MID_BOSS_名前_オリヴァー: 올리버
+MID_BOSS_名前_エルトシャン: 엘트샨
+MID_BOSS_挨拶会話_ニーナ: 저는 아카네이아의 공주 니나입니다.
+MID_BOSS_挨拶会話_シーダ: 당신은 사랑을 믿나요?
+MID_BOSS_挨拶会話_リンダ: 전 대사제 미로아의 딸이에요.
+MID_BOSS_挨拶会話_マリク: 난 마리크야. 마도사지.
+MID_BOSS_挨拶会話_チキ: 난 신룡족의 마지막 생존자야.
+MID_BOSS_挨拶会話_ミネルバ: 전 마케도니아의 미네르바입니다.
+MID_BOSS_挨拶会話_オグマ: 난 타리스의 용병이다.
+MID_BOSS_挨拶会話_ナバール: 날 움직이는 건 돈뿐이다.
+MID_BOSS_挨拶会話_ガーネフ: 이 몸은 가네프다.
+MID_BOSS_挨拶会話_マルス王子: 나는 마르스, 아리티아의 왕자다.
+MID_BOSS_挨拶会話_クレア: 저는 클레어, 소피아의 기사입니다.
+MID_BOSS_挨拶会話_ボーイ: The name's Boey. I wield magic.
+MID_BOSS_挨拶会話_マイセン: I renounced the world long ago.
+MID_BOSS_挨拶会話_バルボ: Just call me "the armor."
+MID_BOSS_挨拶会話_リュート: 여동생에겐 내가 필요해…
+MID_BOSS_挨拶会話_クレーベ: 나는 클레베, 소피아의 기사다.
+MID_BOSS_挨拶会話_ノーマ: 난 노마라네, 미라님의 사제지.
+MID_BOSS_挨拶会話_ディーン: Don't make me hurt you, pup.
+MID_BOSS_挨拶会話_セリカ: Do you and I have business?
+MID_BOSS_挨拶会話_アルム: The Zofians need protection!
+MID_BOSS_挨拶会話_ノルン: I'll save the curtsies for later.
+MID_BOSS_挨拶会話_カチュア: I am Catria of the Whitewings.
+MID_BOSS_挨拶会話_マリス: My sword doesn't come cheap.
+MID_BOSS_挨拶会話_アテナ: Ve are a voman. Vun voman!
+MID_BOSS_挨拶会話_ホルス: Once, I called myself a knight.
+MID_BOSS_挨拶会話_エッツェル: My name is Etzel. I know magic.
+MID_BOSS_挨拶会話_ローロー: What needs do yous have of us?
+MID_BOSS_挨拶会話_カタリナ: 카타리나라고 불러 주세요.
+MID_BOSS_挨拶会話_ハーディン: Begone, you pismires.
+MID_BOSS_挨拶会話_マルス王: 나는 마르스, 아리티아의 왕이다.
+MID_BOSS_挨拶会話_ディアドラ: 'Tis good to see a friendly face.
+MID_BOSS_挨拶会話_アーダン: I'm strong and reliable, but...
+MID_BOSS_挨拶会話_ジャムカ: Easy. I mean you no harm.
+MID_BOSS_挨拶会話_ラケシス: Was there something you need?
+MID_BOSS_挨拶会話_エスリン: I'm Ethlyn, wife to Quan.
+MID_BOSS_挨拶会話_キュアン: I am Quan of Leonster.
+MID_BOSS_挨拶会話_アイラ: I'm the keenest blade in Isaach.
+MID_BOSS_挨拶会話_レヴィン: I'm just a wayward troubadour.
+MID_BOSS_挨拶会話_アルヴィス: I wonder what makes you tick...
+MID_BOSS_挨拶会話_シグルド: 난 그란벨 왕국의 기사다.
+MID_BOSS_挨拶会話_フィー: 내 이름은 피야.
+MID_BOSS_挨拶会話_アーサー: I can spare a few moments.
+MID_BOSS_挨拶会話_スカサハ: I'm Ulster. I hail from Tirnanog.
+MID_BOSS_挨拶会話_ラクチェ: I'm Larcei―and this, my sword.
+MID_BOSS_挨拶会話_アルテナ: I am Altena, daughter of Quan.
+MID_BOSS_挨拶会話_セティ: I am Ced, of the Magi.
+MID_BOSS_挨拶会話_ユリア: 응? 당신은 누구야?
+MID_BOSS_挨拶会話_アレス: I am the black knight Ares.
+MID_BOSS_挨拶会話_ユリウス: All Loptyr's power is mine!
+MID_BOSS_挨拶会話_セリス: I command the liberation army.
+MID_BOSS_挨拶会話_ナンナ: I'm Raquesis's daughter.
+MID_BOSS_挨拶会話_ダグダ: I be Dagdar of Mt. Violdrake!
+MID_BOSS_挨拶会話_セイラム: I was once a Loptyrian priest...
+MID_BOSS_挨拶会話_オルエン: My name is Olwen.
+MID_BOSS_挨拶会話_エーヴェル: I am Eyvel, mistress of Fiana.
+MID_BOSS_挨拶会話_フィン: I am Finn, a knight of Leonster.
+MID_BOSS_挨拶会話_サイアス: Good day. I am Saias.
+MID_BOSS_挨拶会話_マリータ: I honor my mother, Eyvel!
+MID_BOSS_挨拶会話_レイドリック: Heh. Run along, children.
+MID_BOSS_挨拶会話_リーフ: I'm Leif. I come from Leonster.
+MID_BOSS_挨拶会話_ウォルト: Call me Wolt. I'm from Pherae.
+MID_BOSS_挨拶会話_シャニー: What? Do you need something?
+MID_BOSS_挨拶会話_ルゥ: 난 리키아에서 왔어.
+MID_BOSS_挨拶会話_レイ: What are you supposed to be?
+MID_BOSS_挨拶会話_ソフィーヤ: 저는… 소피야입니다…
+MID_BOSS_挨拶会話_セシリア: 난 에토르리아의 세실리아야.
+MID_BOSS_挨拶会話_パーシバル: 사람들은 날 퍼시벌이라 부르지.
+MID_BOSS_挨拶会話_リリーナ: 오스티아 후작가의 리리나야.
+MID_BOSS_挨拶会話_ゼフィール: 용건을 말해라. 벌레 놈.
+MID_BOSS_挨拶会話_ロイ: 난 펠레 후작의 아들이야.
+MID_BOSS_挨拶会話_フロリーナ: 저… 저는 플로리나예요…
+MID_BOSS_挨拶会話_ニノ: 음, 도와드릴까요?
+MID_BOSS_挨拶会話_セーラ: 난 세라야. 만나서 반가워.
+MID_BOSS_挨拶会話_マシュー: I specialize in acquisitions...
+MID_BOSS_挨拶会話_カレル: 난 카렐. 검의 길이 내 전부다.
+MID_BOSS_挨拶会話_ジャファル: 난 더 이상 살인 도구가 아냐.
+MID_BOSS_挨拶会話_リン: 난 롤카족의 린이라고 해.
+MID_BOSS_挨拶会話_ヘクトル: 난 오스티아 후작의 동생이야.
+MID_BOSS_挨拶会話_ネルガル: 여긴… 내가 왜 이곳에 있는 거지?
+MID_BOSS_挨拶会話_エリウッド: I'm a noble of Pherae.
+MID_BOSS_挨拶会話_エイリーク: My name is Eirika.
+MID_BOSS_挨拶会話_アメリア: I'm Amelia, a soldier of Grado.
+MID_BOSS_挨拶会話_モルダ: May I help you?
+MID_BOSS_挨拶会話_ルーテ: I'm a mage! Possibly the best.
+MID_BOSS_挨拶会話_マリカ: What?
+MID_BOSS_挨拶会話_ヒーニアス: I'm the prince of Frelia.
+MID_BOSS_挨拶会話_ラーチェル: I serve the powers above!
+MID_BOSS_挨拶会話_ゼト: Who goes there?
+MID_BOSS_挨拶会話_リオン: I am Prince Lyon of Grado.
+MID_BOSS_挨拶会話_エフラム: I am Ephraim, Prince of Renais.
+MID_BOSS_挨拶会話_ミスト: 난 미스트. 아이크 오빠의 여동생이야.
+MID_BOSS_挨拶会話_セネリオ: 뭔가 필요하신 게 있으십니까?
+MID_BOSS_挨拶会話_ワユ: 나는 와유, 크리미아 용병이야.
+MID_BOSS_挨拶会話_ツイハーク: 난 토하 자경단에서 왔다.
+MID_BOSS_挨拶会話_ティアマト: 난 그레일 용병단의 부단장이야.
+MID_BOSS_挨拶会話_エリンシア: 저는 크리미아 왕가의 계승자예요.
+MID_BOSS_挨拶会話_ジョフレ: 나는 제프리, 크리미아의 기사다.
+MID_BOSS_挨拶会話_ルキノ: 나는 루키노, 크리미아의 기사야.
+MID_BOSS_挨拶会話_アシュナード: 그대는 누구냐, 하등한 것이여?
+MID_BOSS_挨拶会話_アイク: 난 그레일 용병단에서 왔어.
+MID_BOSS_挨拶会話_エディ: 난 새벽단의 일원이라구.
+MID_BOSS_挨拶会話_レオナルド: 원하는 게 있어?
+MID_BOSS_挨拶会話_チャップ: 넌 누구야?
+MID_BOSS_挨拶会話_ネフェニー: 뭘 그렇게 쳐다보는 거야…
+MID_BOSS_挨拶会話_サナキ: 나는 사나키, 베그니온의 신사이니라.
+MID_BOSS_挨拶会話_シグルーン: 신사 친위대 대장 시그룬입니다! 
+MID_BOSS_挨拶会話_サザ: 난 새벽단의 소더야. 잘 부탁해. 
+MID_BOSS_挨拶会話_漆黒の騎士: 나는 데인의 사준 중 한 명이다.
+MID_BOSS_挨拶会話_セフェラン: 과거는 신경 쓰지 말아 주세요.
+MID_BOSS_挨拶会話_ミカヤ: 나는 새벽단의 일원인 미카야라고 해.
+MID_BOSS_挨拶会話_カミュ: I am Camus of Grust.
+MID_BOSS_挨拶会話_トラバント: 나는 트라반트다.
+MID_BOSS_挨拶会話_イシュタル: I am goddess of lightning itself!
+MID_BOSS_挨拶会話_ナーシェン: I'll not honor you with my name.
+MID_BOSS_挨拶会話_ロイド: I am son of Brendan Reed.
+MID_BOSS_挨拶会話_ライナス: My father leads the Black Fang.
+MID_BOSS_挨拶会話_ウルスラ: I'm not like the other filth.
+MID_BOSS_挨拶会話_セライナ: I am a general in Grado's army.
+MID_BOSS_挨拶会話_プラハ: Dog's breath! Who are you?
+MID_BOSS_挨拶会話_オリヴァー: I am committed only to beauty.
+MID_BOSS_戦闘会話_ニーナ: You are certain we must fight?
+MID_BOSS_戦闘会話_シーダ: You'd turn your sword on me?
+MID_BOSS_戦闘会話_リンダ: Try me, then!
+MID_BOSS_戦闘会話_マリク: Wait... Why are we fighting!?
+MID_BOSS_戦闘会話_チキ: No... Stop... Come no closer...
+MID_BOSS_戦闘会話_ミネルバ: Then you leave me no choice.
+MID_BOSS_戦闘会話_オグマ: I knew we'd have to settle this.
+MID_BOSS_戦闘会話_ナバール: Will you weep tears or blood?
+MID_BOSS_戦闘会話_ガーネフ: That's what you think!
+MID_BOSS_戦闘会話_マルス王子: I will prevail!
+MID_BOSS_戦闘会話_クレア: I'll not be tricked again!
+MID_BOSS_戦闘会話_ボーイ: I'm not as green as you think!
+MID_BOSS_戦闘会話_マイセン: This path holds only sadness...
+MID_BOSS_戦闘会話_バルボ: Attack!
+MID_BOSS_戦闘会話_リュート: Looking to test my magic?
+MID_BOSS_戦闘会話_クレーベ: You'll not cut my plans short!
+MID_BOSS_戦闘会話_ノーマ: Let the goddess take you, then!
+MID_BOSS_戦闘会話_ディーン: You'll feel the kiss of my sword.
+MID_BOSS_戦闘会話_セリカ: Couldn't we talk this through?
+MID_BOSS_戦闘会話_アルム: You leave me with no choice.
+MID_BOSS_戦闘会話_ノルン: I always get the job done!
+MID_BOSS_戦闘会話_カチュア: Very well! Here I come!
+MID_BOSS_戦闘会話_マリス: Heh. What are you waiting for?
+MID_BOSS_戦闘会話_アテナ: Vat? You have death vish?
+MID_BOSS_戦闘会話_ホルス: Then ready your weapon.
+MID_BOSS_戦闘会話_エッツェル: Just what I need...
+MID_BOSS_戦闘会話_ローロー: Uwee hee! A fights it is, then!
+MID_BOSS_戦闘会話_カタリナ: So, we stand as enemies...
+MID_BOSS_戦闘会話_ハーディン: Come to the slaughter, varlets!
+MID_BOSS_戦闘会話_マルス王: I will fight until my body breaks!
+MID_BOSS_戦闘会話_ディアドラ: Oh no... What should I do?
+MID_BOSS_戦闘会話_アーダン: ...Don't call me "lumbering"!
+MID_BOSS_戦闘会話_ジャムカ: Stop! I don't want to hurt you!
+MID_BOSS_戦闘会話_ラケシス: Come no closer, you swine!
+MID_BOSS_戦闘会話_エスリン: I feared it might come to this.
+MID_BOSS_戦闘会話_キュアン: Oh, so you want a hard lesson?
+MID_BOSS_戦闘会話_アイラ: Woe be to all who cross me!
+MID_BOSS_戦闘会話_レヴィン: Lovely...
+MID_BOSS_戦闘会話_アルヴィス: You miserable fool...
+MID_BOSS_戦闘会話_シグルド: War is such an ugly thing...
+MID_BOSS_戦闘会話_フィー: Are you tough? I hope so!
+MID_BOSS_戦闘会話_アーサー: Ah! A challenge it is, then.
+MID_BOSS_戦闘会話_スカサハ: I hope our strength suffices...
+MID_BOSS_戦闘会話_ラクチェ: I will never run again!
+MID_BOSS_戦闘会話_アルテナ: Spare me your ravings!
+MID_BOSS_戦闘会話_セティ: I'm far tougher than I look!
+MID_BOSS_戦闘会話_ユリア: I'll neither cower nor flee!
+MID_BOSS_戦闘会話_アレス: Mystletainn thirsts for blood...
+MID_BOSS_戦闘会話_ユリウス: You don't scare me, maggot.
+MID_BOSS_戦闘会話_セリス: I must be strong like Father!
+MID_BOSS_戦闘会話_ナンナ: Have you gone mad!?
+MID_BOSS_戦闘会話_ダグダ: Come at me, one and all!
+MID_BOSS_戦闘会話_セイラム: Begone from here!
+MID_BOSS_戦闘会話_オルエン: What compels you to do this!?
+MID_BOSS_戦闘会話_エーヴェル: In the name of the Freeblades!
+MID_BOSS_戦闘会話_フィン: I accept your challenge!
+MID_BOSS_戦闘会話_サイアス: You have no hope against me.
+MID_BOSS_戦闘会話_マリータ: I won't lose to the likes of you!
+MID_BOSS_戦闘会話_レイドリック: You won't leave here alive!
+MID_BOSS_戦闘会話_リーフ: 맹세컨데 당신을 쓰러뜨리겠어!
+MID_BOSS_戦闘会話_ウォルト: Heh. Just try me!
+MID_BOSS_戦闘会話_シャニー: All right. You asked for it!
+MID_BOSS_戦闘会話_ルゥ: I won't let you hurt the others!
+MID_BOSS_戦闘会話_レイ: The world lacks not for fools...
+MID_BOSS_戦闘会話_ソフィーヤ: Your actions...sadden me...
+MID_BOSS_戦闘会話_セシリア: I will face this crucial test.
+MID_BOSS_戦闘会話_パーシバル: Victory is won with caution.
+MID_BOSS_戦闘会話_リリーナ: Watch over me, Father.
+MID_BOSS_戦闘会話_ゼフィール: None stand in my path for long.
+MID_BOSS_戦闘会話_ロイ: I'll pick up that gauntlet!
+MID_BOSS_戦闘会話_フロリーナ: I'm sorry...
+MID_BOSS_戦闘会話_ニノ: I will become worthy... I will.
+MID_BOSS_戦闘会話_セーラ: Ewww! I loathe violence!
+MID_BOSS_戦闘会話_マシュー: Whoa! S-stay your arm!
+MID_BOSS_戦闘会話_カレル: Heh. This is no tea party.
+MID_BOSS_戦闘会話_ジャファル: So be it...
+MID_BOSS_戦闘会話_リン: I've got to fight back!
+MID_BOSS_戦闘会話_ヘクトル: I'll witness your skills firsthand!
+MID_BOSS_戦闘会話_ネルガル: Yes! Use all your strength!
+MID_BOSS_戦闘会話_エリウッド: I've no love for war...
+MID_BOSS_戦闘会話_エイリーク: We will drive you back!
+MID_BOSS_戦闘会話_アメリア: ...I have to fight you?
+MID_BOSS_戦闘会話_モルダ: Be reasonable...
+MID_BOSS_戦闘会話_ルーテ: You are simply no match for me.
+MID_BOSS_戦闘会話_マリカ: I'll accept a match anytime.
+MID_BOSS_戦闘会話_ヒーニアス: Trying to fight me is a mistake.
+MID_BOSS_戦闘会話_ラーチェル: We were brought here to win!
+MID_BOSS_戦闘会話_ゼト: Prepare yourself.
+MID_BOSS_戦闘会話_リオン: I will surely...destroy you...
+MID_BOSS_戦闘会話_エフラム: I don't pick fights I cannot win.
+MID_BOSS_戦闘会話_ミスト: 싸우고 싶지는 않았는데…
+MID_BOSS_戦闘会話_セネリオ: 폭력은 최선의 해결책이 아닙니다.
+MID_BOSS_戦闘会話_ワユ: 그럼 시작하자!
+MID_BOSS_戦闘会話_ツイハーク: 싸움은 싫어한다만…
+MID_BOSS_戦闘会話_ティアマト: 좋아. 도전을 받아 줄게.
+MID_BOSS_戦闘会話_エリンシア: 이제 어떤 시련도 두려워하지 않겠어요!
+MID_BOSS_戦闘会話_ジョフレ: 크리미아에 영광 있으리!
+MID_BOSS_戦闘会話_ルキノ: 싸울 시간이 다가왔군요!
+MID_BOSS_戦闘会話_アシュナード: 날 실망시키지 말도록.
+MID_BOSS_戦闘会話_アイク: 어서 덤비라고!
+MID_BOSS_戦闘会話_エディ: Don't you look down on me!
+MID_BOSS_戦闘会話_レオナルド: We're totally outclassed...
+MID_BOSS_戦闘会話_チャップ: You dang fools...
+MID_BOSS_戦闘会話_ネフェニー: I reckon you should clear out.
+MID_BOSS_戦闘会話_サナキ: 나는 포기하지 않을 것이다.
+MID_BOSS_戦闘会話_シグルーン: We will engage you now!
+MID_BOSS_戦闘会話_サザ: I'll give you a fight.
+MID_BOSS_戦闘会話_漆黒の騎士: Have at me and learn your folly.
+MID_BOSS_戦闘会話_セフェラン: You insist on a fight?
+MID_BOSS_戦闘会話_ミカヤ: The goddess judges all equally.
+MID_BOSS_戦闘会話_カミュ: You are mere dust in my cloak.
+MID_BOSS_戦闘会話_トラバント: I show no mercy to the defiant!
+MID_BOSS_戦闘会話_イシュタル: No words will suffice, I see.
+MID_BOSS_戦闘会話_ナーシェン: I am always right! No one else!
+MID_BOSS_戦闘会話_ロイド: The Fang has sentenced you.
+MID_BOSS_戦闘会話_ライナス: I'll kill you for sure!
+MID_BOSS_戦闘会話_ウルスラ: Tell me... Are you afraid to die?
+MID_BOSS_戦闘会話_セライナ: Make your peace now...
+MID_BOSS_戦闘会話_プラハ: Here to provide entertainment?
+MID_BOSS_戦闘会話_オリヴァー: Come now, come to daddy!
+MID_BOSS_仲間会話_ニーナ: Destiny brought us together.
+MID_BOSS_仲間会話_シーダ: I knew you were a fine person.
+MID_BOSS_仲間会話_リンダ: I will fight with you.
+MID_BOSS_仲間会話_マリク: Mine is the ultimate magic!
+MID_BOSS_仲間会話_チキ: Promise? I hate being alone...
+MID_BOSS_仲間会話_ミネルバ: My gratitude.
+MID_BOSS_仲間会話_オグマ: I'll help in whatever way I can.
+MID_BOSS_仲間会話_ナバール: My sword is yours.
+MID_BOSS_仲間会話_ガーネフ: Ha! I shall lend you my power.
+MID_BOSS_仲間会話_マルス王子: Let us fight together!
+MID_BOSS_仲間会話_クレア: Yes, take me with you.
+MID_BOSS_仲間会話_ボーイ: You're lucky to have me.
+MID_BOSS_仲間会話_マイセン: Fate has spoken, I suppose...
+MID_BOSS_仲間会話_バルボ: Careful. I'm hard to get rid of!
+MID_BOSS_仲間会話_リュート: You want me? You've got me.
+MID_BOSS_仲間会話_クレーベ: We need a strong leader.
+MID_BOSS_仲間会話_ノーマ: Mila shall guide us both, then.
+MID_BOSS_仲間会話_ディーン: All right. Twist my arm.
+MID_BOSS_仲間会話_セリカ: I'll find some way to help you.
+MID_BOSS_仲間会話_アルム: Our cause needs folk like you!
+MID_BOSS_仲間会話_ノルン: You reckon I'll be useful?
+MID_BOSS_仲間会話_カチュア: I'll fight my hardest for you!
+MID_BOSS_仲間会話_マリス: I'll try to stand your company.
+MID_BOSS_仲間会話_アテナ: Very vell. Our strength is yours!
+MID_BOSS_仲間会話_ホルス: You...would claim this life?
+MID_BOSS_仲間会話_エッツェル: All right. You seem trustworthy.
+MID_BOSS_仲間会話_ローロー: Yesss! The Legion is yourses!
+MID_BOSS_仲間会話_カタリナ: Ah! Really? I'll do my best...
+MID_BOSS_仲間会話_ハーディン: I'll tolerate this farce...for now.
+MID_BOSS_仲間会話_マルス王: Let us fight together!
+MID_BOSS_仲間会話_ディアドラ: Thank you.
+MID_BOSS_仲間会話_アーダン: *Sigh* It's not easy being me.
+MID_BOSS_仲間会話_ジャムカ: You make an impassioned case.
+MID_BOSS_仲間会話_ラケシス: You'll help me find my brother?
+MID_BOSS_仲間会話_エスリン: My staff is yours.
+MID_BOSS_仲間会話_キュアン: I would be honored to help.
+MID_BOSS_仲間会話_アイラ: Then count my blade as yours.
+MID_BOSS_仲間会話_レヴィン: Where are the fetching women?
+MID_BOSS_仲間会話_アルヴィス: Very courageous of you.
+MID_BOSS_仲間会話_シグルド: I need allies of your caliber.
+MID_BOSS_仲間会話_フィー: Partners it is, then!
+MID_BOSS_仲間会話_アーサー: All right. I'll join you for a spell.
+MID_BOSS_仲間会話_スカサハ: Allow me to join you.
+MID_BOSS_仲間会話_ラクチェ: Take me with you!
+MID_BOSS_仲間会話_アルテナ: Gladly would I join your ranks.
+MID_BOSS_仲間会話_セティ: Together, we are unbreakable!
+MID_BOSS_仲間会話_ユリア: I shall accompany you.
+MID_BOSS_仲間会話_アレス: ...Just for a while, then.
+MID_BOSS_仲間会話_ユリウス: Hm... I'll consider it.
+MID_BOSS_仲間会話_セリス: As the gods will it.
+MID_BOSS_仲間会話_ナンナ: My strength is appealing, huh?
+MID_BOSS_仲間会話_ダグダ: Aye. Come to Dagdar!
+MID_BOSS_仲間会話_セイラム: Do we seek the same thing?
+MID_BOSS_仲間会話_オルエン: Might I accompany you?
+MID_BOSS_仲間会話_エーヴェル: Then I shall join you.
+MID_BOSS_仲間会話_フィン: You seek an alliance?
+MID_BOSS_仲間会話_サイアス: I shall never abandon you.
+MID_BOSS_仲間会話_マリータ: Please, take me along, too!
+MID_BOSS_仲間会話_レイドリック: Perhaps I could be convinced...
+MID_BOSS_仲間会話_リーフ: I never turn away a comrade.
+MID_BOSS_仲間会話_ウォルト: I'm hoping to learn a lot.
+MID_BOSS_仲間会話_シャニー: I guess that makes us a team.
+MID_BOSS_仲間会話_ルゥ: Take me with you, please!
+MID_BOSS_仲間会話_レイ: Maybe I should join you.
+MID_BOSS_仲間会話_ソフィーヤ: A-all right. Lead the way.
+MID_BOSS_仲間会話_セシリア: Ah. There's an interesting idea.
+MID_BOSS_仲間会話_パーシバル: My strength is yours.
+MID_BOSS_仲間会話_リリーナ: I've decided to join you!
+MID_BOSS_仲間会話_ゼフィール: What? You seek my company?
+MID_BOSS_仲間会話_ロイ: Very well. You've convinced me.
+MID_BOSS_仲間会話_フロリーナ: I think I could be of help!
+MID_BOSS_仲間会話_ニノ: I can travel with you?
+MID_BOSS_仲間会話_セーラ: Wait for me! I'm coming, too!
+MID_BOSS_仲間会話_マシュー: I'm going with you!
+MID_BOSS_仲間会話_カレル: Very well. I will join you.
+MID_BOSS_仲間会話_ジャファル: ...Do not think us "friends."
+MID_BOSS_仲間会話_リン: You'd let me travel with you?
+MID_BOSS_仲間会話_ヘクトル: Well met!
+MID_BOSS_仲間会話_ネルガル: You cannot alter destiny.
+MID_BOSS_仲間会話_エリウッド: Well, I am here to help.
+MID_BOSS_仲間会話_エイリーク: Let's go, then.
+MID_BOSS_仲間会話_アメリア: I'll do my best.
+MID_BOSS_仲間会話_モルダ: At last, some happy news.
+MID_BOSS_仲間会話_ルーテ: I am superior, after all.
+MID_BOSS_仲間会話_マリカ: I'll fight at your side.
+MID_BOSS_仲間会話_ヒーニアス: Hm. Very well.
+MID_BOSS_仲間会話_ラーチェル: Clearly, I must accompany you.
+MID_BOSS_仲間会話_ゼト: Then let's be off.
+MID_BOSS_仲間会話_リオン: I will always be on your side.
+MID_BOSS_仲間会話_エフラム: I'd appreciate your help.
+MID_BOSS_仲間会話_ミスト: Let's go teach those bad guys!
+MID_BOSS_仲間会話_セネリオ: Fine... But I belong elsewhere.
+MID_BOSS_仲間会話_ワユ: Right. You don't mind, do you?
+MID_BOSS_仲間会話_ツイハーク: I will join your group.
+MID_BOSS_仲間会話_ティアマト: Let's fight this together.
+MID_BOSS_仲間会話_エリンシア: I'll join you on the battle lines.
+MID_BOSS_仲間会話_ジョフレ: All right. Count me in.
+MID_BOSS_仲間会話_ルキノ: Of course. I'd be honored.
+MID_BOSS_仲間会話_アシュナード: The things I'm willing to do...
+MID_BOSS_仲間会話_アイク: Seems we should fight together.
+MID_BOSS_仲間会話_エディ: Sure. I'll go with you.
+MID_BOSS_仲間会話_レオナルド: I'll do what I can.
+MID_BOSS_仲間会話_チャップ: I could lend ya a hand.
+MID_BOSS_仲間会話_ネフェニー: But I'm just a country girl...
+MID_BOSS_仲間会話_サナキ: I shall fight with you.
+MID_BOSS_仲間会話_シグルーン: I will not leave your side.
+MID_BOSS_仲間会話_サザ: What a strange twist of chance.
+MID_BOSS_仲間会話_漆黒の騎士: I shall be your shield.
+MID_BOSS_仲間会話_セフェラン: But...I know only despair...
+MID_BOSS_仲間会話_ミカヤ: All right. Let's go.
+MID_BOSS_仲間会話_カミュ: This could prove interesting...
+MID_BOSS_仲間会話_トラバント: I'll deliver on your expectations.
+MID_BOSS_仲間会話_イシュタル: You desire I fight with you?
+MID_BOSS_仲間会話_ナーシェン: Are you certain? Heh heh...
+MID_BOSS_仲間会話_ロイド: Uh, you want me to join you?
+MID_BOSS_仲間会話_ライナス: Fight...with you!?
+MID_BOSS_仲間会話_ウルスラ: An alliance? Hard to fathom...
+MID_BOSS_仲間会話_セライナ: My heart still belongs to Grado.
+MID_BOSS_仲間会話_プラハ: All right, I'm coming.
+MID_BOSS_仲間会話_オリヴァー: I stand with the beautiful.
+MID_BOSS_チーム名_暗黒竜と光の剣: 암흑룡과 빛의 검
+MID_BOSS_チーム名_外伝: 외전
+MID_BOSS_チーム名_紋章の謎: 문장의 수수께끼
+MID_BOSS_チーム名_聖戦の系譜(親): 성전의 계보 (1부)
+MID_BOSS_チーム名_聖戦の系譜(子): 성전의 계보 (2부)
+MID_BOSS_チーム名_トラキア７７６: 트라키아 776
+MID_BOSS_チーム名_封印の剣: 봉인의 검
+MID_BOSS_チーム名_烈火の剣: 열화의 검
+MID_BOSS_チーム名_聖魔の光石: 성마의 광석
+MID_BOSS_チーム名_蒼炎の軌跡: 창염의 궤적
+MID_BOSS_チーム名_暁の女神: 새벽의 여신
+MID_BOSS_チーム名_敵将: 적장
+MID_BOSS_チーム名_★０１: ★０１
+MID_BOSS_チーム名_★０２: ★０２
+MID_BOSS_チーム名_★０３: ★０３
+MID_BOSS_チーム名_★０４: ★０４
+MID_BOSS_チーム名_★０５: ★０５
+MID_BOSS_チーム名_★０６: ★０６
+MID_BOSS_チーム名_★０７: ★０７
+MID_BOSS_チーム名_★０８: ★０８
+MID_BOSS_チーム名_★０９: ★０９
+MID_BOSS_チーム名_★１０: ★１０
+MID_BOSS_チーム名_★１１: ★１１
+MID_BOSS_チーム名_★１２: ★１２
+MID_BOSS_チーム名_★１３: ★１３
+MID_BOSS_チーム名_★１４: ★１４
+MID_BOSS_チーム名_★１５: ★１５
+MID_BOSS_チーム名_★１６: ★１６
+MID_BOSS_チーム名_★１７: ★１７
+MID_BOSS_チーム名_★１８: ★１８
+MID_BOSS_チーム名_★１９: ★１９
+MID_BOSS_チーム名_★２０: ★２０
+MID_BOSS_チーム名_★２１: ★２１
+MID_BOSS_チーム名_★２２: ★２２
+MID_BOSS_ランダムユニット_001: Wymp
+MID_BOSS_ランダムユニット_002: Owend
+MID_BOSS_ランダムユニット_003: Laim
+MID_BOSS_ランダムユニット_004: Auffle
+MID_BOSS_ランダムユニット_005: Lucer
+MID_BOSS_ランダムユニット_006: Rejek
+MID_BOSS_ランダムユニット_007: Wieklin
+MID_BOSS_ランダムユニット_008: Dudd
+MID_BOSS_ランダムユニット_009: Phail
+MID_BOSS_ランダムユニット_010: Neubee
+MID_BOSS_ランダムユニット_011: Pionn
+MID_BOSS_ランダムユニット_012: Klotz
+MID_BOSS_ランダムユニット_013: Anlor
+MID_BOSS_ランダムユニット_014: Xeyod
+MID_BOSS_ランダムユニット_015: Yenther
+MID_BOSS_ランダムユニット_016: Essit
+MID_BOSS_ランダムユニット_017: Yimer
+MID_BOSS_ランダムユニット_018: Chanttai
+MID_BOSS_ランダムユニット_019: Dossgar
+MID_BOSS_ランダムユニット_020: Laell
+MID_BOSS_ランダムユニット_021: Koil
+MID_BOSS_ランダムユニット_022: Rynen
+MID_BOSS_ランダムユニット_023: Elmn
+MID_BOSS_ランダムユニット_024: Nezuse
+MID_BOSS_ランダムユニット_025: Murid
+MID_BOSS_ランダムユニット_026: Gyzug
+MID_BOSS_ランダムユニット_027: Usul
+MID_BOSS_ランダムユニット_028: Nedra
+MID_BOSS_ランダムユニット_029: Omdel
+MID_BOSS_ランダムユニット_030: Daneld
+MID_BOSS_ランダムユニット_031: Tenris
+MID_BOSS_ランダムユニット_032: Lund
+MID_BOSS_ランダムユニット_033: Ran'sul
+MID_BOSS_ランダムユニット_034: Belquaine
+MID_BOSS_ランダムユニット_035: Fortin
+MID_BOSS_ランダムユニット_036: Quath
+MID_BOSS_ランダムユニット_037: Hatom
+MID_BOSS_ランダムユニット_038: Onjine
+MID_BOSS_ランダムユニット_039: Shyone
+MID_BOSS_ランダムユニット_040: Awvere
+MID_BOSS_ランダムユニット_041: Leeroy
+MID_BOSS_ランダムユニット_042: Thronce
+MID_BOSS_ランダムユニット_043: Rairrad
+MID_BOSS_ランダムユニット_044: Oldsam
+MID_BOSS_ランダムユニット_045: Savol
+MID_BOSS_ランダムユニット_046: Cenn
+MID_BOSS_ランダムユニット_047: Lleut
+MID_BOSS_ランダムユニット_048: Strobur
+MID_BOSS_ランダムユニット_049: Mihid
+MID_BOSS_ランダムユニット_050: Ath'kali
+MID_BOSS_ランダムユニット_051: Nysll
+MID_BOSS_ランダムユニット_052: Cerel
+MID_BOSS_ランダムユニット_053: Rodshy
+MID_BOSS_ランダムユニット_054: Kincer
+MID_BOSS_ランダムユニット_055: Ghavor
+MID_BOSS_ランダムユニット_056: Eteng
+MID_BOSS_ランダムユニット_057: Mahinorm
+MID_BOSS_ランダムユニット_058: Kelroth
+MID_BOSS_ランダムユニット_059: Nal'quae
+MID_BOSS_ランダムユニット_060: Naisden
+MID_BOSS_ランダムユニット_061: Hefrak
+MID_BOSS_ランダムユニット_062: Essathaugh
+MID_BOSS_ランダムユニット_063: Larton
+MID_BOSS_ランダムユニット_064: Osack
+MID_BOSS_ランダムユニット_065: Queem
+MID_BOSS_ランダムユニット_066: Cosir
+MID_BOSS_ランダムユニット_067: Ronick
+MID_BOSS_ランダムユニット_068: Medis
+MID_BOSS_ランダムユニット_069: Lorath
+MID_BOSS_ランダムユニット_070: Skel'old
+MID_BOSS_ランダムユニット_071: Zogarth
+MID_BOSS_ランダムユニット_072: Englwar
+MID_BOSS_ランダムユニット_073: Ryling
+MID_BOSS_ランダムユニット_074: Danos
+MID_BOSS_ランダムユニット_075: Cienroth
+MID_BOSS_ランダムユニット_076: Dolalo
+MID_BOSS_ランダムユニット_077: Pyragar
+MID_BOSS_ランダムユニット_078: Aldeq
+MID_BOSS_ランダムユニット_079: Kel'tai
+MID_BOSS_ランダムユニット_080: Svadd
+MID_BOSS_ランダムユニット_081: Faundit
+MID_BOSS_ランダムユニット_082: Tasdyn
+MID_BOSS_ランダムユニット_083: Ashem
+MID_BOSS_ランダムユニット_084: Zacob
+MID_BOSS_ランダムユニット_085: Morvese
+MID_BOSS_ランダムユニット_086: Omr
+MID_BOSS_ランダムユニット_087: Bansam
+MID_BOSS_ランダムユニット_088: Arund
+MID_BOSS_ランダムユニット_089: Whilde
+MID_BOSS_ランダムユニット_090: Ver'tur
+MID_BOSS_ランダムユニット_091: Strainge
+MID_BOSS_ランダムユニット_092: Clack
+MID_BOSS_ランダムユニット_093: Lykal
+MID_BOSS_ランダムユニット_094: Schyton
+MID_BOSS_ランダムユニット_095: Sulius
+MID_BOSS_ランダムユニット_096: Jogoby
+MID_BOSS_ランダムユニット_097: Morck
+MID_BOSS_ランダムユニット_098: Nirod
+MID_BOSS_ランダムユニット_099: Mostin
+MID_BOSS_ランダムユニット_100: Athoy
+MID_BOSS_ランダムユニット_101: Hoostran
+MID_BOSS_ランダムユニット_102: Dranys
+MID_BOSS_ランダムユニット_103: Munsten
+MID_BOSS_ランダムユニット_104: Iathan
+MID_BOSS_ランダムユニット_105: Athbel
+MID_BOSS_ランダムユニット_106: Okimi
+MID_BOSS_ランダムユニット_107: Rynbur
+MID_BOSS_ランダムユニット_108: Larsay
+MID_BOSS_ランダムユニット_109: Kovesold
+MID_BOSS_ランダムユニット_110: Dyntin
+MID_BOSS_ランダムユニット_111: Gaim
+MID_BOSS_ランダムユニット_112: Fiath
+MID_BOSS_ランダムユニット_113: Charan
+MID_BOSS_ランダムユニット_114: Pohem
+MID_BOSS_ランダムユニット_115: Nysper
+MID_BOSS_ランダムユニット_116: Kuhan
+MID_BOSS_ランダムユニット_117: Wymp
+MID_BOSS_ランダムユニット_118: Owend
+MID_BOSS_ランダムユニット_119: Laim
+MID_BOSS_ランダムユニット_120: Auffle
+MID_BOSS_ランダムユニット_121: Lucer
+MID_BOSS_ランダムユニット_122: Rejek
+MID_BOSS_ランダムユニット_123: Wieklin
+MID_BOSS_ランダムユニット_124: Dudd
+MID_BOSS_ランダムユニット_125: Phail
+MID_BOSS_ランダムユニット_126: Neubee
+MID_BOSS_ランダムユニット_127: Pionn
+MID_BOSS_ランダムユニット_128: Klotz
+MID_BOSS_ランダムユニット_129: Adine
+MID_BOSS_ランダムユニット_130: Virenne
+MID_BOSS_ランダムユニット_131: Jaydiss
+MID_BOSS_ランダムユニット_132: Zhostra
+MID_BOSS_ランダムユニット_133: Layle
+MID_BOSS_ランダムユニット_134: Stauste
+MID_BOSS_ランダムユニット_135: Ardissa
+MID_BOSS_ランダムユニット_136: Verid
+MID_BOSS_ランダムユニット_137: Perl
+MID_BOSS_ランダムユニット_138: Dynelde
+MID_BOSS_ランダムユニット_139: Rayle
+MID_BOSS_ランダムユニット_140: Cetula
+MID_BOSS_ランダムユニット_141: Phaite
+MID_BOSS_ランダムユニット_142: Veigh
+MID_BOSS_ランダムユニット_143: Olwora
+MID_BOSS_ランダムユニット_144: Arake
+MID_BOSS_ランダムユニット_145: Sweren
+MID_BOSS_ランダムユニット_146: Chrosil
+MID_BOSS_ランダムユニット_147: Eraye
+MID_BOSS_ランダムユニット_148: Kinarne
+MID_BOSS_ランダムユニット_149: Juolde
+MID_BOSS_ランダムユニット_150: Lingis
+MID_BOSS_ランダムユニット_151: Falstath
+MID_BOSS_ランダムユニット_152: Nacima
+MID_BOSS_ランダムユニット_153: Mabef
+MID_BOSS_ランダムユニット_154: Ryneme
+MID_BOSS_ランダムユニット_155: Issime
+MID_BOSS_ランダムユニット_156: Loenenth
+MID_BOSS_ランダムユニット_157: Kim'bel
+MID_BOSS_ランダムユニット_158: Rusege
+MID_BOSS_ランダムユニット_159: Leilde
+MID_BOSS_ランダムユニット_160: Corothi
+MID_BOSS_ランダムユニット_161: Addra
+MID_BOSS_ランダムユニット_162: Athlore
+MID_BOSS_ランダムユニット_163: Ack'tia
+MID_BOSS_ランダムユニット_164: Sulen
+MID_BOSS_ランダムユニット_165: Nysine
+MID_BOSS_ランダムユニット_166: Zulryn
+MID_BOSS_ランダムユニット_167: Usca
+MID_BOSS_ランダムユニット_168: Denine
+MID_BOSS_ランダムユニット_169: Mosilde
+MID_BOSS_ランダムユニット_170: Newolf
+MID_BOSS_ランダムユニット_171: Garlor
+MID_BOSS_ランダムユニット_172: Arozza
+MID_BOSS_ランダムユニット_173: Aleegha
+MID_BOSS_ランダムユニット_174: Keckaw
+MID_BOSS_ランダムユニット_175: Rakryn
+MID_BOSS_ランダムユニット_176: Erroth
+MID_BOSS_ランダムユニット_177: Bosarde
+MID_BOSS_ランダムユニット_178: Zamos
+MID_BOSS_ランダムユニット_179: Aleris
+MID_BOSS_ランダムユニット_180: Muirora
+MID_BOSS_ランダムユニット_181: Mylenne
+MID_BOSS_ランダムユニット_182: Spridane
+MID_BOSS_ランダムユニット_183: Chella
+MID_BOSS_ランダムユニット_184: Memora
+MID_BOSS_ランダムユニット_185: Ceren
+MID_BOSS_ランダムユニット_186: O'dandyn
+MID_BOSS_ランダムユニット_187: Tulif
+MID_BOSS_ランダムユニット_188: Malles
+MID_BOSS_ランダムユニット_189: Brirra
+MID_BOSS_ランダムユニット_190: Naydrel
+MID_BOSS_ランダムユニット_191: Drachryn
+MID_BOSS_ランダムユニット_192: Stross
+MID_BOSS_ランダムユニット_193: Lorith
+MID_BOSS_ランダムユニット_194: Kalorra
+MID_BOSS_ランダムユニット_195: Erryn
+MID_BOSS_ランダムユニット_196: Yasie
+MID_BOSS_ランダムユニット_197: Maybyl
+MID_BOSS_ランダムユニット_198: Moelle
+MID_BOSS_ランダムユニット_199: Styrille
+MID_BOSS_ランダムユニット_200: Risdra
+MID_BOSS_ランダムユニット_201: Yolde
+MID_BOSS_ランダムユニット_202: Queffe
+MID_BOSS_ランダムユニット_203: Liawe
+MID_BOSS_ランダムユニット_204: Conelle
+MID_BOSS_ランダムユニット_205: Rysinray
+MID_BOSS_ランダムユニット_206: C'drache
+MID_BOSS_ランダムユニット_207: Rothing
+MID_BOSS_ランダムユニット_208: Nukelkin
+MID_BOSS_ランダムユニット_209: Lyrille
+MID_BOSS_ランダムユニット_210: Parskel
+MID_BOSS_ランダムユニット_211: Honnor
+MID_BOSS_ランダムユニット_212: Crithga
+MID_BOSS_ランダムユニット_213: Yril
+MID_BOSS_ランダムユニット_214: Hatilde
+MID_BOSS_ランダムユニット_215: Anya
+MID_BOSS_ランダムユニット_216: Mosche
+MID_BOSS_ランダムユニット_217: Lelalo
+MID_BOSS_ランダムユニット_218: Drale
+MID_BOSS_ランダムユニット_219: Farrod
+MID_BOSS_ランダムユニット_220: Atiade
+MID_BOSS_ランダムユニット_221: Lozbel
+MID_BOSS_ランダムユニット_222: Yielda
+MID_BOSS_ランダムユニット_223: Eldavia
+MID_BOSS_ランダムユニット_224: Redrime
+MID_BOSS_ランダムユニット_225: Xensa
+MID_BOSS_ランダムユニット_226: Lerrach
+MID_BOSS_ランダムユニット_227: Garilda
+MID_BOSS_ランダムユニット_228: Rin'quay
+MID_BOSS_ランダムユニット_229: Meandr
+MID_BOSS_ランダムユニット_230: Mareah
+MID_BOSS_ランダムユニット_231: Sayvra
+MID_BOSS_ランダムユニット_232: Angrid
+MID_BOSS_ランダムユニット_233: Hylissa
+MID_BOSS_ランダムユニット_234: Danyf
+MID_BOSS_ランダムユニット_235: Susomi
+MID_BOSS_ランダムユニット_236: Zeuve
+MID_BOSS_ランダムユニット_237: Duxe
+MID_BOSS_ランダムユニット_238: Eidra
+MID_BOSS_ランダムユニット_239: Lyrille
+MID_BOSS_ランダムユニット_240: Rieve
+MID_BOSS_ランダムユニット_241: Chrayle
+MID_BOSS_ランダムユニット_242: Onche
+MID_BOSS_ランダムユニット_243: Tiness
+MID_BOSS_ランダムユニット_244: Meradden
+MID_BOSS_ランダムユニット_245: Ormisse
+MID_BOSS_ランダムユニット_246: Toryn
+MID_BOSS_ランダムユニット_247: Unorma
+MID_BOSS_ランダムユニット_248: Enene
+MID_BOSS_ランダムユニット_249: Netai
+MID_BOSS_ランダムユニット_250: Ione
+MID_BOSS_ランダムユニット_251: Zondre
+MID_BOSS_ランダムユニット_252: Oinai
+MID_BOSS_ランダムユニット_253: Tanar
+MID_BOSS_ランダムユニット_254: Yhony
+MID_BOSS_ランダムユニット_255: Olira
+MID_BOSS_ランダムユニット_256: Otia

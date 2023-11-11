@@ -1,0 +1,133 @@
+MESS_ARCHIVE_ユニットビュアー
+
+
+Message Name: Message
+
+
+MID_曲名_STRM_BGM_MAP_BATTLE1: 천명
+MID_曲名_STRM_BGM_MAP_BATTLE1T: 천명~화염
+MID_曲名_STRM_BGM_MAP_BATTLE2: 서막
+MID_曲名_STRM_BGM_MAP_BATTLE2T: 서막~화염
+MID_曲名_STRM_BGM_MAP_BATTLE3: 원정
+MID_曲名_STRM_BGM_MAP_BATTLE3T: 원정~화염
+MID_曲名_STRM_BGM_MAP_BATTLE4: 혼돈
+MID_曲名_STRM_BGM_MAP_BATTLE4T: 혼돈~화염
+MID_曲名_STRM_BGM_MAP_BATTLE5: 숙명
+MID_曲名_STRM_BGM_MAP_BATTLE5T: 숙명~화염
+MID_曲名_STRM_BGM_MAP_BATTLE6: 암운
+MID_曲名_STRM_BGM_MAP_BATTLE6T: 암운~화염
+MID_曲名_STRM_BGM_MAP_BATTLE7: 사명
+MID_曲名_STRM_BGM_MAP_BATTLE7T: 사명~화염
+MID_曲名_STRM_BGM_MAP_BATTLE8: 강자
+MID_曲名_STRM_BGM_MAP_BATTLE8T: 강자~화염
+MID_曲名_STRM_BGM_MAP_BATTLE_ENEMY1: 강습
+MID_曲名_STRM_BGM_MAP_BATTLE_ENEMY1T: 강습~강철
+MID_曲名_STRM_BGM_MAP_BATTLE_ENEMY2: 흉습
+MID_曲名_STRM_BGM_MAP_BATTLE_ENEMY2T: 흉습~강철
+MID_曲名_STRM_BGM_MAP_BATTLE_ENEMY3: 맹습
+MID_曲名_STRM_BGM_MAP_BATTLE_ENEMY3T: 맹습~강철
+MID_曲名_STRM_BGM_MAP_BATTLE_OTHER1: 연습
+MID_曲名_STRM_BGM_MAP_BATTLE_OTHER1T: 연습~강철
+MID_曲名_STRM_BGM_BOSS1_INTRO: 강적·서
+MID_曲名_STRM_BGM_BOSS1: 강적
+MID_曲名_STRM_BGM_BOSS2_INTRO: 천적·서
+MID_曲名_STRM_BGM_BOSS2: 천적
+MID_曲名_STRM_BGM_BOSS3_INTRO: 광적·서
+MID_曲名_STRM_BGM_BOSS3: 광적
+MID_曲名_STRM_BGM_BOSS4_INTRO: 대적·서
+MID_曲名_STRM_BGM_BOSS4: 대적
+MID_曲名_STRM_BGM_BOSS5_INTRO: 호적·서
+MID_曲名_STRM_BGM_BOSS5: 호적
+MID_曲名_STRM_BGM_BOSS6_INTRO: 숙적·서
+MID_曲名_STRM_BGM_BOSS6: 숙적
+MID_曲名_STRM_BGM_BOSS7_INTRO: 강적·정
+MID_曲名_STRM_BGM_MAP10_INTRO: 「I」~다시
+MID_曲名_STRM_BGM_MAP10: 「I」~의지
+MID_曲名_STRM_BGM_MAP11: 네놈들이…\n누님의 말을 들먹이는 거냐!
+MID_曲名_STRM_BGM_EVT_BOURYAKU1: 이건,\n전쟁할 의사가 있다고 본다고
+MID_曲名_STRM_BGM_EVT_BRAVE1: 정치나 외교는 서툴지만…
+MID_曲名_STRM_BGM_EVT_BUKIMI1: 뭔가… 이상해
+MID_曲名_STRM_BGM_EVT_CHANCE1: 운명 따윈, 죽은 사람의 변명이다
+MID_曲名_STRM_BGM_EVT_HEIWA1: 멈추도록 하겠어? 응?
+MID_曲名_STRM_BGM_EVT_HEION1: 싸움은 끝났어, 이걸로…
+MID_曲名_STRM_BGM_EVT_HOUSHIN1: ………
+MID_曲名_STRM_BGM_EVT_HUON1: …이런 방법이,\n정말로 잘 될까?
+MID_曲名_STRM_BGM_EVT_ITAZURA1: 목에 잎이!
+MID_曲名_STRM_BGM_EVT_KETSUI1: 그것이 환상이라 할지라도…
+MID_曲名_STRM_BGM_EVT_KIKI1: 괜찮으니까, 달려!!
+MID_曲名_STRM_BGM_EVT_KYOAKU1: 여기서 나는 소생한다…
+MID_曲名_STRM_BGM_EVT_KYOUDAN1: 어차피 운명은 바뀌지 않는다…
+MID_曲名_STRM_BGM_EVT_LEGEND1: 힘을 느껴… 우리와 같은 힘…
+MID_曲名_STRM_BGM_EVT_LOVE1: …조금, 어렵네
+MID_曲名_STRM_BGM_EVT_NAKAMA1: 반~짝 하고 와서,\n부~왕 하는 느낌?
+MID_曲名_STRM_BGM_EVT_SAD1: 나한테 그런 힘이…\n자격이… 있다고 생각해?
+MID_曲名_STRM_BGM_EVT_SERIOUS1: 큰 혼란은 없는 것 같네요
+MID_曲名_STRM_BGM_EVT_SERIOUS2: 「인연」이 우리들의\n싸움을 이어주고 있어
+MID_曲名_STRM_BGM_EVT_TAIJI1: 인간이란 건\n싸움을 할 수밖에 없다고!
+MID_曲名_STRM_BGM_EVT_TAIJI2: 이런 곳에도 시체 병사가…!
+MID_曲名_STRM_BGM_EVT_TENNEN1: 이 몸이 그걸 잊어 버리다니
+MID_曲名_STRM_BGM_EVT_YASASHISA1: 자아, 무서워하지 마
+MID_曲名_STRM_BGM_EVT_MARTH1: 내 이름은 마르스다
+MID_曲名_STRM_BGM_EVT_MYUNIT1: 「I」~안정
+MID_曲名_STRM_BGM_EVT_MYUNIT2: 「I」~사랑
+MID_曲名_STRM_BGM_EVT_MYUNIT3: 「I」~고뇌
+MID_曲名_STRM_BGM_EVT_MYUNIT4: 「I」~어둠
+MID_曲名_STRM_BGM_SYS_BASE1: 여기서 출격의\n준비를 하자
+MID_曲名_STRM_BGM_SYS_MYROOM1: 오늘은 이제 쉬도록 합시다
+MID_曲名_STRM_BGM_SYS_GMAP1: 이 산을 넘어가면 곧 도착해
+MID_曲名_STRM_BGM_SYS_DEAD1: 퇴장~
+MID_曲名_STRM_BGM_SYS_GAMEOVER1: 아름다운 죽음이란 건\n없다고 생각했는데 말이야!
+MID_曲名_STRM_BGM_SYS_CC2: 난 더 강해진다!
+MID_曲名_STRM_BGM_SYS_SHOP1T: 좋은 물건이 모여 있다고?
+MID_曲名_STRM_BGM_SYS_SHOP2T: 서비스해 줄게!
+MID_曲名_STRM_BGM_SYS_MENU1: 「I」ntroduction
+MID_背景名_緑街道1: 평지
+MID_背景名_緑街道2: 숲
+MID_背景名_緑街道6: 요새
+MID_背景名_緑街道3: 낮은 산
+MID_背景名_緑街道5: 강
+MID_背景名_緑街道4: 다리
+MID_背景名_緑街道7: 바다
+MID_背景名_賢者の部屋1: 실내1
+MID_背景名_夜の物置1: 실내2
+MID_背景名_スリラーハウス1: 실내3
+MID_背景名_遺跡1: 유적1
+MID_背景名_遺跡2: 유적2
+MID_背景名_神龍の聖地1: 성지
+MID_背景名_ミラの大樹1: 미라의 거목
+MID_背景名_氷の遺跡1: 시간의 유적
+MID_背景名_始まり山1: 시작의 산
+MID_背景名_虹山1: 무지개가 내리는 산
+MID_背景名_飛竜谷1: 비룡의 계곡
+MID_背景名_北国1: 설원
+MID_背景名_フェリア港1: 항구1
+MID_背景名_港町キール1: 항구2
+MID_背景名_シュヴァイン要塞1: 슈바인 요새 외곽
+MID_背景名_シュヴァイン要塞2: 슈바인 요새
+MID_背景名_ヴァルキャッスル1: 바룸 성 외곽
+MID_背景名_ヴァルキャッスル3: 바룸 성
+MID_背景名_イーリス城1: 이리스 성 정원
+MID_背景名_イーリス城2: 이리스 성
+MID_背景名_闇の祭壇1: 용의 제단 외곽
+MID_背景名_闇の祭壇2: 용의 제단
+MID_背景名_崖の道1: 절벽 길
+MID_背景名_ペレジア3: 펠레지아 성
+MID_背景名_ペレジア1: 사막
+MID_背景名_ペレジア2: 오아시스
+MID_背景名_ギム骨城1: 펠레지아 성 외곽
+MID_背景名_荒野1: 황야1
+MID_背景名_荒野2: 황야2
+MID_背景名_荒野3: 달빛의 골짜기
+MID_背景名_闘技場1: 페리아 투기장
+MID_背景名_ドーマの臓物1: 도마의 내장
+MID_背景名_万里1: 장성
+MID_背景名_船上1: 군함
+MID_背景名_森夜2: 밤의 숲
+MID_背景名_森夜1: 닫힌 마을
+MID_背景名_山火事夜1: 천변지이
+MID_背景名_山道1: 산길
+MID_背景名_サンセット1: 황혼의 평지
+MID_背景名_サンセット3: 황혼의 해안선
+MID_背景名_サンセット4: 유적3
+MID_背景名_嵐の夜1: 바람의 초원
+MID_背景名_嵐の夜3: 바람의 해안선

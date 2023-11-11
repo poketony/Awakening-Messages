@@ -1,0 +1,9 @@
+MESS_ARCHIVE_初期設定
+
+
+Message Name: Message
+
+
+MID_MENU_はい: 예
+MID_MENU_いいえ: 아니요
+MID_データチェック中: 데이터 체크 중

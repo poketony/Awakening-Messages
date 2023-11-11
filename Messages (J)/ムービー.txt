@@ -1,0 +1,28 @@
+MESS_ARCHIVE_ムービー
+
+
+Message Name: Message
+
+
+MID_ムービー_Skip: スキップ
+MID_ムービー_OPロゴ001: Nintendo
+MID_ムービー_OPロゴ007: INTELLIGENT SYSTEMS
+MID_ムービー_OPロゴ008: present
+MID_ムービー_OPロゴ002: Movie
+MID_ムービー_OPロゴ003: ANIMA
+MID_ムービー_OPロゴ004: KAMIKAZE DOUGA
+MID_ムービー_OPロゴ005: Character Design & Illustration
+MID_ムービー_OPロゴ006: Kozaki Yusuke
+MID_ムービー_OPロゴ009: Sound Support
+MID_ムービー_OPロゴ010: Yuka Tsujiyoko
+MID_ムービー_OPロゴ011: T's MUSIC
+MID_ムービー_OPロゴ012: Event Illustration
+MID_ムービー_OPロゴ013: MADHOUSE
+MID_ムービー_OPロゴ014: Scenario Support
+MID_ムービー_OPロゴ015: Lepton
+MID_ムービー_OPロゴ016: Red Entertainment Corporation
+MID_ムービー_OPロゴ017: EdgeWORKS Inc.
+MID_ムービー_OPロゴ018: Voice Casting & Recording
+MID_ムービー_OPロゴ019: TWOFIVE
+MID_ムービー_OPロゴ020: Developed by
+MID_ムービー_OPロゴ021: Published by

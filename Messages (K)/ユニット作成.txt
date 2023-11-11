@@ -1,0 +1,102 @@
+MESS_ARCHIVE_ユニット作成
+
+
+Message Name: Message
+
+
+MID_EDIT_マイユニット作成: 마이 유닛 작성
+MID_EDIT_性別の選択: 성별 선택
+MID_H_EDIT_性別の選択: 당신의 분신의 성별을 결정해 주십시오
+MID_EDIT_容姿の選択: 외관 선택
+MID_H_EDIT_容姿の選択: 당신의 분신의 모습을 결정해 주십시오
+MID_EDIT_プロフィール: 프로필
+MID_H_EDIT_プロフィール: 당신의 분신의 프로필을 결정해 주십시오
+MID_EDIT_決定: 결정
+MID_EDIT_決定！: 결정!
+MID_H_EDIT_決定: 내용이 좋으면 결정을 선택해 주십시오
+MID_H_EDIT_名前入力: 당신의 분신의 이름을 변경할 수 있습니다
+MID_EDIT_戻る: 돌아가기
+MID_EDIT_進む: 진행
+MID_EDIT_回転: 회전
+MID_EDIT_名前変更: 변경
+MID_EDIT_名前変更推奨: 당신의 분신의 이름을 결정해 주십시오
+MID_EDIT_確認メッセージ: 이 설정으로 하겠습니까?
+MID_EDIT_能力重複警告: 장점과 단점이 모순됩니다
+MID_EDIT_性別_男: 남
+MID_EDIT_性別_女: 여
+MID_EDIT_容姿_ベース_男_01: 01
+MID_EDIT_容姿_ベース_男_02: 02
+MID_EDIT_容姿_ベース_男_03: 03
+MID_EDIT_容姿_ベース_女_01: 01
+MID_EDIT_容姿_ベース_女_02: 02
+MID_EDIT_容姿_ベース_女_03: 03
+MID_EDIT_容姿_顔_男_01: 01
+MID_EDIT_容姿_顔_男_02: 02
+MID_EDIT_容姿_顔_男_03: 03
+MID_EDIT_容姿_顔_男_04: 04
+MID_EDIT_容姿_顔_男_05: 05
+MID_EDIT_容姿_顔_女_01: 01
+MID_EDIT_容姿_顔_女_02: 02
+MID_EDIT_容姿_顔_女_03: 03
+MID_EDIT_容姿_顔_女_04: 04
+MID_EDIT_容姿_顔_女_05: 05
+MID_EDIT_容姿_髪型_男_01: 01
+MID_EDIT_容姿_髪型_男_02: 02
+MID_EDIT_容姿_髪型_男_03: 03
+MID_EDIT_容姿_髪型_男_04: 04
+MID_EDIT_容姿_髪型_男_05: 05
+MID_EDIT_容姿_髪型_女_01: 01
+MID_EDIT_容姿_髪型_女_02: 02
+MID_EDIT_容姿_髪型_女_03: 03
+MID_EDIT_容姿_髪型_女_04: 04
+MID_EDIT_容姿_髪型_女_05: 05
+MID_EDIT_容姿_髪色_男_01: 01
+MID_EDIT_容姿_髪色_男_02: 02
+MID_EDIT_容姿_髪色_男_03: 03
+MID_EDIT_容姿_髪色_男_04: 04
+MID_EDIT_容姿_髪色_男_05: 05
+MID_EDIT_容姿_髪色_男_06: 06
+MID_EDIT_容姿_髪色_男_07: 07
+MID_EDIT_容姿_髪色_男_08: 08
+MID_EDIT_容姿_髪色_男_09: 09
+MID_EDIT_容姿_髪色_男_10: 10
+MID_EDIT_容姿_髪色_男_11: 11
+MID_EDIT_容姿_髪色_男_12: 12
+MID_EDIT_容姿_髪色_男_13: 13
+MID_EDIT_容姿_髪色_男_14: 14
+MID_EDIT_容姿_髪色_男_15: 15
+MID_EDIT_容姿_髪色_男_16: 16
+MID_EDIT_容姿_髪色_男_17: 17
+MID_EDIT_容姿_髪色_男_18: 18
+MID_EDIT_容姿_髪色_男_19: 19
+MID_EDIT_容姿_髪色_男_20: 20
+MID_EDIT_容姿_髪色_女_01: 01
+MID_EDIT_容姿_髪色_女_02: 02
+MID_EDIT_容姿_髪色_女_03: 03
+MID_EDIT_容姿_髪色_女_04: 04
+MID_EDIT_容姿_髪色_女_05: 05
+MID_EDIT_容姿_髪色_女_06: 06
+MID_EDIT_容姿_髪色_女_07: 07
+MID_EDIT_容姿_髪色_女_08: 08
+MID_EDIT_容姿_髪色_女_09: 09
+MID_EDIT_容姿_髪色_女_10: 10
+MID_EDIT_容姿_髪色_女_11: 11
+MID_EDIT_容姿_髪色_女_12: 12
+MID_EDIT_容姿_髪色_女_13: 13
+MID_EDIT_容姿_髪色_女_14: 14
+MID_EDIT_容姿_髪色_女_15: 15
+MID_EDIT_容姿_髪色_女_16: 16
+MID_EDIT_容姿_髪色_女_17: 17
+MID_EDIT_容姿_髪色_女_18: 18
+MID_EDIT_容姿_髪色_女_19: 19
+MID_EDIT_容姿_髪色_女_20: 20
+MID_EDIT_口調_男_01: 남1
+MID_EDIT_口調_男_02: 남2
+MID_EDIT_口調_男_03: 남3
+MID_EDIT_口調_男_04: 남4
+MID_EDIT_口調_男_05: 무언
+MID_EDIT_口調_女_01: 여1
+MID_EDIT_口調_女_02: 여2
+MID_EDIT_口調_女_03: 여3
+MID_EDIT_口調_女_04: 여4
+MID_EDIT_口調_女_05: 무언

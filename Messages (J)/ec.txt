@@ -1,0 +1,70 @@
+MESS_ARCHIVE_ec
+
+
+Message Name: Message
+
+
+MEC_OK: OK
+MEC_Yes: はい
+MEC_No: いいえ
+MEC_InputPINCode: 暗証番号を入力してください
+MEC_Retry: 再試行
+MEC_Err: エラーが発生しました。
+MEC_Err_Connect: ネットワークへの接続をやり直す場合は\n「再試行」をタッチしてください。
+MEC_Err_NoSD: SDカードが見つかりません
+MEC_Err_NeedSD: 追加コンテンツをご利用いただくには\nSDカードが必要です。
+MEC_Result: エラーコード: %X
+MEC_Conn2AP: アクセスポイントに接続中...
+MEC_DeletingContent: コンテンツを消去中...
+MEC_InitSession: 準備中...
+MEC_GettingBalance: 残高情報を取得中...
+MEC_GettingContent: 追加マップ一覧を読み込み中...
+MEC_GettingItemList: 項目一覧を作成中...
+MEC_SDEjected: SDカードが抜かれました。\n最初に戻ります。
+MEC_Purchase: 購入
+MEC_Redeem: 引き換え
+MEC_Filter: フィルタ
+MEC_Quit: 終了
+MEC_Delete: 消去
+MEC_ReDL: 再受信
+MEC_CantFindItem: 該当する項目がありません。
+MEC_SelectItem: 追加マップを選んでください
+MEC_Input: 入力
+MEC_GettingCategoryList: カテゴリ一覧を作成中...
+MEC_CatNotFound: カテゴリがありません。
+MEC_SelectCategory: カテゴリを選んでください。
+MEC_NotSelected: 選択されていません
+MEC_InputSearchWord: 検索ワードを入力してください。
+MEC_UseECard: 引換券の利用
+MEC_SetECard: 引換券番号入力
+MEC_AddBalance: 残高の追加
+MEC_Pages: (%d/%dページ)
+MEC_ListContents: コンテンツ一覧
+MEC_ManageContents: 追加コンテンツの購入、管理ができます
+MEC_SelectItem_Price_Header: 価格
+MEC_SelectItem_Price_Info: %ls%s%ls
+MEC_SelectItem_Price_Info_None: ーーーー
+MEC_SelectItem_Block_Header: 必要なブロック数
+MEC_SelectItem_Block_Set_Header: 必要な最大ブロック数
+MEC_SelectItem_Block_Info: %dブロック
+MEC_SelectItem_Release_Header: リリース日
+MEC_SelectItem_Release_Info: %04d/%d/%d
+MEC_SelectItem_Purchased: 購入済
+MEC_SelectItem_Purchased_ContentSet: 購入済
+MEC_SelectItem_Downloaded: 受信済
+MEC_SelectItem_Balance: 残高: %ls%s%ls
+MEC_ParentalControl_Header: 保護者による使用制限
+MEC_ParentalControl: 保護者による使用制限により\n「商品やサービスの購入」が\n制限されています。\n\n一時解除をする場合は、暗証番号を\n入力してください。
+MEC_ContentSet_Header: 購入済のものを含むコンテンツの購入
+MEC_ContentSet: 購入されようとしているコンテンツには、\n一部、購入済のものが含まれています。\n\n購入手続きを続けますか？
+MEC_Delete_Confirm_Header: 消去確認
+MEC_Delete_Confirm: このコンテンツを消去しますか？\nコンテンツは消去しても\n後で再受信できます。
+MEC_Delete_Exec: 電源を切ったり、\nSDカードを抜いたりしないでください。
+MEC_Delete_Complete_Header: 消去完了
+MEC_Delete_Complete: コンテンツの消去が完了しました。
+MEC_Guidance_Header: 操作案内
+MEC_Guidance: ここから先は\nタッチ操作で項目を選んでください。
+MEC_InPreparation_Header: お知らせ
+MEC_InPreparation: 追加マップはただいま準備中です。
+MEC_PurchaseEnd: 販売されていません
+MEC_NewItem: 新作

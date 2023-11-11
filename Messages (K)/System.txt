@@ -1,0 +1,107 @@
+MESS_ARCHIVE_System
+
+
+Message Name: Message
+
+
+MID_SYS_EN_レベル: Lv.
+MID_SYS_EN_レベル２: Lv
+MID_SYS_EN_経験値: Ex.
+MID_SYS_EN_経験値２: EXP
+MID_SYS_ＨＰ: HP
+MID_SYS_EN_ＨＰ: HP
+MID_SYS_EN_ＭＨＰ: MHP
+MID_SYS_クラス: 클래스
+MID_SYS_力: 힘
+MID_SYS_魔力: 마력
+MID_SYS_技: 기술
+MID_SYS_速さ: 속도
+MID_SYS_幸運: 행운
+MID_SYS_守備: 수비
+MID_SYS_魔防: 마방
+MID_SYS_移動: 이동
+MID_SYS_射程: 사정
+MID_SYS_特効: 특효
+MID_SYS_スキル: 스킬
+MID_SYS_EN_射程_魔力／２: HALF
+MID_SYS_EN_射程_∞: INF
+MID_SYS_攻撃: 공격
+MID_SYS_命中: 명중
+MID_SYS_必殺: 필살
+MID_SYS_回避: 회피
+MID_SYS_威力: 위력
+MID_SYS_武器: 무기
+MID_SYS_名前: 이름
+MID_SYS_剣: 검
+MID_SYS_槍: 창
+MID_SYS_斧: 도끼
+MID_SYS_弓: 활
+MID_SYS_魔道書: 마도서
+MID_SYS_杖: 지팡이
+MID_SYS_竜石: 용석
+MID_SYS_獣石: 야수석
+MID_SYS_魔物: 발톱
+MID_SYS_ボス: 숨결
+MID_SYS_道具: 도구
+MID_SYS_支援: 지원
+MID_SYS_レベルＳ: S
+MID_SYS_レベルＡ: A
+MID_SYS_レベルＢ: B
+MID_SYS_レベルＣ: C
+MID_SYS_レベルＤ: D
+MID_SYS_レベルＥ: E
+MID_SYS_レベルＮ: -
+MID_SYS_EN_レベルＳ: S
+MID_SYS_EN_レベルＡ: A
+MID_SYS_EN_レベルＢ: B
+MID_SYS_EN_レベルＣ: C
+MID_SYS_EN_レベルＤ: D
+MID_SYS_EN_レベルＥ: E
+MID_SYS_EN_レベルＮ: -
+MID_SYS_スキップ中: 스킵 중
+MID_SYS_お任せ中: 위임 중
+MID_SYS_お任せ実行中: 위임 해제 중 (X 버튼으로 해제)
+MID_SYS_お任せ解除中: (해제 완료를 기다림)
+MID_SYS_ターン数: 턴
+MID_SYS_軍資金: 군자금
+MID_SYS_EN_軍資金単位: G
+MID_SYS_勝利条件: 승리 조건
+MID_SYS_ミス: MISS
+MID_SYS_ノーダメージ: NO DAMAGE
+MID_SYS_ガード: GUARD
+MID_SYS_なし: 없음
+MID_MSG_アイテム入手: $a$a0(을)를 획득했다
+MID_MSG_ゴールド入手: $a$a0G(을)를 획득했다
+MID_MSG_アイテム略奪: $a$a0(을)를 빼앗겼다
+MID_MSG_ゴールド略奪: $a$a0G(을)를 빼앗겼다
+MID_MSG_アイテム破損: $a$a0(이)가 부서졌다
+MID_MSG_アイテム破損２: $a$a1의 $a0(이)가 부서져 버렸다
+MID_MSG_パラメータアップ: $a$a0(이)가 $a1 상승했다
+MID_MSG_パラメータダウン: $a$a0(이)가 $a1 내려갔다
+MID_MSG_パラメータ結果１: 잠에서 깨서\n성장했다
+MID_MSG_パラメータ結果２: 좋은 느낌으로\n성장했다
+MID_MSG_パラメータ結果３: 아주 조금\n성장했다
+MID_MSG_パラメータ結果４: 별로\n변하지 않았다
+MID_MSG_武器レベルアップ: $a$a0의 무기 레벨이 $a2로 상승했다
+MID_MSG_武器レベルアップ２: $a$a1의 $a0 무기 레벨이 $a2로 상승했다
+MID_MSG_武器使用可能: $a$a0의 사용법을 익히게 되었다
+MID_MSG_武器使用可能２: $a$a1(은)는 $a0의 사용법을 익히게 되었다
+MID_MSG_スキル習得: $a스킬\n$a0(을)를 습득했다
+MID_MSG_スキル習得２: $a$a1(은)는 스킬\n$a0(을)를 습득했다
+MID_MSG_支援レベル上昇: $a$a0(과)와 $a1의\n지원 레벨이 $a2로 상승했다
+MID_MSG_効果無し: 효과가 없었다
+MID_MSG_能力強化: $a$c0,120,255,255|$a0$c70,50,24,255|(과)와\n$c0,120,255,255|$a1$c70,50,24,255|의 컨디션이 상승했다
+MID_MSG_経験値入手: $a경험치가 $c0,120,255,255|$a0$c70,50,24,255| 늘었다
+MID_MSG_武器経験値入手: 무기를 더 잘 다루게 되었다
+MID_MSG_支援強化: $a$c0,120,255,255|$a0$c70,50,24,255|(과)와 $c0,120,255,255|$a1$c70,50,24,255|의 사이가 좋아졌다
+MID_MSG_戦闘予測_攻撃: 공격
+MID_MSG_戦闘予測_２回: 2회
+MID_MSG_戦闘予測_４回: 4회
+MID_MSG_戦闘予測_先制: 선제
+MID_MSG_戦闘予測_特効: 특효!
+MID_MSG_戦闘予測_反撃死: 죽을 확률이 아주 높습니다
+MID_MSG_戦闘予測_空振死: 공격이 빗나가면 반격당해 죽을 가능성이 있습니다
+MID_MSG_戦闘予測_被必殺: 상대가 필살의 공격을 낼 가능성이 높습니다
+MID_MSG_名声上昇: 명성이 올랐다
+MID_デフォルト軍名: 이리스 기사단
+MID_ランダム軍名: 이계의 기사단

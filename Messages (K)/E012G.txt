@@ -1,0 +1,10 @@
+MESS_ARCHIVE_E012G
+
+
+Message Name: Message
+
+
+MIID_予約０３: 아이오테의 책
+MIID_H_予約０３: 사용하면 스킬 「아이오테의 방패」를 습득\n스킬 효과: 적에게 비행 특효를 받지 않게 된다
+MRSID_予約０３: 아이오테의 방패
+MRSID_H_予約０３: 적에게 비행 특효를 받지 않게 된다

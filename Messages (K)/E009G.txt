@@ -1,0 +1,10 @@
+MESS_ARCHIVE_E009G
+
+
+Message Name: Message
+
+
+MIID_予約０２: 엘리트의 책
+MIID_H_予約０２: 사용하면 스킬 「엘리트」를 습득\n스킬 효과: 경험치를 2배로 받는다
+MRSID_予約０２: 엘리트
+MRSID_H_予約０２: 경험치를 2배로 받는다

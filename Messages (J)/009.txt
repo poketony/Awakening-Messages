@@ -1,0 +1,106 @@
+MESS_ARCHIVE_009
+
+
+Message Name: Message
+
+
+MID_009_OP1: $t1$Wmインバース|3$w0|$Wsインバース|$Wa$b動作,インバース,InbGe1|$b動作,インバース,InbRe|$SvpSE_VOICE_INVERSE_EVT_13|$E通常,|まだフェリア王たちの\n足取りはつかめないの？$k\n$Wsインバース|$Wd$w0|$Wm兵士|3$w0|$Ws兵士|$Wa$b注目,009_兵士,インバース|$SvpSE_VOICE_ENEMY_M5_EVT_2|はっ…それが、まったく。\nまるで煙のように消えてしまって…$k\n$Ws兵士|$Wd$w0|$Wmインバース|3$w0|$b動作,インバース,InbGe2|$b動作,インバース,InbRe|$Wsインバース|$Wa$SvpSE_VOICE_INVERSE_EVT_21|$p$E笑,|うふふ…素敵な言い訳ね。$k
+MID_009_OP1_01: $t1$Wm兵士|3$w0|$Ws兵士|$Wa$Wv$SvpSE_VOICE_ENEMY_M5_EVT_6|がふっ！\n…な、なにを…$k
+MID_009_OP1_02: $t1$Wmインバース|3$w0|$Wsインバース|$Wa$b動作,インバース,InbGe7|$b動作,インバース,InbRe2|$SvpSE_VOICE_INVERSE_EVT_22|$E怒,|嫌いなのよねぇ、私。\n言い訳する男って。$k$p$E笑,|役立たずの証明でしょう？$k\n$Wsインバース|$Wd$w0|$Wmギャンレル|3$w0|$Wsギャンレル|$Wa$b動作,ギャンレル,GyanGe3|$b動作,ギャンレル,GyanRe|$SvpSE_VOICE_GANGREL_EVT_16|おいおい、イラつくのはわかるけどよ。\n遊び半分でうちの兵士を殺すなって。$k$p$b動作,ギャンレル,GyanGe4|$b動作,ギャンレル,GyanRe|落ち着けよ。どこへ隠れてようが、\nあいつらは出てくるしかねぇんだ。$k$p$b動作,ギャンレル,GyanGe6|$b動作,ギャンレル,GyanRe|$E笑,|エメリナがここにいる限りはな！\nギャハハハハハッ！！$k\n$Wsギャンレル|$Wd$w0|$Wmインバース|3$w0|$Wsインバース|$Wa$b動作,インバース,InbGe7|$b動作,インバース,InbRe2|$SvpSE_VOICE_INVERSE_EVT_7|$E通常,|出てきたら、どうするおつもりです？$k\n$Wsインバース|$Wd$w0|$Wmギャンレル|3$w0|$Wsギャンレル|$Wa$b動作,ギャンレル,GyanGe7|$b動作,ギャンレル,GyanRe|$SvpSE_VOICE_GANGREL_EVT_27|皆殺しに決まってんだろぉ？\nとびっきり派手になぁ。$k
+MID_009_OP2: $t1$Wm密偵|3$w0|$Ws密偵|$Wa$SvpSE_VOICE_ENEMY_M5_EVT_1|聖王様の処刑は明日、ペレジア王城で\n行なわれるとのことです。$k$p$b動作,009_密偵,HeishiBow|ギャンレル自身が知らせを出したもので、\n間違いありません。$k\n$Ws密偵|$Wd$w0|$Wmバジーリオ|3$w0|$Wsバジーリオ|$Wa$b動作,バジーリオ,BajGe1|$b動作,バジーリオ,BajRe|$b注目,バジーリオ,クロム|$SvpSE_VOICE_BASILIO_EVT_7|いよいよ、か。$k\n$Wsバジーリオ|$Wd$w0|$Wmクロム|3$w0|$Wsクロム|$Wa$b向き,クロム,C|$b動作,クロム,WalkTurn|$SvpSE_VOICE_CHROM_EVT_12|$E通常,|$Nuの読み通りだな。$k
+MID_009_OP2_2_PCM1: $t1$Wmusername|3$w0|$Wsusername|$Wa$b動作,プレイヤー女,Ge2|$b注目,プレイヤー女,クロム|$SvpSE_VOICE_PLAYER_M#_EVT_9|$E通常,|この先も読みが\n当たってくれるといいが。$k
+MID_009_OP2_2_PCM2: $t1$Wmusername|3$w0|$Wsusername|$Wa$b動作,プレイヤー女,Ge2|$b注目,プレイヤー女,クロム|$SvpSE_VOICE_PLAYER_M#_EVT_9|$E通常,|この先も読みが\n当たってくれるといいけど…$k
+MID_009_OP2_2_PCM3: $t1$Wmusername|3$w0|$Wsusername|$Wa$b動作,プレイヤー女,Ge2|$b注目,プレイヤー女,クロム|$E通常,|…………$k
+MID_009_OP2_2_PCF1: $t1$Wmusername|3$w0|$Wsusername|$Wa$b動作,プレイヤー女,Ge2|$b注目,プレイヤー女,クロム|$SvpSE_VOICE_PLAYER_F#_EVT_9|$E通常,|この先も読みが\n当たってくれるといいんだけど。$k
+MID_009_OP2_2_PCF2: $t1$Wmusername|3$w0|$Wsusername|$Wa$b動作,プレイヤー女,Ge2|$b注目,プレイヤー女,クロム|$SvpSE_VOICE_PLAYER_F#_EVT_9|$E通常,|この先も読みが\n当たってくれるといいのですが…$k
+MID_009_OP2_2_PCF3: $t1$Wmusername|3$w0|$Wsusername|$Wa$b動作,プレイヤー女,Ge2|$b注目,プレイヤー女,クロム|$E通常,|…………$k
+MID_009_OP2_3: $t1$Wmフラヴィア|3$w0|$Wsフラヴィア|$Wa$b向き,フラヴィア,C|$b動作,フラヴィア,FraGe1|$b動作,フラヴィア,FraRe|$SvpSE_VOICE_FLAVIA_EVT_7|$E通常,|胸を張りな。\nあんたの策に、全員乗ったんだ。$k\n$Wsフラヴィア|$Wd$w0|$Wmクロム|3$w0|$Wsクロム|$Wa$b動作,クロム,Ac5|$SvpSE_VOICE_CHROM_EVT_43|だいじょうぶだ、$Nu。\n必ず成功する。$k$p$E怒,|いや、成功させてみせる。\n姉さんを救出し、みんなで笑って帰るぞ。$k
+MID_009_OP2_4_PCM1: $t1$Wmusername|3$w0|$Wsusername|$Wa$b向き,プレイヤー女,E|$b動作,プレイヤー女,Ge2|$SvpSE_VOICE_PLAYER_M#_EVT_15|$E怒,|ああ！$k
+MID_009_OP2_4_PCM2: $t1$Wmusername|3$w0|$Wsusername|$Wa$b向き,プレイヤー女,E|$b動作,プレイヤー女,Ge2|$SvpSE_VOICE_PLAYER_M#_EVT_15|$E怒,|ああ。$k
+MID_009_OP2_4_PCM3: $t1$Wmusername|3$w0|$Wsusername|$Wa$b向き,プレイヤー女,E|$b動作,プレイヤー女,Ge2|$E怒,|……！$k
+MID_009_OP2_4_PCF1: $t1$Wmusername|3$w0|$Wsusername|$Wa$b向き,プレイヤー女,E|$b動作,プレイヤー女,Ge2|$SvpSE_VOICE_PLAYER_F#_EVT_15|$E怒,|ええ！$k
+MID_009_OP2_4_PCF2: $t1$Wmusername|3$w0|$Wsusername|$Wa$b向き,プレイヤー女,E|$b動作,プレイヤー女,Ge2|$SvpSE_VOICE_PLAYER_F#_EVT_15|$E怒,|はい。$k
+MID_009_OP2_4_PCF3: $t1$Wmusername|3$w0|$Wsusername|$Wa$b向き,プレイヤー女,E|$b動作,プレイヤー女,Ge2|$E怒,|……！$k
+MID_009_OP3: $t1$Wmファウダー|3$w0|$Wsファウダー|$Wa$b動作,ファウダー,Ge2|$SvpSE_VOICE_FAUDER_EVT_5|ギムレー様…\n知らせが入りました。$k$pエメリナは\n予定通り処刑されるとのこと…$k\n$Wsファウダー|$Wd$w0|$Wm？？？|3$w0|$Ws？？？|$Wa…………$k\n$Ws？？？|$Wd$w0|$Wmファウダー|3$w0|$Wsファウダー|$Wa$b動作,ファウダー,Ge6|$SvpSE_VOICE_FAUDER_EVT_1|$p$E笑,|…クク、どうあがこうとエメリナは死ぬ。\nそれが、決められた運命というもの…$k$pすべてはギムレー様、\nあなた様の筋書きどおりに…$k\n$Wsファウダー|$Wd$w0|$Wm？？？|3$w0|$Ws？？？|$Wa$p…………$k
+MID_009_OP3_01: $t1$Wmusername|3$w0|$Wsusername|$Wa$Wv$E苦,汗|――――っ！！$k
+MID_009_OP3_02: $t1$Wmリズ|3$w0|$Wsリズ|$Wa$b動作,リズ,RizPeep|$b注目,リズ,プレイヤー女|$SvpSE_VOICE_LIZ_EVT_19|わ！？　ど、どうしたの？\n$Nuさん…$k$pもしかして\nへんな夢でも見た？$k
+MID_009_OP3_03_PCM1: $t1$Wmusername|3$w0|$Wsusername|$Wa$b注目,プレイヤー女,リズ|$SvpSE_VOICE_PLAYER_M#_EVT_13|$p$E通常,|夢……？$k$pそうか、夢だったのか……$k$pん？\nリズはどうしてここに？$k
+MID_009_OP3_03_PCM2: $t1$Wmusername|3$w0|$Wsusername|$Wa$b注目,プレイヤー女,リズ|$SvpSE_VOICE_PLAYER_M#_EVT_13|$p$E通常,|夢……？$k$pそうか…夢か……$k$pあれ？\nリズはどうしてここに？$k
+MID_009_OP3_03_PCM3: $t1$Wmusername|3$w0|$Wsusername|$Wa$b注目,プレイヤー女,リズ|$p$E通常,|……？$k
+MID_009_OP3_03_PCF1: $t1$Wmusername|3$w0|$Wsusername|$Wa$b注目,プレイヤー女,リズ|$SvpSE_VOICE_PLAYER_F#_EVT_13|$p$E通常,|夢……？$k$pそうか、夢だったのね……$k$pあれ？\nリズはどうしてここに？$k
+MID_009_OP3_03_PCF2: $t1$Wmusername|3$w0|$Wsusername|$Wa$b注目,プレイヤー女,リズ|$SvpSE_VOICE_PLAYER_F#_EVT_13|$p$E通常,|夢……？$k$pそうか…夢でしたか……$k$p？\nリズさんはなぜここに？$k
+MID_009_OP3_03_PCF3: $t1$Wmusername|3$w0|$Wsusername|$Wa$b注目,プレイヤー女,リズ|$p$E通常,|……？$k
+MID_009_OP3_04: $t1$Wmリズ|3$w0|$Wsリズ|$Wa$b動作,リズ,RizRe|$b注目,リズ,プレイヤー女|$SvpSE_VOICE_LIZ_EVT_26|$pフレデリクが、\nそろそろ出発の時間だって。$k$p一緒にいこ、\n$Nuさん。$k
+MID_009_OP4: $t1$Wmギャンレル|3$w0|$Wsギャンレル|$Wa$b動作,ギャンレル,GyanGe4|$b動作,ギャンレル,GyanRe|$SvpSE_VOICE_GANGREL_EVT_1|よく集まったな、ペレジアの民たちよ！！$k$p$b動作,ギャンレル,GyanGe7|$b動作,ギャンレル,GyanRe|$E笑,|そんなに見てぇか？　見てぇよなぁ！？\n最高の見世物だもんなぁ？$k$p最っ高潮だぜぇ？$k$p$b動作,ギャンレル,GyanGe8|$b動作,ギャンレル,GyanGe9|$E怒,|おら！！　処刑人！\n恨みを込めた斧を振り下ろせぃ！！$k
+MID_009_OP4_01_PCM1: $t1$Wmusername|3$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_32|$E怒,|フラヴィア様！$k\n$Wsusername|$Wd$w0|$Wmフラヴィア|3$w0|$Wsフラヴィア|$Wa$SvpSE_VOICE_FLAVIA_EVT_21|$E怒,|任せな！$k
+MID_009_OP4_01_PCM2: $t1$Wmusername|3$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_32|$E怒,|フラヴィア様！$k\n$Wsusername|$Wd$w0|$Wmフラヴィア|3$w0|$Wsフラヴィア|$Wa$SvpSE_VOICE_FLAVIA_EVT_21|$E怒,|任せな！$k
+MID_009_OP4_01_PCM3: $t1$Wmusername|3$w0|$Wsusername|$Wa$E怒,|……！$k\n$Wsusername|$Wd$w0|$Wmフラヴィア|3$w0|$Wsフラヴィア|$Wa$SvpSE_VOICE_FLAVIA_EVT_21|$E怒,|任せな、$Nu！$k
+MID_009_OP4_01_PCF1: $t1$Wmusername|3$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_F#_EVT_32|$E怒,|フラヴィア様！$k\n$Wsusername|$Wd$w0|$Wmフラヴィア|3$w0|$Wsフラヴィア|$Wa$SvpSE_VOICE_FLAVIA_EVT_21|$E怒,|任せな！$k
+MID_009_OP4_01_PCF2: $t1$Wmusername|3$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_F#_EVT_32|$E怒,|フラヴィア様！$k\n$Wsusername|$Wd$w0|$Wmフラヴィア|3$w0|$Wsフラヴィア|$Wa$SvpSE_VOICE_FLAVIA_EVT_21|$E怒,|任せな！$k
+MID_009_OP4_01_PCF3: $t1$Wmusername|3$w0|$Wsusername|$Wa$E怒,|……！$k\n$Wsusername|$Wd$w0|$Wmフラヴィア|3$w0|$Wsフラヴィア|$Wa$SvpSE_VOICE_FLAVIA_EVT_21|$E怒,|任せな、$Nu！$k
+MID_009_OP4_02_PCM1: $t1$Wmusername|3$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_35|よし、今だ！$k
+MID_009_OP4_02_PCM2: $t1$Wmusername|3$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_35|よし、行こう！$k
+MID_009_OP4_02_PCM3: $t1$Wmusername|3$w0|$Wsusername|$Wa！$k
+MID_009_OP4_02_PCF1: $t1$Wmusername|3$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_F#_EVT_35|よし、今よ！$k
+MID_009_OP4_02_PCF2: $t1$Wmusername|3$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_F#_EVT_35|よし、今です。$k
+MID_009_OP4_02_PCF3: $t1$Wmusername|3$w0|$Wsusername|$Wa！$k
+MID_009_OP4_03: $t1$Wmクロム|3$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_14|$E怒,|ギャンレルはあとでいい！\n敵を姉さんに近づけるな！$k\n$Wmギャンレル|7$w0|$Wsギャンレル|$Wa$SvpSE_VOICE_GANGREL_EVT_19|ふん……来やがったな？\nおら、兵ども！　アイツらを迎え撃てや。$k
+MID_009_EVサーリャ: $t1$Wmサーリャ|7$w0|$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_24|$E通常,|聖王エメリナは処刑される…\nみんなは恨みを晴らせると喜んでる……$k$p$E怒,|…くだらないわ。イーリスへの恨みなんて。\nそんな恨み、自分の気持ちじゃないもの。$k$p長年続いてきた遺恨という名の呪い…\n私はそんなものに縛られたくない。$k$p$Eキメ,|私は私自身の気持ちで\n誰かを思い、誰かを呪うわ。$k
+MID_009_EVリベラ: $t1$Wmリベラ|3$w0|$Wsリベラ|$Wa$SvpSE_VOICE_RIVIERA_EVT_14|$E怒,|急がなければ…\nエメリナ様をお助けしなければ…$k
+MID_009_TK1: $t1$Wmクロム|3$Wmサーリャ|7$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_34|$E怒,|！　お前も敵か？$k\n$SbpSTRM_BGM_EVT_HUON1|0|$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_3|$E通常,|さあ…どうかしらね。\nそんなこと、死ぬほどどうでもいい。$k$pどうせみんな死ぬんだもの。\n何したって変わらないわ。$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_3|…よくわからんが、\n敵でいいんだな？$k\n$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_14|…………。\n敵かどうか迷ってる…って言ったら？$k$p本当はギャンレル王に\n従うべきなんでしょうけど…$k$p貴方たちに味方したくなってる…\nって言ったら？$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_8|なら、俺たちと来い。$k\n$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_2|信じるの？　罠かもしれないわよ。\nどうせ私の言葉なんて信じられないわよ。$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_10|姉さんだったら、信じるだろう。$k$p人を疑って罠にはまるより、\n信じて罠にはまったほうがいい。$k\n$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_9|$E通常,|貴方…私のこと信じるのね。\nそんな人…初めて。$k$p$E笑,|いいわ。\n私…ついていくわ、貴方に。$k
+MID_009_TK2: $t1$Wmクロム|3$Wmリベラ|7$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_24|$E怒,|お前！　なぜ１人で戦っている？！$k\n$SbpSTRM_BGM_EVT_NAKAMA1|0|$Wsリベラ|$Wa$SvpSE_VOICE_RIVIERA_EVT_1|…！？　あ…！\n貴方はもしや、クロム様！？$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_3|俺を知っているのか？$k\n$Wsリベラ|$Wa$SvpSE_VOICE_RIVIERA_EVT_2|$E笑,|はい。存じ上げております。\n私はイーリス王国の聖職者ですので。$k$p$Eキメ,|神よ…エメリナ様の弟君に\n引き合わせて下さり、感謝致します…$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_11|祈るのは後で頼む。\nイーリスの聖職者が、なぜここに？$k\n$Wsリベラ|$Wa$SvpSE_VOICE_RIVIERA_EVT_14|$E怒,|それは…エメリナ様の処刑の報せを聞き、\nなんとか止めることができたらと…！$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_34|…処刑を止めるために、\n戦ってくれていたのか？$k\n$Wsリベラ|$Wa$SvpSE_VOICE_RIVIERA_EVT_13|$E苦,汗|はい…。ですが、共に駆けつけた仲間は\nみんな倒れてしまいました。$k$pもはや私ひとりでは\n処刑を止めることなど不可能でしょう。$k$p$E怒,|お願いです！\n私もクロム様のお力に加えて下さい！$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_9|$E笑,|もちろんだ。$k$p姉さんのために\n戦ってくれていたこと…感謝する。$k$pお前ほどの強いシスターが\n仲間になってくれると、心強い。$k\n$Wsリベラ|$Wa$SvpSE_VOICE_RIVIERA_EVT_8|$E通常,|僧侶です。$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_2|えっ？$k$pシスター…だろう？$k\n$Wsリベラ|$Wa$SvpSE_VOICE_RIVIERA_EVT_7|僧侶です。…まぁ、正しくは\n戦う聖職者、バトルモンクですが。$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_23|$E苦,汗|…すまない、てっきり女かと…$k\n$Wsリベラ|$Wa$SvpSE_VOICE_RIVIERA_EVT_5|$E笑,|…いえ、よくあることですので…。\n私は気にしていませんよ。$k$p$E通常,|……$k$p$SvpSE_VOICE_RIVIERA_EVT_16|$E苦,汗|神よ…エメリナ様の弟君にまで\n女性に間違われ、私はどうしたら…$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_34|…………すまん。$k
+MID_009_BT1: $t0$Wm009_ボス|0$w0|$Ws009_ボス|$Wa$E怒,|聖王のもとへは行かせん！\n我らペレジアの恨み、思い知れ！$k
+MID_009_BOSS_DIE1: $t0$Wm009_ボス|0$w0|$Ws009_ボス|$Wa$E苦,|ギャンレル…様…\n我らの…恨みを……$k
+MID_009_DIE_サーリャ: $t1$Wmサーリャ|3$w0|$Wsサーリャ|$Wa$E苦,汗|…痛いわ…なんてことするの…\n末代まで呪ってあげるから…覚えてなさい…$k
+MID_009_DIE_リベラ: $t1$Wmリベラ|3$w0|$Wsリベラ|$Wa…ああ…神よ…\nどうか…エメリナ様を……$k
+MID_009_ZOEN1: $t0$Wm009_ボス|0$w0|$Ws009_ボス|$Wa$SvpSE_VOICE_BOSS1_EVT_5|$E怒,|竜騎士団の増援を急がせよ！\n奴らの背後から襲いかかれ！$k
+MID_009_ED1: $t1$Wmクロム|3$Wmusername|7$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_39|$E怒,|$Nu！\n敵ドラゴンナイトはすべて落とした！$k$p予定通り合図を出すぞ！$k
+MID_009_ED1_00: $t1$Wmエメリナ|7$Wmフィレイン|3$w0|$Wsフィレイン|$Wa$SvpSE_VOICE_ENEMY_F3_EVT_1|エメリナ様！！$k\n$Wsエメリナ|$Wa$SvpSE_VOICE_EMELINA_EVT_13|フィレイン！？\n無事だったのですか…！？$k\n$Wsフィレイン|$Wa$SvpSE_VOICE_ENEMY_F3_EVT_3|はい！　バジーリオ様の\n手の者により脱出を。$k$pエメリナ様！\n今、お救いします！$k
+MID_009_ED1_00_01: $t1$Wmフィレイン|3$Wmギャンレル|7$w0|$Wsギャンレル|$Wa$SvpSE_VOICE_GANGREL_EVT_5|$E怒,|なにっ…天馬騎士団！？\nいつの間にか脱出してやがったか！！$k$p$E苦,汗|ドラゴンナイトを落としておいて\n天馬騎士団で空から助けるってか！？$k$pイーリスの軍師の策か！\n小賢しいマネしやがってよぉ！$k\n$Wsギャンレル|$Wd$w0|$Wmインバース|7$w0|$Wsインバース|$Wa………$k$p$E笑,|ふふ。でも、残念…$k
+MID_009_ED1_00_02_PCM1: $t1$Wmusername|3$w0|$Wsusername|$Wa$Wv$SvpSE_VOICE_PLAYER_M#_EVT_28|屍兵！？$k\n$Wsusername|$Wd$w0|$Wmクロム|3$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_5|$E苦,汗|馬鹿な、こんな偶然が…！$k\n$Wsクロム|$Wd$w0|$Wmギャンレル|3$w0|$Wsギャンレル|$Wa$SvpSE_VOICE_GANGREL_EVT_26|$E笑,|ハッハー！！\nまさか屍兵がおでましとはなァ！！$k$p天もこのオレに\n味方してくれてるぜぇ！！$k
+MID_009_ED1_00_02_PCM2: $t1$Wmusername|3$w0|$Wsusername|$Wa$Wv$SvpSE_VOICE_PLAYER_M#_EVT_28|屍兵…！？$k\n$Wsusername|$Wd$w0|$Wmクロム|3$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_5|$E苦,汗|馬鹿な、こんな偶然が…！$k\n$Wsクロム|$Wd$w0|$Wmギャンレル|3$w0|$Wsギャンレル|$Wa$SvpSE_VOICE_GANGREL_EVT_26|$E笑,|ハッハー！！\nまさか屍兵がおでましとはなァ！！$k$p天もこのオレに\n味方してくれてるぜぇ！！$k
+MID_009_ED1_00_02_PCM3: $t1$Wmusername|3$w0|$Wsusername|$Wa$Wv！？$k\n$Wsusername|$Wd$w0|$Wmクロム|3$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_5|$E苦,汗|屍兵…だと！？\n馬鹿な、こんな偶然が…！$k\n$Wsクロム|$Wd$w0|$Wmギャンレル|3$w0|$Wsギャンレル|$Wa$SvpSE_VOICE_GANGREL_EVT_26|$E笑,|ハッハー！！\nまさか屍兵がおでましとはなァ！！$k$p天もこのオレに\n味方してくれてるぜぇ！！$k
+MID_009_ED1_00_02_PCF1: $t1$Wmusername|3$w0|$Wsusername|$Wa$Wv$SvpSE_VOICE_PLAYER_F#_EVT_28|屍兵！？$k\n$Wsusername|$Wd$w0|$Wmクロム|3$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_5|$E苦,汗|馬鹿な、こんな偶然が…！$k\n$Wsクロム|$Wd$w0|$Wmギャンレル|3$w0|$Wsギャンレル|$Wa$SvpSE_VOICE_GANGREL_EVT_26|$E笑,|ハッハー！！\nまさか屍兵がおでましとはなァ！！$k$p天もこのオレに\n味方してくれてるぜぇ！！$k
+MID_009_ED1_00_02_PCF2: $t1$Wmusername|3$w0|$Wsusername|$Wa$Wv$SvpSE_VOICE_PLAYER_F#_EVT_28|屍兵…！？$k\n$Wsusername|$Wd$w0|$Wmクロム|3$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_5|$E苦,汗|馬鹿な、こんな偶然が…！$k\n$Wsクロム|$Wd$w0|$Wmギャンレル|3$w0|$Wsギャンレル|$Wa$SvpSE_VOICE_GANGREL_EVT_26|$E笑,|ハッハー！！\nまさか屍兵がおでましとはなァ！！$k$p天もこのオレに\n味方してくれてるぜぇ！！$k
+MID_009_ED1_00_02_PCF3: $t1$Wmusername|3$w0|$Wsusername|$Wa$Wv！？$k\n$Wsusername|$Wd$w0|$Wmクロム|3$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_5|$E苦,汗|屍兵…だと！？\n馬鹿な、こんな偶然が…！$k\n$Wsクロム|$Wd$w0|$Wmギャンレル|3$w0|$Wsギャンレル|$Wa$SvpSE_VOICE_GANGREL_EVT_26|$E笑,|ハッハー！！\nまさか屍兵がおでましとはなァ！！$k$p天もこのオレに\n味方してくれてるぜぇ！！$k
+MID_009_ED1_02: $t0$Wmフィレイン|0$w0|$Wsフィレイン|$Wa$SvpSE_VOICE_ENEMY_F3_EVT_16|$E苦,汗|なぜだ…なぜ…屍兵が…\nこんな時に…$k$pエメリ…ナ様…\nもうし…わ、け…ありま…せ…$k
+MID_009_ED1_03: $t1$Wmエメリナ|7$w0|$Wsエメリナ|$Wa$Wv$SvpSE_VOICE_EMELINA_EVT_11|$E苦,汗|フィレイン！！$k\n$Wsエメリナ|$Wd$w0|$Wmギャンレル|7$w0|$Wsギャンレル|$Wa$E笑,|$SvpSE_VOICE_GANGREL_EVT_17|天馬騎士団長フィレイン様～\nご退場～っ！！$k$pぎゃっはっはっはーーーーっ！！\n落ちろ落ちろぉ！！$k
+MID_009_ED1_04_PCM1: $t1$Wmusername|3$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_8|$E苦,汗|そんな…！$k
+MID_009_ED1_04_PCM2: $t1$Wmusername|3$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_8|$E苦,汗|そ、そんな…$k
+MID_009_ED1_04_PCM3: $t1$Wmusername|3$w0|$Wsusername|$Wa$E苦,汗|…………$k
+MID_009_ED1_04_PCF1: $t1$Wmusername|3$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_F#_EVT_8|$E苦,汗|そんな…！$k
+MID_009_ED1_04_PCF2: $t1$Wmusername|3$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_F#_EVT_8|$E苦,汗|そんな…$k
+MID_009_ED1_04_PCF3: $t1$Wmusername|3$w0|$Wsusername|$Wa$E苦,汗|…………$k
+MID_009_ED1_04_2: $t1$Wmクロム|3$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_20|$E苦,汗|失敗か…！$k\n$Wmギャンレル|7$w0|$Wsギャンレル|$Wa$SvpSE_VOICE_GANGREL_EVT_22|$E笑,|形勢逆転、ってところだなあ？$k$pさあ、這いつくばって\n惨めな負けを認めろぉ！！$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_46|$E苦,汗|まだだっ！$k$p俺たちは生きてる！\n生きてる限り、負けはしない！$k\n$Wsギャンレル|$Wa$SvpSE_VOICE_GANGREL_EVT_2|おお？　かっこいいねえ？　死ぬまでに\n一度は言ってみたい台詞ってヤツだな？$k$p$E通常,|んじゃ、城のてっぺん見てみろよ？\n処刑人はまた配置についた。$k$p俺が命令すれば……\nお姉ちゃんはサヨナラだ。$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_14|$E怒,|姉さんっ！$k\n$Wsギャンレル|$Wa$SvpSE_VOICE_GANGREL_EVT_21|$E怒,|おーっと、動くなぁ！$k$p処刑人！　こいつらがぴくりとでも動いたら\nエメリナを殺せぇ！$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_35|く……！\nき、貴様……！！$k\n$Wsギャンレル|$Wa$SvpSE_VOICE_GANGREL_EVT_12|おらっ！？　どうする？　どうすんだ、王子様！\n大好きなお姉ちゃんを見捨てんのか？$k$p他の奴らはどうだ！　ああ？\n聖王様を見殺しにできんのか？$k$pできねーよなあ？\nだから甘いんだよてめーらは！$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_16|$E苦,汗|ギャンレルっ！$k\n$Wsギャンレル|$Wa$SvpSE_VOICE_GANGREL_EVT_25|$Eキメ,|武器を捨てて降伏しな、王子様！\nんで炎の台座を俺に渡せ！$k$pそうすりゃ命だけは助けてやる。\nエメリナの命もなあ！$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_35|$E苦,汗|ぐ…っ…！$k
+MID_009_ED1_04_3_PCM1: $t1$Wmクロム|3$Wmusername|7$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_4|$E苦,汗|クロム…！$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_17|$E苦,汗|…ギャンレルの言葉は\n全く信用できない。$k$pだが、今逆らえば姉さんは死ぬ！$k$pく……！！\n$Nu、俺は……！！$k$p俺は姉さんを犠牲にしてまで、\n【炎の台座】を守らねばならないのか！？$k
+MID_009_ED1_04_3_PCM2: $t1$Wmクロム|3$Wmusername|7$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_4|$E苦,汗|クロム…！$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_17|$E苦,汗|…ギャンレルの言葉は\n全く信用できない。$k$pだが、今逆らえば姉さんは死ぬ！$k$pく……！！\n$Nu、俺は……！！$k$p俺は姉さんを犠牲にしてまで、\n【炎の台座】を守らねばならないのか！？$k
+MID_009_ED1_04_3_PCM3: $t1$Wmクロム|3$Wmusername|7$w0|$Wsusername|$Wa$E苦,汗|……！$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_17|$E苦,汗|…ギャンレルの言葉は\n全く信用できない。$k$pだが、今逆らえば姉さんは死ぬ！$k$pく……！！\n$Nu、俺は……！！$k$p俺は姉さんを犠牲にしてまで、\n【炎の台座】を守らねばならないのか！？$k
+MID_009_ED1_04_3_PCF1: $t1$Wmクロム|3$Wmusername|7$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_F#_EVT_4|$E苦,汗|クロム…！$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_17|$E苦,汗|…ギャンレルの言葉は\n全く信用できない。$k$pだが、今逆らえば姉さんは死ぬ！$k$pく……！！\n$Nu、俺は……！！$k$p俺は姉さんを犠牲にしてまで、\n【炎の台座】を守らねばならないのか！？$k
+MID_009_ED1_04_3_PCF2: $t1$Wmクロム|3$Wmusername|7$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_F#_EVT_4|$E苦,汗|クロムさん…！$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_17|$E苦,汗|…ギャンレルの言葉は\n全く信用できない。$k$pだが、今逆らえば姉さんは死ぬ！$k$pく……！！\n$Nu、俺は……！！$k$p俺は姉さんを犠牲にしてまで、\n【炎の台座】を守らねばならないのか！？$k
+MID_009_ED1_04_3_PCF3: $t1$Wmクロム|3$Wmusername|7$w0|$Wsusername|$Wa$E苦,汗|……！$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_17|$E苦,汗|…ギャンレルの言葉は\n全く信用できない。$k$pだが、今逆らえば姉さんは死ぬ！$k$pく……！！\n$Nu、俺は……！！$k$p俺は姉さんを犠牲にしてまで、\n【炎の台座】を守らねばならないのか！？$k
+MID_009_ED1_05YN: エメリナを犠牲にする？
+MID_009_ED1_05Y_PCM1: $t1$Wmクロム|3$Wmusername|7$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_15|$E苦,汗|…ああ。\n残念だが、それしか道はない。$k$p辛いのは分かる。\nだが……$k$p一人の命を救うより、\n大勢の命を救うべきだ。$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_35|$E苦,汗|く……っ！$k
+MID_009_ED1_05Y_PCM2: $t1$Wmクロム|3$Wmusername|7$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_15|$E苦,汗|……ああ。\n残念だけど…それしか道はない。$k$p辛いのは分かる。\nでも……$k$p一人の命を救うより、\n大勢の命を救うべきだと思う。$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_35|$E苦,汗|く……っ！$k
+MID_009_ED1_05Y_PCM3: $t1$Wmクロム|3$Wmusername|7$w0|$Wsusername|$Wa$E苦,汗|…………$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_35|$E苦,汗|く……っ！$k
+MID_009_ED1_05Y_PCF1: $t1$Wmクロム|3$Wmusername|7$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_F#_EVT_15|$E苦,汗|ええ。\n残念だけど、それしか道はないわ。$k$p辛いのは分かる。\nでも……$k$p一人の命を救うより、\n大勢の命を救うべきだわ。$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_35|$E苦,汗|く……っ！$k
+MID_009_ED1_05Y_PCF2: $t1$Wmクロム|3$Wmusername|7$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_F#_EVT_15|$E苦,汗|……はい。\n残念ですが…それしか道はありません。$k$p辛いのは分かります。\nでも……$k$p一人の命を救うより、\n大勢の命を救うべきです。$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_35|$E苦,汗|く……っ！$k
+MID_009_ED1_05Y_PCF3: $t1$Wmクロム|3$Wmusername|7$w0|$Wsusername|$Wa$E苦,汗|…………$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_35|$E苦,汗|く……っ！$k
+MID_009_ED1_05Y_2: $t1$Wmギャンレル|7$w0|$Wsギャンレル|$Wa$SvpSE_VOICE_GANGREL_EVT_9|$E通常,|なんだ？\n逆らおうってのか？　おもしれえ！$k$p『王子は聖王様を見殺しにした！』\nウワサは国じゅうに広がるぜえ！$k$p$E笑,|民の心はあっという間に離れちまうなあ。\nてめーらの国はどの道おしまいだぁ！$k\n$Wmクロム|3$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_20|$E苦,汗|ギャンレル…！$k
+MID_009_ED1_05N_PCM1: $t1$Wmクロム|3$Wmusername|7$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_32|$E苦,汗|いや。あきらめるな。\n何か手があるはず…$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_35|$E苦,汗|俺もそう信じたい…だが…$k$p一体どうやってこの状況を\n打開するというんだ！？$k
+MID_009_ED1_05N_PCM2: $t1$Wmクロム|3$Wmusername|7$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_32|$E苦,汗|いや。あきらめてはだめだ。\n何か手があるはずだ…$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_35|$E苦,汗|俺もそう信じたい…だが…$k$p一体どうやってこの状況を\n打開するというんだ！？$k
+MID_009_ED1_05N_PCM3: $t1$Wmクロム|3$Wmusername|7$w0|$Wsusername|$Wa$E苦,汗|……！$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_35|$E苦,汗|俺も姉さんを失いたくない…\nだが…$k$p一体どうやってこの状況を\n打開するというんだ！？$k
+MID_009_ED1_05N_PCF1: $t1$Wmクロム|3$Wmusername|7$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_F#_EVT_32|$E苦,汗|いいえ。あきらめちゃだめ。\n何か手があるはずよ…$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_35|$E苦,汗|俺もそう信じたい…だが…$k$p一体どうやってこの状況を\n打開するというんだ！？$k
+MID_009_ED1_05N_PCF2: $t1$Wmクロム|3$Wmusername|7$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_F#_EVT_32|$E苦,汗|いいえ。あきらめないでください。\n何か手があるはずです…$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_35|$E苦,汗|俺もそう信じたい…だが…$k$p一体どうやってこの状況を\n打開するというんだ！？$k
+MID_009_ED1_05N_PCF3: $t1$Wmクロム|3$Wmusername|7$w0|$Wsusername|$Wa$E苦,汗|……！$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_35|$E苦,汗|俺も姉さんを失いたくない…\nだが…$k$p一体どうやってこの状況を\n打開するというんだ！？$k
+MID_009_ED1_05N_2: $t1$Wmギャンレル|7$w0|$Wsギャンレル|$Wa$SvpSE_VOICE_GANGREL_EVT_3|$E通常,|三つ数えるうちに武器を捨てろ！\nさもなきゃ聖王は死ぬ！$k$p一つ！$k$p二つ！$k$pみ…$k\n$Wmクロム|3$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_18|$E苦,汗|待て！　今武器を――！$k
+MID_009_ED1_06: $t1$Wmクロム|3$Wmエメリナ|7$w0|$Wsエメリナ|$Wa$Wv$SvpSE_VOICE_EMELINA_EVT_6|$E怒,|クロム！　いけません！$k\n$Wsエメリナ|$Wd$w0|$Wmギャンレル|7$w0|$Wsギャンレル|$Wa$SvpSE_VOICE_GANGREL_EVT_5|$E怒,|あぁん？$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_15|$E通常,|姉さん……！$k\n$Wsギャンレル|$Wd$w0|$Wmエメリナ|7$w0|$SbpSTRM_BGM_EVT_KETSUI1|0|$Wsエメリナ|$Wa$SvpSE_VOICE_EMELINA_EVT_21|$E怒,|ギャンレル殿……\nもう話し合う事は出来ないのですね？$k\n$Wsクロム|$Wd$w0|$Wmギャンレル|3$w0|$Wsギャンレル|$Wa$SvpSE_VOICE_GANGREL_EVT_23|$E怒,|まーた得意の説教か？\n当たり前だろうが！$k$pいつもお高いところから\nきれいごとをまき散らしやがって…$k$pてめーの理想のなれの果てが\nそのザマだ！$k$p弟や民の足を引っぱるだけの\nクズ王なんだよ、てめーは！$k\n$Wsエメリナ|$Wa$E通常,|…………$k\n$Wsギャンレル|$Wd$w0|$Wmクロム|3$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_19|$E怒,|黙れ！　ギャンレル！！$k$p姉さん！\n姉さんは、間違っていない！$k$p希望を語る者がいなければ、\n世界には絶望しか残らない。$k$pだから、俺たちやイーリスの皆は、理想を…\n聖王を望んでいるんだ！$k\n$Wsエメリナ|$Wa$SvpSE_VOICE_EMELINA_EVT_30|クロム……$k$p$E笑,|ありがとう。$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_34|姉さん…？$k\n$Wsエメリナ|$Wa$SvpSE_VOICE_EMELINA_EVT_13|$E怒,|――ペレジアのみなさん、\nどうか私の声を聞いて下さい。$k$p戦争は、何も生みません。\n多くの罪なき人々が悲しむ事になるだけです。$k$p憎しみに心を支配されてはなりません。\n悲しみに縛られてはなりません。$k$pたった一欠片の思いやりが…\n世界の人々を平和へと導くのです。$k$p$E笑,|心の片隅にでもいい、\nどうかそれを忘れないで下さい……$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_14|$E苦,汗|姉さん……！？$k
+MID_009_ED2_PCM1: $t1$Wmusername|3$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_29|$E苦,汗|エメリナ様――$k
+MID_009_ED2_PCM2: $t1$Wmusername|3$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_29|$E苦,汗|エメリナ様――$k
+MID_009_ED2_PCM3: $t1$Wmusername|3$w0|$Wsusername|$Wa$E苦,汗|――――$k
+MID_009_ED2_PCF1: $t1$Wmusername|3$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_F#_EVT_29|$E苦,汗|エメリナ様――$k
+MID_009_ED2_PCF2: $t1$Wmusername|3$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_F#_EVT_29|$E苦,汗|エメリナ様――$k
+MID_009_ED2_PCF3: $t1$Wmusername|3$w0|$Wsusername|$Wa$E苦,汗|――――$k
+MID_009_ED2_2: $t1$Wmクロム|3$w0|$Wsクロム|$Wa$Wv$SvpSE_VOICE_CHROM_EVT_34|$E苦,|…………！$k\n$Wsクロム|$Wd$w0|$Wmリズ|3$w0|$Wsリズ|$Wa$Wv$SvpSE_VOICE_LIZ_EVT_35|$E悲しみ,|いやぁっ！！\nいやぁぁぁぁぁぁぁぁっ！！！$k\n$Wsリズ|$Wd$w0|$Wmギャンレル|7$w0|$Wsギャンレル|$Wa$Wv$SvpSE_VOICE_GANGREL_EVT_26|$E笑,|クァーッハッハッハッハッハッ！\n気高い！　気高いぜぇ、エメリナ！！$k$pこの世にきれいな死なんざねぇと\n思ってたがよ！$k$pいくらか考えを改めてやる！$k$p$E通常,|イーリス聖王エメリナ！$k$pてめぇは愛する者たちのために、\n美しく死んだ女だ！$k$p$E笑,|$Wvそして、世界で一番無責任な\nクソったれ女だぁ！！$k\n$Wmクロム|3$w0|$Wsクロム|$Wa$Wv$SvpSE_VOICE_CHROM_EVT_37|$E苦,|貴様…貴様ぁっ！$k
+MID_009_ED2_01: $t1$Wmバジーリオ|3$w0|$Wsバジーリオ|$Wa$SvpSE_VOICE_BASILIO_EVT_23|$Eキメ,|クロム！　退くぞ！\n逃げ道は俺が確保してある！$k\n$Wsバジーリオ|$Wd$w0|$Wmクロム|3$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_15|姉さんを…\n姉さんを…連れて…帰らなければ…$k\n$Wsクロム|$Wd$w0|$Wmバジーリオ|3$w0|$Wsバジーリオ|$Wa$SvpSE_VOICE_BASILIO_EVT_21|$Eキメ,|今は逃げるのが先だ！\n行くぞ！$k$p$Nu！　クロムが無茶しねえように\nお前がしっかりついててやれ！$k
+MID_009_ED3: $t1$Wmマルス|3$w0|$Wsマルス|$Wa$SvpSE_VOICE_MARTH_EVT_15|$E苦,汗|……間に合わ……なかった……\nまさか、そんな…$k$p…変えたはずの未来が…\n…元に戻ってしまった…$k$pこのままでは、\n世界はまた…暗闇に…$k
+MID_009_MOVIE1: $t1$Wm？？？|3$w0|$Ws？？？|$Wa【ムービー　聖王の覚悟】$k

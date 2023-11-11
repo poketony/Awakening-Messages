@@ -1,0 +1,16 @@
+MESS_ARCHIVE_X004
+
+
+Message Name: Message
+
+
+MID_X004_OP1: $t1$Wm行商人|3$Wmクロム|7$w0|$Ws行商人|$Wa$SvpSE_VOICE_VIRREGER2_EVT_1|$E苦,|ああ、なんということでしょう…\nこの世には神も仏もないのでしょうか…$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_25|何かあったのか？$k\n$Ws行商人|$Wa$SvpSE_VOICE_VIRREGER2_EVT_2|$E通常,|ああ、良かった…\nどうか助けてください！$k$p$E苦,|うら若き女性の行商人が、\n山賊に襲われているのです。$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_34|$E怒,|わかった、すぐに向かう。$k
+MID_X004_OP2: $t1$WmX004_ボス|3$Wmアンナ|7$w0|$WsX004_ボス|$Wa$SvpSE_VOICE_ENEMY_N2_EVT_2|この前はお世話になったね、\nハンサムがね。$k$p$E怒,|愛する弟の仇は討たせてもらうよ、\nハンサムのね。$k\n$Wsアンナ|$Wa$SvpSE_VOICE_ANNA_EVT_5|？　何の話？$k\n$WsX004_ボス|$Wa$SvpSE_VOICE_ENEMY_N2_EVT_1|とぼけるのは良くないね。\n君が倒したんだろう、ハンサムをね。$k$p君を売り飛ばしたお金でお墓を建てるよ。\nハンサムのね。$k\n$Wsアンナ|$Wa$SvpSE_VOICE_ANNA_EVT_18|$E笑,|高いわよ、私は。$k
+MID_X004_OP2_02: $t1$WmX004_ボス|3$Wmアンナ|7$w0|$WsX004_ボス|$Wa$SvpSE_VOICE_ENEMY_N2_EVT_1|こんなところに迷い込んで来るなんて\n運の悪い女もいたものだね。$k$p$E怒,|君を売り飛ばしたお金で花を贈るよ。\nハンサムにね。$k\n$Wsアンナ|$Wa$SvpSE_VOICE_ANNA_EVT_18|$E笑,|高いわよ、私は。$k
+MID_X004_TK1: $t1$Wmアンナ|3$Wmクロム|7$w0|$Wsアンナ|$Wa$SvpSE_VOICE_ANNA_EVT_1|あら、あなた。\nもしかして助けにきてくれたの？$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_7|ああ、放っておくわけにはいかない。\nまだ戦えるか？$k\n$Wsアンナ|$Wa$SvpSE_VOICE_ANNA_EVT_3|ええ、戦いでもカギ開けでも\n任せてちょうだい。$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_3|$E怒,|カギ開け？$k\n$Wsアンナ|$Wa$SvpSE_VOICE_ANNA_EVT_4|私、宝箱や扉を\n開けることもできるの。$k$pここの山賊たち、\n宝をため込んでるみたいだし、ね。$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_12|$E通常,|しっかりしてるな…。\nわかった、では協力して戦おう！$k
+MID_X004_ED1: $t1$Wmアンナ|3$Wmクロム|7$w0|$Wsアンナ|$Wa$SvpSE_VOICE_ANNA_EVT_20|助かったわ、ありがとう。\n私はアンナ。秘密の行商人よ。$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_7|一人で旅をするのは危険だ。\n気をつけた方がいい。$k\n$Wsアンナ|$Wa$SvpSE_VOICE_ANNA_EVT_5|そうね。あなたたちみたいな人が\nいてくれたら心強いんだけれど。$k$p$E笑,|ねえ。良かったら、私も\nあなたたちと一緒に連れてってくれない？$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_3|$E怒,|俺たちと一緒に？\nだが、俺たちの旅も危険だぞ。$k\n$Wsアンナ|$Wa$SvpSE_VOICE_ANNA_EVT_3|$E通常,|良いわ。一人きりより、\n仲間がいた方が楽しいもの。$k$p私、意外と役に立つのよ。\n$E笑,|損はさせないから、よろしくね。$k
+MID_X004_ED1B: $t1$Wmアンナ|7$Wmクロム|3$w0|$Wsアンナ|$Wa$SvpSE_VOICE_ANNA_EVT_20|助かったわ、ありがとう。$k$p私はアンナ。秘密の行商人よ。$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_7|また会ったな。\nあんたとは妙な縁があるようだ。$k\n$Wsアンナ|$Wa$SvpSE_VOICE_ANNA_EVT_9|$E苦,汗|え？　そうなの？\n私はあなたたちと会うのは初めてだけど。$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_3|$E怒,|何？$k$pそ、そうかすまん。記憶違いだったか…$k$p$E苦,汗|いや、待て。\nそんなはずないと思うんだが…$k\n$Wsアンナ|$Wa$SvpSE_VOICE_ANNA_EVT_2|$E通常,|ああ、そういうこと。\nあなたたち、私の姉妹に出会ったのね。$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_2|$E通常,|姉妹？$k\n$Wsアンナ|$Wa$SvpSE_VOICE_ANNA_EVT_3|ええ、私たち姉妹は\nみんな行商人をしてるから。$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_12|$E怒,|名前も一緒なのか？$k\n$Wsアンナ|$Wa$SvpSE_VOICE_ANNA_EVT_4|ええ、そうだけど。$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_11|$E通常,|変わってるな…\nどうやって区別するんだ…？$k\n$Wsアンナ|$Wa$SvpSE_VOICE_ANNA_EVT_10|妹も世話になったのよね。\nこのままお別れというわけにもいかないわ。$k$p良かったら、私も\nあなたたちと一緒に連れてって。$k$p$E笑,|私、意外と役に立つのよ。\n損はさせないから、よろしくね。$k
+MID_X004_ED1アンナ死亡: $t1$Wmフレデリク|7$Wmクロム|3$w0|$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_8|クロム様、戦闘は終了しました。$k$pあの行商人の方は途中で傷を負い、\nどこかへ離脱したようです。$k\n$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_8|そうか。またどこかで\n会う機会もあるだろう。$k$p俺たちも先を急ごう。$k
+MID_X004_BT1: $t0$WmX004_ボス|0$w0|$WsX004_ボス|$Wa$E笑,|僕の美しさをここで示すよ。\nハンサムにね。$k
+MID_X004_BOSS_DIE1: $t0$WmX004_ボス|0$w0|$WsX004_ボス|$Wa$E苦,|おや…これまでの人生が\n走馬灯のように蘇るよハンサム…$k
+MID_X004_DIE_アンナ: $t1$Wmアンナ|3$w0|$Wsアンナ|$Wa$E苦,汗|！\n油断しちゃったみたいね…$k$p申し訳ないけど\n一度下がらせてもらうわ…$k
