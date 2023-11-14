@@ -60,8 +60,8 @@ MID_SYS_EN_レベルＥ: E
 MID_SYS_EN_レベルＮ: -
 MID_SYS_スキップ中: 스킵 중
 MID_SYS_お任せ中: 위임 중
-MID_SYS_お任せ実行中: 위임 해제 중 (X 버튼으로 해제)
-MID_SYS_お任せ解除中: (해제 완료를 기다림)
+MID_SYS_お任せ実行中: (X 버튼으로 해제)
+MID_SYS_お任せ解除中: (해제 완료 대기)
 MID_SYS_ターン数: 턴
 MID_SYS_軍資金: 군자금
 MID_SYS_EN_軍資金単位: G
