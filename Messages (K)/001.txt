@@ -83,5 +83,5 @@ MID_001_TUT_地形_PCM3: $t0$Wmusername|0$w0|$Wsusername|$Wa$E通常,|……？$
 MID_001_TUT_地形_PCF1: $t0$Wmusername|0$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_F#_EVT_13|$E通常,|저건……$k\n$Wmフレデリク|6$w0|$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_6|$E通常,|쓰이지 않는\n요새인 것 같군요.$k\n$Wsusername|$Wa$SvpSE_VOICE_PLAYER_F#_EVT_23|$p$E通常,|저기라면\n몸을 지키면서 쉴 수 있겠어.$k$p저 요새에서 싸우자.$k
 MID_001_TUT_地形_PCF2: $t0$Wmusername|0$w0|$Wsusername|$Wa$SvpSE_VOICE_PLAYER_F#_EVT_13|$E通常,|あれは……$k\n$Wmフレデリク|6$w0|$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_6|$E通常,|使われていない\n砦のようですね。$k\n$Wsusername|$Wa$SvpSE_VOICE_PLAYER_F#_EVT_23|$p$E通常,|あそこなら、\n身を守りやすそうです。$k$pあの砦で戦いましょう。$k
 MID_001_TUT_地形_PCF3: $t0$Wmusername|0$w0|$Wsusername|$Wa$E通常,|……？$k\n$Wmフレデリク|6$w0|$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_13|$E通常,|あれですか？\n使われていない砦のようですね。$k$pふむ、確かにあそこで戦えば\n身を守りやすそうです。$k
-MID_001_TUT_戦闘（間接）: $t0$Wmヴィオール|0$w0|$Wsヴィオール|$Wa$SvpSE_VOICE_VIAUR_EVT_3|$E通常,|듣게나 제군들,\n나는 고귀한 궁수.$k$p활로 떨어진 적을 공격할 수 있지.\n다가가지 않고 싸운다, 그것이 귀족의 방식이라네.$k
+MID_001_TUT_戦闘（間接）: $t0$Wmヴィオール|0$w0|$Wsヴィオール|$Wa$SvpSE_VOICE_VIAUR_EVT_3|$E通常,|듣게나 제군들,\n나는 고귀한 궁수.$k$p활로 떨어진 적을 공격할 수 있지.\n다가가지 않고 싸운다, 그게 귀족의 방식이라네.$k
 MID_001_MOVIE1: $t1$Wm？？？|3$w0|$Ws？？？|$Wa【무비 천변지이】$k
