@@ -34,28 +34,28 @@ MID_支援Ｓ_ドニ_01: I love ya. I don't reckon\nI could live without ya!
 MID_支援Ｓ_ドニ_02: Let's you 'n' me settle down on the farm!
 MID_支援Ｓ_スミア_01: 저도 당신이 좋아요.
 MID_支援Ｓ_スミア_02: 절 특별하게 만들어준 당신을…\n누구보다도… 사랑하고 있어요.
-MID_支援Ｓ_リズ_01: 정말 좋아해.\n이 반지를 받아서 너무 기뻐!
+MID_支援Ｓ_リズ_01: 정말 좋아해. 이 반지 너무 기뻐!
 MID_支援Ｓ_リズ_02: 앞으로도 쭈~욱\n사이좋게 지내자.
-MID_支援Ｓ_ソワレ_01: I...I love you, you bastard...\nThere. I said it.
-MID_支援Ｓ_ソワレ_02: Now don't ask me again!
-MID_支援Ｓ_マリアベル_01: My lord, you saw to the\nvery core of my heart.
-MID_支援Ｓ_マリアベル_02: ...And may the gods help\nyou if you break it!
+MID_支援Ｓ_ソワレ_01: 좋아해. 널 위해서 더욱더\n매력적인 사람이 될 거야.
+MID_支援Ｓ_ソワレ_02: 그러니까 각오하고 있어!
+MID_支援Ｓ_マリアベル_01: 저도…\n당신을 좋아하고 있었어요.
+MID_支援Ｓ_マリアベル_02: …행복하게 안 해주면\n용서하지 않을 거예요.
 MID_支援Ｓ_ティアモ_01: 고마워.\n둘이서 행복해지자…
 MID_支援Ｓ_ティアモ_02: 정말 사랑해…\n누구보다도 사랑하고 있어…
-MID_支援Ｓ_ベルベット_01: To think that I might love a human...
-MID_支援Ｓ_ベルベット_02: What a strange world this is.
-MID_支援Ｓ_ノノ_01: Oh, I'm so happy!\nI've always wanted a husband!
-MID_支援Ｓ_ノノ_02: Think of all the wonderful\ncenturies―uh, years―we'll have!
+MID_支援Ｓ_ベルベット_01: 좋아해. 나도 당신이 정말 좋아!
+MID_支援Ｓ_ベルベット_02: 이젠 날 혼자 두지 말아 줘.
+MID_支援Ｓ_ノノ_01: 완전 사랑해!\n노노 지금 엄청 행복해!
+MID_支援Ｓ_ノノ_02: 이젠 노노의 곁에서\n떨어지면 안 돼?
 MID_支援Ｓ_オリヴィエ_01: 저도…
 MID_支援Ｓ_オリヴィエ_02: 당신이 정말 좋아요!\n이… 이런 말은… 당신한테밖에 못 해요!!
-MID_支援Ｓ_セルジュ_01: It's funny. Being close like\nthis just feels...right.
-MID_支援Ｓ_セルジュ_02: It's as if it was always meant to be.
-MID_支援Ｓ_フラヴィア_01: In the name of Regna Ferox, I'll tear the\nwhole world down if you but ask it of me.
-MID_支援Ｓ_フラヴィア_02: That's a khan's promise.
-MID_支援Ｓ_ミリエル_01: What rapture, to have an\nastute significant other
-MID_支援Ｓ_ミリエル_02: with whom to scrutinise this\nworld's illimitable mysteries!
-MID_支援Ｓ_サーリャ_01: I can't believe you made me love you.
-MID_支援Ｓ_サーリャ_02: Course if you back out, I'll\nmurder you in your sleep.
+MID_支援Ｓ_セルジュ_01: 정말 좋아해. 난 분명\n당신과 이렇게 맺어지기 위해서
+MID_支援Ｓ_セルジュ_02: 여태까지 살아온 게 아닐까.
+MID_支援Ｓ_フラヴィア_01: 페리아 왕의 이름을 걸고 당신을\n반드시 행복하게 만들겠어.
+MID_支援Ｓ_フラヴィア_02: 각오해 둬.
+MID_支援Ｓ_ミリエル_01: 당신의 곁에서 이 세상의\n의문을 탐구할 수 있다는 건
+MID_支援Ｓ_ミリエル_02: 더할 나위 없는\n행복입니다.
+MID_支援Ｓ_サーリャ_01: 좋아해. 배신하면 용서 안 할 거야.
+MID_支援Ｓ_サーリャ_02: 날 고른 걸 후회해 봤자\n이미 늦었어.
 MID_支援Ｓ_ジェローム_01: From today on we'll hone\nour edges...together.
 MID_支援Ｓ_ジェローム_02: We'll carve a path to happiness\nthrough whatever fate may bring.
 MID_支援Ｓ_ウード_01: You eluded my defences\nand pierced my heart.
@@ -82,8 +82,8 @@ MID_支援Ｓ_ンン_01: Look, it's gonna be you.
 MID_支援Ｓ_ンン_02: Better just give up and accept it now.
 MID_支援Ｓ_サイリ_01: 그대와 평생을 함께하겠다는 약속이
 MID_支援Ｓ_サイリ_02: 이렇게까지 행복한 것일 줄이야.
-MID_支援Ｓ_アンナ_01: Keep this up, and someday I may\nlove you more than money!
-MID_支援Ｓ_アンナ_02: ...No, seriously.
+MID_支援Ｓ_アンナ_01: 내가 좀 더\n당신에게 푹 빠지게 만들어 줘.
+MID_支援Ｓ_アンナ_02: 언젠가 당신을 돈보다 소중히 여길 정도로!
 MID_支援Ｓ_ギャンレル_01: How in blazes did you get me to...love you?
 MID_支援Ｓ_ギャンレル_02: If you're trying to make a new\nman of me...it's working.
 MID_支援Ｓ_ヴァルハルト_01: With you at my side, the path to\nglory shall be an easier one.
