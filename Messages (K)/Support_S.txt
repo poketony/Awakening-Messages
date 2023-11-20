@@ -4,8 +4,8 @@ MESS_ARCHIVE_Support_S
 Message Name: Message
 
 
-MID_支援Ｓ_クロム_01: You are the wind at my back\nand the sword at my side.
-MID_支援Ｓ_クロム_02: Together, my love, we shall build a\npeaceful world. Just you and me.
+MID_支援Ｓ_クロム_01: 내 마음을 받아줘서\n고마워.
+MID_支援Ｓ_クロム_02: 언젠가 함께 평화를 되찾자…\n반드시.
 MID_支援Ｓ_フレデリク_01: My heart is yours, milady.
 MID_支援Ｓ_フレデリク_02: I vow to defend you as knight and\nhusband, until death should part us.
 MID_支援Ｓ_ソール_01: Milady, I may never take\nmy eyes off you again.
