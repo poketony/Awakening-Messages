@@ -6,32 +6,32 @@ Message Name: Message
 
 MID_支援Ｓ_クロム_01: 내 마음을 받아줘서\n고마워.
 MID_支援Ｓ_クロム_02: 언젠가 함께 평화를 되찾자…\n반드시.
-MID_支援Ｓ_フレデリク_01: My heart is yours, milady.
-MID_支援Ｓ_フレデリク_02: I vow to defend you as knight and\nhusband, until death should part us.
-MID_支援Ｓ_ソール_01: Milady, I may never take\nmy eyes off you again.
-MID_支援Ｓ_ソール_02: Unless I'm about to run into a wall...
-MID_支援Ｓ_カラム_01: You make me feel like I'm really here.\nL-like I mean something...
-MID_支援Ｓ_カラム_02: I am yours...forever.
-MID_支援Ｓ_リヒト_01: I wish I could throw my arms\naround you and never let go!
-MID_支援Ｓ_リヒト_02: Just...wait for me to get\na little taller. Okay?
-MID_支援Ｓ_ヴェイク_01: This has gotta be the first time I've\never rated someone else first!
-MID_支援Ｓ_ヴェイク_02: Is this...love? The Vaike is stunned!
-MID_支援Ｓ_リベラ_01: I am yours forever, my love.
-MID_支援Ｓ_リベラ_02: May the gods smile upon our union\nand bring us joy in the years to come.
-MID_支援Ｓ_ロンクー_01: I confess... I do have feelings for...
-MID_支援Ｓ_ロンクー_02: Gods, must all these\nemotions be so vexing?!
-MID_支援Ｓ_グレゴ_01: Now you listen! Gregor promise to\nbring his beloved many happiness
-MID_支援Ｓ_グレゴ_02: for as long as they both\nkeep on with the living!
-MID_支援Ｓ_ガイア_01: Baby, you're a river of chocolate\nin an ocean of cream.
-MID_支援Ｓ_ガイア_02: I'm gonna steal your heart on a daily basis.
-MID_支援Ｓ_ヴィオール_01: I love you! No―I am enamoured with you!\nNo―we are soulmates!
-MID_支援Ｓ_ヴィオール_02: Ah! The sultry sonnets we shall spin!
-MID_支援Ｓ_バジーリオ_01: Just think of all the fun times we're\ngonna have! All the battles!
-MID_支援Ｓ_バジーリオ_02: Ha! I'm gonna make you proud.
-MID_支援Ｓ_ヘンリー_01: I'll love you with every ounce\nof my blood until I die.
-MID_支援Ｓ_ヘンリー_02: ...Ooh! When do you think that'll be?
-MID_支援Ｓ_ドニ_01: I love ya. I don't reckon\nI could live without ya!
-MID_支援Ｓ_ドニ_02: Let's you 'n' me settle down on the farm!
+MID_支援Ｓ_フレデリク_01: 저도… 좋아합니다…
+MID_支援Ｓ_フレデリク_02: 이제부턴 기사가 아니라…\n남편으로서 당신을 지키게 해 주세요.
+MID_支援Ｓ_ソール_01: 이젠 눈을 떼지 않을 거야.\n계속 너를…
+MID_支援Ｓ_ソール_02: 정말 좋아하는 너만을, 바라볼 거야.
+MID_支援Ｓ_カラム_01: 좋아해… 너와 함께라면…\n난 나를 잃지 않을 수 있어…
+MID_支援Ｓ_カラム_02: 내 존재에 의미를 줘서, 고마워.
+MID_支援Ｓ_リヒト_01: 저기… 나…\n금방 클 테니까…
+MID_支援Ｓ_リヒト_02: 그렇게 되면… 다음엔 내가…\n당신을 안아 줄게.
+MID_支援Ｓ_ヴェイク_01: 네가 좋아…!\n이 마음은 누구한테도 안 진다고!
+MID_支援Ｓ_ヴェイク_02: …내가 널 세계에서 제일 행복하게 해줄게.
+MID_支援Ｓ_リベラ_01: 좋아해요.
+MID_支援Ｓ_リベラ_02: 제 귀여운 사랑. 신께 맹세코\n당신을 행복하게 만들겠습니다.
+MID_支援Ｓ_ロンクー_01: 네가 좋다…!
+MID_支援Ｓ_ロンクー_02: 넌, 내가 반드시…\n행복하게 해주겠어.
+MID_支援Ｓ_グレゴ_01: 알겠어-? 깨지 않는 꿈이\n얼마나 좋은 건지
+MID_支援Ｓ_グレゴ_02: 평생에 걸쳐서\n네게 알려 줄게.
+MID_支援Ｓ_ガイア_01: 나도…\n네가 정말 좋아…
+MID_支援Ｓ_ガイア_02: 이 의뢰의 보수는… 평생에 걸쳐서 줄게.
+MID_支援Ｓ_ヴィオール_01: 좋아… 아니, 사랑한다네,\n화려하게.
+MID_支援Ｓ_ヴィオール_02: 반드시 행복하게 해주지! 아름다운 나의 아내여!
+MID_支援Ｓ_バジーリオ_01: 뭐, 앞으로도 이런 느낌으로\n즐겁게 가자고.
+MID_支援Ｓ_バジーリオ_02: 내 아내가 된 걸… 후회하지 않게 할 거다.
+MID_支援Ｓ_ヘンリー_01: 널 반드시\n행복하게 만들어 줄게.
+MID_支援Ｓ_ヘンリー_02: 내 사랑은 무거우니까, 각오해.
+MID_支援Ｓ_ドニ_01: 좋아합니다!\n전 이제 당신이 없으면 안 돼요!
+MID_支援Ｓ_ドニ_02: 앞으로 둘이서 행복하게 살아요!
 MID_支援Ｓ_スミア_01: 저도 당신이 좋아요.
 MID_支援Ｓ_スミア_02: 절 특별하게 만들어준 당신을…\n누구보다도… 사랑하고 있어요.
 MID_支援Ｓ_リズ_01: 정말 좋아해. 이 반지 너무 기뻐!
@@ -56,45 +56,45 @@ MID_支援Ｓ_ミリエル_01: 당신의 곁에서 이 세상의\n의문을 탐�
 MID_支援Ｓ_ミリエル_02: 더할 나위 없는\n행복입니다.
 MID_支援Ｓ_サーリャ_01: 좋아해. 배신하면 용서 안 할 거야.
 MID_支援Ｓ_サーリャ_02: 날 고른 걸 후회해 봤자\n이미 늦었어.
-MID_支援Ｓ_ジェローム_01: From today on we'll hone\nour edges...together.
-MID_支援Ｓ_ジェローム_02: We'll carve a path to happiness\nthrough whatever fate may bring.
-MID_支援Ｓ_ウード_01: You eluded my defences\nand pierced my heart.
-MID_支援Ｓ_ウード_02: It seems I've finally found...my weakness!
-MID_支援Ｓ_アズール_01: I used to say this to all the ladies, but...
-MID_支援Ｓ_アズール_02: you're truly the only one for me!
-MID_支援Ｓ_ブレディ_01: You make me want to be stronger. Better!
-MID_支援Ｓ_ブレディ_02: I swear to become a guy\nworthy of your love!
-MID_支援Ｓ_シャンブレー_01: I love you! Let's repopulate my species!
-MID_支援Ｓ_シャンブレー_02: ...Sorry, was that awkward?
-MID_支援Ｓ_ロラン_01: You've been an object of fascination\nsince I first saw you.
-MID_支援Ｓ_ロラン_02: One I would gladly spend\nmy life investigating.
-MID_支援Ｓ_ルキナ_01: I love you. And no matter\nwhat the future holds,
-MID_支援Ｓ_ルキナ_02: I'm going to cherish every moment.
-MID_支援Ｓ_デジェル_01: With you at my side, I feel as\nstrong as newly-forged steel.
-MID_支援Ｓ_デジェル_02: I...I adore you.
-MID_支援Ｓ_シンシア_01: I love you best of all!
-MID_支援Ｓ_シンシア_02: You're like my own personal hero!
-MID_支援Ｓ_セレナ_01: I...I love you.
-MID_支援Ｓ_セレナ_02: ...HEY! Pay attention for once!\nAnd say something sweet, why don't you?!
-MID_支援Ｓ_ノワール_01: You fill me with a strength\nI never thought to have.
-MID_支援Ｓ_ノワール_02: ...Please, stay with me always.
-MID_支援Ｓ_ンン_01: Look, it's gonna be you.
-MID_支援Ｓ_ンン_02: Better just give up and accept it now.
+MID_支援Ｓ_ジェローム_01: 앞으로는 둘이서\n강해지는 길을 걸어 나가자.
+MID_支援Ｓ_ジェローム_02: 나와 너의\n행복한 미래를 위해서.
+MID_支援Ｓ_ウード_01: 훗…\n내 마음을 빼앗다니,
+MID_支援Ｓ_ウード_02: 솜씨가 좋은걸! …농담입니다… 잘 부탁드려요.
+MID_支援Ｓ_アズール_01: 그렇게 걱정하지 않아도, 제가
+MID_支援Ｓ_アズール_02: 진짜로 좋아하는 사람은 당신뿐이에요.
+MID_支援Ｓ_ブレディ_01: 난 당신을 위해 강해지겠어. 약속이다.
+MID_支援Ｓ_ブレディ_02: 반드시 당신에게 걸맞은 남자가\n되어 줄게!
+MID_支援Ｓ_シャンブレー_01: 저, 열심히 해서 용감한 남자가 될게요!
+MID_支援Ｓ_シャンブレー_02: 그리고, 그… 좋아…해요!
+MID_支援Ｓ_ロラン_01: 저는 언제나 당신을\n바라보고 있습니다.
+MID_支援Ｓ_ロラン_02: 지금까지 그래 왔고…\n그리고 앞으로도요.
+MID_支援Ｓ_ルキナ_01: 좋아해요. 우리 둘에게\n어떤 미래가 찾아오더라도,
+MID_支援Ｓ_ルキナ_02: 적어도 지금은… 지금만큼은… 이대로…
+MID_支援Ｓ_デジェル_01: 좋아합니다.\n당신과 함께라면…
+MID_支援Ｓ_デジェル_02: 전 언제까지고 강해질 수 있어요…!
+MID_支援Ｓ_シンシア_01: 세상에서 당신이 제~일 좋아!
+MID_支援Ｓ_シンシア_02: 계~~~속 나만의 히어로로 있어 줘!
+MID_支援Ｓ_セレナ_01: 좋아해…
+MID_支援Ｓ_セレナ_02: …뭐, 뭐야, 못 들었다고!? 말도 안 돼!\n이젠 말 안 할 거야, 이 바보!
+MID_支援Ｓ_ノワール_01: 저…\n당신이 정말 좋아요…
+MID_支援Ｓ_ノワール_02: 앞으로도 계속 저를 지탱해 주셔야 돼요?
+MID_支援Ｓ_ンン_01: 저… 당신이 정말 좋습니다!
+MID_支援Ｓ_ンン_02: 이젠… 당신을 놓지 않을 겁니다!
 MID_支援Ｓ_サイリ_01: 그대와 평생을 함께하겠다는 약속이
 MID_支援Ｓ_サイリ_02: 이렇게까지 행복한 것일 줄이야.
 MID_支援Ｓ_アンナ_01: 내가 좀 더\n당신에게 푹 빠지게 만들어 줘.
 MID_支援Ｓ_アンナ_02: 언젠가 당신을 돈보다 소중히 여길 정도로!
-MID_支援Ｓ_ギャンレル_01: How in blazes did you get me to...love you?
-MID_支援Ｓ_ギャンレル_02: If you're trying to make a new\nman of me...it's working.
-MID_支援Ｓ_ヴァルハルト_01: With you at my side, the path to\nglory shall be an easier one.
-MID_支援Ｓ_ヴァルハルト_02: Let us become as gods of\nstrength and happiness!
-MID_支援Ｓ_レンハ_01: I claim to be no master\nin the arts of romance,
-MID_支援Ｓ_レンハ_02: but my love for you shall\nbe challenged by none.
-MID_支援Ｓ_エメリナ_01: Thank you...for this chance...
-MID_支援Ｓ_エメリナ_02: I...love you... You make me...whole again...
+MID_支援Ｓ_ギャンレル_01: 널… 좋아한다!
+MID_支援Ｓ_ギャンレル_02: 다시 태어난 나를\n제대로 지켜봐 줘.
+MID_支援Ｓ_ヴァルハルト_01: 그대와 있으면,\n난 더 이상 길을 잘못 들지 않겠지.
+MID_支援Ｓ_ヴァルハルト_02: 함께 행복해지는 길을\n걸어 나가 다오.
+MID_支援Ｓ_レンハ_01: 난 이렇듯…\n서투른 남자지만,
+MID_支援Ｓ_レンハ_02: 널 생각하는 마음만큼은\n누구에게도 지지 않는다.
+MID_支援Ｓ_エメリナ_01: 고…마워요… 기…뻐요…
+MID_支援Ｓ_エメリナ_02: 당신이… 정말… 좋아요…
 MID_支援Ｓ_チキ_01: 좋아해.\n언젠가 이별하는 날이 와도…
 MID_支援Ｓ_チキ_02: 몇 천 년을 잠든다고 해도…\n계속 기억할 거야.
-MID_支援Ｓ_インバース_01: From now on, I live only for you.
-MID_支援Ｓ_インバース_02: And as you may have noticed,\nI'm the fiercely loyal type.
-MID_支援Ｓ_パリス_01: You give my strength purpose and meaning.
-MID_支援Ｓ_パリス_02: I'll let the world burn before I see you hurt.
+MID_支援Ｓ_インバース_01: 이제부터 당신에게 모든 걸 바칠 거야.
+MID_支援Ｓ_インバース_02: 나, 이래 봬도\n있는 대로 퍼주는 타입이거든.
+MID_支援Ｓ_パリス_01: 나의 이 힘, 앞으로도 널 위해 쓰겠다.
+MID_支援Ｓ_パリス_02: 무슨 일이 있어도 너만큼은 죽게 두지 않겠어.
