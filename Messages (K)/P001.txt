@@ -4,7 +4,7 @@ MESS_ARCHIVE_P001
 Message Name: Message
 
 
-MID_P001_OP1: $t1$Wmクロム|3$w0|$Wmusername|7$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_29|$E怒,|우리들의 최후의 싸움이다!$k$p$E笑,|괜찮아, $Nu.\n이 인연은… 운명보다 더 강해.$k$p네가 같이 싸워주는 한…\n지지 않아.$k$p$E怒,|가자, $Nu!\n여기서 반드시 녀석을 쓰러뜨린다!$k
+MID_P001_OP1: $t1$Wmクロム|3$w0|$Wmusername|7$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_29|$E怒,|우리들의 최후의 싸움이다!$k$p$E笑,|괜찮아, $Nu.\n이 인연은… 운명보다 더 강해.$k$p네가 함께 있어 주는 한…\n지지 않아.$k$p$E怒,|가자, $Nu!\n여기서 반드시 녀석을 쓰러뜨린다!$k
 MID_P001_MOVIE1: $t1$Wm？？？|3$w0|$Ws？？？|$Wa【무비 미래편 크롬】$k
 MID_P001_MOVIE2: $t1$Wm？？？|3$w0|$Ws？？？|$Wa【무비 미래편 크롬 살해】$k
 MID_P001_TUT_システムメニュー: 아래 화면의『튜토리얼 카드』를 확인해 주십시오.
