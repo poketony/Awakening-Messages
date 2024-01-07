@@ -186,7 +186,7 @@ MID_BOSS_挨拶会話_マリータ: I honor my mother, Eyvel!
 MID_BOSS_挨拶会話_レイドリック: Heh. Run along, children.
 MID_BOSS_挨拶会話_リーフ: I'm Leif. I come from Leonster.
 MID_BOSS_挨拶会話_ウォルト: Call me Wolt. I'm from Pherae.
-MID_BOSS_挨拶会話_シャニー: What? Do you need something?
+MID_BOSS_挨拶会話_シャニー: 왜? 필요한 거라도 있어?
 MID_BOSS_挨拶会話_ルゥ: 난 리키아에서 왔어.
 MID_BOSS_挨拶会話_レイ: What are you supposed to be?
 MID_BOSS_挨拶会話_ソフィーヤ: 저는… 소피야입니다…
@@ -198,23 +198,23 @@ MID_BOSS_挨拶会話_ロイ: 난 펠레 후작의 아들이야.
 MID_BOSS_挨拶会話_フロリーナ: 저… 저는 플로리나예요…
 MID_BOSS_挨拶会話_ニノ: 음, 도와드릴까요?
 MID_BOSS_挨拶会話_セーラ: 난 세라야. 만나서 반가워.
-MID_BOSS_挨拶会話_マシュー: I specialize in acquisitions...
+MID_BOSS_挨拶会話_マシュー: 난 도구 입수의 전문가라고…
 MID_BOSS_挨拶会話_カレル: 난 카렐. 검의 길이 내 전부다.
 MID_BOSS_挨拶会話_ジャファル: 난 더 이상 살인 도구가 아냐.
 MID_BOSS_挨拶会話_リン: 난 롤카족의 린이라고 해.
 MID_BOSS_挨拶会話_ヘクトル: 난 오스티아 후작의 동생이야.
 MID_BOSS_挨拶会話_ネルガル: 여긴… 내가 왜 이곳에 있는 거지?
-MID_BOSS_挨拶会話_エリウッド: I'm a noble of Pherae.
-MID_BOSS_挨拶会話_エイリーク: My name is Eirika.
-MID_BOSS_挨拶会話_アメリア: I'm Amelia, a soldier of Grado.
-MID_BOSS_挨拶会話_モルダ: May I help you?
-MID_BOSS_挨拶会話_ルーテ: I'm a mage! Possibly the best.
-MID_BOSS_挨拶会話_マリカ: What?
-MID_BOSS_挨拶会話_ヒーニアス: I'm the prince of Frelia.
+MID_BOSS_挨拶会話_エリウッド: 난 펠레 후작 공자야.
+MID_BOSS_挨拶会話_エイリーク: 제 이름은 에이리카예요.
+MID_BOSS_挨拶会話_アメリア: 난 그라드 제국의 병사 아멜리아야.
+MID_BOSS_挨拶会話_モルダ: 무슨 도움이라도 필요하십니까?
+MID_BOSS_挨拶会話_ルーテ: 전 우수한 마도사입니다.
+MID_BOSS_挨拶会話_マリカ: 왜?
+MID_BOSS_挨拶会話_ヒーニアス: 난 프렐리아 왕자다.
 MID_BOSS_挨拶会話_ラーチェル: I serve the powers above!
 MID_BOSS_挨拶会話_ゼト: Who goes there?
-MID_BOSS_挨拶会話_リオン: I am Prince Lyon of Grado.
-MID_BOSS_挨拶会話_エフラム: I am Ephraim, Prince of Renais.
+MID_BOSS_挨拶会話_リオン: 난 그라드 제국의 황태자 리온이야.
+MID_BOSS_挨拶会話_エフラム: 난 루네스 왕자 에브라임이다.
 MID_BOSS_挨拶会話_ミスト: 난 미스트. 아이크 오빠의 여동생이야.
 MID_BOSS_挨拶会話_セネリオ: 뭔가 필요하신 게 있으십니까?
 MID_BOSS_挨拶会話_ワユ: 나는 와유, 크리미아 용병이야.
@@ -344,12 +344,12 @@ MID_BOSS_戦闘会話_エリンシア: 이제 어떤 시련도 두려워하지 �
 MID_BOSS_戦闘会話_ジョフレ: 크리미아에 영광 있으리!
 MID_BOSS_戦闘会話_ルキノ: 싸울 시간이 다가왔군요!
 MID_BOSS_戦闘会話_アシュナード: 날 실망시키지 말도록.
-MID_BOSS_戦闘会話_アイク: 어서 덤비라고!
-MID_BOSS_戦闘会話_エディ: Don't you look down on me!
+MID_BOSS_戦闘会話_アイク: 어서 덤벼!
+MID_BOSS_戦闘会話_エディ: 날 얕보지 마시지!
 MID_BOSS_戦闘会話_レオナルド: We're totally outclassed...
 MID_BOSS_戦闘会話_チャップ: You dang fools...
 MID_BOSS_戦闘会話_ネフェニー: I reckon you should clear out.
-MID_BOSS_戦闘会話_サナキ: 나는 포기하지 않을 것이다.
+MID_BOSS_戦闘会話_サナキ: 난 포기하지 않을 것이다.
 MID_BOSS_戦闘会話_シグルーン: We will engage you now!
 MID_BOSS_戦闘会話_サザ: I'll give you a fight.
 MID_BOSS_戦闘会話_漆黒の騎士: Have at me and learn your folly.
@@ -482,9 +482,9 @@ MID_BOSS_仲間会話_ナーシェン: Are you certain? Heh heh...
 MID_BOSS_仲間会話_ロイド: Uh, you want me to join you?
 MID_BOSS_仲間会話_ライナス: Fight...with you!?
 MID_BOSS_仲間会話_ウルスラ: An alliance? Hard to fathom...
-MID_BOSS_仲間会話_セライナ: My heart still belongs to Grado.
+MID_BOSS_仲間会話_セライナ: 그라드 제국에 이 심장을!
 MID_BOSS_仲間会話_プラハ: All right, I'm coming.
-MID_BOSS_仲間会話_オリヴァー: I stand with the beautiful.
+MID_BOSS_仲間会話_オリヴァー: 미는 항상 나의 곁에 있으리.
 MID_BOSS_チーム名_暗黒竜と光の剣: 암흑룡과 빛의 검
 MID_BOSS_チーム名_外伝: 외전
 MID_BOSS_チーム名_紋章の謎: 문장의 수수께끼
