@@ -4,13 +4,13 @@ MESS_ARCHIVE_Trial
 Message Name: Message
 
 
-MID_TRIAL_TUT_システムメニュー: A Slide Guide has appeared\non the Touch Screen.
-MID_TRIAL_TUT_システムメニュー_2: Slide Guides present new information.\nUse the L/R Buttons to flip through the\npages below. Once you're ready to move\non, press the A Button.
-MID_TRIAL_TUT_システムメニュー_3: You can view these slides again at any time\nby selecting Guide from the System Menu.
-MID_TRIAL_TUT_チュートリアルオフ: Titles of relevant tutorials appear as\nalerts in the lower right of the 3D Screen.\nTo view them, move the cursor to an\nempty space and press the A Button.\nThis will open the System Menu.\nOnce there, choose the Guide option.
-MID_TRIAL_TUT_移動: $t0$Wmクロム|0$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_28|Good, we haven't been noticed.\nLet's get close while we can!$k$pI'll go first... Where should I\nmove to?$k
-MID_TRIAL_クロム以外をつかむ: $t0$Wmクロム|0$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_10|It's too dangerous. I'll go first.$k
-MID_TRIAL_TUT_制約の解除: $t0$Wmクロム|0$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_28|Good, now show the others where\nto move to.$k$pOr, if everyone is where you want\nthem to be, we can end our movement.$k
-MID_TRIAL_TUT_ユニットのロスト: $t0$WmP002_ボス|0$w0|$WsP002_ボス|$WaAlright boys, y'all know the routine!\nDon't let anyone stand in our way!$k$pIf you take someone down, make sure\nthey stay down!$k
-MID_TRIAL_TUT_戦闘: $t0$Wmクロム|0$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_42|$E怒,|We're close enough!\nNow, it's time to attack!$k
-MID_TRIAL_TUT_敵のＣＰ変更: $t0$WmP002_ボス|0$w0|Blast! The Shepherds!$k$pFinish 'em off! We'll deal\nwith the villagers later!$k
+MID_TRIAL_TUT_システムメニュー: 터치스크린에\n튜토리얼이 나타났습니다.
+MID_TRIAL_TUT_システムメニュー_2: 튜토리얼에 새 정보가 표시됩니다.\nL·R 버튼으로 페이지를 넘깁시다.\n이동할 준비가 다 되었으면\nA 버튼을 눌러 주십시오.
+MID_TRIAL_TUT_システムメニュー_3: 시스템 메뉴에서 튜토리얼을 선택하면\n언제든지 이 페이지를 볼 수 있습니다.
+MID_TRIAL_TUT_チュートリアルオフ: 관련 튜토리얼의 제목은\n3D 화면 우측 하단에 표시됩니다.\n보려면 커서를 빈 곳으로 이동한 뒤\nA 버튼을 누릅시다.\n그러면 시스템 메뉴가 표시됩니다.\n그 후 튜토리얼 항목을 선택합시다.
+MID_TRIAL_TUT_移動: $t0$Wmクロム|0$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_28|좋아, 적이 눈치채지 못했군.\n가능한 만큼 가까이 가자!$k$p내가 먼저 갈게…\n어디로 이동할까?$k
+MID_TRIAL_クロム以外をつかむ: $t0$Wmクロム|0$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_10|너무 위험해. 내가 먼저 간다.$k
+MID_TRIAL_TUT_制約の解除: $t0$Wmクロム|0$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_28|잘했어, 이제 다른 녀석들한테\n어디로 이동해야 하는지 알려 줘.$k$p네가 보기에 모두 적절한 곳에 있다면\n이동을 끝낼 수도 있어.$k
+MID_TRIAL_TUT_ユニットのロスト: $t0$WmP002_ボス|0$w0|$WsP002_ボス|$Wa좋았어, 다들 계획은 알고 있겠지!\n우리 앞을 막아서는 놈들은 전부 쓰러뜨려!$k$p마무리까지 확실하게 짓는 것도\n잊지 마라!$k
+MID_TRIAL_TUT_戦闘: $t0$Wmクロム|0$w0|$Wsクロム|$Wa$SvpSE_VOICE_CHROM_EVT_42|$E怒,|충분히 가까워졌어!\n자, 공격할 차례야!$k
+MID_TRIAL_TUT_敵のＣＰ変更: $t0$WmP002_ボス|0$w0|젠장! 자경단이잖아!$k$p전부 죽여버려!\n마을 놈들은 나중에 처리하면 돼!$k
