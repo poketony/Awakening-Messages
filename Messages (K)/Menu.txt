@@ -531,7 +531,7 @@ MID_MYROOM_紹介: 잘 부탁드립니다.
 MID_MYROOM_挨拶: 안녕하세요.
 MID_MYROOM_戦闘: 승부해요!
 MID_MYROOM_仲間: 같이 힘냅시다.
-MID_MYROOM_スラッシュ: /
+MID_MYROOM_スラッシュ: $a$a0/$a1 $a2
 MID_MYROOM_並び替え: 변경
 MID_MYROOM_番号順: 번호순
 MID_MYROOM_５０音順: 가나다순
