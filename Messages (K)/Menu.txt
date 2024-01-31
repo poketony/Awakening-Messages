@@ -455,7 +455,7 @@ MID_H_SORTIE_スキル着脱_装備: 장비
 MID_SORTIE_スキル着脱_交換: 교환
 MID_H_SORTIE_スキル着脱_交換: 교환
 MID_SORTIE_スキル着脱_習得済みスキル: 습득한 스킬
-MID_SORTIE_スキル着脱_無し: 아무것도 장비하고 있지 않습니다
+MID_SORTIE_スキル着脱_無し: 아무것도 없습니다
 MID_SORTIE_スキル着脱_無し２: 모두 장비했습니다
 MID_SORTIE_一括整理: 위임
 MID_SORTIE_一括整理_おまかせ整理: 위임 정리
@@ -644,8 +644,8 @@ MID_H_INFO_移動: 이동할 수 있는 거리, 높을수록\n많은 칸을 이�
 MID_H_INFO_射程: 유닛이 공격 가능한 범위
 MID_H_INFO_攻撃: 무기나 마법의 공격력
 MID_H_INFO_命中: 높을수록 공격이 명중되기 쉽다
-MID_H_INFO_必殺: 높을수록 필살의 일격이 잘 나옴
-MID_H_INFO_回避: 높을수록 적의 공격을 잘 피함
+MID_H_INFO_必殺: 높을수록 필살의 일격이 잘 나온다
+MID_H_INFO_回避: 높을수록 적의 공격을 피하기 쉽다
 MID_H_INFO_剣: 검, 도끼에 강하고 창에 약하다
 MID_H_INFO_槍: 창, 검에 강하고 도끼에 약하다
 MID_H_INFO_斧: 도끼, 창에 강하고 검에 약하다
