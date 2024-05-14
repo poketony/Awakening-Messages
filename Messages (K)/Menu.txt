@@ -578,15 +578,15 @@ MID_SHOP_MESS_入店: 어서 오시게. 무엇을 찾는가?
 MID_SHOP_MESS_入店_行商人: 어서 와. 뭘 할 거야?\n지금만 파는 상품도 있어.
 MID_SHOP_MESS_錬成数最大です: 연성 무기가 잔뜩 있네.\n팔거나 다 쓰면 또 와주게.
 MID_SHOP_MESS_錬成数最大です_行商人: 연성 무기가 잔뜩 있네.\n팔거나 다 쓰면 또 와주게.
-MID_SHOP_MESS_誰が買う: 누가 사주는 건가?
-MID_SHOP_MESS_誰が買う_行商人: 누가 사주는 거야?
-MID_SHOP_MESS_誰が売る: 누가 팔아주는 건가?
-MID_SHOP_MESS_誰が売る_行商人: 누가 팔아주는 거야?
-MID_SHOP_MESS_誰のを錬成: 누구의 것을 연성할 건가?
-MID_SHOP_MESS_誰のを錬成_行商人: 누구의 것을 연성할 거야?
-MID_SHOP_MESS_何を買う: 물건을 봐줘.
-MID_SHOP_MESS_何を買う_行商人: 물건을 봐줘.
-MID_SHOP_MESS_何を買う_交渉: 물건을 봐주게.
+MID_SHOP_MESS_誰が買う: 누가 구입할 건가?
+MID_SHOP_MESS_誰が買う_行商人: 누가 구입할 거야?
+MID_SHOP_MESS_誰が売る: 누가 팔 건가?
+MID_SHOP_MESS_誰が売る_行商人: 누가 팔 거야?
+MID_SHOP_MESS_誰のを錬成: 누구의 물건을 연성할 건가?
+MID_SHOP_MESS_誰のを錬成_行商人: 누구의 물건을 연성할 거야?
+MID_SHOP_MESS_何を買う: 물건을 살펴봐 달라고.
+MID_SHOP_MESS_何を買う_行商人: 물건을 살펴봐봐.
+MID_SHOP_MESS_何を買う_交渉: 물건을 살펴봐 주세요.
 MID_SHOP_MESS_何を売る: 무엇을 팔 건가?
 MID_SHOP_MESS_何を売る_行商人: 무엇을 팔 거야?
 MID_SHOP_MESS_何を鍛える: 어느 것을 연성할 건가?
