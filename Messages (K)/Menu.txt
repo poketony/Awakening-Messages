@@ -752,7 +752,7 @@ MID_DUAL_★０８: 벨벳 산악대
 MID_DUAL_★０９: 노노 용기병대
 MID_DUAL_★１０: 비오르 궁병대
 MID_DUAL_★１１: 론쿠 검성단
-MID_DUAL_★１２: 솔 기병단
+MID_DUAL_★１２: 소르 기병단
 MID_DUAL_★１３: 베이크 광전사단
 MID_DUAL_★１４: 바질리오 용병군
 MID_DUAL_★１５: 리히트 신군단
