@@ -742,12 +742,12 @@ MID_DUAL_相手消失: 상대가 없어졌습니다.\n종료합니다.
 MID_DUAL_通信エラー: 통신이 끊어졌습니다.\n종료합니다.
 MID_DUAL_通信モードがOFF: 통신을 할 경우,\n무선 스위치를 밀어\n무선 통신을 켜 주십시오.
 MID_DUAL_★０１: 카람 수비반
-MID_DUAL_★０２: 세르쥬 수비반
+MID_DUAL_★０２: 세르주 수비반
 MID_DUAL_★０３: 마리아벨 보급반
 MID_DUAL_★０４: 프레데릭 수비반
 MID_DUAL_★０５: 스미아 비병반
 MID_DUAL_★０６: 코델리아 비병반
-MID_DUAL_★０７: 소와레 기병대
+MID_DUAL_★０７: 수아레 기병대
 MID_DUAL_★０８: 벨벳 산악대
 MID_DUAL_★０９: 노노 용기병대
 MID_DUAL_★１０: 비오르 궁병대
