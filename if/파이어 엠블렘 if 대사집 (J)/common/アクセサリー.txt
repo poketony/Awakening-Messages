@@ -1,0 +1,144 @@
+MESS_ARCHIVE_アクセサリー
+
+
+Message Name: Message
+
+
+MKID_アクセサリー_欲しい_リョウマ_COM: $SvpVOICE_RYOUMA_MYROOM_21|
+MKID_アクセサリー_欲しい_タクミ_COM: $SvpVOICE_TAKUMI_EVT_04|
+MKID_アクセサリー_欲しい_サイゾウ_COM: $SvpVOICE_SAIZOU_MYROOM_01|
+MKID_アクセサリー_欲しい_ニシキ_COM: $SvpVOICE_NISHIKI_EVT_06|
+MKID_アクセサリー_欲しい_ヒナタ_COM: $SvpVOICE_HINATA_MYROOM_04|
+MKID_アクセサリー_欲しい_アサマ_COM: $SvpVOICE_ASAMA_EVT_06|
+MKID_アクセサリー_欲しい_ツバキ_COM: $SvpVOICE_TSUBAKI_MYROOM_00|
+MKID_アクセサリー_欲しい_ツクヨミ_COM: $SvpVOICE_TSUKUYOMI_EVT_03|
+MKID_アクセサリー_欲しい_ジョーカー_COM: $SvpVOICE_JOKER_EVT_14|
+MKID_アクセサリー_欲しい_サイラス_COM: $SvpVOICE_SILAS_EVT_15|
+MKID_アクセサリー_欲しい_スズカゼ_COM: $SvpVOICE_SUZUKAZE_EVT_04|
+MKID_アクセサリー_欲しい_マークス_COM: $SvpVOICE_MARKS_EVT_13|
+MKID_アクセサリー_欲しい_レオン_COM: $SvpVOICE_LEON_EVT_12|
+MKID_アクセサリー_欲しい_ブノワ_COM: $SvpVOICE_BENOIT_EVT_03|
+MKID_アクセサリー_欲しい_フランネル_COM: $SvpVOICE_FLANNEL_EVT_05|
+MKID_アクセサリー_欲しい_ハロルド_COM: $SvpVOICE_HAROLD_MYROOM_11|
+MKID_アクセサリー_欲しい_オーディン_COM: $SvpVOICE_ODIN_MYROOM_00|
+MKID_アクセサリー_欲しい_ラズワルド_COM: $SvpVOICE_LAZWARD_MYROOM_10|
+MKID_アクセサリー_欲しい_ゼロ_COM: $SvpVOICE_ZERO_WIN_06|
+MKID_アクセサリー_欲しい_ヒノカ_COM: $SvpVOICE_HINOKA_MYROOM_01|
+MKID_アクセサリー_欲しい_サクラ_COM: $SvpVOICE_SAKURA_MYROOM_12|
+MKID_アクセサリー_欲しい_オロチ_COM: $SvpVOICE_OROCHI_EVT_05|
+MKID_アクセサリー_欲しい_カゲロウ_COM: $SvpVOICE_KAGEROU_MYROOM_02|
+MKID_アクセサリー_欲しい_カザハナ_COM: $SvpVOICE_KAZAHANA_EVT_00|
+MKID_アクセサリー_欲しい_セツナ_COM: $SvpVOICE_SETSUNA_MYROOM_01|
+MKID_アクセサリー_欲しい_ユウギリ_COM: $SvpVOICE_YUUGIRI_MYROOM_11|
+MKID_アクセサリー_欲しい_オボロ_COM: $SvpVOICE_OBORO_MYROOM_11|
+MKID_アクセサリー_欲しい_フェリシア_COM: $SvpVOICE_FELICIA_EVT_12|
+MKID_アクセサリー_欲しい_アクア_COM: $SvpVOICE_AQUA_MYROOM_11|
+MKID_アクセサリー_欲しい_モズメ_COM: $SvpVOICE_MOZUME_EVT_03|
+MKID_アクセサリー_欲しい_カミラ_COM: $SvpVOICE_CAMILLA_EVT_14|
+MKID_アクセサリー_欲しい_エリーゼ_COM: $SvpVOICE_ELISE_MYROOM_11|
+MKID_アクセサリー_欲しい_シャーロッテ_COM: $SvpVOICE_CHARLOTTE_EVT_00|
+MKID_アクセサリー_欲しい_エルフィ_COM: $SvpVOICE_ELFI_MYROOM_04|
+MKID_アクセサリー_欲しい_ピエリ_COM: $SvpVOICE_PIERI_MYROOM_21|
+MKID_アクセサリー_欲しい_ベルカ_COM: $SvpVOICE_BERKA_EVT_04|
+MKID_アクセサリー_欲しい_ルーナ_COM: $SvpVOICE_LUNA_MYROOM_10|
+MKID_アクセサリー_欲しい_ニュクス_COM: $SvpVOICE_NYX_EVT_08|
+MKID_アクセサリー_欲しい_シノノメ_COM: $SvpVOICE_SHINONOME_MYROOM_01|
+MKID_アクセサリー_欲しい_キサラギ_COM: $SvpVOICE_KISARAGI_MYROOM_01|
+MKID_アクセサリー_欲しい_グレイ_COM: $SvpVOICE_GUREI_EVT_05|
+MKID_アクセサリー_欲しい_キヌ_COM: $SvpVOICE_KINU_EVT_05|
+MKID_アクセサリー_欲しい_ヒサメ_COM: $SvpVOICE_HISAME_MYROOM_11|
+MKID_アクセサリー_欲しい_ミタマ_COM: $SvpVOICE_MITAMA_MYROOM_12|
+MKID_アクセサリー_欲しい_マトイ_COM: $SvpVOICE_MATOI_EVT_08|
+MKID_アクセサリー_欲しい_シャラ_COM: $SvpVOICE_SYALLA_MYROOM_11|
+MKID_アクセサリー_欲しい_カンナ女_COM: $SvpVOICE_KANNA_F_EVT_32|
+MKID_アクセサリー_欲しい_カンナ男_COM: $SvpVOICE_KANNA_M_EVT_32|
+MKID_アクセサリー_欲しい_シグレ_COM: $SvpVOICE_SHIGURE_MYROOM_04|
+MKID_アクセサリー_欲しい_ディーア_COM: $SvpVOICE_DEERE_MYROOM_00|
+MKID_アクセサリー_欲しい_ゾフィー_COM: $SvpVOICE_SOPHIE_MYROOM_21|
+MKID_アクセサリー_欲しい_ミドリコ_COM: $SvpVOICE_MIDORIKO_MYROOM_11|
+MKID_アクセサリー_欲しい_ジークベルト_COM: $SvpVOICE_SIEGBERT_MYROOM_01|
+MKID_アクセサリー_欲しい_フォレオ_COM: $SvpVOICE_FOLEO_MYROOM_12|
+MKID_アクセサリー_欲しい_イグニス_COM: $SvpVOICE_IGNIS_EVT_04|
+MKID_アクセサリー_欲しい_ベロア_COM: $SvpVOICE_VELOUR_MYROOM_20|
+MKID_アクセサリー_欲しい_ルッツ_COM: $SvpVOICE_LUTZ_MYROOM_22|
+MKID_アクセサリー_欲しい_オフェリア_COM: $SvpVOICE_OPHELIA_MYROOM_12|
+MKID_アクセサリー_欲しい_ソレイユ_COM: $SvpVOICE_SOLEIL_MYROOM_22|
+MKID_アクセサリー_欲しい_エポニーヌ_COM: $SvpVOICE_EPONINE_MYROOM_02|
+MKID_アクセサリー_欲しい_ユキムラ_COM: $SvpVOICE_YUKIMURA_EVT_06|
+MKID_アクセサリー_欲しい_イザナ_COM: $SvpVOICE_IZANA_WIN_05|
+MKID_アクセサリー_欲しい_アシュラ_COM: $SvpVOICE_ASYURA_MYROOM_11|
+MKID_アクセサリー_欲しい_フウガ_COM: $SvpVOICE_FUUGA_MYROOM_11|
+MKID_アクセサリー_欲しい_ギュンター_COM: $SvpVOICE_GUNTHER_MYROOM_00|
+MKID_アクセサリー_欲しい_クリムゾン_COM: $SvpVOICE_CRIMSON_EVT_01|
+MKID_アクセサリー_欲しい_リンカ_COM: $SvpVOICE_RINKA_MYROOM_10|
+MKID_アクセサリー_欲しい_アンナ_COM: $SvpVOICE_ANNA_EVT_05|
+MKID_アクセサリー_欲しい_フローラ_COM: $SvpVOICE_FLORA_MYROOM_11|
+MKID_アクセサリー_無い_リョウマ_COM: 
+MKID_アクセサリー_無い_タクミ_COM: 
+MKID_アクセサリー_無い_サイゾウ_COM: 
+MKID_アクセサリー_無い_ニシキ_COM: 
+MKID_アクセサリー_無い_ヒナタ_COM: 
+MKID_アクセサリー_無い_アサマ_COM: 
+MKID_アクセサリー_無い_ツバキ_COM: 
+MKID_アクセサリー_無い_ツクヨミ_COM: 
+MKID_アクセサリー_無い_ジョーカー_COM: 
+MKID_アクセサリー_無い_サイラス_COM: 
+MKID_アクセサリー_無い_スズカゼ_COM: 
+MKID_アクセサリー_無い_マークス_COM: 
+MKID_アクセサリー_無い_レオン_COM: 
+MKID_アクセサリー_無い_ブノワ_COM: 
+MKID_アクセサリー_無い_フランネル_COM: 
+MKID_アクセサリー_無い_ハロルド_COM: 
+MKID_アクセサリー_無い_オーディン_COM: 
+MKID_アクセサリー_無い_ラズワルド_COM: 
+MKID_アクセサリー_無い_ゼロ_COM: 
+MKID_アクセサリー_無い_ヒノカ_COM: 
+MKID_アクセサリー_無い_サクラ_COM: 
+MKID_アクセサリー_無い_オロチ_COM: 
+MKID_アクセサリー_無い_カゲロウ_COM: 
+MKID_アクセサリー_無い_カザハナ_COM: 
+MKID_アクセサリー_無い_セツナ_COM: 
+MKID_アクセサリー_無い_ユウギリ_COM: 
+MKID_アクセサリー_無い_オボロ_COM: 
+MKID_アクセサリー_無い_フェリシア_COM: 
+MKID_アクセサリー_無い_アクア_COM: 
+MKID_アクセサリー_無い_モズメ_COM: 
+MKID_アクセサリー_無い_カミラ_COM: 
+MKID_アクセサリー_無い_エリーゼ_COM: 
+MKID_アクセサリー_無い_シャーロッテ_COM: 
+MKID_アクセサリー_無い_エルフィ_COM: 
+MKID_アクセサリー_無い_ピエリ_COM: 
+MKID_アクセサリー_無い_ベルカ_COM: 
+MKID_アクセサリー_無い_ルーナ_COM: 
+MKID_アクセサリー_無い_ニュクス_COM: 
+MKID_アクセサリー_無い_シノノメ_COM: 
+MKID_アクセサリー_無い_キサラギ_COM: 
+MKID_アクセサリー_無い_グレイ_COM: 
+MKID_アクセサリー_無い_キヌ_COM: 
+MKID_アクセサリー_無い_ヒサメ_COM: 
+MKID_アクセサリー_無い_ミタマ_COM: 
+MKID_アクセサリー_無い_マトイ_COM: 
+MKID_アクセサリー_無い_シャラ_COM: 
+MKID_アクセサリー_無い_カンナ女_COM: 
+MKID_アクセサリー_無い_カンナ男_COM: 
+MKID_アクセサリー_無い_シグレ_COM: 
+MKID_アクセサリー_無い_ディーア_COM: 
+MKID_アクセサリー_無い_ゾフィー_COM: 
+MKID_アクセサリー_無い_ミドリコ_COM: 
+MKID_アクセサリー_無い_ジークベルト_COM: 
+MKID_アクセサリー_無い_フォレオ_COM: 
+MKID_アクセサリー_無い_イグニス_COM: 
+MKID_アクセサリー_無い_ベロア_COM: 
+MKID_アクセサリー_無い_ルッツ_COM: 
+MKID_アクセサリー_無い_オフェリア_COM: 
+MKID_アクセサリー_無い_ソレイユ_COM: 
+MKID_アクセサリー_無い_エポニーヌ_COM: 
+MKID_アクセサリー_無い_ユキムラ_COM: 
+MKID_アクセサリー_無い_イザナ_COM: 
+MKID_アクセサリー_無い_アシュラ_COM: 
+MKID_アクセサリー_無い_フウガ_COM: 
+MKID_アクセサリー_無い_ギュンター_COM: 
+MKID_アクセサリー_無い_クリムゾン_COM: 
+MKID_アクセサリー_無い_リンカ_COM: 
+MKID_アクセサリー_無い_アンナ_COM: 
+MKID_アクセサリー_無い_フローラ_COM: 

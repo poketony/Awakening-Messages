@@ -1,0 +1,76 @@
+MESS_ARCHIVE_店番_食材_他城
+
+
+Message Name: Message
+
+
+MKID_店番_食材_他城_リョウマ_COM: $SvpVOICE_RYOUMA_EVT_07|
+MKID_店番_食材_他城_タクミ_COM: $SvpVOICE_TAKUMI_EVT_18|
+MKID_店番_食材_他城_サイゾウ_COM: $SvpVOICE_SAIZOU_EVT_06|
+MKID_店番_食材_他城_ニシキ_COM: $SvpVOICE_NISHIKI_MYROOM_21|
+MKID_店番_食材_他城_ヒナタ_COM: $SvpVOICE_HINATA_MYROOM_20|
+MKID_店番_食材_他城_アサマ_COM: $SvpVOICE_ASAMA_MYROOM_10|
+MKID_店番_食材_他城_ツバキ_COM: $SvpVOICE_TSUBAKI_MYROOM_12|
+MKID_店番_食材_他城_ツクヨミ_COM: $SvpVOICE_TSUKUYOMI_MYROOM_01|
+MKID_店番_食材_他城_ジョーカー_COM: $SvpVOICE_JOKER_EVT_08|
+MKID_店番_食材_他城_サイラス_COM: $SvpVOICE_SILAS_EVT_03|
+MKID_店番_食材_他城_スズカゼ_COM: $SvpVOICE_SUZUKAZE_EVT_00|
+MKID_店番_食材_他城_マークス_COM: $SvpVOICE_MARKS_EVT_01|
+MKID_店番_食材_他城_レオン_COM: $SvpVOICE_LEON_EVT_10|
+MKID_店番_食材_他城_ブノワ_COM: $SvpVOICE_BENOIT_EVT_02|
+MKID_店番_食材_他城_フランネル_COM: $SvpVOICE_FLANNEL_EVT_00|
+MKID_店番_食材_他城_ハロルド_COM: $SvpVOICE_HAROLD_MYROOM_10|
+MKID_店番_食材_他城_オーディン_COM: $SvpVOICE_ODIN_WIN_05|
+MKID_店番_食材_他城_ラズワルド_COM: $SvpVOICE_LAZWARD_EVT_02|
+MKID_店番_食材_他城_ゼロ_COM: $SvpVOICE_ZERO_MYROOM_20|
+MKID_店番_食材_他城_ヒノカ_COM: $SvpVOICE_HINOKA_WIN_05|
+MKID_店番_食材_他城_サクラ_COM: $SvpVOICE_SAKURA_MYROOM_10|
+MKID_店番_食材_他城_オロチ_COM: $SvpVOICE_OROCHI_EVT_06|
+MKID_店番_食材_他城_カゲロウ_COM: $SvpVOICE_KAGEROU_MYROOM_01|
+MKID_店番_食材_他城_カザハナ_COM: $SvpVOICE_KAZAHANA_MYROOM_20|
+MKID_店番_食材_他城_セツナ_COM: $SvpVOICE_SETSUNA_EVT_04|
+MKID_店番_食材_他城_ユウギリ_COM: $SvpVOICE_YUUGIRI_MYROOM_02|
+MKID_店番_食材_他城_オボロ_COM: $SvpVOICE_OBORO_WIN_03|
+MKID_店番_食材_他城_フェリシア_COM: $SvpVOICE_FELICIA_MYROOM_03|
+MKID_店番_食材_他城_アクア_COM: $SvpVOICE_AQUA_EVT_06|
+MKID_店番_食材_他城_モズメ_COM: $SvpVOICE_MOZUME_EVT_08|
+MKID_店番_食材_他城_カミラ_COM: $SvpVOICE_CAMILLA_EVT_02|
+MKID_店番_食材_他城_エリーゼ_COM: $SvpVOICE_ELISE_WIN_06|
+MKID_店番_食材_他城_シャーロッテ_COM: $SvpVOICE_CHARLOTTE_EVT_04|
+MKID_店番_食材_他城_エルフィ_COM: $SvpVOICE_ELFI_EVT_03|
+MKID_店番_食材_他城_ピエリ_COM: $SvpVOICE_PIERI_EVT_08|
+MKID_店番_食材_他城_ベルカ_COM: $SvpVOICE_BERKA_EVT_05|
+MKID_店番_食材_他城_ルーナ_COM: $SvpVOICE_LUNA_MYROOM_00|
+MKID_店番_食材_他城_ニュクス_COM: $SvpVOICE_NYX_EVT_08|
+MKID_店番_食材_他城_シノノメ_COM: $SvpVOICE_SHINONOME_MYROOM_10|
+MKID_店番_食材_他城_キサラギ_COM: $SvpVOICE_KISARAGI_MYROOM_02|
+MKID_店番_食材_他城_グレイ_COM: $SvpVOICE_GUREI_EVT_04|
+MKID_店番_食材_他城_キヌ_COM: $SvpVOICE_KINU_B_ATTACK_03|
+MKID_店番_食材_他城_ヒサメ_COM: $SvpVOICE_HISAME_MYROOM_10|
+MKID_店番_食材_他城_ミタマ_COM: $SvpVOICE_MITAMA_EVT_06|
+MKID_店番_食材_他城_マトイ_COM: $SvpVOICE_MATOI_EVT_08|
+MKID_店番_食材_他城_シャラ_COM: $SvpVOICE_SYALLA_MYROOM_11|
+MKID_店番_食材_他城_カンナ女_COM: $SvpVOICE_KANNA_F_EVT_38|
+MKID_店番_食材_他城_カンナ男_COM: $SvpVOICE_KANNA_M_EVT_38|
+MKID_店番_食材_他城_シグレ_COM: $SvpVOICE_SHIGURE_MYROOM_20|
+MKID_店番_食材_他城_ディーア_COM: $SvpVOICE_DEERE_EVT_06|
+MKID_店番_食材_他城_ゾフィー_COM: $SvpVOICE_SOPHIE_EVT_07|
+MKID_店番_食材_他城_ミドリコ_COM: $SvpVOICE_MIDORIKO_WIN_05|
+MKID_店番_食材_他城_ジークベルト_COM: $SvpVOICE_SIEGBERT_EVT_04|
+MKID_店番_食材_他城_フォレオ_COM: $SvpVOICE_FOLEO_MYROOM_11|
+MKID_店番_食材_他城_イグニス_COM: $SvpVOICE_IGNIS_MYROOM_11|
+MKID_店番_食材_他城_ベロア_COM: $SvpVOICE_VELOUR_WIN_04|
+MKID_店番_食材_他城_ルッツ_COM: $SvpVOICE_LUTZ_MYROOM_10|
+MKID_店番_食材_他城_オフェリア_COM: $SvpVOICE_OPHELIA_EVT_06|
+MKID_店番_食材_他城_ソレイユ_COM: $SvpVOICE_SOLEIL_B_WIN_00|
+MKID_店番_食材_他城_エポニーヌ_COM: $SvpVOICE_EPONINE_EVT_07|
+MKID_店番_食材_他城_ユキムラ_COM: $SvpVOICE_YUKIMURA_EVT_05|
+MKID_店番_食材_他城_イザナ_COM: $SvpVOICE_IZANA_EVT_10|
+MKID_店番_食材_他城_アシュラ_COM: $SvpVOICE_ASYURA_EVT_03|
+MKID_店番_食材_他城_フウガ_COM: $SvpVOICE_FUUGA_EVT_05|
+MKID_店番_食材_他城_ギュンター_COM: $SvpVOICE_GUNTHER_EVT_00|
+MKID_店番_食材_他城_クリムゾン_COM: $SvpVOICE_CRIMSON_MYROOM_12|
+MKID_店番_食材_他城_リンカ_COM: $SvpVOICE_RINKA_EVT_05|
+MKID_店番_食材_他城_アンナ_COM: $SvpVOICE_ANNA_EVT_01|
+MKID_店番_食材_他城_フローラ_COM: $SvpVOICE_FLORA_ETC_00|
+MKID_店番_食材_他城_村人_COM: 
