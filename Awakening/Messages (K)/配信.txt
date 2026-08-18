@@ -136,59 +136,59 @@ MID_BOSS_挨拶会話_ナバール: 날 움직이는 건 돈뿐이다.
 MID_BOSS_挨拶会話_ガーネフ: 이 몸은 가네프다.
 MID_BOSS_挨拶会話_マルス王子: 나는 마르스, 아리티아의 왕자다.
 MID_BOSS_挨拶会話_クレア: 저는 클레어, 소피아의 기사입니다.
-MID_BOSS_挨拶会話_ボーイ: The name's Boey. I wield magic.
-MID_BOSS_挨拶会話_マイセン: I renounced the world long ago.
-MID_BOSS_挨拶会話_バルボ: Just call me "the armor."
+MID_BOSS_挨拶会話_ボーイ: 난 보이야. 마법사지.
+MID_BOSS_挨拶会話_マイセン: 난 오래전에 세상을 등졌지.
+MID_BOSS_挨拶会話_バルボ: 방어는 맡겨 두라고.
 MID_BOSS_挨拶会話_リュート: 여동생에겐 내가 필요해…
 MID_BOSS_挨拶会話_クレーベ: 나는 클레베, 소피아의 기사다.
 MID_BOSS_挨拶会話_ノーマ: 난 노마라네, 미라님의 사제지.
-MID_BOSS_挨拶会話_ディーン: Don't make me hurt you, pup.
-MID_BOSS_挨拶会話_セリカ: Do you and I have business?
-MID_BOSS_挨拶会話_アルム: The Zofians need protection!
-MID_BOSS_挨拶会話_ノルン: I'll save the curtsies for later.
-MID_BOSS_挨拶会話_カチュア: I am Catria of the Whitewings.
-MID_BOSS_挨拶会話_マリス: My sword doesn't come cheap.
-MID_BOSS_挨拶会話_アテナ: Ve are a voman. Vun voman!
-MID_BOSS_挨拶会話_ホルス: Once, I called myself a knight.
-MID_BOSS_挨拶会話_エッツェル: My name is Etzel. I know magic.
-MID_BOSS_挨拶会話_ローロー: What needs do yous have of us?
+MID_BOSS_挨拶会話_ディーン: 다치고 싶지 않으면 비켜.
+MID_BOSS_挨拶会話_セリカ: 난 너 같은 거 몰라.
+MID_BOSS_挨拶会話_アルム: 소피아인들은 보호가 필요해!
+MID_BOSS_挨拶会話_ノルン: 인사는 나중으로 미룰게요.
+MID_BOSS_挨拶会話_カチュア: 천마 기사단의 카츄아라고 합니다. 
+MID_BOSS_挨拶会話_マリス: 내 검은 싸지 않다고.
+MID_BOSS_挨拶会話_アテナ: 나 말이야 나! 나 혼자라고!
+MID_BOSS_挨拶会話_ホルス: 나는 한때 기사였었지.
+MID_BOSS_挨拶会話_エッツェル: 난 에첼이다. 마법을 좀 쓰지.
+MID_BOSS_挨拶会話_ローロー: 우키! 원하는 게 뭐냐? 
 MID_BOSS_挨拶会話_カタリナ: 카타리나라고 불러 주세요.
-MID_BOSS_挨拶会話_ハーディン: Begone, you pismires.
+MID_BOSS_挨拶会話_ハーディン: 물러가라, 시시한 것들.
 MID_BOSS_挨拶会話_マルス王: 나는 마르스, 아리티아의 왕이다.
-MID_BOSS_挨拶会話_ディアドラ: 'Tis good to see a friendly face.
-MID_BOSS_挨拶会話_アーダン: I'm strong and reliable, but...
-MID_BOSS_挨拶会話_ジャムカ: Easy. I mean you no harm.
-MID_BOSS_挨拶会話_ラケシス: Was there something you need?
-MID_BOSS_挨拶会話_エスリン: I'm Ethlyn, wife to Quan.
-MID_BOSS_挨拶会話_キュアン: I am Quan of Leonster.
-MID_BOSS_挨拶会話_アイラ: I'm the keenest blade in Isaach.
-MID_BOSS_挨拶会話_レヴィン: I'm just a wayward troubadour.
-MID_BOSS_挨拶会話_アルヴィス: I wonder what makes you tick...
+MID_BOSS_挨拶会話_ディアドラ: 아는 얼굴을 보는 건 좋네요.
+MID_BOSS_挨拶会話_アーダン: 난 강하고 믿음직하지만…
+MID_BOSS_挨拶会話_ジャムカ: 간단해. 넌 다치지 않을 거야.
+MID_BOSS_挨拶会話_ラケシス: 필요한 게 있으신가요?
+MID_BOSS_挨拶会話_エスリン: 저는 큐안의 아내, 에슬린입니다.
+MID_BOSS_挨拶会話_キュアン: 렌스터 왕국의 큐안이다.
+MID_BOSS_挨拶会話_アイラ: 이자크 제일의 검사는 나다.
+MID_BOSS_挨拶会話_レヴィン: 난 그냥 지나가는 음유 시인이야.
+MID_BOSS_挨拶会話_アルヴィス: 무슨 생각인지 궁금하군…
 MID_BOSS_挨拶会話_シグルド: 난 그란벨 왕국의 기사다.
 MID_BOSS_挨拶会話_フィー: 내 이름은 피야.
-MID_BOSS_挨拶会話_アーサー: I can spare a few moments.
-MID_BOSS_挨拶会話_スカサハ: I'm Ulster. I hail from Tirnanog.
-MID_BOSS_挨拶会話_ラクチェ: I'm Larcei―and this, my sword.
-MID_BOSS_挨拶会話_アルテナ: I am Altena, daughter of Quan.
-MID_BOSS_挨拶会話_セティ: I am Ced, of the Magi.
+MID_BOSS_挨拶会話_アーサー: 잠깐 시간을 내 드리죠.
+MID_BOSS_挨拶会話_スカサハ: 스카사하야. 티르나노그 출신.
+MID_BOSS_挨拶会話_ラクチェ: 라크체다. 힘을 빌려주지.
+MID_BOSS_挨拶会話_アルテナ: 큐안의 딸, 아르테나다.
+MID_BOSS_挨拶会話_セティ: 마도사 세티다.
 MID_BOSS_挨拶会話_ユリア: 응? 당신은 누구야?
-MID_BOSS_挨拶会話_アレス: I am the black knight Ares.
-MID_BOSS_挨拶会話_ユリウス: All Loptyr's power is mine!
-MID_BOSS_挨拶会話_セリス: I command the liberation army.
-MID_BOSS_挨拶会話_ナンナ: I'm Raquesis's daughter.
-MID_BOSS_挨拶会話_ダグダ: I be Dagdar of Mt. Violdrake!
-MID_BOSS_挨拶会話_セイラム: I was once a Loptyrian priest...
-MID_BOSS_挨拶会話_オルエン: My name is Olwen.
-MID_BOSS_挨拶会話_エーヴェル: I am Eyvel, mistress of Fiana.
-MID_BOSS_挨拶会話_フィン: I am Finn, a knight of Leonster.
-MID_BOSS_挨拶会話_サイアス: Good day. I am Saias.
-MID_BOSS_挨拶会話_マリータ: I honor my mother, Eyvel!
-MID_BOSS_挨拶会話_レイドリック: Heh. Run along, children.
-MID_BOSS_挨拶会話_リーフ: I'm Leif. I come from Leonster.
-MID_BOSS_挨拶会話_ウォルト: Call me Wolt. I'm from Pherae.
+MID_BOSS_挨拶会話_アレス: 나는 흑기사 아레스!
+MID_BOSS_挨拶会話_ユリウス: 로프토우스의 모든 힘은 내 것이다!
+MID_BOSS_挨拶会話_セリス: 해방군을 이끄는 세리스라고 해.
+MID_BOSS_挨拶会話_ナンナ: 라케시스의 딸 난나입니다.
+MID_BOSS_挨拶会話_ダグダ: 자룡산의 다그다다!
+MID_BOSS_挨拶会話_セイラム: 과거엔 로프토 교단의 마도사였지…
+MID_BOSS_挨拶会話_オルエン: 전 올웬입니다.
+MID_BOSS_挨拶会話_エーヴェル: 피아나 영주 에벨이에요.
+MID_BOSS_挨拶会話_フィン: 렌스터의 기사 핀이다.
+MID_BOSS_挨拶会話_サイアス: 날이 좋군. 사이어스다.
+MID_BOSS_挨拶会話_マリータ: 어머니 에벨의 이름에 걸고!
+MID_BOSS_挨拶会話_レイドリック: 하하, 달려라 애송이들아.
+MID_BOSS_挨拶会話_リーフ: 렌스터의 리프라고 해.
+MID_BOSS_挨拶会話_ウォルト: 펠레에서 온 울트야.
 MID_BOSS_挨拶会話_シャニー: 왜? 필요한 거라도 있어?
 MID_BOSS_挨拶会話_ルゥ: 난 리키아에서 왔어.
-MID_BOSS_挨拶会話_レイ: What are you supposed to be?
+MID_BOSS_挨拶会話_レイ: 뭐 하려고?
 MID_BOSS_挨拶会話_ソフィーヤ: 저는… 소피야입니다…
 MID_BOSS_挨拶会話_セシリア: 난 에토르리아의 세실리아야.
 MID_BOSS_挨拶会話_パーシバル: 사람들은 날 퍼시벌이라 부르지.
@@ -211,8 +211,8 @@ MID_BOSS_挨拶会話_モルダ: 무슨 도움이라도 필요하십니까?
 MID_BOSS_挨拶会話_ルーテ: 전 우수한 마도사입니다.
 MID_BOSS_挨拶会話_マリカ: 왜?
 MID_BOSS_挨拶会話_ヒーニアス: 난 프렐리아 왕자다.
-MID_BOSS_挨拶会話_ラーチェル: I serve the powers above!
-MID_BOSS_挨拶会話_ゼト: Who goes there?
+MID_BOSS_挨拶会話_ラーチェル: 신의 가호가 저와 함께한다구요! 
+MID_BOSS_挨拶会話_ゼト: 넌 누구지?
 MID_BOSS_挨拶会話_リオン: 난 그라드 제국의 황태자 리온이야.
 MID_BOSS_挨拶会話_エフラム: 난 루네스 왕자 에브라임이다.
 MID_BOSS_挨拶会話_ミスト: 난 미스트. 아이크 오빠의 여동생이야.
@@ -235,32 +235,32 @@ MID_BOSS_挨拶会話_サザ: 난 새벽단의 소더야. 잘 부탁해.
 MID_BOSS_挨拶会話_漆黒の騎士: 나는 데인의 사준 중 한 명이다.
 MID_BOSS_挨拶会話_セフェラン: 과거는 신경 쓰지 말아 주세요.
 MID_BOSS_挨拶会話_ミカヤ: 나는 새벽단의 일원인 미카야라고 해.
-MID_BOSS_挨拶会話_カミュ: I am Camus of Grust.
+MID_BOSS_挨拶会話_カミュ: 그루니아의 카뮈다.
 MID_BOSS_挨拶会話_トラバント: 나는 트라반트다.
-MID_BOSS_挨拶会話_イシュタル: I am goddess of lightning itself!
-MID_BOSS_挨拶会話_ナーシェン: I'll not honor you with my name.
-MID_BOSS_挨拶会話_ロイド: I am son of Brendan Reed.
-MID_BOSS_挨拶会話_ライナス: My father leads the Black Fang.
-MID_BOSS_挨拶会話_ウルスラ: I'm not like the other filth.
-MID_BOSS_挨拶会話_セライナ: I am a general in Grado's army.
-MID_BOSS_挨拶会話_プラハ: Dog's breath! Who are you?
-MID_BOSS_挨拶会話_オリヴァー: I am committed only to beauty.
-MID_BOSS_戦闘会話_ニーナ: You are certain we must fight?
-MID_BOSS_戦闘会話_シーダ: You'd turn your sword on me?
-MID_BOSS_戦闘会話_リンダ: Try me, then!
-MID_BOSS_戦闘会話_マリク: Wait... Why are we fighting!?
-MID_BOSS_戦闘会話_チキ: No... Stop... Come no closer...
-MID_BOSS_戦闘会話_ミネルバ: Then you leave me no choice.
-MID_BOSS_戦闘会話_オグマ: I knew we'd have to settle this.
-MID_BOSS_戦闘会話_ナバール: Will you weep tears or blood?
-MID_BOSS_戦闘会話_ガーネフ: That's what you think!
-MID_BOSS_戦闘会話_マルス王子: I will prevail!
-MID_BOSS_戦闘会話_クレア: I'll not be tricked again!
-MID_BOSS_戦闘会話_ボーイ: I'm not as green as you think!
-MID_BOSS_戦闘会話_マイセン: This path holds only sadness...
-MID_BOSS_戦闘会話_バルボ: Attack!
-MID_BOSS_戦闘会話_リュート: Looking to test my magic?
-MID_BOSS_戦闘会話_クレーベ: You'll not cut my plans short!
+MID_BOSS_挨拶会話_イシュタル: 번개의 힘을 보여 드리죠!
+MID_BOSS_挨拶会話_ナーシェン: 충성을 맹세하지…는 않겠어.
+MID_BOSS_挨拶会話_ロイド: 브렌단 리더스의 아들이다.
+MID_BOSS_挨拶会話_ライナス: 검은 송곳니 두목의 아들이야.
+MID_BOSS_挨拶会話_ウルスラ: 난 그 더러운 것들과는 달라.
+MID_BOSS_挨拶会話_セライナ: 그라드 장군 세라이나다.
+MID_BOSS_挨拶会話_プラハ: 흥! 넌 누구지?
+MID_BOSS_挨拶会話_オリヴァー: 미 있는 곳에만 나 있으리.
+MID_BOSS_戦闘会話_ニーナ: 우리가 정말로 싸워야 할까요?
+MID_BOSS_戦闘会話_シーダ: 그 검으로 저를 베어 보시죠!
+MID_BOSS_戦闘会話_リンダ: 덤벼!
+MID_BOSS_戦闘会話_マリク: 잠깐만… 우리 왜 싸우는 건데!?
+MID_BOSS_戦闘会話_チキ: 안 돼 싫어… 다가오지 마…
+MID_BOSS_戦闘会話_ミネルバ: 별다른 수가 없군.
+MID_BOSS_戦闘会話_オグマ: 하는 수밖에 없겠군.
+MID_BOSS_戦闘会話_ナバール: 눈물과 피, 어느 걸 흘리고 싶나?
+MID_BOSS_戦闘会話_ガーネフ: 네 생각 따윈 훤히 보인다!
+MID_BOSS_戦闘会話_マルス王子: 난 이기겠어!
+MID_BOSS_戦闘会話_クレア: 두 번 다신 속지 않겠어요!
+MID_BOSS_戦闘会話_ボーイ: 생각한 만큼 쉽진 않을걸!
+MID_BOSS_戦闘会話_マイセン: 싸움의 길엔 슬픔밖에 없다…
+MID_BOSS_戦闘会話_バルボ: 간다!
+MID_BOSS_戦闘会話_リュート: 그렇게 내 마력을 느끼고 싶나?
+MID_BOSS_戦闘会話_クレーベ: 내 전략을 막을 수는 없을 거다!
 MID_BOSS_戦闘会話_ノーマ: Let the goddess take you, then!
 MID_BOSS_戦闘会話_ディーン: You'll feel the kiss of my sword.
 MID_BOSS_戦闘会話_セリカ: Couldn't we talk this through?
@@ -271,7 +271,7 @@ MID_BOSS_戦闘会話_マリス: Heh. What are you waiting for?
 MID_BOSS_戦闘会話_アテナ: Vat? You have death vish?
 MID_BOSS_戦闘会話_ホルス: Then ready your weapon.
 MID_BOSS_戦闘会話_エッツェル: Just what I need...
-MID_BOSS_戦闘会話_ローロー: Uwee hee! A fights it is, then!
+MID_BOSS_戦闘会話_ローロー: 우키! 싸움이다 싸움!
 MID_BOSS_戦闘会話_カタリナ: So, we stand as enemies...
 MID_BOSS_戦闘会話_ハーディン: Come to the slaughter, varlets!
 MID_BOSS_戦闘会話_マルス王: I will fight until my body breaks!
@@ -474,13 +474,13 @@ MID_BOSS_仲間会話_シグルーン: I will not leave your side.
 MID_BOSS_仲間会話_サザ: What a strange twist of chance.
 MID_BOSS_仲間会話_漆黒の騎士: I shall be your shield.
 MID_BOSS_仲間会話_セフェラン: But...I know only despair...
-MID_BOSS_仲間会話_ミカヤ: All right. Let's go.
+MID_BOSS_仲間会話_ミカヤ: 알겠어, 같이 가자.
 MID_BOSS_仲間会話_カミュ: This could prove interesting...
 MID_BOSS_仲間会話_トラバント: I'll deliver on your expectations.
 MID_BOSS_仲間会話_イシュタル: You desire I fight with you?
 MID_BOSS_仲間会話_ナーシェン: Are you certain? Heh heh...
 MID_BOSS_仲間会話_ロイド: Uh, you want me to join you?
-MID_BOSS_仲間会話_ライナス: Fight...with you!?
+MID_BOSS_仲間会話_ライナス: 너랑… 같이 싸우라고!?
 MID_BOSS_仲間会話_ウルスラ: An alliance? Hard to fathom...
 MID_BOSS_仲間会話_セライナ: 그라드 제국에 이 심장을!
 MID_BOSS_仲間会話_プラハ: All right, I'm coming.
