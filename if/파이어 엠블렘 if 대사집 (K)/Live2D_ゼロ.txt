@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_ゼロ
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_ZERO_MYROOM_09: 이렇게 방까지 보고 나니,\n당신에 대해 더 많이 알게 된 것 같습니다.
+MKID_LIVE2D_VOICE_ZERO_MYROOM_19: 초조해 보이시네요.\n이것도 인연인데, 저와 데이트라도 하시겠습니까?
+MKID_LIVE2D_VOICE_ZERO_MYROOM_29: 맞아요…\n이제 제가 당신을 초대할 차례죠.\n단지… 아직 마음의 준비가 안 됐거든요.
+MKID_LIVE2D_VOICE_ZERO_MYROOM_38: 잠시 그 예쁜 눈 좀 감아 주시겠어요…?
+MKID_LIVE2D_VOICE_ZERO_MYROOM_38_W: 어때요?
+MKID_LIVE2D_VOICE_ZERO_MYROOM_39: 이 순간이 오기만을 기다렸습니다.\n오늘밤은 돌려보내지 않을 거예요.
+MKID_LIVE2D_VOICE_ZERO_MYROOM_49: 제가 누군가에게 이런 감정을 품게 될 날이 오리라곤\n상상도 못했어요… 약점이 될 뿐이라고 생각했거든요…
+MKID_LIVE2D_VOICE_ZERO_MYROOM_SP_A: 저 같은 애송이가 왕족과 친구가 될 수 있을 거라곤\n상상도 못했어요… 인생은 정말 예측할 수 없네요…
+MKID_LIVE2D_VOICE_ZERO_MYROOM_SP_S: 당신은 제게 사랑하는 법을 알려 주셨어요…\n그리고 그게 얼마나 행복한 건지도요.
+MKID_LIVE2D_VOICE_ZERO_MYROOM_SP_S_W: 앞으로 더 많은 시간을 함께 보내요.
+MKID_LIVE2D_VOICE_ZERO_RELIANCE_S: 지금 어떤 상황에 놓인 건지 알고 계세요?
+MKID_LIVE2D_VOICE_ZERO_RELIANCE_S_W: 부디 모르시길 바랄게요…

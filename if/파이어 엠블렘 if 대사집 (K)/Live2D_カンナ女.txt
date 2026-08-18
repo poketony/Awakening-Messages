@@ -1,0 +1,10 @@
+MESS_ARCHIVE_Live2D_カンナ女
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_KANNA_F_MYROOM_09: 아빠와 함께 있을 수 있어서 너무 행복해!
+MKID_LIVE2D_VOICE_KANNA_F_MYROOM_19: 바쁜데도 나랑 놀아 줘서 고마워, 아빠!
+MKID_LIVE2D_VOICE_KANNA_F_MYROOM_29: 아빠는 이 세상에서 제일 좋은 아빠야!
+MKID_LIVE2D_VOICE_KANNA_F_MYROOM_SP_A: 우리가 그 아무리 두려운 곳에 가더라도…\n난 언제나 아빠를 지킬 거야!

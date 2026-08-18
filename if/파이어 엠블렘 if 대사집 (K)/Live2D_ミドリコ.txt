@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_ミドリコ
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_MIDORIKO_MYROOM_09: 몸 상태가 좋지 않을 땐 언제든지 말해주세요!\n미도리가 잘 듣는 약을 만들어 줄게요!
+MKID_LIVE2D_VOICE_MIDORIKO_MYROOM_19: 혹시 싸우다가 손을 다치면 말 해줘요!\n미도리, 금방 나을 수 있는 약을 갖고 있거든요!
+MKID_LIVE2D_VOICE_MIDORIKO_MYROOM_29: 미도리는 당신이 늘 건강했으면 좋겠어요!\n언제나 언제나, 매일매일이요!
+MKID_LIVE2D_VOICE_MIDORIKO_MYROOM_38: 그냥 뽀뽀만 하는 거예요. 알겠죠?
+MKID_LIVE2D_VOICE_MIDORIKO_MYROOM_38_W: 아앗, 두 번이나 하면 어떻게 해요!
+MKID_LIVE2D_VOICE_MIDORIKO_MYROOM_39: 좋아해요! 당신은 미도리의 가장 소중한 친구예요.
+MKID_LIVE2D_VOICE_MIDORIKO_MYROOM_49: 미도리는 당신과 함께 할 때가 가장 행복해요.\n당신만큼 잘 듣는 약은 세상에 없을 거예요!
+MKID_LIVE2D_VOICE_MIDORIKO_MYROOM_SP_A: 미도리, 어렸을 때는 비경에서 늘 혼자였으니까…\n정말 외로웠어요… 그래서 이렇게 얘기를 나눌 수\n있는 게 정말 좋아요. 미도리와 함께해 줘서 고마워요!
+MKID_LIVE2D_VOICE_MIDORIKO_MYROOM_SP_S: 날 보는 당신의 눈에서 반짝반짝 빛이 나요. 미도리…\n미도리는 어쩌면 당신에게 실수로 사랑의 묘약을\n준 걸지도 몰라요. 그리고…
+MKID_LIVE2D_VOICE_MIDORIKO_MYROOM_SP_S_W: 아마 미도리도 그걸 같이 마셨을 거예요!
+MKID_LIVE2D_VOICE_MIDORIKO_RELIANCE_S: 진정한 사랑이란 건 정말 멋져요!\n미도리, 이렇게 달콤한 건 또 없을 거라고 생각해요.
+MKID_LIVE2D_VOICE_MIDORIKO_RELIANCE_S_W: 상자에 가득 담긴 초콜릿의 다음이긴 하지만요!

@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_エルフィ
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_ELFI_MYROOM_09: 재미있네요. 하지만 전 지금 몹시 배가 고픕니다.\n뭐라도 좀 먹으러 안 가실래요?
+MKID_LIVE2D_VOICE_ELFI_MYROOM_19: 제가 마사지를 해 드리고 싶은데…\n당신의 어딘가를 부러뜨리고 말 것 같아요.
+MKID_LIVE2D_VOICE_ELFI_MYROOM_29: 땀을 내지 않고 한 일들 중에 가장 즐겁네요.
+MKID_LIVE2D_VOICE_ELFI_MYROOM_38: 내게 키스하고 싶어요? 음, 알겠어요…
+MKID_LIVE2D_VOICE_ELFI_MYROOM_38_W: 이래서 제게 경고하셨던 거군요.\n완전히 KO당했네요.
+MKID_LIVE2D_VOICE_ELFI_MYROOM_39: 상대의 뼈를 부러뜨리지 않게 포옹하는 연습을 했어요.\n당신을 한번 안아 봐도 될까요?
+MKID_LIVE2D_VOICE_ELFI_MYROOM_49: 제 자신이 두려울 정도로 당신을 사랑해요.\n아마 이 마음은 제 대퇴근보다 강할 거예요!
+MKID_LIVE2D_VOICE_ELFI_MYROOM_SP_A: 당신은 제 마음속에서 엘리스님과 비등한 존재입니다.\n누구도 당신을 해하지 못하게 하겠어요!
+MKID_LIVE2D_VOICE_ELFI_MYROOM_SP_S: 제가 당신을 얼마나 사랑할 수 있는지에는\n한계가 없는 것 같아요…
+MKID_LIVE2D_VOICE_ELFI_MYROOM_SP_S_W: 제가 벤치 프레스를 얼마나 할 수 있는지와 마찬가지로요.
+MKID_LIVE2D_VOICE_ELFI_RELIANCE_S: 당신을 향한 제 사랑보다 강한 것은 없어요.
+MKID_LIVE2D_VOICE_ELFI_RELIANCE_S_W: 제 이두박근은 빼고요…

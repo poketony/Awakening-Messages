@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_カゲロウ
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_KAGEROU_MYROOM_09: 이렇게 함께 시간을 보내주시다니…\n감사할 따름입니다.
+MKID_LIVE2D_VOICE_KAGEROU_MYROOM_19: 이렇게 당신 곁에 있을 수 있어 다행입니다.\n당신을 지켜드리기가 더 수월하니까요.
+MKID_LIVE2D_VOICE_KAGEROU_MYROOM_29: 저는 임무를 수행중입니다.\n하지만… 당신이 원하신다면, 잠시간\n휴식을 취하는 것도 괜찮겠지요.
+MKID_LIVE2D_VOICE_KAGEROU_MYROOM_38: 저는… 당신과 입맞춤을 하고 싶습니다.
+MKID_LIVE2D_VOICE_KAGEROU_MYROOM_38_W: …감사합니다. 기쁩니다.
+MKID_LIVE2D_VOICE_KAGEROU_MYROOM_39: 저는 지금 행복합니다… 하지만… 이 모든 걸\n잃을 지도 모른다고 생각하면 너무나도 두렵습니다.
+MKID_LIVE2D_VOICE_KAGEROU_MYROOM_49: 사랑합니다…\n이렇게 당신과 맺어지게 되다니, 정말 기쁩니다.
+MKID_LIVE2D_VOICE_KAGEROU_MYROOM_SP_A: 저는 더이상 당신을 그저 지켜야 할 대상으로만\n생각하지 않습니다. 당신은 제 친우니까요.
+MKID_LIVE2D_VOICE_KAGEROU_MYROOM_SP_S: 당신은 모두에게 있어 중요한 분이십니다.\n하지만… 제게는 그 무엇보다도 중요한 존재에요.
+MKID_LIVE2D_VOICE_KAGEROU_MYROOM_SP_S_W: …당신은 제 남편이 되실 분이니까요.
+MKID_LIVE2D_VOICE_KAGEROU_RELIANCE_S: 저도… 당신을 사모해 왔습니다.\n제가 평범한 아내가 될 수는 없겠지만…
+MKID_LIVE2D_VOICE_KAGEROU_RELIANCE_S_W: 전 당신을 반드시 지켜낼 겁니다.\n우리의 앞에 펼쳐질 미래를 위해서…

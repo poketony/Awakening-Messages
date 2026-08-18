@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_ヒノカ
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_HINOKA_MYROOM_09: 오늘 즐거웠어. 앞으로도 종종 이런 시간을 가지자.
+MKID_LIVE2D_VOICE_HINOKA_MYROOM_19: 네가 잘 자란 모습을 이렇게 볼 수 있어서 좋다.
+MKID_LIVE2D_VOICE_HINOKA_MYROOM_29: 난 우리가 이렇게 같이 있을 수 있는 날이 다시 오리라고는\n생각도 못 했어.
+MKID_LIVE2D_VOICE_HINOKA_MYROOM_38: 잠깐 눈 좀 감아 봐…
+MKID_LIVE2D_VOICE_HINOKA_MYROOM_38_W: 헤헤, 좀 어색하지?
+MKID_LIVE2D_VOICE_HINOKA_MYROOM_39: 함께 있으면 힘들었던 지난 일들이 머릿속에서 사라져.
+MKID_LIVE2D_VOICE_HINOKA_MYROOM_49: 나만 두고 죽어 버리면 절대 널 용서하지 않을 거야.\n알겠어?
+MKID_LIVE2D_VOICE_HINOKA_MYROOM_SP_A: 널 구할 수 있도록 훈련을 시작했어.\n지금은 널 보호하는 법을 익히는 중이야.
+MKID_LIVE2D_VOICE_HINOKA_MYROOM_SP_S: 난 내 모든 인생을 바쳐 우리의 운명에 맞서 싸워 왔어.\n하지만 이젠 인정해야겠어. 그런 인생도…
+MKID_LIVE2D_VOICE_HINOKA_MYROOM_SP_S_W: 나쁘지 않았다고…
+MKID_LIVE2D_VOICE_HINOKA_RELIANCE_S: 네가 끌려간 그날부터 한시도 널 잊은 적 없어.
+MKID_LIVE2D_VOICE_HINOKA_RELIANCE_S_W: 다시는 날 떠나지 마.

@@ -1,0 +1,35 @@
+MESS_ARCHIVE_Opening
+
+
+Message Name: Message
+
+
+MID_OPLogo_001: Nintendo
+MID_OPLogo_002: INTELLIGENT SYSTEMS
+MID_OPLogo_003: present
+MID_OPLogo_004: - Movie -
+MID_OPLogo_005: anima inc.
+MID_OPLogo_006: Spooky graphic
+MID_OPLogo_007: - Original Story -
+MID_OPLogo_008: Shin Kibayashi
+MID_OPLogo_009: - Scenario Support -
+MID_OPLogo_010: RED Entertainment Corporation
+MID_OPLogo_011: Synthese
+MID_OPLogo_012: - Sound Support -
+MID_OPLogo_013: Being
+MID_OPLogo_014: DESIGN WAVE
+MID_OPLogo_015: T's music
+MID_OPLogo_016: TWO FIVE
+MID_OPLogo_017: - Sound Supervision -
+MID_OPLogo_018: Yuka Tsujiyoko
+MID_OPLogo_019: - Character Design & Illustration -
+MID_OPLogo_020: Kozaki Yusuke
+MID_OPLogo_021: - Illustration Support -
+MID_OPLogo_022: CRAFTS & MEISTER
+MID_OPLogo_023: TRIGGER Inc.
+MID_OPLogo_024: - Event Illustration -
+MID_OPLogo_025: Media.Vision
+MID_OPLogo_026: - Developed by -
+MID_OPLogo_027: INTELLIGENT SYSTEMS
+MID_OPLogo_028: - Published by -
+MID_OPLogo_029: Nintendo

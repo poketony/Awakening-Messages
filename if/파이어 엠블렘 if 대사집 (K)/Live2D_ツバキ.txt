@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_ツバキ
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_TSUBAKI_MYROOM_09: 음, 즐거웠어요. 다음에 또 불러 주세요―
+MKID_LIVE2D_VOICE_TSUBAKI_MYROOM_19: 이 방엔 재미있는 게 많네요.\n더 천천히 둘러 보고 싶어요―
+MKID_LIVE2D_VOICE_TSUBAKI_MYROOM_29: 여기 있으면 어깨의 부담을 내려놓게 돼요.\n당신 앞에선 완벽하지 않아도 되니까…
+MKID_LIVE2D_VOICE_TSUBAKI_MYROOM_38: 잠깐 눈 감아 봐… 깜짝 선물이 있어―
+MKID_LIVE2D_VOICE_TSUBAKI_MYROOM_38_W: 어때?
+MKID_LIVE2D_VOICE_TSUBAKI_MYROOM_39: 진부한 표현이긴 하지만…\n난 정말 네가 내 운명의 짝이라고 생각해…
+MKID_LIVE2D_VOICE_TSUBAKI_MYROOM_49: 내가 완벽하지 못한 모습을 보여도 받아들여 줘.\n그런 일은 없겠지만 말야―
+MKID_LIVE2D_VOICE_TSUBAKI_MYROOM_SP_A: 제가 있는 한 당신은 혼자가 아니에요.\n필요할 땐 언제든 부르세요. 바로 달려올게요―
+MKID_LIVE2D_VOICE_TSUBAKI_MYROOM_SP_S: 앞으로도 영원히 이렇게 함께 있어 줘…
+MKID_LIVE2D_VOICE_TSUBAKI_MYROOM_SP_S_W: 네가 없는 세상은… 상상할 수 없어.
+MKID_LIVE2D_VOICE_TSUBAKI_RELIANCE_S: 당신의 존재는… 저에겐 완벽 그 자체예요.
+MKID_LIVE2D_VOICE_TSUBAKI_RELIANCE_S_W: 우리가 함께라면…\n더 완벽해질 수 있을 거예요…

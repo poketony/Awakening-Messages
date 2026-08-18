@@ -1,0 +1,11 @@
+MESS_ARCHIVE_M001
+
+
+Message Name: Message
+
+
+MID_M001_OP1: $a$t1$Wmマルス|7$Wmusername|3$w0|$Wsマルス|$Wa$E笑,|$SvpVOICE_MARTH_B_WIN_00|고마워, $Nu.\n와 줬구나.$k$p$E怒,|그럼 지금부터 정정당당하게 싸워 보자.$k$p준비가 되면\n언제 시작해도 좋아.$k$p$E通常,|…전투 시작 직전은\n늘 긴장이 고조된다니까.$k
+MID_M001_BT: $t0$Wmマルス|0$w0|$Wsマルス|$Wa$E怒,|왔구나…\n자, 너에 대해 나에게 알려 줘.$k$p어떤 기술로, 어떤 마음으로,\n그리고 어떤 동료들과 싸우는지…$k$p나에게 전부 보여 줬으면 좋겠어.$k
+MID_M001_DIE: $t0$Wmマルス|0$w0|$Wsマルス|$Wa$E苦,汗|훌륭해…\n나의… 패배야……$k
+MID_M001_ED1_PCM1: $a$t1$Wmマルス|7$Wmusername|3$w0|$Wsマルス|$Wa$E笑,|$SvpVOICE_MARTH_WIN_04|끝났네, $Nu.$k$p축하해.\n이 승부는… 너의 승리야.$k$p$Eキメ,|정말 멋진 승부였어…\n졌지만 후련한 기분이 들어.$k$p그리고 예전보다 훨씬 더\n너에 대해 알게 된 느낌이야.$k\n$Wsusername|$Wa$E笑,|$SvpVOICE_PLAYER_M#_EVT_36|응, 나도 마찬가지야.\n마르스와 승부를 펼칠 수 있어서 좋았어.$k\n$Wsマルス|$Wa$E笑,|$SvpVOICE_MARTH_EVT_04|그래, 그렇게 말해 주니 기쁘네.$k$p$E通常,|…저기, 할 얘기가 하나 있는데…$k$p나를 너의 동료로 삼아 주지 않겠어?$k\n$Wsusername|$Wa$E通常,|$SvpVOICE_PLAYER_M#_EVT_21|뭐…!?\n하지만 넌 여행 중이잖아…$k\n$Wsマルス|$Wa$E笑,|$SvpVOICE_MARTH_EVT_05|그렇지, 하지만 이대로\n목적도 없는 여행을 계속하는 것보다$k$p너 같은 사람의 힘이 되어 주는 게\n내가 더 보람 있을 것 같아.$k$p$E通常,|방해가 되지 않는다면…\n한번 생각해 줬으면 해.$k\n$Wsusername|$Wa$E笑,|$SvpVOICE_PLAYER_M#_EVT_31|말도 안 돼…\n방해라고 생각할 리가 없잖아.$k$p꼭 동료가 되어 줬으면 좋겠어.\n함께 싸우는 것 자체가 영광이야.$k\n$Wsマルス|$Wa$E笑,|$SvpVOICE_MARTH_B_WIN_00|…고마워.$k$p너에게 힘이 될 수 있도록 노력할게.$k$p$Eキメ,|$SvpVOICE_MARTH_EVT_09|앞으로 잘 부탁해, $Nu.$k
+MID_M001_ED1_PCF2: $a$t1$Wmマルス|7$Wmusername|3$w0|$Wsマルス|$Wa$E笑,|$SvpVOICE_MARTH_WIN_04|끝났네, $Nu.$k$p축하해.\n이 승부는… 너의 승리야.$k$p$Eキメ,|정말 멋진 승부였어…\n졌지만 후련한 기분이 들어.$k$p그리고 예전보다 훨씬 더\n너에 대해 알게 된 느낌이야.$k\n$Wsusername|$Wa$E笑,|$SvpVOICE_PLAYER_F#_EVT_36|응, 나도 마찬가지야.\n마르스와 승부를 펼칠 수 있어서 좋았어.$k\n$Wsマルス|$Wa$E笑,|$SvpVOICE_MARTH_EVT_04|그래, 그렇게 말해 주니 기쁘네.$k$p$E通常,|…저기, 할 얘기가 하나 있는데…$k$p나를 너의 동료로 삼아 주지 않겠어?$k\n$Wsusername|$Wa$E通常,|$SvpVOICE_PLAYER_F#_EVT_21|뭐…!?\n하지만 넌 여행 중이잖아…$k\n$Wsマルス|$Wa$E笑,|$SvpVOICE_MARTH_EVT_05|그렇지, 하지만 이대로\n목적도 없는 여행을 계속하는 것보다$k$p너 같은 사람의 힘이 되어 주는 게\n내가 더 보람 있을 것 같아.$k$p$E通常,|방해가 되지 않는다면…\n한번 생각해 줬으면 해.$k\n$Wsusername|$Wa$E笑,|$SvpVOICE_PLAYER_F#_EVT_31|말도 안 돼…\n방해라고 생각할 리가 없잖아.$k$p꼭 동료가 되어 줬으면 좋겠어.\n함께 싸우는 것 자체가 영광이야.$k\n$Wsマルス|$Wa$E笑,|$SvpVOICE_MARTH_B_WIN_00|…고마워.$k$p너에게 힘이 될 수 있도록 노력할게.$k$p$Eキメ,|$SvpVOICE_MARTH_EVT_09|앞으로 잘 부탁해, $Nu.$k

@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_フローラ
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_FLORA_MYROOM_09: 움직이지 않으셔도 됩니다.\n제가 방을 정리하는 동안 편히 쉬세요…
+MKID_LIVE2D_VOICE_FLORA_MYROOM_19: 청소 때문에\n절 부르신 건 아니겠죠…?
+MKID_LIVE2D_VOICE_FLORA_MYROOM_29: 만약 괜찮으시다면… 가끔이라도 좋으니\n저를 다시 불러 주세요.
+MKID_LIVE2D_VOICE_FLORA_MYROOM_38: 제게 가까이 다가와 주세요…\n조금만 더, 조금만 더 가까이…
+MKID_LIVE2D_VOICE_FLORA_MYROOM_38_W: 좋아요… 바로 그거에요!
+MKID_LIVE2D_VOICE_FLORA_MYROOM_39: 저는 우리의 관계가 정말 자랑스러워요.\n우리는 정말 멋진 한 쌍이니까요!
+MKID_LIVE2D_VOICE_FLORA_MYROOM_49: 당신과 함께 할 때마다 따스함을 느껴요.\n제가 녹아내리지 않는 게 신기할 정도예요…
+MKID_LIVE2D_VOICE_FLORA_MYROOM_SP_A: 당신은 제 주군이자 소중한 친구입니다.\n만약 당신을 방해하는 자가 있다면,\n제가 앞장서서 그 자를 쓰러트리겠어요.
+MKID_LIVE2D_VOICE_FLORA_MYROOM_SP_S: 저는 당신의 자는 모습이 정말 좋아요.\n제가 당신을 깨웠을 때, 아직 졸리다며\n저를 바라봐 준다면…
+MKID_LIVE2D_VOICE_FLORA_MYROOM_SP_S_W: 저는 너무 기뻐서 울고 말 거예요.
+MKID_LIVE2D_VOICE_FLORA_RELIANCE_S: 당신의 마음을 알게 되다니…\n정말 멋진 일이에요!
+MKID_LIVE2D_VOICE_FLORA_RELIANCE_S_W: 언제나 제 곁에 있어 주세요.\n저를 떠나지 마세요…

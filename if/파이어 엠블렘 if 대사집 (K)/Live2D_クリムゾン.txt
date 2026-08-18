@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_クリムゾン
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_CRIMSON_MYROOM_09: 난 언제나 당신이 싸우는 모습을 보고 있어.\n굉장히 마음에 들었거든.
+MKID_LIVE2D_VOICE_CRIMSON_MYROOM_19: 가끔씩 이렇게 이야기를 나누는 것도 좋은 것 같아.\n더 나은 의견이 무엇인지를 알 수 있게 되잖아.
+MKID_LIVE2D_VOICE_CRIMSON_MYROOM_29: 난 내가 왕족과 이렇게 친해질 줄은 꿈에도 몰랐어.\n운명이란 건 참 재미있단 말이야.
+MKID_LIVE2D_VOICE_CRIMSON_MYROOM_38: 그래, 마무리는 키스로 하고싶다는 거지?
+MKID_LIVE2D_VOICE_CRIMSON_MYROOM_38_W: 몸에 힘이 다 빠졌어…
+MKID_LIVE2D_VOICE_CRIMSON_MYROOM_39: 난 내 갑옷이 좋아. 화려하니까! 하지만\n내가 당신을 좋아하는 데에 이유 같은 건 필요 없어.
+MKID_LIVE2D_VOICE_CRIMSON_MYROOM_49: 세상 그 어디에도 내가 경계를 푼 모습을\n본 자는 없어. 이런 날 볼 수 있는 건 당신 뿐이야…
+MKID_LIVE2D_VOICE_CRIMSON_MYROOM_SP_A: 만약 평화로운 시대가 돌아와\n내가 정식으로 기사가 될 수 있다면…\n그때는 내가 당신의 신하가 되어 줄게.
+MKID_LIVE2D_VOICE_CRIMSON_MYROOM_SP_S: 당신은 평행 세계라는 게 존재한다고 생각해?\n또 다른 나와… 또 다른 당신이 사는 세계 말이야.
+MKID_LIVE2D_VOICE_CRIMSON_MYROOM_SP_S_W: 난 지금 여기,\n이곳에 있는 우리가 너무 좋아.
+MKID_LIVE2D_VOICE_CRIMSON_RELIANCE_S: 사랑해.\n내 남은 인생을 당신과 함께 걸어갈게…
+MKID_LIVE2D_VOICE_CRIMSON_RELIANCE_S_W: 당신이 한 프로포즈는 좀 그렇긴 했지만 말야.

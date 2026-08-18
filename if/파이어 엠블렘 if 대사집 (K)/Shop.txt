@@ -1,0 +1,70 @@
+MESS_ARCHIVE_Shop
+
+
+Message Name: Message
+
+
+MID_SHOP_輸送隊: 수송대
+MID_SHOP_武器屋: 무기점
+MID_H_SHOP_武器屋: 무기를 구입하거나\n아이템을 판매할 수 있습니다.\n점원이 잘 다루는 무기 종류는\n조금 할인됩니다.
+MID_SHOP_道具屋: 도구점
+MID_H_SHOP_道具屋: 지팡이나 아이템을 구입하거나\n아이템을 판매할 수 있습니다.\n점원이 지팡이를 다룬다면\n지팡이가 조금 할인됩니다.
+MID_SHOP_錬成屋: 연성점
+MID_H_SHOP_錬成屋: $a두 개의 같은 무기와 광석을 이용해\n하나의 보다 강한 무기를 만듭니다.\n현재,「+$a0」까지 강화 가능합니다.\n(연성 가능한 무기 종류는 성의 주인이\n선택한 길에 따라 달라집니다)\n광석 교환으로 다른 광석과 교환 가능
+MID_SHOP_戻る: 뒤로
+MID_SHOP_購入: 구입
+MID_SHOP_売却: 판매
+MID_SHOP_アイテム名: 아이템
+MID_SHOP_在庫数: 재고
+MID_SHOP_購入数: 수량
+MID_SHOP_売却数: 수량
+MID_SHOP_価格: 가격
+MID_SHOP_売却価格: 매각 가격
+MID_SHOP_在庫数無限: ∞
+MID_SHOP_売却不可: 불가
+MID_SHOP_MESS_入店: 어서 오세요.
+MID_SHOP_MESS_誰が買う: 누가 구입하겠습니까?
+MID_SHOP_MESS_誰が売る: 누가 팔겠습니까?
+MID_SHOP_MESS_何を買う: 물품을 살펴보십시오.
+MID_SHOP_MESS_何を売る: 무엇을 팔겠습니까?
+MID_SHOP_MESS_購入後: 또 살 것이 있습니까?
+MID_SHOP_MESS_売却後: 또 팔 것이 있습니까?
+MID_SHOP_MESS_いくつ買う: 몇 개 구입하겠습니까?
+MID_SHOP_MESS_いくつ売る: 몇 개 판매하겠습니까?
+MID_SHOP_MESS_購入確認: $a$a0G입니다.
+MID_SHOP_MESS_売却確認: $a$a0G에 사겠습니다.
+MID_SHOP_MESS_輸送隊に送る: 수송대로 보내겠습니다.
+MID_SHOP_MESS_輸送隊満タン: 수송대가 가득 찼습니다.
+MID_SHOP_MESS_また来い: 가게를 나갑니다.
+MID_SHOP_錬成: 연성하기
+MID_SHOP_名を刻む: 이름 새기기
+MID_SHOP_名を消す: 이름 지우기
+MID_SHOP_鉱石交換: 광석 교환
+MID_SHOP_錬成相手: 상대(재고)
+MID_SHOP_錬成相手無し: 없음
+MID_SHOP_錬成不可: 연성 불가
+MID_SHOP_錬成最大: 연성 최대
+MID_SHOP_錬成纏めサフィックス: 연성
+MID_SHOP_名前刻む: 각인
+MID_SHOP_名前消す: 제거
+MID_SHOP_名前変更可: ○
+MID_SHOP_名前変更不可: ×
+MID_SHOP_鉱石: 광석
+MID_SHOP_交換元: 건넨다
+MID_SHOP_交換先: 받는다
+MID_SHOP_MESS_誰のを錬成する: 누구의 무기를 연성하겠습니까?(무기 2개와 광석 필요)
+MID_SHOP_MESS_何を鍛える: 무엇을 연성하겠습니까?
+MID_SHOP_MESS_誰のと鍛える: 누구의 것과 함께 연성하겠습니까?
+MID_SHOP_MESS_錬成確認: 이걸로 괜찮겠습니까?
+MID_SHOP_MESS_名を刻む最大: 이름을 새긴 무기가 가득입니다. 팔거나 지워 주십시오.
+MID_SHOP_MESS_誰のを名を刻む: 누구 것에 이름을 새기겠습니까?
+MID_SHOP_MESS_誰のを名を消す: 누구 것의 이름을 지우겠습니까?
+MID_SHOP_MESS_何の名を刻む: 어느 것에 이름을 새기겠습니까?
+MID_SHOP_MESS_何の名を消す: 어느 것의 이름을 지우겠습니까?
+MID_SHOP_MESS_名を刻む: 새길 이름을 결정해 주십시오.
+MID_SHOP_MESS_名を消す確認: 이걸로 괜찮겠습니까?
+MID_SHOP_MESS_錬成後: 또 연성할 것이 있습니까?
+MID_SHOP_MESS_錬成最大_錬成後: 이름을 새긴 무기가 가득 차서\n이름을 새길 수 없었습니다.
+MID_SHOP_MESS_名を刻む後: 또 이름을 새길 것이 있습니까?
+MID_SHOP_MESS_名を消す後: 또 이름을 지울 것이 있습니까?
+MID_SHOP_MESS_交換確認: 이걸로 괜찮겠습니까?

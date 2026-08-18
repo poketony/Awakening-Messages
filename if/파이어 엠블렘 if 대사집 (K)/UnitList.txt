@@ -1,0 +1,11 @@
+MESS_ARCHIVE_UnitList
+
+
+Message Name: Message
+
+
+MID_UNITLIST_部隊表: 부대표
+MID_UNITLIST_部隊表_基本: 기본
+MID_UNITLIST_部隊表_能力: 능력
+MID_UNITLIST_部隊表_戦闘: 전투
+MID_UNITLIST_一覧: 목록

@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_レオン
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_LEON_MYROOM_09: 뭐 하는 거야… 왜 불렀어?
+MKID_LIVE2D_VOICE_LEON_MYROOM_19: 다시 이렇게 함께할 수 있어서 기뻐.
+MKID_LIVE2D_VOICE_LEON_MYROOM_29: 젠더 형이 당신을 지켜 달라고 하더라고…
+MKID_LIVE2D_VOICE_LEON_MYROOM_38: 지금, 키스해도 돼…?
+MKID_LIVE2D_VOICE_LEON_MYROOM_38_W: 행복해…
+MKID_LIVE2D_VOICE_LEON_MYROOM_39: 우리가 부부가 될 운명이었다고\n누가 상상이나 했겠어?
+MKID_LIVE2D_VOICE_LEON_MYROOM_49: 당신과 서로 사랑하는 사이가 된다는 게\n이렇게 행복한 일인 줄은 몰랐어.
+MKID_LIVE2D_VOICE_LEON_MYROOM_SP_A: 사실 난 당신도 젠더 형만큼 존경하고 있어.\n언젠가는 전장에서도 동등한 위치에서 싸우고 싶어.
+MKID_LIVE2D_VOICE_LEON_MYROOM_SP_S: 수많은 책을 읽었지만… 이럴 때\n어떻게 해야 할지 쓰여있는 책은 없었어…
+MKID_LIVE2D_VOICE_LEON_MYROOM_SP_S_W: 가장 중요한 걸 당신이 가르쳐 준 거야…
+MKID_LIVE2D_VOICE_LEON_RELIANCE_S: 긴 시간동안 내 마음을 숨겨 왔는데…\n당신도 같은 마음이었단 게 아직도 믿기지 않아.
+MKID_LIVE2D_VOICE_LEON_RELIANCE_S_W: 영원히 내 곁에 있어 줘.

@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_アンナ
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_ANNA_MYROOM_09: 필요한 게 있으면 이야기해! 내 물건들은 하나같이 최고니까!
+MKID_LIVE2D_VOICE_ANNA_MYROOM_19: 너는 사람 이야기를 참 잘 들어 준다.\n장사에 뛰어들어 보는 건 어때?
+MKID_LIVE2D_VOICE_ANNA_MYROOM_29: 너랑 똑같이 생긴 사람도 이 세상 어딘가에 있을지도 몰라.
+MKID_LIVE2D_VOICE_ANNA_MYROOM_38: 내가 오늘은 특별한 걸 준비했어! 자, 눈 감아 봐…
+MKID_LIVE2D_VOICE_ANNA_MYROOM_38_W: 에헤헷! 환불은 안 돼!
+MKID_LIVE2D_VOICE_ANNA_MYROOM_39: 우린 함께 가게를 열어야 해.\n너의 인맥과 내 노하우면 우리는 부자가 될걸!?
+MKID_LIVE2D_VOICE_ANNA_MYROOM_49: 이 방을 창고로 쓰고 앞쪽에 가게를 내자.\n음, 네 방도 하나 만들어 줄게.
+MKID_LIVE2D_VOICE_ANNA_MYROOM_SP_A: 전설의 대부분은 용신에 관한 것이야.\n난 인류에게 위대한 모험이 더 남아 있을지가 궁금해…
+MKID_LIVE2D_VOICE_ANNA_MYROOM_SP_S: 나와 내 자매들을 어떻게 구별하는지 알아?\n그냥 내 눈을 가만히 들여다보면 돼…
+MKID_LIVE2D_VOICE_ANNA_MYROOM_SP_S_W: 그래. 그게 바로 진정한 사랑이야.
+MKID_LIVE2D_VOICE_ANNA_RELIANCE_S: 너와 있으면 앞으로도 계속 멋진 일이 일어날 것만 같아.
+MKID_LIVE2D_VOICE_ANNA_RELIANCE_S_W: 지금은 아직 너보다 돈을 더 사랑하지만.

@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_オーディン
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_ODIN_MYROOM_09: 시대의 영웅, 이 칠흑의 오딘에게 모처럼의\n휴식 시간을 할애해 줘서 영광이군…
+MKID_LIVE2D_VOICE_ODIN_MYROOM_19: 우리의 우정을 위한 의식을 진행하는 건가…? 엄청나군!
+MKID_LIVE2D_VOICE_ODIN_MYROOM_29: 난 당신을 위해 어떠한 희생도 마다하지 않겠어!
+MKID_LIVE2D_VOICE_ODIN_MYROOM_38: 오, 당신의 입술은 마치…
+MKID_LIVE2D_VOICE_ODIN_MYROOM_38_W: 캄캄한 밤에 홀로 빛나는 등불과 같군.
+MKID_LIVE2D_VOICE_ODIN_MYROOM_39: 당신의 마음은 심연의 어둠을 밝히는 모닥불 같아…
+MKID_LIVE2D_VOICE_ODIN_MYROOM_49: 당신의 존재 그 자체만으로\n나는 작열의 장작더미 위에서 산화할 것 같아!
+MKID_LIVE2D_VOICE_ODIN_MYROOM_SP_A: 후, 당신에게만은 내 정체에 대해 밝히지. 난 다른 시간에서 온\n진정한 영웅 「오웬」! …이건 우리 둘만의 비밀로 해 줘.
+MKID_LIVE2D_VOICE_ODIN_MYROOM_SP_S: 내 허세로 얼버무리기엔 우리 사랑은 너무 강렬해.\n더 이상 오버하지 않겠다고 약속하지.
+MKID_LIVE2D_VOICE_ODIN_MYROOM_SP_S_W: 난 당신 거야.
+MKID_LIVE2D_VOICE_ODIN_RELIANCE_S: 당신에 대한 내 마음이 희미해진다면\n별들은 칠흑의 어둠 속에서 쇠퇴할 거야. 그러니까 내 말은…
+MKID_LIVE2D_VOICE_ODIN_RELIANCE_S_W: 사랑한다고.

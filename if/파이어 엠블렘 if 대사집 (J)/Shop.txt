@@ -1,0 +1,77 @@
+MESS_ARCHIVE_Shop
+
+
+Message Name: Message
+
+
+MID_SHOP_輸送隊: 輸送隊
+MID_SHOP_武器屋: 武器屋
+MID_H_SHOP_武器屋: 武器を購入したり、\nアイテムを売却することができます。\n店番が得意な武器種は\n少し値引きされます。
+MID_SHOP_道具屋: 道具屋
+MID_H_SHOP_道具屋: 杖やアイテムを購入したり、\nアイテムを売却することができます。\n店番が杖を扱えると\n杖が少し値引きされます。
+MID_SHOP_錬成屋: 錬成屋
+MID_H_SHOP_錬成屋: $a「錬成」で二つの同じ武器と鉱石を使い、\n一つのより強い武器を作り出します。\n現在、「+$a0」までの強化が可能です。\n（錬成可能な武器種は、この城の主が\n　選んだ道によって分かれます）\n「鉱石交換」で他の鉱石と交換できます。
+MID_SHOP_戻る: 戻る
+MID_SHOP_購入: 買う
+MID_SHOP_売却: 売る
+MID_SHOP_終了確認: 終了しますか？
+MID_SHOP_アイテム名: アイテム
+MID_SHOP_在庫数: 在庫
+MID_SHOP_購入数: 購入数
+MID_SHOP_売却数: 売却数
+MID_SHOP_価格: 価格
+MID_SHOP_売却価格: 売却価格
+MID_SHOP_在庫数無限: ∞
+MID_SHOP_売却不可: 不可
+MID_SHOP_MESS_入店: いらっしゃいませ。
+MID_SHOP_MESS_ほかには？: 他に用はありますか？
+MID_SHOP_MESS_誰が買う: 誰が買いますか？
+MID_SHOP_MESS_誰が売る: 誰が売りますか？
+MID_SHOP_MESS_何を買う: 品物を見てください。
+MID_SHOP_MESS_何を売る: 何を売りますか？
+MID_SHOP_MESS_購入後: 他に買うものはありますか？
+MID_SHOP_MESS_購入後_00: 
+MID_SHOP_MESS_売却後: 他に売るものはありますか？
+MID_SHOP_MESS_いくつ買う: いくつ買いますか？
+MID_SHOP_MESS_いくつ売る: いくつ売りますか？
+MID_SHOP_MESS_購入確認: $a$a0Ｇです。
+MID_SHOP_MESS_売却確認: $a$a0Gで買い取ります。
+MID_SHOP_MESS_輸送隊に送る: 輸送隊に送られます。
+MID_SHOP_MESS_輸送隊満タン: 輸送隊がいっぱいです。
+MID_SHOP_MESS_また来い: 店を出ます。
+MID_SHOP_錬成: 錬成する
+MID_SHOP_名を刻む: 名を刻む
+MID_SHOP_名を消す: 名を消す
+MID_SHOP_鉱石交換: 鉱石交換
+MID_SHOP_錬成相手: 相手（在庫）
+MID_SHOP_錬成相手無し: なし
+MID_SHOP_錬成不可: 錬成不可
+MID_SHOP_錬成最大: 錬成最大
+MID_SHOP_錬成纏めサフィックス: を作る
+MID_SHOP_名前刻む: 刻む
+MID_SHOP_名前消す: 消す
+MID_SHOP_名前変更可: ○
+MID_SHOP_名前変更不可: ×
+MID_SHOP_鉱石: 鉱石
+MID_SHOP_交換元: 交換元
+MID_SHOP_交換先: 交換先
+MID_SHOP_交換レート: レート
+MID_SHOP_MESS_誰のを錬成する: 同じ武器２つと、鉱石が必要です。誰のものを鍛えますか？
+MID_SHOP_MESS_何を鍛える: どれを鍛えますか？
+MID_SHOP_MESS_誰のと鍛える: 誰のものと一緒に鍛えますか？
+MID_SHOP_MESS_錬成確認: これでいいですか？
+MID_SHOP_MESS_名を刻む最大: 名を刻んだ武器がいっぱいです。売るか、消してください。
+MID_SHOP_MESS_誰のを名を刻む: 誰のものに名を刻みますか？
+MID_SHOP_MESS_誰のを名を消す: 誰のものの名を消しますか？
+MID_SHOP_MESS_何の名を刻む: どれに名を刻みますか？
+MID_SHOP_MESS_何の名を消す: どれの名を消しますか？
+MID_SHOP_MESS_名を刻む: 刻む名を決めてください。
+MID_SHOP_MESS_名を消す確認: これでいいですか？
+MID_SHOP_MESS_錬成後: 他に鍛えるものはありますか？
+MID_SHOP_MESS_錬成最大_錬成後: 名を刻んだ武器がいっぱいあるため、\n名前を刻む事が出来ませんでした。
+MID_SHOP_MESS_名を刻む後: 他に名を刻むものはありますか？
+MID_SHOP_MESS_名を消す後: 他に名を消すものはありますか？
+MID_SHOP_MESS_何を交換する: 交換元を５つ失い、交換先を１つ得ます。
+MID_SHOP_MESS_交換確認: これでいいですか？
+MID_SHOP_MESS_交換後: 他に交換するものはありますか？
+MID_SHOP_MESS_交換満タン: 鉱石がいっぱいです

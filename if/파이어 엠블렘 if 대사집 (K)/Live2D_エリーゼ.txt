@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_エリーゼ
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_ELISE_MYROOM_09: 정말 재미있었어! 다음에 또 같이 놀자~ 헤헤!
+MKID_LIVE2D_VOICE_ELISE_MYROOM_19: 난 더 강해지고 싶어… 사랑하는 이들을\n지킬 수 있을 만큼, 강해지고 싶어!
+MKID_LIVE2D_VOICE_ELISE_MYROOM_29: 난 여기가 세상에서 제일 좋아!\n여기에 오면 같이 놀 수 있으니까!
+MKID_LIVE2D_VOICE_ELISE_MYROOM_38: 나랑 키스 하고 싶어…?\n응, 그럼 눈을 감고 있을게…
+MKID_LIVE2D_VOICE_ELISE_MYROOM_38_W: 에헤헤… 정말 멋졌어.
+MKID_LIVE2D_VOICE_ELISE_MYROOM_39: 정말 행복해… 오늘 하루 동안 당신이\n나와 함께 해 주었어… 이게 바로 행복이겠지?
+MKID_LIVE2D_VOICE_ELISE_MYROOM_49: 정말 정말 사랑해…! 나, 훌륭한 아내가\n될 수 있도록 노력할게! 당신을 위해서…
+MKID_LIVE2D_VOICE_ELISE_MYROOM_SP_A: 앞으로도 쭉 친하게 지내자. 약속이야! 혹시 누가\n괴롭히면 나한테 말해! 내가 혼내줄 테니까!
+MKID_LIVE2D_VOICE_ELISE_MYROOM_SP_S: 당신의 사랑으로 멋진 숙녀가 될 수 있었어.\n정말 고마워, 당신 덕분이야… 정말 고마워.
+MKID_LIVE2D_VOICE_ELISE_MYROOM_SP_S_W: 당신을 사랑해… 우후훗…
+MKID_LIVE2D_VOICE_ELISE_RELIANCE_S: 내가 최고의 부인이 되어 줄게!\n이 세상의 그 누구보다도… 당신을 사랑해!
+MKID_LIVE2D_VOICE_ELISE_RELIANCE_S_W: 절대 날 떠나면 안돼…

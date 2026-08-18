@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_オフェリア
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_OPHELIA_MYROOM_09: 이제 용건이 없으시면,\n전 다시 무한한 하늘을 바라보겠어요…
+MKID_LIVE2D_VOICE_OPHELIA_MYROOM_19: 제가 엄청난 힘을 가지게 되면,\n당신을 위해 그 힘을 쓸게요!
+MKID_LIVE2D_VOICE_OPHELIA_MYROOM_29: 절 다정하고 따스히 대해 주셔서 감사해요.\n그 행동이 제게는 아주 의미가 컸답니다.
+MKID_LIVE2D_VOICE_OPHELIA_MYROOM_38: 우리는 지금 키스해야 하는 운명이에요…
+MKID_LIVE2D_VOICE_OPHELIA_MYROOM_38_W: 봤죠? 우린 인연이라니까요!
+MKID_LIVE2D_VOICE_OPHELIA_MYROOM_39: 처음 만났을 때부터 전\n우리가 운명의 상대가 될 거란 걸 알았어요!
+MKID_LIVE2D_VOICE_OPHELIA_MYROOM_49: 우리의 사랑은 아주 강력해요!\n하늘의 별에도 그렇다고 쓰여 있어요!
+MKID_LIVE2D_VOICE_OPHELIA_MYROOM_SP_A: 아빠가 그랬는데 제가 아름답고 매력적이던 우리 할머니랑\n많이 닮았대요. 저도 제가 제발 그랬으면 좋겠어요!
+MKID_LIVE2D_VOICE_OPHELIA_MYROOM_SP_S: 전 종종 제 손에 끼워져 있는 반지와 거기에 박혀 있는\n멋진 보석을 바라봐요. 하지만 제게 무엇보다 가치 있는 건…
+MKID_LIVE2D_VOICE_OPHELIA_MYROOM_SP_S_W: 제 손에 포개어져 있는 당신의 손을 보는 것이에요.
+MKID_LIVE2D_VOICE_OPHELIA_RELIANCE_S: 운명이 우리를 선택했어요.\n달과 별이 우리의 결혼을, 우리의 사랑을 축복해요.
+MKID_LIVE2D_VOICE_OPHELIA_RELIANCE_S_W: 당신과 난 영원히 함께예요.

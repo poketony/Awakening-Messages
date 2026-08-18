@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_ヒサメ
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_HISAME_MYROOM_09: 저도 전력이 될 수 있도록 노력할게요.
+MKID_LIVE2D_VOICE_HISAME_MYROOM_19: 보통 다들 이런 식으로 교류를 하나요?\n미처 몰랐네요…
+MKID_LIVE2D_VOICE_HISAME_MYROOM_29: 어떤 류의 차를 선호하시나요?\n알려 주시면 다음에 준비해 볼게요.
+MKID_LIVE2D_VOICE_HISAME_MYROOM_38: 이… 입맞춰도 될까요?\n제발 허락해 주세요.
+MKID_LIVE2D_VOICE_HISAME_MYROOM_38_W: 정말 좋았어요.
+MKID_LIVE2D_VOICE_HISAME_MYROOM_39: 당신이 얼마나 사랑스러운지 아세요?
+MKID_LIVE2D_VOICE_HISAME_MYROOM_49: 이런… 심장이 터질 것만 같아요.\n아무래도 당신에게 단단히 빠졌나 봐요!
+MKID_LIVE2D_VOICE_HISAME_MYROOM_SP_A: 믿으셔도 돼요.\n전 항상 당신 곁에 있을 거예요.
+MKID_LIVE2D_VOICE_HISAME_MYROOM_SP_S: 영원한 사랑을 맹세할게요.
+MKID_LIVE2D_VOICE_HISAME_MYROOM_SP_S_W: 당신은 정말이지 놀라워요…
+MKID_LIVE2D_VOICE_HISAME_RELIANCE_S: 누구도 우리의 사랑을 막을 순 없어요.
+MKID_LIVE2D_VOICE_HISAME_RELIANCE_S_W: 저와 영원히 함께해 주실 거죠?

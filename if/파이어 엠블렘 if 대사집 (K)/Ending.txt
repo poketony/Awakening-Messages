@@ -1,0 +1,506 @@
+MESS_ARCHIVE_Ending
+
+
+Message Name: Message
+
+
+MEID_その後_Normal_汎用: 그 후의 기록은 남아 있지 않다…
+MEID_その後_Normal_プレイヤー男: 전쟁이 끝난 뒤에도 세계를 구한\n영웅으로서 각지에 많은 일화를 남긴다.\n하지만 신기하게도 무엇 하나\n공식으로 기록된 것은 없다.\n확실한 건, 그는 하나의 길을 선택해\n그 길을 평화로 이끌었다는 사실이다.
+MEID_その後_Normal_プレイヤー女: 전쟁이 끝난 뒤에도 세계를 구한\n영웅으로서 각지에 많은 일화를 남긴다.\n하지만 신기하게도 무엇 하나\n공식으로 기록된 것은 없다.\n확실한 건, 그녀는 하나의 길을 선택해\n그 길을 평화로 이끌었다는 사실이다.
+MEID_その後_Normal_プレイヤー男_透魔: 전쟁 후, 투마왕이 되어 나라를\n다스린다. 무한 계곡의 문은 닫히고,\n과거 투마의 땅은 아난코스의\n유골과 함께 영원히 봉인되었다.\n투마, 암야, 백야는 강한 유대로 이어졌고\n평화의 시대는 오래도록 이어졌다.
+MEID_その後_Normal_プレイヤー女_透魔: 전쟁 후, 투마여왕이 되어 나라를\n다스린다. 무한 계곡의 문은 닫히고,\n과거 투마의 땅은 아난코스의\n유골과 함께 영원히 봉인되었다.\n투마, 암야, 백야는 강한 유대로 이어졌고\n평화의 시대는 오래도록 이어졌다.
+MEID_その後_Normal_リョウマ: 백야 왕국의 왕으로 즉위한다.\n그의 정확하고 공명정대한 집정은\n전쟁으로 지친 국민들에게 용기를 주어\n극적으로 왕국을 부흥시킨다.\n후세의 학자는 그를 이렇게 평가했다.\n「위대한 부왕 스메라기를 넘어선 자」
+MEID_その後_Normal_タクミ: 전쟁으로 황폐해진 백야 왕국을\n부흥시키기 위해 힘을 쏟는다.\n그동안 볼 수 있었던 허술한 일면은\n자취를 감추고, 유능한 지도자로서\n국민들에게 인정받는 믿음직스러운\n존재가 되었다.
+MEID_その後_Normal_サイゾウ: 공식 기록에서 모습을 감춘다.\n하지만 다른 나라로 떠났다기보다는\n다시 그림자가 되어 백야 왕가를\n위해 일했을 것이라는 추측이\n후세 학자들의 사이에서 지배적이다.
+MEID_その後_Normal_ニシキ: 여우족의 산으로 돌아가, 전쟁에\n참가했었다고는 상상도 하지 못할\n정도로 평범한 삶을 보낸다.\n그게 그의 그릇의 크기 때문인지,\n단순히 아무 생각이 없기 때문인지는\n학자들의 의견이 갈리고 있다.
+MEID_その後_Normal_ヒナタ: 전쟁이 끝난 뒤에도 타쿠미를 섬기며,\n그의 곁에서 백야 왕국의 부흥을 위해\n힘을 쏟는다. 하지만 검술을 향한\n열의는 여전하여 갑자기 수행을 하고\n오겠다며 모습을 감추는 등, 주위를\n안절부절못하게 만들었다고 한다.
+MEID_その後_Normal_アサマ: 백야 왕국의 각지로 여행에 나선다.\n히노카의 신하를 그만둔 것이 아니라,\n왕가의 눈이 닿기 힘든 지방 분쟁을\n수습하여 왕국의 부흥에 이바지한다.\n물욕 없는 성격 덕분인지 의외로\n사람들이 잘 따랐다고 한다.
+MEID_その後_Normal_ツバキ: 료마의 즉위와 동시에 왕국 천마 부대의\n대장으로 임명된다. 이후, 그 역할을\n완벽하게 수행하여 명장으로 칭송받는다.\n그리고 주군인 사쿠라를 보살피는\n일에도 수고를 아끼지 않았다고 한다.
+MEID_その後_Normal_ツクヨミ: 그렇게 바라던 세계 여행에 나선다.\n그 비범한 재능과 겁 없는 성격으로\n각지에 여러 일화를 남겼다.\n그러나 말년에는 푸가와의 의리를 지켜\n바람 부족의 족장 자리를 이어받는다.
+MEID_その後_Normal_ジョーカー: $a$Nu$KrP2| 집사로서 계속\n섬기었다. 그의 뛰어난 능력을\n아쉬워하며 높은 지위와 극진한\n대우를 제안하는 이들도 많았으나\n눈길조차 주지 않았다고 한다.
+MEID_その後_Normal_サイラス: $a왕성의 기사로 복귀하여 암야 왕국을\n섬기었다. 매사에 진지하고 동료를\n아끼는 성격 덕분에, 말년에는\n기사단장으로 임명되었으며, 많은 후배\n기사들이 따랐다. $Nu$KrP4|의\n관계도 평생 계속되었다고 한다.
+MEID_その後_Normal_スズカゼ: $a전쟁이 끝난 뒤의 기록은 거의 없다.\n떠도는 말로는 $Nu$KrP4| 조국을\n위해 뒤에서 힘을 쏟았다고 한다.\n그 은근한 상냥함으로 많은 여성의\n마음을 뒤흔들었다고도 전해진다.
+MEID_その後_Normal_マークス: 암야 왕국의 왕으로 즉위한다.\n그의 정책은 올바르긴 하나, 때론\n국민들의 인내를 요구하기도 하고\n사람들에게 혼란을 안겨 주기도 했다.\n하지만 그가 갈고 닦은 초석 덕분에\n암야 왕국은 긴 번영의 시대를 맞는다.
+MEID_その後_Normal_レオン: 암야왕으로 즉위한 젠더를 도와\n암야 왕국의 발전을 위해 힘을 쏟는다.\n인기 없는 정책으로 인한 원망을\n대신 받기를 자처하여 당대의 평가는\n형편없으나, 후세에 높이 재평가된다.
+MEID_その後_Normal_ブノワ: 국경에 위치한 고향으로 돌아가\n마을 발전을 위해 앞장서지만\n곧 자리에서 물러나 모습을 감춘다.\n그 후의 공식 기록은 없으나, 전해지는\n말에 따르면 숲 속 동물들과 함께\n행복한 여생을 보냈다고 한다.
+MEID_その後_Normal_フランネル: 고향인 카이엔봉으로 돌아가\n아무 일도 없었다는 듯 일상을 보낸다.\n영웅으로 살 수도 있었지만,\n고향이 더 지내기 편했다고 한다.\n가끔 동료들을 만나러 내려왔다가\n길을 잃어 헤매기도 했다고 전해진다.
+MEID_その後_Normal_ハロルド: 수많은 지위를 제안받았지만 모두\n거절하고 엘리스의 곁에 남는다.\n영웅으로 칭송받은 후에도 사람들을\n도우며 살았으나, 타고난 불운이\n그 후로도 계속되었는지는\n오로지 그만이 알 것이다.
+MEID_その後_Normal_オーディン: 얼마간은 암야 왕국에 머물지만,\n그 후의 기록은 전무하다. 하지만 그가\n남긴 공적과 일화는 머지않아 전설의\n영웅담이 되어 사람들에게 전해졌다.\n전쟁 후, 그를 동경하여 기묘한 행동을\n하는 젊은이들이 속출했다는 소문도 있다.
+MEID_その後_Normal_ラズワルド: 전쟁 후, 머지않아 모습을 감춘다.\n하지만 그의 춤은 그와 함께 어울렸던\n여성들에 의해 후세로 전해졌다.\n그의 춤은 보는 이를 즐겁게 하고 기운이\n나게 하는 신비한 힘이 있었다고 한다.
+MEID_その後_Normal_ゼロ: 전쟁이 끝난 뒤에도 리오의 부하로서\n암야 왕국의 발전을 위해 힘을 쏟는다.\n때론 더러운 일도 마다하지 않으며\n왕국을 어두운 곳에서 지탱했다.\n그런 그를 싫어하는 이도 많았으나,\n리오는 그를 아껴 평생 곁에 두었다.
+MEID_その後_Normal_ヒノカ: 왕국의 부흥을 위해 자위군을 만들어\n백야 왕국군을 통솔하는 존재가 된다.\n전보다는 공주다운 모습을 갖추었지만\n간혹 훌쩍 성을 빠져나가 노스페라투의\n잔당을 해치우고 오는 등,\n호쾌한 성격은 여전하다.
+MEID_その後_Normal_サクラ: 료마가 즉위한 뒤에도 왕궁에 남아\n왕족으로서 왕의 집정을 돕는다.\n사쿠라가 성장한 모습은, 과거의\n미코토 여왕을 떠올리게 해\n전쟁으로 상처 입은 국민들의\n마음을 어루만졌다고 한다.
+MEID_その後_Normal_リンカ: 아버지의 뒤를 이어\n불꽃 부족의 족장이 된다.\n용감하고 정이 두터운 인품으로\n부족민을 이끌었으며, 어디에도\n속하지 않는 고고한 부족으로서\n독립성을 지켜 나갔다.
+MEID_その後_Normal_オロチ: 왕성 전속 주술사로 복귀한다.\n미코토를 잊을 수 없었는지 누군가를\n섬기지는 않았지만, 뛰어난 능력으로\n왕국의 부흥에 이바지했다.\n왕성에서는 그녀의 밝은 웃음소리가\n끊이질 않았다고 한다.
+MEID_その後_Normal_カゲロウ: 왕이 된 료마를 섬기었다.\n닌자의 특성상 어둠 속에서 활동했기\n때문인지 공식 기록은 그리 많지 않다.\n하지만 그녀가 그린 것으로 추측되는\n독특한 그림들은 왕성의 보물 창고에\n소중히 보관되고 있다.
+MEID_その後_Normal_カザハナ: 왕국군이 되어 일군의 지휘를 맡는다.\n그리고는 거리낌 없이 부하들을\n개인 훈련에 끌어들였다고 한다.\n주군인 사쿠라와의 우정은 평생\n계속됐으며, 사쿠라와 백야를 위해\n검술을 갈고닦았다고 한다.
+MEID_その後_Normal_セツナ: 전쟁이 끝난 뒤에도 왕성병으로\n복귀하여 히노카의 곁을 지켰다.\n전과 마찬가지로 멍하게 지내며\n딱히 큰 공적은 남기지 않았으나\n그녀가 행복한 삶을 보냈으리라는\n것에는 학자들 모두 이견이 없다.
+MEID_その後_Normal_オボロ: 타쿠미의 부하로서 백야 왕국의\n부흥을 위해 힘을 쏟는 한편,\n부모님이 운영하시는 포목상을\n재건하여 세련된 패션을 유행시켰다.\n타쿠미의 공식 행사 의상도 전부\n그녀의 손을 거쳐 갔다고 한다.
+MEID_その後_Normal_フェリシア: $a$Nu$KrP2| 메이드로서 계속\n섬기었다. 전쟁을 통해 몸과 마음 모두\n성장하여 실수가 눈에 띄게 줄었는데,\n드물게 식기를 깨곤 할 때면 모두에게\n그리움과 유쾌한 기분을 안겨 주었다.
+MEID_その後_Normal_アクア: 전쟁이 끝난 뒤의 기록은 무엇 하나\n남아 있지 않다. 사실은 실재하지\n않으며, 신화 등에 나오는 사상의\n의인화가 아니냐는 설이 제기될\n정도로 후세에는 수수께끼로\n가득한 존재가 되었다고 한다.
+MEID_その後_Normal_モズメ: 고향으로 돌아가 홀로 무너진 마을을\n다시 일으켜 세우려 노력한다.\n그 모습을 지켜보던 옆 마을 사람들도\n그녀를 돕기 시작하여, 마을은 빠르진\n않지만 착실히 옛 모습을 되찾고 있다.
+MEID_その後_Normal_カミラ: $a젠더의 즉위를 지켜본 뒤,\n왕족의 자리에서 내려온다.\n이후 각지에 전승을 남기는데,\n그 족적을 통해 유추해 보면 아무래도\n$Nu$KrP2| 뒤편에서 지지하는\n인생을 보낸 것으로 추측된다.
+MEID_その後_Normal_エリーゼ: 왕성으로 돌아가\n왕국의 부흥을 위해 힘을 보탠다.\n전장에서의 고된 경험은 그녀에게\n높은 품위와 지성을 가져다 주었고,\n머지않아 국내외를 불문하고 사람들에게\n「이상적인 프린세스」라 칭송받았다.
+MEID_その後_Normal_シャーロッテ: 염원하던 왕성병으로 복귀한다.\n그 뒤, 과거의 실패를 교훈 삼아\n병사로서의 임무를 부지런히 수행한다.\n하지만 신분 상승의 꿈은 여전하여\n사교계의 꽃으로서 많은 남성의\n마음을 홀리었다고 한다.
+MEID_その後_Normal_エルフィ: 전쟁 후, 얼마간은 각지를 돌며 부흥에\n힘을 쏟는다. 그녀의 완력은 암야 왕국\n재건에 큰 보탬이 되었다. 왕성으로\n돌아온 뒤에는 엘리스의 신하로서\n곁을 지켰으며, 두 사람의 우정은\n평생 계속되었다고 한다.
+MEID_その後_Normal_ピエリ: 젠더의 즉위 후, 암야 왕국군의\n통솔을 임명받는다. 이후, 잔인한\n성격은 자취를 감추고 지휘관으로서\n유능한 모습을 보이지만, 감정적이고\n울보인 점은 여전하여 주위 사람들을\n곤란하게 만들었다.
+MEID_その後_Normal_ベルカ: 카밀라의 곁을 지키며 평생을 보낸다.\n그녀의 능력을 눈여겨 본 이들에게서\n많은 스카우트 제의가 왔으나\n눈길조차 주지 않았다.\n전쟁 후, 날카로운 분위기가 누그러져\n부드러운 표정을 보이기도 했다 한다.
+MEID_その後_Normal_ルーナ: 전쟁 후, 행방이 묘연해진다.\n그 후의 행적은 알 수 없지만\n무엇이든 최고를 추구하며 노력하던\n그녀에 대한 평가는 드높아, 후세에\n「진정한 천재」라 칭송받았다.
+MEID_その後_Normal_ニュクス: 왕국이 준비한 모든 지위와 신분을\n거절하고 거리 생활을 계속한다.\n이후엔 역사에 기록되는 일 없이\n용한 동네 점술사로 조용히\n여생을 보냈다고 한다.\n그녀는 평생 늙지 않았다.
+MEID_その後_Normal_シノノメ: 수행을 위한 여행을 떠난다.\n왕자의 안전을 염려하는 목소리도\n있었지만, 백야왕 료마는 그것들을\n일축했다고 한다. 여행에서 돌아온\n그는 몰라보게 성장하여, 후에 백야\n왕국을 번영으로 이끌었다고 한다.
+MEID_その後_Normal_キサラギ: 비경에 돌아가지 않고 아버지를\n도와 왕국의 재건에 힘을 쏟는다.\n실패도 많았지만, 타고난 긍정적인\n성격과 미워할 수 없는 인품으로\n전쟁에 지친 사람들에게\n힘을 북돋아 주었다고 한다.
+MEID_その後_Normal_グレイ: 전쟁이 끝난 뒤, 공식 기록에서 모습을\n감추어 이후의 소식은 알 수 없다.\n유일하게 알 수 있는 사실은\n사이조의 대가 끊어지지 않고\n후세에도 이어졌다는 것뿐이다.
+MEID_その後_Normal_キヌ: 고향이라고 할 수 있는 여우족의\n마을로 향한다. 그곳에서 웅대한\n자연에 둘러싸여 행복한 삶을\n보냈지만, 가끔 어디론가 훌쩍\n떠나 며칠간 돌아오지 않는 등,\n주위 사람들을 애태웠다고 한다.
+MEID_その後_Normal_ヒサメ: 문관이 되어 백야 왕국의 재건을 위해\n힘을 쏟는다. 히나타는 그 사실을\n아쉬워했지만, 사랑하는 아들의\n결정을 존중해 주기로 했다.\n진중하고 냉정한 됨됨이로 인해\n유능한 관리로서 신임받았다.
+MEID_その後_Normal_ミタマ: 무슨 생각에선지 집으로 돌아가\n한바탕 잠을 잔 뒤 여행을 떠난다.\n그리고는 각국의 명소와 유적지를\n찾아 시를 읊는 나날을 보내는데,\n그곳들은 머지않아 명소가 되어\n여행 포인트가 되었다.
+MEID_その後_Normal_マトイ: 백야 왕국 천마 부대에 소속된다.\n그곳에서도 우수함을 발휘하여\n순식간에 모두의 신뢰를 얻는다.\n하지만 쉽게 사랑에 빠지는 천성은\n여전하여, 짝사랑 상대를 바라보며\n한숨 짓는 나날을 보냈다고 한다.
+MEID_その後_Normal_シャラ: $a아무도 모르게 모습을 감춘다.\n기록에는 비경에서 주술 연구에\n일생을 바쳤다고 되어 있지만\n그와는 정반대로, $Nu의\n주변에 자주 출몰하였다는 목격담이\n사람들의 입에 빈번히 오르내렸다.
+MEID_その後_Normal_カンナ女: 공식 기록에는 등장하지 않지만,\n빼어난 용모의 여성으로 성장하여\n용의 모습으로 사람들을 구했다는\n일화가 각지에 남겨져 있다.\n후세에는 용신의 화신이라 전해지지만,\n사실 아버지를 따르는 평범한 딸이었다.
+MEID_その後_Normal_カンナ男: 공식 기록에는 등장하지 않지만,\n빼어난 용모의 남성으로 성장하여\n용의 모습으로 사람들을 구했다는\n일화가 각지에 남겨져 있다.\n후세에는 용신의 화신이라 전해지지만,\n사실 어머니를 따르는 평범한 아들이었다.
+MEID_その後_Normal_シグレ: 백야 왕국을 섬기며 생애를 보낸다.\n특별히 눈에 띄는 존재는 아니었지만\n때때로 읊조리던 아름다운 멜로디는\n주위 사람들을 매료시켰다고 한다.\n그는 어머니인 아주라가 실재했음을\n증명해 주는 유일한 존재이기도 하다.
+MEID_その後_Normal_ディーア: 아버지인 제이콥과 마찬가지로 집사의\n길을 걷는다. 잠을 너무 많이 잔다는\n이유로 해고를 당하지만, 뛰어난 능력\n덕분에 구직 활동에 어려움은 없었다.\n그의 뛰어난 차 끓이기 기술은 지금도\n어딘가에서 계승되고 있다고 한다.
+MEID_その後_Normal_ゾフィー: 암야 왕국 기사단 소속이 된다.\n아버지에게 물려받은 재능이 결실을\n맺어 우수한 기사로서 이름을 남긴다.\n특히 승마 실력이 몹시 출중하여\n「인마일체」의 표본이라 불린다.
+MEID_その後_Normal_ミドリコ: 전쟁으로 상처입은\n국민들을 위해 신약 개발에 힘쓴다.\n그녀가 조제한 약은 상처와 질병을\n즉시 낫게 하여 많은 생명을 구한다.\n성장한 뒤로는 아버지를 닮아서인지\n많은 남성의 마음을 사로잡았다고 한다.
+MEID_その後_Normal_ジークベルト: 왕으로 즉위한 젠더의 곁에 남아\n차기 국왕이 되기 위한 교육을 받는다.\n전장에서의 고된 경험이 성장의\n밑거름이 되어, 아버지 못지않은\n우수한 후계자로 성장한다.
+MEID_その後_Normal_フォレオ: 젠더와 리오의 곁에 남아\n암야 왕국의 발전에 이바지한다.\n정무에도 뛰어난 능력을 보이지만,\n빼어난 패션 센스로 국내외를 불문하고\n많은 이들을 매료시켜 왕궁 문화의\n발전에 크게 기여한다.
+MEID_その後_Normal_イグニス: 정식으로 암야 왕국군 소속이 된다.\n능력을 높게 평가받아 중기사 부대를\n이끌게 된다. 소심한 성격은 극복하지\n못했지만, 소심함에서 오는 신중함이\n전수방위를 중요시 하는 중기사의\n특성상 잘 맞았던 것으로 보여진다.
+MEID_その後_Normal_ベロア: 아버지인 키튼의 고향,\n카이엔봉에 자리를 잡는다.\n딱히 눈에 띄는 행동은 하지 않았지만\n정체 모를 물건을 주워 모으는 버릇은\n평생 고쳐지지 않았다고 한다.
+MEID_その後_Normal_ルッツ: 암야 왕국군 소속이 되어 용기사\n부대를 지휘한다. 그 운은 여전하여,\n어떤 역경에 놓여도 결코 지지 않았다.\n그렇다고 이기는 것도 아니었기에\n「늘 이기는 것은 아니지만 불패」라는\n불가사의한 지휘관으로 이름을 남긴다.
+MEID_その後_Normal_オフェリア: 희귀한 마도서와 광석을 찾아 대륙으로\n여행을 떠난다. 이후의 공식 기록은\n남아 있지 않지만, 그녀가 여행을 떠난\n뒤로 각지에서 뛰어난 주술들이\n발표된다. 그리고 그 주술들의\n이름은 하나같이 난해했다.
+MEID_その後_Normal_ソレイユ: 어느 날 훌쩍 여행에 나선다.\n여행 중 용병단을 결성했다는 설과\n댄서가 되었다는 설도 있지만\n진위는 알 수 없다. 이것은 그녀가\n많은 여성들과 교류한 결과,\n여러 소문이 뒤섞인 탓으로 추측된다.
+MEID_その後_Normal_エポニーヌ: 의적을 그만두고 자경단을 결성한다.\n가난한 이들을 등쳐 먹는 부자와\n도적을 벌하며 약자를 지킨다.\n전해지는 말에 따르면, 어째서인지\n자경단에는 미남이 많았다고 한다.\n그녀의 취향은 한결같았던 모양이다.
+MEID_その後_Normal_ユキムラ: 백야왕으로 즉위한 료마의 곁에서\n백야 왕국의 재상으로 일하며\n왕국의 부흥에 힘을 쏟는다.\n그 타협 없는 일처리는 관리들의\n모범이 되어, 이윽고 백야 왕국을\n섬기는 이들의 규범이 되었다.
+MEID_その後_Normal_イザナ: 이즈모 공국으로 복귀하여 이전의\n생활로 돌아간다. 전쟁에서의 활약으로\n국민들에게 굉장한 인기를 얻는다.\n하지만 성스러운 외모와 괴짜같은\n성격의 격차는 평생 줄어들지 않아\n방문자들을 놀라게 했다고 한다.
+MEID_その後_Normal_アシュラ: 백야왕 료마의 도움으로 코가 공국의\n재건에 착수한다. 각지에 흩어져 있던\n국민들도 돌아와 공국은 옛 모습을\n되찾기 시작했다. 도적이었던 과거를\n뉘우치고 사퇴하지만, 국민들의\n지지로 공왕이 된다.
+MEID_その後_Normal_フウガ: 바람 부족의 족장으로 복귀한다.\n이후엔 바람 부족의 마을을\n떠나는 일 없이 생애를 보낸다.\n뛰어난 능력을 가졌음에는 의심의\n여지가 없지만, 그의 진정한 힘은\n지금도 수수께끼에 싸여 있다.
+MEID_その後_Normal_ギュンター: 전쟁이 끝나고 모습을 감춘다.\n그 후, 그를 보았다는 목격담은 없다.\n어딘가에서 여생을 보냈다는 설도,\n금방 목숨을 다했다는 설도 있지만\n아직까지 설득력 있는 추측은 없다.
+MEID_その後_Normal_ユウギリ: 백야왕으로 즉위한 료마에게\n킨시 무사 부대를 위임받는다.\n그녀가 적에게 보이는 신랄함과\n동료에게 베푸는 관용의 정신은\n이후, 킨시 무사들의 지침이 된다.
+MEID_その後_Normal_クリムゾン: 슈바리에 공국으로 돌아가\n붕괴 직전의 기사단을 재건한다.\n기사단은 그녀의 적극적인 모습에\n이끌려 지난날의 영광을 되찾는다.\n전해지는 말에 따르면, 그들의\n무기는 몹시 화려했다고 한다.
+MEID_その後_Normal_アンナ: 행상인의 생활로 돌아간다.\n모든 곳이 전쟁으로 황폐해져\n대대적인 물자 부족 상태였기에,\n장사는 대성공을 거둔다.\n안나라는 이름과 그녀의 영업망은\n자손들에게 대대손손 물려진다.
+MEID_その後_Normal_フローラ: 고향인 얼음 부족의 마을로 돌아간다.\n마을은 자치권을 회복해, 예전의\n행복을 되찾는다. 그녀는 머지않아\n아버지의 뒤를 이어 얼음 부족의\n족장이 되지만, 헤어진 동생을\n그리워했다고 한다.
+MEID_その後_S_汎用男: 그 후의 기록은 남아 있지 않다…\n어디에서 어떠한 삶을 보냈는지는\n수수께끼에 싸여 있다.
+MEID_その後_S_汎用女: 그 후의 기록은 남아 있지 않다…\n어디에서 어떠한 삶을 보냈는지는\n수수께끼에 싸여 있다.
+MEID_その後_S_プレイヤー男: $a$Nu$KrP1| 암야와 백야 양국의\n부흥을 도운 후, 세계를 돌아다니며\n여러 일화를 남겼다고 한다.
+MEID_その後_S_プレイヤー女: $a아내가 된 $Nu$KrP1|\n남편의 좋은 조언자로서, 그가 가고자\n하는 길에 언제나 함께했다고 한다.
+MEID_その後_S_プレイヤー男_透魔: $a전쟁 후, 두 사람은 평생을 함께했다.\n$Nu$KrP1| 투마왕이 되어\n새 시대의 영원한 평화를 이루었다.
+MEID_その後_S_プレイヤー女_透魔: $a전쟁 후, 두 사람은 평생을 함께했다.\n$Nu$KrP1| 투마여왕이 되어\n새 시대의 영원한 평화를 이루었다.
+MEID_その後_S_プレイヤー男_同性婚: $a$Nu$KrP1| 양국의 부흥을 돕고,\n세계를 돌아다닌다. 그의 곁에는\n언제나 닐스가 함께했으며,
+MEID_その後_S_ゼロ_同性婚: 두 사람은 여러 일화를 남긴다.\n말년에는 작은 고아원을 세워\n검소한 여생을 보냈다.
+MEID_その後_S_プレイヤー女_同性婚: $a$Nu$KrP1| 양국의 부흥을 돕고,\n세계를 돌아다닌다. 그의 곁에는\n언제나 라자트가 함께했으며,
+MEID_その後_S_シャラ_同性婚: $a두 사람은 여러 일화를 남긴다.\n라자트는 $Nu$KrP2| 사랑했고\n$Nu도 그 사랑에 부응했다.
+MEID_その後_S_プレイヤー男_同性婚_透魔: $a$Nu$KrP1| 투마왕이 되어\n동반자인 닐스와 함께 서로 의지하며\n새 시대의 영원한 평화를 이룬다.
+MEID_その後_S_ゼロ_同性婚_透魔: 말년에는 두 명의 양자를 들이는데\n한 명은 밝고 천진난만한, 또 한 명은\n독특한 감성을 가진 아이였다고 한다.
+MEID_その後_S_プレイヤー女_同性婚_透魔: $a$Nu$KrP1| 투마여왕이 되어\n동반자인 라자트와 함께 서로 의지하며\n새 시대의 영원한 평화를 이룬다.
+MEID_その後_S_シャラ_同性婚_透魔: $a말년에 두 사람은 양자를 들이는데\n그 아이는 $Nu처럼 순진하고\n라자트처럼 사랑이 깊었다고 한다.
+MEID_その後_S_リョウマ: 남편 료마는 백야 왕국의 왕위에 올라\n왕국의 부흥을 위해 일생을 바쳐\n극적으로 왕국을 부흥시켰다고 한다.
+MEID_その後_S_リョウマ_透魔: 남편 료마는 백야 왕국의 왕위에 올라\n왕국의 부흥을 위해 일생을 바친다.\n백야와 투마는 강한 유대로 맺어졌다.
+MEID_その後_S_タクミ: 남편 타쿠미는 허술함이 사라지고\n믿음직스러운 왕족으로 성장하여\n왕국의 부흥을 위해 힘을 쏟았다.
+MEID_その後_S_タクミ_透魔: 남편 타쿠미는 투마로 이주하여\n집정을 도우며, 황폐해진 백야의\n부흥을 위해서도 힘을 빌려주었다.
+MEID_その後_S_サイゾウ: 남편 사이조는 공식 기록에서 모습을\n감추지만, 백야 왕가를 위해 일했을\n것이라 모두 믿어 의심치 않았다.
+MEID_その後_S_サイゾウ_透魔: 남편 사이조는\n공식 석상에 나서기는 망설였지만\n나라를 위해 한결같이 일했다고 한다.
+MEID_その後_S_ニシキ: 남편 카덴은 전과 변함없이\n은혜 갚는 나날을 보낸다. 말년에는\n여우족의 우두머리가 되었다고 한다.
+MEID_その後_S_ニシキ_透魔: 남편 카덴은 전과 변함없이\n태평한 나날을 보냈고, 아내는\n그 모습을 보며 위안을 받았다.
+MEID_その後_S_ヒナタ: 남편 히나타의 검술을 향한 열의는\n여전하여, 후배 양성과 검술에\n몰두해 매일을 보냈다.
+MEID_その後_S_ヒナタ_透魔: 남편 히나타는 투마의 신병 교육에\n열의를 쏟았는데, 덕분에 투마병들의\n검술 실력은 아주 뛰어났다고 한다.
+MEID_その後_S_アサマ: 남편 아자마는 백야 왕국의 각지에서\n사람들의 마음을 치유하고 이끌어\n왕국의 부흥에 크게 이바지 했다.
+MEID_その後_S_アサマ_透魔: 남편 아자마는 자주 자리를 비웠지만\n직접 투마 왕국의 각지를 돌며\n왕족으로서 사람들을 이끌었다.
+MEID_その後_S_ツバキ: 남편 츠바키는 천마 부대 대장으로서\n오랫동안 명장으로 칭송받았다.\n그는 항상 완벽하게 임무를 완수했다.
+MEID_その後_S_ツバキ_透魔: 남편 츠바키는 왕족으로서의\n위엄과 몸가짐을 완벽하게 익혀\n반려로서 아내를 지지해 주었다.
+MEID_その後_S_ツクヨミ: 남편 하야토는 세계 여행에 나선다.\n그러나 말년에는 푸가와의 의리를 지켜\n바람 부족의 족장 자리를 이어받는다.
+MEID_その後_S_ツクヨミ_透魔: 남편 하야토는 주술의 힘으로 왕국을\n지탱했다. 아이 같은 모습은 자취를\n감추고 기품 있는 남성으로 성장했다.
+MEID_その後_S_ジョーカー: 남편 제이콥은 집사로서 주인을 위해\n일생을 다 바쳤지만, 그의 진정한\n사랑은 아내를 향해 있었다.
+MEID_その後_S_ジョーカー_透魔: 남편 제이콥은 갑작스러운 신분 상승을\n당혹스러워 했지만, 일평생 아내를\n위해 몸과 마음을 바쳤다고 한다.
+MEID_その後_S_サイラス: 남편 사일러스는 왕성 기사로서\n암야 왕국을 섬기었다. 그는 사람이\n좋아 많은 후배 기사들이 따랐다고 한다.
+MEID_その後_S_サイラス_透魔: 남편 사일러스는 아내와의 시간을\n가장 중요시해 곁을 지키는 한편,\n왕성 기사 교육에도 여념이 없었다.
+MEID_その後_S_スズカゼ: 남편 카제는 기록에서 모습을 감추지만\n떠도는 말로는 나라를 위해\n뒤에서 힘을 쏟았다고 한다.
+MEID_その後_S_スズカゼ_透魔: 남편 카제는 닌자의 특성상\n공식 석상에는 자주 나서지 않았지만\n언제나 자상한 얼굴로 곁을 지켰다.
+MEID_その後_S_マークス: 남편 젠더는 암야 왕국의 왕으로 즉위.\n왕국은 그가 갈고닦은 초석 덕분에\n긴 번영의 시대를 맞는다.
+MEID_その後_S_マークス_透魔: 남편 젠더는 암야왕이 되어\n왕국 번영의 초석을 다진다.\n암야와 투마는 강한 유대로 맺어졌다.
+MEID_その後_S_レオン: 남편 리오는 암야왕 젠더를 도와\n원망받는 역을 자처하면서까지\n암야 왕국의 발전을 위해 힘을 쏟는다.
+MEID_その後_S_レオン_透魔: 남편 리오는 아내를 도와\n원망받는 역을 자처하면서까지\n투마 왕국의 발전을 위해 힘을 쏟는다.
+MEID_その後_S_ブノワ: 남편 베니는 왕성병이 된다. 후배들\n양성에 힘을 쏟은 뒤, 고향의 마을로\n돌아가 자연과 함께 사는 삶을 택한다.
+MEID_その後_S_ブノワ_透魔: 남편 베니는 강해 보이는 외모 탓에\n공포의 대상이 되었지만, 그의 상냥한\n성격은 모두에게 자연스럽게 알려졌다.
+MEID_その後_S_フランネル: 남편 키튼은 고향으로 돌아간다.\n가끔 동료들을 만나러 내려왔다가\n길을 잃어 헤매곤 했다고 전해진다.
+MEID_その後_S_フランネル_透魔: 남편 키튼은 묘한 것들을 성 안으로\n가져와 아내를 곤란하게 만들었지만\n의외로 왕족으로서의 일은 잘 해냈다.
+MEID_その後_S_ハロルド: 남편 아서는 이전의 생활로 돌아가\n사람들 돕기에 바쁜 나날을 보냈다.\n전쟁 후, 약간은 운이 좋아졌다 한다.
+MEID_その後_S_ハロルド_透魔: 남편 아서는 마을로 내려가 국민들을\n돕는 등, 영웅과 같은 왕족으로\n많은 이들의 사랑을 받았다.
+MEID_その後_S_オーディン: 남편 오딘은 기록에서 모습을 감춘다.\n하지만 그의 기묘한 일화는 머지않아\n전설의 영웅담으로 모습을 바꾸었다.
+MEID_その後_S_オーディン_透魔: 남편 오딘은 전쟁 후 잠시 모습을\n감추지만, 어느 날 갑자기 돌아와\n투마 왕족으로서 아내의 곁을 지켰다.
+MEID_その後_S_ラズワルド: 남편 라슬로는 기록에서 모습을\n감춘다. 그의 춤은 보는 이를 즐겁게\n하고 기운이 나게 하는 힘이 있었다.
+MEID_その後_S_ラズワルド_透魔: 남편 라슬로는 전쟁 후 잠시 모습을\n감추지만, 어느 날 갑자기 돌아온다.\n그의 춤은 궁정 무도회의 볼거리였다.
+MEID_その後_S_ゼロ: 남편 닐스는 리오의 부하로서 암야\n왕국의 발전을 위해 힘을 쏟으며\n왕국의 어두운 부분을 지탱했다.
+MEID_その後_S_ゼロ_透魔: 남편 닐스는 법을 제정하여, 좋은\n나라를 만들기 위해 힘을 쏟았다.\n리오와의 교류도 계속되었다고 한다.
+MEID_その後_S_ヒノカ: 아내 히노카는 백야 왕국군을\n통괄하던 자리에서 물러나,\n남편과 함께하는 삶을 선택했다.
+MEID_その後_S_サクラ: 아내 사쿠라는 왕족으로서\n국민들을 돌보고 나라를 위해\n힘쓰며, 평생을 남편과 함께했다.
+MEID_その後_S_リンカ: 아내 린카는 감정적인 태도로\n남편을 곤란하게 만들기도 했지만\n의지가 되는 좋은 동반자였다.
+MEID_その後_S_オロチ: 아내 오로치는 정이 많고 밝은\n성격으로 의지가 되는 존재였으나\n화가 나면 정말 무서웠다고 한다.
+MEID_その後_S_オロチ_覚醒: 아내 오로치도 함께 모습을 감춘다.\n기록된 마지막 점괘에 따르면\n이 세계의 미래는 밝다고 한다.
+MEID_その後_S_カゲロウ: 카게로는 아내가 되어서도 계속 닌자로\n활동했다. 비록 함께하는 시간은 많지\n않아도 부부 사이는 좋았다고 한다.
+MEID_その後_S_カゲロウ_覚醒: 카게로도 함께 모습을 감춘다.\n남편인 오딘의 일화에는 반드시\n백야 닌자 카게로가 등장했다.
+MEID_その後_S_カザハナ: 아내 하나는 밝고 건강한 성격으로\n남편의 마음까지 환하게 비추었다.\n주군인 사쿠라와도 계속 교류했다.
+MEID_その後_S_カザハナ_覚醒: 아내 하나도 함께 모습을 감춘다.\n그녀의 주군이었던 사쿠라만은\n둘의 행선지를 알았다고 한다.
+MEID_その後_S_セツナ: 아내 세츠나는 결혼한 뒤로도\n아무 생각 없이 남편과 함께했는데\n그것이 남편에겐 의지가 된 모양이다.
+MEID_その後_S_オボロ: 오보로는 남편과 함께하며\n돌아가신 부모님의 포목상을\n재건함과 동시에 꿈을 이루었다.
+MEID_その後_S_フェリシア: 아내 펠리시아는 남편의 도움이 되고자\n부지런히 노력하여, 세 번 중 한 번은\n식기를 깨지 않을 만큼 성장했다.
+MEID_その後_S_フェリシア_覚醒: $a아내 펠리시아는 $Nu의\n곁을 떠나 남편과 함께했는데, 일 년에\n한 번은 편지를 보내왔다고 한다.
+MEID_その後_S_アクア: 아주라는 아내가 되었다는 사실 외에는\n기록이 거의 남아 있지 않다. 끝까지\n수수께끼로 가득한 존재였다.
+MEID_その後_S_アクア_覚醒: 아주라는 아내가 되었다는 사실 외에는\n아무 기록도 남아 있지 않다. 끝까지\n수수께끼로 가득한 존재였다.
+MEID_その後_S_モズメ: 아내 모즈는 타고난 성실함으로\n남편 일이라면 공사를 따지지\n않고 부지런히 서포트했다.
+MEID_その後_S_モズメ_覚醒: 아내 모즈도 공식 기록에서 모습을\n감추고, 남편과 정착한 곳을 제2의\n고향으로 여기며 살았다고 한다.
+MEID_その後_S_カミラ: 아내 카밀라는 왕족의 자리에서\n내려온다. 이후엔 평범한 여성으로서\n남편에게 사랑을 듬뿍 쏟았다고 한다.
+MEID_その後_S_カミラ_覚醒: 아내 카밀라는 왕족의 자리에서 내려와\n남편과 함께 모습을 감춘다. 남편을\n열렬히 사랑했음은 말할 것도 없다.
+MEID_その後_S_エリーゼ: 아내가 된 엘리스는 아이 같은\n모습이 자취를 감추고, 몰라보게\n아름다운 레이디가 되었다고 한다.
+MEID_その後_S_エリーゼ_覚醒: 아내 엘리스도 기록에서 모습을\n감춘다. 그녀는 성장하여 몰라보게\n아름다운 레이디가 되었다고 한다.
+MEID_その後_S_シャーロッテ: 아내 샤를로트는\n가정을 소중히 하는 아내이자\n어머니로 행복한 삶을 보냈다.
+MEID_その後_S_シャーロッテ_覚醒: 아내 샤를로트는 남편과 함께\n행복하게 살았다. 그리고 항상\n가족들에게 선물을 보내왔다고 한다.
+MEID_その後_S_エルフィ: 아내 엘피는 결혼을 계기로\n엘리스의 곁을 떠난다. 하지만\n두 사람의 교류는 평생 계속되었다.
+MEID_その後_S_エルフィ_覚醒: 아내 엘피는 암야 왕국의 부흥을\n도운 후, 엘리스의 곁을 떠나 이국에서\n남편과 함께 행복하게 살았다고 한다.
+MEID_その後_S_ピエリ: 페리는 사랑스러운 아내였지만\n감정적이고 울보인 점은 여전하여\n남편을 애먹였다고 한다.
+MEID_その後_S_ピエリ_覚醒: 아내 페리의 기록도 비슷한 시기에\n끊긴다. 소문에 의하면 몰라보게 좋은\n아내가 되어 남편과 함께했다고 한다.
+MEID_その後_S_ベルカ: 아내 베르카는 카밀라를 계속 섬길지\n고민하던 끝에, 카밀라의 설득으로\n남편과 행동을 함께했다.
+MEID_その後_S_ベルカ_覚醒: 아내 베르카는 카밀라를 계속 섬길지\n고민하던 끝에, 카밀라의 설득으로\n남편과 행동을 함께했다.
+MEID_その後_S_ルーナ: 아내 셀레나는 결혼 후 기록에서\n모습을 감춘다. 남편과 함께했을 거라\n추측되지만 자세한 사항은 알 수 없다.
+MEID_その後_S_ルーナ_覚醒: 아내 셀레나도 기록에서 모습을 감춘다.\n항상 최고를 추구하며 노력하던 그녀는\n후세에 「진정한 천재」라 칭송받았다.
+MEID_その後_S_ニュクス: 아내 닉스는 풍부한 인생 경험과\n뛰어난 주술 실력으로 주위 사람들에게\n둘도 없는 소중한 존재가 되었다.
+MEID_その後_S_ニュクス_覚醒: 아내 닉스는 전쟁이 끝난 뒤의 공식\n기록은 없으나, 뛰어난 주술 실력으로\n주위 사람들의 도움이 되었다고 한다.
+MEID_その後_S_シノノメ: 남편 시로는 수행 여행을 떠난다.\n여행에서 돌아온 그는 왕위에 올라,\n백야 왕국을 번영으로 이끌었다 한다.
+MEID_その後_S_シノノメ_透魔: 남편 시로는 후에 백야 왕국의\n왕위를 이어 왕국을 번영으로 이끈다.\n투마와 백야의 유대는 더 굳건해졌다.
+MEID_その後_S_キサラギ: 남편 키라기는 왕국 재건에 힘쓴다.\n말년에는 왕족의 자리에서 내려와\n고즈넉한 산에서 여생을 보냈다.
+MEID_その後_S_キサラギ_透魔: 남편 키라기는 언제나 적극적으로\n아내를 도우며, 투마 왕국을 밝고\n행복한 나라로 만들어 갔다.
+MEID_その後_S_グレイ: 남편 아스기는 기록에서 모습을\n감추지만, 사이조의 대는 끊어지지\n않고 100대까지 이어졌다고 한다.
+MEID_その後_S_グレイ_透魔: 남편 아스기는 사이조의 대를 잇고,\n왕족의 신분으로 더러운 일도 마다치\n않으며 왕국의 발전을 위해 힘썼다.
+MEID_その後_S_キヌ: 아내 셀키는 결혼한 뒤로도 호기심이\n왕성하여, 가끔 어디론가 훌쩍 떠나\n주위 사람들을 애태웠다고 한다.
+MEID_その後_S_ヒサメ: 남편 히사메는 문관이 되어, 암야와\n백야의 재건을 위해 힘을 쏟는다. 그는\n평생 국민들의 사랑을 받았다고 한다.
+MEID_その後_S_ヒサメ_透魔: 남편 히사메는 문관이 되어\n나라의 발전을 위해 힘을 쏟는다.\n아내에게 의지가 되는 존재였다 한다.
+MEID_その後_S_ミタマ: 아내 미타마는 주위 사람들까지\n끌어들여, 그렇게 좋아하던 시를\n읊는 나날을 보냈다고 한다.
+MEID_その後_S_マトイ: 아내 카도리는 천부적인 재능으로\n갖은 문제를 완벽히 해결하여,\n많은 이들의 사랑을 받았다고 한다.
+MEID_その後_S_シャラ: 아내 라자트는 남편을 위해\n몸과 마음을 바쳤다고 한다. 남편이\n그것을 기뻐하였는지는 알 수 없다.
+MEID_その後_S_カンナ女: 아내 칸나는 언제나 남편과 함께했다.\n어쩌다 떨어지기라도 하면\n굉장히 외로워했다고 한다.
+MEID_その後_S_カンナ男: 남편 칸나는 세계 여행에 나선다.\n각지에 남은 대부분의 용신 전설은\n그가 남긴 활약상이라 추측되고 있다.
+MEID_その後_S_シグレ: 남편 시구레는 국민들의 마음을\n노래로 치유했다. 하지만 사랑의\n노래는 아내만을 위한 것이었다.
+MEID_その後_S_シグレ_透魔: 남편 시구레는 국민들의 마음을\n노래로 치유하여 많은 지지를 받았다.\n그의 노래는 고향을 떠올리게 했다.
+MEID_その後_S_ディーア: 남편 드와이어는 집사의 길을 걷는다.\n뛰어난 능력으로 일은 넘쳐났지만,\n진정한 주군과는 말년에야 만났다.
+MEID_その後_S_ディーア_透魔: 남편 드와이어는 왕족이 되어서도\n변함없이 게으른 매일을 보내지만,\n다과회에서는 놀라운 활약을 보였다.
+MEID_その後_S_ゾフィー: 아내 소피는\n각국을 넘나드는 훌륭한 기사가 되어\n애마인 에이블과 함께 활약했다고 한다.
+MEID_その後_S_ミドリコ: 아내 미도리는 신약 개발에 힘쓴다.\n남편과의 사이는 좋았으나, 간혹 홀로\n여행을 다니며 약을 판매했다고 한다.
+MEID_その後_S_ジークベルト: 남편 시그버트는 견문을 넓히기 위해\n각국을 여행하지만, 후에는 아버지인\n젠더의 뒤를 이어 국왕의 길을 걷는다.
+MEID_その後_S_ジークベルト_透魔: 남편 시그버트는 후에 아버지인\n젠더의 뒤를 이어 국왕의 길을 걷는다.\n투마와 암야의 유대는 더 굳건해졌다.
+MEID_その後_S_フォレオ: 남편 포레스트는 젠더와 리오를 도와\n부흥에 이바지하며, 빼어난 센스로\n왕궁 문화의 발전에 크게 기여한다.
+MEID_その後_S_フォレオ_透魔: 남편 포레스트는 빼어난 센스로\n왕궁 문화의 발전에 크게 기여하여\n투마의 드레스는 동경의 대상이 됐다.
+MEID_その後_S_イグニス: 남편 이그니셔스는 왕성의 중기사 부대\n소속으로, 도적들로부터 도시와 마을을\n지키는 강한 전사로 성장했다고 한다.
+MEID_その後_S_イグニス_透魔: 남편 이그니셔스는 눈에 띄는 공적은\n없지만, 부지런히 공무를 처리하며\n아내의 마음의 지주가 되어 주었다.
+MEID_その後_S_ベロア: 아내 벨로리아는 날카로운 오감을\n이용한 위기 감지 능력으로, 남편과\n주위 사람들을 도와 주었다고 한다.
+MEID_その後_S_ルッツ: 남편 퍼시는 파트너인 에이스와 함께\n암야 왕국의 용기사 부대에 소속되어\n불패의 지휘관으로 명성을 떨쳤다.
+MEID_その後_S_ルッツ_透魔: 남편 퍼시는 에이스와 함께 투마를\n순찰하는 나날을 보낸다. 그 모습을\n본 이에겐 행운이 온다고 여겨졌다.
+MEID_その後_S_オフェリア: 아내 오펠리아는 결혼한 뒤에도\n마도서와 주술을 향한 열정은 여전하여\n평생 탐구를 위한 삶을 살았다고 한다.
+MEID_その後_S_ソレイユ: 아내 솔레이는 어떤 역경에도 굴복하지\n않고 밝은 모습을 보여, 남편을 비롯한\n주위 사람들에게 용기를 주었다.
+MEID_その後_S_エポニーヌ: 니나는 결혼 후 의적을 관두고\n그녀 나름대로의 방법으로\n가난한 자들을 위해 힘썼다.
+MEID_その後_S_ユキムラ: 남편 유키무라는 백야 왕국의 재상으로\n일하며 왕국의 재건에 힘을 쏟았다.\n그는 백야 왕국을 위해 일생을 바쳤다.
+MEID_その後_S_イザナ: 남편 이자나는 이즈모 공국에서의\n생활로 돌아간다. 그는 빈번히 양국의\n왕족을 초대하여 만찬회를 열곤 했다.
+MEID_その後_S_イザナ_透魔: 남편 이자나는 왕좌에서 물러나 투마의\n왕족으로 살 것을 택했다. 그는 금세\n국민들의 마음을 사로잡았다고 한다.
+MEID_その後_S_アシュラ: 남편 슈라는 백야왕 료마의 도움으로\n코가 공국의 재건에 착수한다. 그의\n소원은 말년에 이루어졌다고 한다.
+MEID_その後_S_アシュラ_透魔: 남편 슈라는 아내를 도우며 멸망한\n코가 공국의 재건에 착수한다. 그의\n소원은 말년에 이루어졌다고 한다.
+MEID_その後_S_フウガ_透魔: 남편 푸가는 족장의 자리에서 물러나\n아내의 곁을 택했다. 그가 있는\n투마성은 언제나 바람과 함께했다.
+MEID_その後_S_ギュンター: 남편 군터는 은퇴한 뒤, 암야 왕국의\n한적한 시골에서 여생을 보낸다.\n그 후의 기록은 전무하다.
+MEID_その後_S_ユウギリ: 아내 레이나는 상냥한 태도로\n남편과 주위 사람들을 챙기며\n화목한 가정을 만들었다고 한다.
+MEID_その後_S_クリムゾン: 아내 스칼렛은 언제나 적극적이고\n자만하지 않으며, 남편과 함께\n그들이 믿는 길을 걸었다.
+MEID_その後_S_アンナ: 안나는 결혼한 뒤에도 세계 각지에서\n행상인 생활을 하여 집을 자주 비웠다.\n하지만 남편과의 사이는 몹시 좋았다.
+MEID_その後_S_フローラ: 아내 플로라는 얼음 부족의 마을로\n돌아가지 않고, 남편의 곁을 택했다.\n그리고 평생 행복하게 살았다고 한다.
+MEID_その後_戦: 전
+MEID_その後_勝: 승
+MEID_その後_称号_汎用: 이방의 전사
+MEID_その後_称号_プレイヤー男: 미래를 선택한 자
+MEID_その後_称号_プレイヤー女: 미래를 선택한 자
+MEID_その後_称号_プレイヤー男_透魔: 새로운 투마왕
+MEID_その後_称号_プレイヤー女_透魔: 새로운 투마여왕
+MEID_その後_称号_リョウマ: 백야의 사무라이
+MEID_その後_称号_タクミ: 신궁의 명수
+MEID_その後_称号_サイゾウ: 폭염술사
+MEID_その後_称号_ニシキ: 여우족 우두머리
+MEID_その後_称号_ヒナタ: 전대미문 사무라이
+MEID_その後_称号_アサマ: 촌철살인
+MEID_その後_称号_ツバキ: 완벽주의
+MEID_その後_称号_ツクヨミ: 소년 주술사
+MEID_その後_称号_ジョーカー: 충실한 집사
+MEID_その後_称号_サイラス: 우정의 맹세
+MEID_その後_称号_スズカゼ: 바람의 닌자
+MEID_その後_称号_マークス: 암야의 기사
+MEID_その後_称号_レオン: 암흑의 왕자
+MEID_その後_称号_ブノワ: 험상궂은 중기사
+MEID_その後_称号_フランネル: 늑대 인간 우두머리
+MEID_その後_称号_ハロルド: 불운의 히어로
+MEID_その後_称号_オーディン: 봉인된 힘
+MEID_その後_称号_ラズワルド: 살인 미소
+MEID_その後_称号_ゼロ: 성격 파탄
+MEID_その後_称号_ヒノカ: 붉은 여전사
+MEID_その後_称号_サクラ: 자애의 무녀
+MEID_その後_称号_リンカ: 불꽃 소녀
+MEID_その後_称号_オロチ: 성인 주술사
+MEID_その後_称号_カゲロウ: 유서 깊은 닌자
+MEID_その後_称号_カザハナ: 말괄량이 사무라이
+MEID_その後_称号_セツナ: 천하태평 궁수
+MEID_その後_称号_オボロ: 마왕
+MEID_その後_称号_フェリシア: 실수투성이 메이드
+MEID_その後_称号_アクア: 연못의 가희
+MEID_その後_称号_モズメ: 시골 소녀
+MEID_その後_称号_カミラ: 요염한 꽃
+MEID_その後_称号_エリーゼ: 사랑스러운 꽃
+MEID_その後_称号_シャーロッテ: 여자의 본성
+MEID_その後_称号_エルフィ: 괴력의 중기사
+MEID_その後_称号_ピエリ: 살육 본능
+MEID_その後_称号_ベルカ: 킬러
+MEID_その後_称号_ルーナ: 악바리
+MEID_その後_称号_ニュクス: 영원한 젊음
+MEID_その後_称号_シノノメ: 유망한 인재
+MEID_その後_称号_キサラギ: 명랑한 궁수
+MEID_その後_称号_グレイ: 당 보충 닌자
+MEID_その後_称号_キヌ: 응석쟁이 여우족
+MEID_その後_称号_ヒサメ: 담대한 사무라이
+MEID_その後_称号_ミタマ: 시를 읊는 무녀
+MEID_その後_称号_マトイ: 완벽 추구
+MEID_その後_称号_シャラ: 집념의 주술사
+MEID_その後_称号_カンナ女: 용의 딸
+MEID_その後_称号_カンナ男: 용의 아들
+MEID_その後_称号_シグレ: 노래하는 천마 무사
+MEID_その後_称号_ディーア: 무기력한 집사
+MEID_その後_称号_ゾフィー: 덜렁이 기사
+MEID_その後_称号_ミドリコ: 믿음직한 약사
+MEID_その後_称号_ジークベルト: 미래의 암야왕
+MEID_その後_称号_フォレオ: 예쁘장한 왕자
+MEID_その後_称号_イグニス: 겁쟁이 중기사
+MEID_その後_称号_ベロア: 늑대 소녀
+MEID_その後_称号_ルッツ: 행운의 히어로
+MEID_その後_称号_オフェリア: 드라마틱 히로인
+MEID_その後_称号_ソレイユ: 소녀들의 편
+MEID_その後_称号_エポニーヌ: 부정한 공상
+MEID_その後_称号_ユキムラ: 백야의 재상
+MEID_その後_称号_イザナ: 이즈모 공왕
+MEID_その後_称号_アシュラ: 이름 없는 도적
+MEID_その後_称号_フウガ: 바람 부족 족장
+MEID_その後_称号_ギュンター: 노기사
+MEID_その後_称号_ユウギリ: 전쟁 광
+MEID_その後_称号_クリムゾン: 호쾌한 용기사
+MEID_その後_称号_アンナ: 비밀의 행상인
+MEID_その後_称号_フローラ: 얼음 부족 메이드
+MEID_肩書き_プロデューサー: Producer
+MEID_肩書き_ディレクター: Director
+MEID_肩書き_サブディレクター: Subdirector
+MEID_肩書き_テクニカルディレクター: Technical Director
+MEID_肩書き_ゲームシステムプログラミング: Game System Programming
+MEID_肩書き_マイキャッスルプログラミング: Castle Programming
+MEID_肩書き_バトルプログラミング: Battle Programming
+MEID_肩書き_マッププログラミング: Battle Map &\nWorld Map Programming
+MEID_肩書き_プログラミング: Programming
+MEID_肩書き_ネットワークプログラミング: Network Programming
+MEID_肩書き_Live2Dプログラミング: Live2D Programming
+MEID_肩書き_ツールサポート: Tool Support
+MEID_肩書き_Live2DSDKプログラミング: Live2D SDK Programming
+MEID_肩書き_アートディレクター: Art Director
+MEID_肩書き_キャラデザ: Character Design &\nIllustration
+MEID_肩書き_デザインスーパーバイザー: Design Supervisor
+MEID_肩書き_バトルユニットデザイン: Battle Unit Design
+MEID_肩書き_マップユニットデザイン: Map Unit Design
+MEID_肩書き_背景デザイン: Background Design
+MEID_肩書き_マップデザイン: Map Design
+MEID_肩書き_マイキャッスルモデリング: Castle Modeling
+MEID_肩書き_バトルユニットモデリング: Battle Unit Modeling
+MEID_肩書き_バトルユニットモーション: Battle Unit Motion
+MEID_肩書き_UIデザイン: UI Design
+MEID_肩書き_エフェクトデザイン: Effects Design
+MEID_肩書き_武器モデリング: Weapon Modeling
+MEID_肩書き_Live2Dイラスト: Live2D Illustration
+MEID_肩書き_Live2Dモデリング: Live2D Modeling
+MEID_肩書き_Live2Dマネージメント: Live2D Design Management
+MEID_肩書き_Live2Dアニメーション: Live2D Animation
+MEID_肩書き_グラフィックサポート: Graphic Help
+MEID_肩書き_イベントイラストレーション: Event Illustration
+MEID_肩書き_イベントイラストマネージメント: Event Illust. Design Management
+MEID_肩書き_Story Supervisor: Story Supervisor
+MEID_肩書き_Original Story: Original Story
+MEID_肩書き_Main Scenario -Byakuya&Anya-: Main Scenario\nBirthright and Conquest Paths
+MEID_肩書き_Main Scenario -Touma-: Main Scenario\nRevelation Path
+MEID_肩書き_Character Planning: Character Planning &\nVoice Text
+MEID_肩書き_Scenario: Scenario
+MEID_肩書き_Event Script: Event Script
+MEID_肩書き_Sound Director: Sound Director &\nLead Music Composition
+MEID_肩書き_Sound Effects: Sound Effects
+MEID_肩書き_Music Composition: Music Composition
+MEID_肩書き_Voice Cast: Voice Cast
+MEID_肩書き_Voice Recording & Editing: Voice Recording & Editing
+MEID_肩書き_Fire Emblem IF Theme: Fire Emblem if Theme\n"Lost in Thoughts All Alone"
+MEID_肩書き_Japanese Instruments Sampling: Japanese Instrument Sampling
+MEID_肩書き_Sound Support: Sound Support
+MEID_肩書き_Sound Supervisor: Sound Supervisor
+MEID_肩書き_Level Design Planning: Level Design Planning
+MEID_肩書き_ムービープロデューサー: Movie Producer
+MEID_肩書き_ムービーディレ: Movie Director
+MEID_肩書き_ムービーアートディレ: Movie Art Director
+MEID_肩書き_ムービーコンセアート: Movie Concept Art
+MEID_肩書き_ムストーリーボー: Movie Storyboard
+MEID_肩書き_ムラインプロデューサー: Movie Line Producer
+MEID_肩書き_ムキャラモデスーバー: Movie Character Modeling Supervisor
+MEID_肩書き_ムキャラリードモデラー: Movie Character Lead Modeling Art
+MEID_肩書き_ムキャラモデラー: Movie Character Modeling Art
+MEID_肩書き_ムBGリードモデラー: Movie BG Lead Modeling Art
+MEID_肩書き_ムBGモデラー: Movie BG Modeling Art
+MEID_肩書き_ムアートデザイナー: Movie Art Design
+MEID_肩書き_ムアートワーク: Movie Artwork
+MEID_肩書き_ムアニメスーバー: Movie Animation Supervisor
+MEID_肩書き_ムリードアニメ: Movie Lead Animation
+MEID_肩書き_ムアニメ: Movie Animation
+MEID_肩書き_ムフェイシャルスーバー: Movie Facial Supervisor
+MEID_肩書き_ムエフェクトスーバー: Movie Effects Supervisor
+MEID_肩書き_ムエフェクトアート: Movie Effects Art
+MEID_肩書き_ムコンポスーバー: Movie Composition Supervisor
+MEID_肩書き_ムコンポアート: Movie Composition Art
+MEID_肩書き_OPムービーディレクター: Opening Movie Director
+MEID_肩書き_OPムービーストーリーボード: Opening Movie Storyboard
+MEID_肩書き_OPムービープロデューサー: Opening Movie Producer
+MEID_肩書き_OPムービープロコー: Opening Movie\nProduction Coordinator
+MEID_肩書き_OPムービースーバー: Opening Movie Supervisor
+MEID_肩書き_OPムービーキャラリードモデラー: Opening Movie\nCharacter Lead Modeling Art
+MEID_肩書き_OPムービーキャラモデラー: Opening Movie\nCharacter Modeling Art
+MEID_肩書き_OPムービーアートデザイナー: Opening Movie Art Design
+MEID_肩書き_OPムービーアニメ: Opening Movie Animation
+MEID_肩書き_OPムービーリードデジタルアート: Opening Movie Lead Digital Art
+MEID_肩書き_OPムービーリードエフェクトアート: Opening Movie Effects Art
+MEID_肩書き_OPムービーデジタルアート: Opening Movie Digital Art
+MEID_肩書き_OPムービーライティングアドバイザー: Opening Movie Lighting Adviser
+MEID_肩書き_Movie Motion Capture Actors Coordination: Movie Motion Capture\nActors Coordination
+MEID_肩書き_Movie Action Coordinator: Movie Action Coordinator
+MEID_肩書き_Movie Motion Capture Acting: Movie Motion Capture Acting
+MEID_肩書き_Movie Staff Coordinator: Movie Staff Coordinator
+MEID_肩書き_Movie Stereoscopic Producer: Movie Stereoscopic Producer
+MEID_肩書き_Movie Stereoscopic Assistant Producer: Movie Stereoscopic\nAssistant Producer
+MEID_肩書き_Movie Stereoscopic Director: Movie Stereoscopic Director
+MEID_肩書き_Coordination: Coordination
+MEID_肩書き_Publicity: Publicity
+MEID_肩書き_Artwork: Artwork
+MEID_肩書き_Manual Editing: Manual Editing
+MEID_肩書き_Technical Support: Technical Support
+MEID_肩書き_Live2D Cubism: Live2D Cubism
+MEID_肩書き_Debug: Debug
+MEID_肩書き_North American Localization: North American Localization
+MEID_肩書き_European Localization: European Localization
+MEID_肩書き_Korean Localization: Korean Localization
+MEID_肩書き_Special Thanks: Special Thanks
+MEID_肩書き_General Producer1: General Producer
+MEID_肩書き_General Producer2: General Producer
+MEID_肩書き_Executive Producer1: Executive Producer
+MEID_肩書き_エグゼクティブプロデューサー: Executive Producer
+MEID_スタッフ_プロデューサー1: Masahiro Higuchi
+MEID_スタッフ_プロデューサー2: Hitoshi Yamagami
+MEID_スタッフ_ディレクター1: Kohei Maeda
+MEID_スタッフ_ディレクター2: Genki Yokota
+MEID_スタッフ_サブディレクター1: Kenta Nakanishi
+MEID_スタッフ_テクニカルディレクター1: Takafumi Kaneko
+MEID_スタッフ_ゲームシステムプログラミング: Yuji Ohashi
+MEID_スタッフ_マイキャッスルプログラミング: Naohiro Yasuhara
+MEID_スタッフ_バトルプログラミング: Takafumi Kaneko
+MEID_スタッフ_マッププログラミング: Susumu Ishihara
+MEID_スタッフ_プログラミング: Yusuke Murakami
+MEID_スタッフ_ネットワークプログラミング: Yusuke Shibata
+MEID_スタッフ_Live2Dプログラミング: Taichi Ishioka
+MEID_スタッフ_ツールサポート: Junko Tanaka
+MEID_スタッフ_Live2DSDKプログラミング: (Live2D)\nNaoki Aso
+MEID_スタッフ_アートディレクター1: Toshiyuki Kusakihara
+MEID_スタッフ_キャラデザ: Kozaki Yusuke
+MEID_スタッフ_デザインスーパーバイザー: Takayasu Morisawa
+MEID_スタッフ_バトルユニットデザイン: Toshiyuki Kusakihara\nMai Watanabe
+MEID_スタッフ_マップユニットデザイン: Chie Yamamoto\nSatoko Kurihara\nToshitaka Muramatsu
+MEID_スタッフ_背景デザイン: Fumio Seno\n\n(Media.Vision Inc.)\nYuzuko Banbara
+MEID_スタッフ_マップデザイン: Shigeki Osaka\nHiromi Tanaka\nFumio Seno
+MEID_スタッフ_マイキャッスルモデリング: Hiromi Tanaka\nHidemi Yamaguchi\n\n(TOSE CO., LTD.)\nHiroshi Kasajima\nMakiko Nihari\nSaki Fujimoto\nMakoto Tateishi\nYuya Okada
+MEID_スタッフ_バトルユニットモデリング: Mai Watanabe\nKana Tsukiyama\nMadoka Kadono\nMakoto Onogi\nKoichiro Yamada\nPaul Patrashcu\n\n(PROGE)\nErina Mori\nKanako Migaki\nHiroko Tamada\nAkiko Kuzuhara\nAyuka Hirohata\nYuki Takenaka\nZizzo Ishiguro
+MEID_スタッフ_バトルユニットモーション: Tomohiro Ozawa\nYoshihisa Isa\nTakafumi Teraoka
+MEID_スタッフ_UIデザイン: Shioe Murakami
+MEID_スタッフ_エフェクトデザイン: Hidemi Yamaguchi\nHiroyuki Tashiro
+MEID_スタッフ_武器モデリング: Koichiro Yamada\nMakoto Onogi
+MEID_スタッフ_Live2Dイラスト: (CRAFTS&MEISTER)\nMasataka Yamada\nHiroshi Shibata\nKousuke Kurita\n\n(TRIGGER)\nKazuya Masumoto\nYuuto Kaneko\nKazumasa Ishida\nYuuki Watanabe
+MEID_スタッフ_Live2Dモデリング: (Live2D)\nMiyuki Kunisada\nShuichi Inada\nChitose Sato\nNatsumi Yamamoto\nKasumi Kato\nRina Aoyagi\nYumi Tsunoda\nNarumi Nakayama\n\n(Qtec)\nNaotake Kida\nChiharu Baba\nFumiya Akimoto\nTakuya Nagami\nYosuke Kikuchi
+MEID_スタッフ_Live2Dマネージメント: (Live2D)\nGenjiro Ishikawa\n\n(Qtec)\nShinobu Fujinami\nHiroaki Takano\nKeiji Nakatsuji
+MEID_スタッフ_Live2Dアニメーション: Toshitaka Muramatsu\nChie Yamamoto\nNaoya Inui
+MEID_スタッフ_グラフィックサポート: Takako Sakai\n\n(DIGITAL WORKS Entertainment Inc.)\nO AYUMI\nM ERIKA\nT HARUKA\nH KAZUYA\nTran Tuan Anh\nLe Thi Thanh Ha\nK YUKI
+MEID_スタッフ_イベントイラストレーション: (Media.Vision Inc.)\nYuzuko Banbara\nAkiko Shioya\nMariko Shiobara
+MEID_スタッフ_イベントイラストマネージメント: (Media.Vision Inc.)\nAi Yoshida\nTetsuya Okubo
+MEID_スタッフ_Story Supervisor: Kouhei Maeda
+MEID_スタッフ_Original Story: Shin Kibayashi
+MEID_スタッフ_Main Scenario -Byakuya&Anya-: Nami Komuro
+MEID_スタッフ_Main Scenario -Touma-: (Synthese)\nYukinori Kitajima\n\nNami Komuro
+MEID_スタッフ_Character Planning: Nami Komuro
+MEID_スタッフ_Scenario: Kouhei Maeda\nMasayuki Horikawa\nSatoko Kurihara\nNaoya Inui\n\n(Red Entertainment Corporation)\nYuu Ohshima\nTomoko Ouchi\nTomoyo Sakimoto\n\n(Synthese)\nYukinori Kitajima\nHiroshi Takane\nTakayoshi Muto
+MEID_スタッフ_Event Script: Tomohiro Ozawa\nYusuke Murakami
+MEID_スタッフ_Sound Director: Hiroki Morishita
+MEID_スタッフ_Sound Effects: Yasuhisa Baba
+MEID_スタッフ_Music Composition: Takeru Kanazaki\nYasuhisa Baba\n\n (T's MUSIC Co.,Ltd.)\nRei Kondoh\n\n (DESIGN WAVE)\nMasato Kouda
+MEID_スタッフ_Voice Cast_白夜暗夜_1: Ryoma\nHinoka\nTakumi\nSakura\nXander\nCamilla\nLeo\nElise\nAzura\nMikoto\nGaron\nJakob\nFelicia\nFlora\nGunter\nKaze\nSilas\nSaizo\nKaden\nHinata\nAzama\nSubaki\nHayato\nRinkah\nOrochi\nKagero\nHana\nSetsuna\nOboro\nMozu\nBenny\nKeaton\nArthur\nOdin\nLaslow\nNiles\nCharlotte\nEffie\nPeri\nBeruka\nSelena\nNyx\nShiro\nKiragi\nAsugi\nHisame\nSelkie\nMitama\nCaeldori\nRhajat\nShigure\nDwyer\nSophie\nMidori\nSiegbert\nForrest\nIgnatius\nPercy\nVelouria\nOphelia\nSoleil\nNina\nYukimura\nIzana\nShura\nFuga\nReina\nScarlet\nLilith\nSumeragi\nIago\nHans\nZola\nCandace\nNichol\nRainbow Sage\nCassita\nKilma\nKotaro\nLayla\n\nAvatar\n(Corrin)
+MEID_スタッフ_Voice Cast_白夜暗夜_2: Jason Adkins\nLaura Bailey\nSarah Blandy\nCam Clarke\nRosie David\nBen Diskin\nD.C. Douglas\nS.L. Draven\nStephanie Elle\nGideon Emery\nWalley Hollis\nLizzy Hunter\nDanielle Judovitz\nConner Kelley\nBrianna Knickerbocker\nYuri Lowenthal\nMatthew Mercer\nMax Mittelman\nMarcella Mozdy\nCole Noelle\nLiam O'Brien\nNigel Oakenshield\nOtis Paul\nSara Pippin\nMarisha Ray\nKris Salter\nStephanie Sheh\nLaura Faye Smith\nKaren Strassman\nRena Strober\nKaiji Tang\nJulie Ann Taylor\nDavid Vincent\nAngela Marie Volpe\nHolly Wallace\nImari Williams\nTravis Willingham\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+MEID_スタッフ_Voice Cast_透魔_1: Ryoma\nHinoka\nTakumi\nSakura\nXander\nCamilla\nLeo\nElise\nAzura\nMikoto\nGaron\nJakob\nFelicia\nFlora\nGunter\nKaze\nSilas\nSaizo\nKaden\nHinata\nAzama\nSubaki\nHayato\nRinkah\nOrochi\nKagero\nHana\nSetsuna\nOboro\nMozu\nBenny\nKeaton\nArthur\nOdin\nLaslow\nNiles\nCharlotte\nEffie\nPeri\nBeruka\nSelena\nNyx\nShiro\nKiragi\nAsugi\nHisame\nSelkie\nMitama\nCaeldori\nRhajat\nShigure\nDwyer\nSophie\nMidori\nSiegbert\nForrest\nIgnatius\nPercy\nVelouria\nOphelia\nSoleil\nNina\nYukimura\nIzana\nShura\nFuga\nReina\nScarlet\nLilith\nSumeragi\nIago\nHans\nZola\nCandace\nNichol\nRainbow Sage\nCassita\nKilma\nKotaro\nLayla\nArete\nAnankos\nAnthony\n\nAvatar\n(Corrin)
+MEID_スタッフ_Voice Cast_透魔_2: Jason Adkins\nLaura Bailey\nSarah Blandy\nCam Clarke\nRosie David\nBen Diskin\nD.C. Douglas\nS.L. Draven\nStephanie Elle\nGideon Emery\nWalley Hollis\nLizzy Hunter\nDanielle Judovitz\nConner Kelley\nBrianna Knickerbocker\nYuri Lowenthal\nMatthew Mercer\nMax Mittelman\nMarcella Mozdy\nCole Noelle\nLiam O'Brien\nNigel Oakenshield\nOtis Paul\nSara Pippin\nMarisha Ray\nKris Salter\nStephanie Sheh\nLaura Faye Smith\nKaren Strassman\nRena Strober\nKaiji Tang\nJulie Ann Taylor\nDavid Vincent\nAngela Marie Volpe\nHolly Wallace\nImari Williams\nTravis Willingham\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+MEID_スタッフ_Voice Recording & Editing_1: Casting Support\n\n\nRecording Director\n\n\nRecording Engineer\n\n\nRecording Studio\n\nVoice\n\n\n\n\n\n
+MEID_スタッフ_Voice Recording & Editing_2:  (TWOFIVE)\n Bungo Fujiwara\n\n (TWOFIVE)\n Hitomi Matsuki\n\n (Aoi Studio Co., Ltd.)\n Hideyuki Hachisuka\n\n Aoi Studio Co., Ltd.\n\n (TWOFIVE)\n Junpei Ikawa\n\n Takashi Shinbori\n\n Daichi Aoki
+MEID_スタッフ_Fire Emblem IF Theme_1: Vocals (Azura)\n\nJapanese Lyrics\n\nEnglish Lyrics\n\nMusic\n\n1st Violin\n\n\n2nd Violin\n\n\nViola\n\n\nCello\n\n\nRecording & Mixing Engineer\n\n\n\nRecording Engineer\n\n\nAssistant Director\n\n\nSound Coordination\n\n\n\n\n\nRecording Studio\n\n
+MEID_スタッフ_Fire Emblem IF Theme_2:  Rena Strober\n\n Kohei Maeda\n\n Audrey Drake\n\n Hiroki Morishita\n\n (Lime Ladies Orchestra)\n Maiko Sugiyama\n\n (Lime Ladies Orchestra)\n Miho Komatsu\n\n (Lime Ladies Orchestra)\n Mei Mishina\n\n (Lime Ladies Orchestra)\n Yumiko Morooka\n\n\n (Being,Inc.)\n Yusuke Matsuda\n\n (Being,Inc.)\n Takayuki Ichikawa\n\n (Being,Inc.)\n Takashi Yoshida\n\n (Being,Inc.)\n Daisuke Ikeda\n\n (TAMA MUSIC)\n Shoko Tamaki\n\n Birdman West,\n           Thomas Studio
+MEID_スタッフ_Japanese Instruments Sampling_1: Ryuteki\n\nHichiriki\n\nRecording Director\n\n\nRecording Engineer\n\nRecording Studio
+MEID_スタッフ_Japanese Instruments Sampling_2:  Kinya Sogawa\n\n Yuji Nishihara\n\n (T's MUSIC Co.,Ltd.)\n Ryota Mochizuki\n\n Motohiko Maeda\n\n T's MUSIC
+MEID_スタッフ_Sound Support: (T's MUSIC Co.,Ltd.)\nHiroyuki Hamada\n\n(DESIGN WAVE)\nKento Hasegawa
+MEID_スタッフ_Sound Supervisor: Yuka Tsujiyoko
+MEID_スタッフ_Level Design Planning: Yuji Ohashi\nMasayuki Horikawa\nRyuichiro Kouguchi
+MEID_スタッフ_ムービープロデューサー1: (anima inc.)\nTakeshi Nagasawa
+MEID_スタッフ_ムービーディレ: (anima inc.)\nShunsuke Tsuchiya
+MEID_スタッフ_ムービーアートディレ: (anima inc.)\nYoshiyuki Okada
+MEID_スタッフ_ムービーコンセアート: (anima inc.)\nYoshihiro Nagasuna\nYukio Nakatani
+MEID_スタッフ_ムストーリーボー: (anima inc.)\nKazuyoshi Katayama\n\n(Spooky graphic)\nHiromi Hayashi\nTomio Fujisawa
+MEID_スタッフ_ムラインプロデューサー: (anima inc.)\nDaisuke Chonan\nKei Yonezuka\nDaichi Egoshi\nRumi Sakairi\nShota Kitamoto\nKenji Nishino\n\n(Spooky graphic)\nYuko Makino
+MEID_スタッフ_ムキャラモデスーバー: (anima inc.)\nKatsuyoshi Miyajima
+MEID_スタッフ_ムキャラリードモデラー: (anima inc.)\nMasakazu Taira
+MEID_スタッフ_ムキャラモデラー: (anima inc.)\nHiroto Shibata\nHiroyuki Tokudome\nAiri Ishikawa\nNozomi Ishii\nIppei Suzuki\nTakanori Urakawa\nSatomi Nakao\nMakoto Oda\nMariko Yoshitake\nKei Yoshikuni\nKouichirou Takimoto\nKazuyuki Kamata\nHiromichi Watanabe\n\n(colobito inc.)\nAkira Nakamura\nMasato Kato\nMiyuki Aita\n\n(D.H inc.)\nKazuki Sawada\nTatsuya Yamazaki\n\n(LuckyPictures inc.)\nToru Furukawa\n\n(ModelingCafe inc.)\nFujihiko Sawai\nJun Yonezawa\nTakahiro Yoshikawa\nKoichi Kashihara\nTsukasa Fujiwara\n\n(KyowaTsushin Co.,Ltd.)\nHitoshi Oguri
+MEID_スタッフ_ムBGリードモデラー: (anima inc.)\nShinji Tsutsumi
+MEID_スタッフ_ムBGモデラー: (anima inc.)\nNobunao Ono\nNaoki Kumazawa\nAkihiro Matsuo\nShinpei Ookuma\nKensuke Ando\nNobutaka Kitahara\nAsuka Ogiwara\n\n(D.H inc.)\nDaima Agawa\nHiroyuki Minawa
+MEID_スタッフ_ムアートデザイナー: (anima inc.)\nTsukasa Yunoue\nAi Tokoi\nMomoko Yamanaka
+MEID_スタッフ_ムアートワーク: (Senju Art Studio)\nAyumi Sugimoto\nFumi Saitoh\nMasayo Kobayashi\nMasayuki Niitsuma\nTakeshi Fujino\nMiao Zhang\nTakayuki Saegusa\n\n(Sublimation Inc.)\nMadoka Nishimura\nAkira Yamakawa\nCholong Min\nTakehiro Shirai\n\n(A-1 Pictures inc.)\nShinjiro Mogi\nYuji Hosogoe\nMegumi Masaoka\nAsuka Yokota
+MEID_スタッフ_ムアニメスーバー: (anima inc.)\nNaoki Terada
+MEID_スタッフ_ムリードアニメ: (anima inc.)\nHousei Takakubo\nTakahiro Miura
+MEID_スタッフ_ムアニメ: (anima inc.)\nManabu Konno\nAya Yamaguchi\nTsuyoshi Nishikawa\nQiushi Bai\nShun Matsumoto\nMizuki Hasegawa\nRyo Tsukagoshi\nTakaya Iwamoto\nMika Oba\nMakoto Seki\nMasashi Matsumoto\nManabu Isono\nSadanori Kusakari\nRyo Yoshida\nMasahiro Nishimura\n\n(AI inc.)\nKazuki Eigen\nTemari Kondo\nYurie Kubo\nHonoka Ogata\nShoko Fujisaki\nDaigo Nakamura\n\n(Thoris, inc.)\nHiroyuki Honda\nYusuke Matsumoto\nHiroki Ishikawa\nKouji Iwase\nTakashi Suzuki\nMami Asai\n\n(Sublimation Inc.)\nTaichi Kimura\nNoriki Tsukamoto\nYu Tamura\nTakashi Honda\nYuko Morise\nSeiji Arai\nNaoko Koishikawa\n\n(BinaryGraphics Co.,Ltd.)\nTakashi Komuro\nKiyotaka Hirata\nKensei Oguri
+MEID_スタッフ_ムフェイシャルスーバー: (anima inc.)\nHiroshi Kajiyama
+MEID_スタッフ_ムエフェクトスーバー: (anima inc.)\nKazuo Mitsuyama
+MEID_スタッフ_ムエフェクトアート: (anima inc.)\nTecha-Arpornkul Sakonchai\nKazuya Yamanaka\n\n(IDA Inc.)\nHajime Koyasu\nHijiri Taketomi\n\n(anima inc.)\nMasaki Iwahashi\nTomoya Kimpara
+MEID_スタッフ_ムコンポスーバー: (anima inc.)\nTatsuya Takahashi
+MEID_スタッフ_ムコンポアート: (anima inc.)\nNatsuki Yamao\nToru Okazawa\nSora Matsumoto\nMasahiro Okazaki\n\n(CREEK & RIVER Co.,Ltd.)\nNorimitsu Takahashi\n\n(IDA Inc.)\nTakayuki Honda
+MEID_スタッフ_OPムービーディレクター: (KeiMA)\nMasaki Ishii
+MEID_スタッフ_OPムービーストーリーボード: (anima inc.)\nKeiji Kawai
+MEID_スタッフ_OPムービープロデューサー: (DRAWIZ, Inc.)\nAtsuko Okami
+MEID_スタッフ_OPムービープロコー: (DRAWIZ, Inc.)\nHiroyuki Saito\n\n(AnimaForaise(Dalian)Technology Co.,Ltd.)\nTakuya Kudo\nDong Yanyan
+MEID_スタッフ_OPムービースーバー: (DRAWIZ, Inc.)\nRyosuke Takeuchi\n\n(AnimaForaise(Dalian)Technology Co.,Ltd.)\nTakahiro Morimoto
+MEID_スタッフ_OPムービーキャラリードモデラー: (AnimaForaise(Dalian)Technology Co.,Ltd.)\nTao Yong\nYun Kun
+MEID_スタッフ_OPムービーキャラモデラー: (anima inc.)\nToru Okishima\n\n(AnimaForaise(Dalian)Technology Co.,Ltd.)\nSun Shoushuai\nHao Ming\nLiu Wenjing\nSun Zhongliang\nMa hui\nJiang Yanguo
+MEID_スタッフ_OPムービーアートデザイナー: (anima inc.)\nTakahisa Kashi
+MEID_スタッフ_OPムービーアニメ: (anima inc.)\nHidekazu Yamada\nSeita Matsumoto\nHarumi Mizutani\nTakeru Nakajima\nKentarou Narimatsu\nShouhei Kiuchi\n\n(Spooky graphic)\nTatsuya Imai\nEri Tominaga
+MEID_スタッフ_OPムービーリードデジタルアート: (DRAWIZ, Inc.)\nNaoya Miyadai\nTaichi Kona\nYosuke Inoue
+MEID_スタッフ_OPムービーリードエフェクトアート: (DRAWIZ, Inc.)\nKenji Goto\nHisaki Hanuma\nMasaki Nakamura
+MEID_スタッフ_OPムービーデジタルアート: (DRAWIZ, Inc.)\nYu Kagawa\nKazunori Akiyama\nKohei Yoshizawa\nYusuke Yasu
+MEID_スタッフ_OPムービーライティングアドバイザー: (DRAWIZ, Inc.)\nHidetoshi Watanabe
+MEID_スタッフ_Movie Motion Capture Actors Coordination: KATSUGEKIZA Inc.
+MEID_スタッフ_Movie Action Coordinator: (Motion Actors Japan)\nWataru Koga
+MEID_スタッフ_Movie Motion Capture Acting: (Motion Actors Japan)\nKeiichi Wada\nAkira Sugihara\nYutaka Kambe\nMotokuni Nakagawa\nShoji Kurata\nTony Hosokawa
+MEID_スタッフ_Movie Staff Coordinator: (CREEK & RIVER Co.,Ltd.)\nYoshikazu Sakurai\n\n(Sublimation Inc.)\nAtsushi Koishikawa\n\n(IDA Inc.)\nTakashi Kuwabara\n\n(A-1 Pictures inc.)\nJun Kato\nKyoko Kitamura
+MEID_スタッフ_Movie Stereoscopic Producer: (MercurySystem Co.,Ltd.)\nSuehiro Era
+MEID_スタッフ_Movie Stereoscopic Assistant Producer: (MercurySystem Co.,Ltd.)\nTsugio Kugenuma
+MEID_スタッフ_Movie Stereoscopic Director: (MercurySystem Co.,Ltd.)\nYukie Era
+MEID_スタッフ_Coordination: Tsutomu Kitanishi
+MEID_スタッフ_Publicity: Yusuke Kitanishi
+MEID_スタッフ_Artwork: Yoshitomo Kitamura\nRyo Koizumi
+MEID_スタッフ_Manual Editing: Megumi Shichida\nYurie Sato
+MEID_スタッフ_Technical Support: Shuhei Furukawa\nKyohei Minato\nSPD Technology Group\nTomohiro Umeda\nMitsuo Iwamoto
+MEID_スタッフ_Live2D Cubism: Live2D Engineer Team
+MEID_スタッフ_Debug: Yukiko Miyamoto\nTakahiro Kumasaka\nTakuya Inoue\nKoji Kobayashi\nAkie Sogo\nNobuaki Maeda\nYuki Yagi\nMasahiro Kishi\nKeisuke Miyake\nMasakazu Takahashi\nRika Sugo\nRyohei Otani\nSayaka Atsushi\nTomohiro Hirao\nChisato Fujioka\nKaori Kawase\nMariko Ariga\nIkuri Matsuo\nSaya Mizusawa\n\nMario Club Co., Ltd.\n\nShinpei Otowa\nKouichi Maruyama\nShinobu Wakita\n\nDIGITAL Hearts Co.,Ltd.
+MEID_スタッフ_North American Localization_1: Localization\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEditing\n\n\n\n\n\n\n\nProject Coordination\n\n\nVoiceover Supervision\n\n\nCasting and Voice Recording\n\n\n\nVoice Direction\n\nSound Editing\n\n\nCast (English)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNOA Product Testing\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+MEID_スタッフ_North American Localization_2: Dave Casipit\nOwen Cooney\nEthan Dill\nAudrey Drake\nDan Fazio\nSteven Grimm\nKristen Groth\nMac Hamilton\nRobert Heiret\nAlexandre Higashi\nRyan Kelley\nLars Knudson\nKelly Lee-Creel\nNich Maragos\nYoriko Marusich\nJames Michael\nMatthew Niemi\nKay Raterman\nMichael Shoemake\nScott Willson\n\nKindra Timmerwilke\nKristin Kirby\nSam AbouHarb\nStacy Kolden\nTeresa Lillygren\nShannon Roberts\nJulia Ryer\n\n\nNoriko Kaji\n\n\nRobert Heiret\n\n\nFormosa Interactive\n             Bad Animals\n\nKris Zimmerman Salter\n\nFormosa Interactive\n             Bad Animals\n\n\nJason Adkins\nLaura Bailey\nSarah Blandy\nCam Clarke\nRosie David\nBen Diskin\nD.C. Douglas\nS.L. Draven\nStephanie Elle\nGideon Emery\nWalley Hollis\nLizzy Hunter\nDanielle Judovitz\nConner Kelley\nBrianna Knickerbocker\nYuri Lowenthal\nMatthew Mercer\nMax Mittelman\nMarcella Mozdy\nCole Noelle\nLiam O'Brien\nNigel Oakenshield\nOtis Paul\nSara Pippin\nMarisha Ray\nKris Salter\nStephanie Sheh\nLaura Faye Smith\nKaren Strassman\nRena Strober\nKaiji Tang\nJulie Ann Taylor\nDavid Vincent\nAngela Marie Volpe\nHolly Wallace\nImari Williams\nTravis Willingham\n\nMasayasu Nakata\nSeth Hanser\nEric M. Bush\nSean Egan\nQ Dequina\nTomoko Mikami\nRobert Jahn\nSantavorn Mam\nEd Ridgeway\nKaylee Lewis\nJames Dillon\nDavid Figlar\nMadison Levitan\nGordon Brown\nEric Compton\nEric Spornitz\nMakiko Szolas\nCraig So\nKarl Wadesauer\nLynsey Bassen\nRyan Coggins\nKristaps Butners\nGarrett Higgins\nTaylor Simmons\nTom Subbie\nDoug Sherbon\nDarby Cupit\nChartchai Buapetch\nRiley Babbitt\nChris Ruggles\nKevin Niklason\nPTD Technicians
+MEID_スタッフ_Korean Localization_1: Localization Management\n\n\nLocalization\n\n\n\n\n\n\nQuality Assurance\n\n\n\n\n\n\nArtwork\n\n\n\n
+MEID_スタッフ_Korean Localization_2: \nAtsushi Kurachi\nHyokjin Jung\n\nSoonil Kim\nSeoyun Yun\nJoohee Kim\nJihyuen Yoo\nRyunjin Shin\nHyunok Choi\n\nKyoungim Na\nSeokju Kim\nTaewook Jeon\nEodo Lee\nGoeun Han\nPoletowin Korea Co., Ltd.\n\nSiyoung An\nInseon Song\nYoonji Hong
+MEID_スタッフ_Special Thanks: Takashi Akiyama\nDaisuke Nakajima\nRyoichi Terashima\nHiroki Sasaki\nAkinori Nishimura\nYutaka Imamura\nTakashi Shono\nKenji Itsuno\nAn Kibayashi\nRyusuke Ito\nHideaki Araki\nAkira Kinashi\nTomoko Nakayama
+MEID_スタッフ_General Producer1: Tohru Narihiro
+MEID_スタッフ_General Producer2: Shinya Takahashi
+MEID_スタッフ_Executive Producer1: Toshiyuki Nakamura
+MEID_スタッフ_エグゼクティブプロデューサー2: Satoru Iwata\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNintendo and INTELLIGENT SYSTEMS are\nthe authors of this software for the\npurpose of copyright. All rights reserved.\n©2015-2016 Nintendo /\nINTELLIGENT SYSTEMS
+MEID_ゲームタイトル: Fire Emblem if

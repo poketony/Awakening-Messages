@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_ルーナ
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_LUNA_MYROOM_09: 즐거웠어. 그건 그렇고 감사 인사는 안 해도 돼!
+MKID_LIVE2D_VOICE_LUNA_MYROOM_19: 글쎄… 네가 나를 다시 초대한다면\n최악은 면할 수 있지 않을까 싶은데.
+MKID_LIVE2D_VOICE_LUNA_MYROOM_29: 난 그저 아주 조금 널 좋아할 뿐이야.\n너무 우쭐해하지 마, 알겠어?
+MKID_LIVE2D_VOICE_LUNA_MYROOM_38: 눈을 감아 보라고? 싫어, 너나 감지그래?
+MKID_LIVE2D_VOICE_LUNA_MYROOM_38_W: 하하! 이건 예상 못 했지!?
+MKID_LIVE2D_VOICE_LUNA_MYROOM_39: 난 우리가 함께 보내는 매 순간이 좋아.\n왜, 난 로맨틱한 소리 좀 하면 안 돼?
+MKID_LIVE2D_VOICE_LUNA_MYROOM_49: 우리 사이에 이게 다야?\n기대한 내가 바보 같잖아…
+MKID_LIVE2D_VOICE_LUNA_MYROOM_SP_A: 비밀 하나 알려 줄까? 내 진짜 이름은 세버라야.\n아무한테도 말하면 안 돼, 알았지?
+MKID_LIVE2D_VOICE_LUNA_MYROOM_SP_S: 내가 지금까지 말한 적 없는 것 같은데… 사랑해.\n앗! 호들갑 떨지 마!!
+MKID_LIVE2D_VOICE_LUNA_MYROOM_SP_S_W: 난 당신을 죽이고 싶지 않으니까…
+MKID_LIVE2D_VOICE_LUNA_RELIANCE_S: 나랑 결혼을 하다니, 운 좋은 줄 알아.
+MKID_LIVE2D_VOICE_LUNA_RELIANCE_S_W: 헛짓해서 일 그르치지 말라고.

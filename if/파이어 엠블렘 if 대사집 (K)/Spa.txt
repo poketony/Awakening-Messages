@@ -1,0 +1,40 @@
+MESS_ARCHIVE_Spa
+
+
+Message Name: Message
+
+
+MKID_SPA_温泉: 온천
+MKID_SPA_戻る: 뒤로
+MKID_SPA_概要説明: 온천에 들어갈 수 있습니다.\n안에서 동료와 만나\n함께 온천을 즐길 수도 있습니다.
+MKID_SPA_入る: 들어가기
+MKID_SPA_カメラ: 카메라
+MKID_SPA_ズーム: 줌
+MKID_SPA_注視点切り替え: 전환
+MKID_SPA_あいさつ温泉_PCM1: 온천이나 좀 해 볼까.
+MKID_SPA_あいさつ温泉_PCF2: 온천이나 좀 해 볼까.
+MKID_SPA_立ち去る_PCM1: 다음에 해야지.
+MKID_SPA_立ち去る_PCF2: 다음에 할까.
+MKID_SPA_追加イベント発生: 누군가 온 모양입니다.
+MKID_SPA_他人の城で入浴: 함께 온천을 즐겼다.
+MKID_SPA_他人の城で入浴_異性: 이성이 먼저 와 있어서\n쫓겨나 버렸다.
+MKID_SPA_風呂上がり_PCM1: $Wmusername|6$w0|$Wsusername|$Wa$E笑,照汗|슬슬 나갈까…$k
+MKID_SPA_風呂上がり_PCF2: $Wmusername|6$w0|$Wsusername|$Wa$E笑,照汗|슬슬 나갈까…$k
+MKID_SPA_ひとり風呂_PCM1: $Wmusername|6$w0|$Wsusername|$Wa$E笑,照|하아, 기분 좋다…$k
+MKID_SPA_ひとり風呂_PCF2: $Wmusername|6$w0|$Wsusername|$Wa$E笑,照|하아, 기분 좋다…$k
+MKID_SPA_あやまる_PCM1: $Wmusername|6$w0|$Wsusername|$Wa$E苦,照汗|앗, 미, 미안해!\n바로 나갈게!$k
+MKID_SPA_あやまる_PCF2: $Wmusername|6$w0|$Wsusername|$Wa$E苦,照汗|앗, 미, 미안!\n바로 나갈게!$k
+MKID_SPA_相槌_PCM1: $Wsusername|$Wa$p$E笑,照汗|응, 맞아.$k
+MKID_SPA_相槌_PCF2: $Wsusername|$Wa$p$E笑,照汗|응, 맞아.$k
+MKID_SPA_コメント1温泉_PCM1: $Wmusername|6$w0|$Wsusername|$Wa$E笑,照汗|물이 참 좋다…$k
+MKID_SPA_コメント1温泉_PCF2: $Wmusername|6$w0|$Wsusername|$Wa$E笑,照汗|물이 참 좋다…$k
+MKID_SPA_コメント2温泉_PCM1: $Wmusername|6$w0|$Wsusername|$Wa$E笑,照汗|치유되는 기분이야…$k
+MKID_SPA_コメント2温泉_PCF2: $Wmusername|6$w0|$Wsusername|$Wa$E笑,照汗|치유되는 기분이야…$k
+MKID_SPA_コメント3温泉_PCM1: $Wmusername|6$w0|$Wsusername|$Wa$E笑,照汗|피로가 풀리고 있어.$k
+MKID_SPA_コメント3温泉_PCF2: $Wmusername|6$w0|$Wsusername|$Wa$E笑,照汗|피로가 풀리고 있어.$k
+MKID_SPA_コメント4温泉_PCM1: $Wmusername|6$w0|$Wsusername|$Wa$E笑,照汗|몸도 마음도 따뜻해지네.$k
+MKID_SPA_コメント4温泉_PCF2: $Wmusername|6$w0|$Wsusername|$Wa$E笑,照汗|몸도 마음도 따뜻해지네.$k
+MKID_SPA_コメント5温泉_PCM1: $Wmusername|6$w0|$Wsusername|$Wa$E笑,照汗|정말 기분 좋다.$k
+MKID_SPA_コメント5温泉_PCF2: $Wmusername|6$w0|$Wsusername|$Wa$E笑,照汗|정말 기분 좋다.$k
+MKID_SPA_コメントS温泉_PCM1: $Wmusername|6$w0|$Wsusername|$Wa$E笑,照汗|둘이 함께 즐기니까\n마음까지 따뜻하네.$k
+MKID_SPA_コメントS温泉_PCF2: $Wmusername|6$w0|$Wsusername|$Wa$E笑,照汗|둘이 함께 즐기니까\n마음까지 따뜻하네.$k

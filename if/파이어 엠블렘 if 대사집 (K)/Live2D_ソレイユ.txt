@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_ソレイユ
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_SOLEIL_MYROOM_09: 휴… 여기 덥네요! 옷 좀 벗어도…\n앗, 죄송해요. 좀 그런가?
+MKID_LIVE2D_VOICE_SOLEIL_MYROOM_19: 여기 귀여운 고양이 그림만 하나 있으면 딱인데!\n저 남는 거 좀 있는데 드릴까요?
+MKID_LIVE2D_VOICE_SOLEIL_MYROOM_29: 귀여운 담요 빌려 드릴까요? 말만 하세요.\n근데 오늘은 왜 초대하신 거예요?
+MKID_LIVE2D_VOICE_SOLEIL_MYROOM_38: 키스하고 싶으신 거예요? 그럼…
+MKID_LIVE2D_VOICE_SOLEIL_MYROOM_38_W: 얼굴, 빨개져서 귀여워요…
+MKID_LIVE2D_VOICE_SOLEIL_MYROOM_39: 사랑해요… 절 이렇게 당황하게 만드는 사람은\n당신뿐이에요.
+MKID_LIVE2D_VOICE_SOLEIL_MYROOM_49: 항상 둘이 함께하면서 행복한 가족이 되자구요!\n귀여운 강아지도 키웠으면 좋겠어요.
+MKID_LIVE2D_VOICE_SOLEIL_MYROOM_SP_A: 아빠가 그러는데, 우리 할머니는 훌륭한 무용수였대요.\n저도 언젠가 그렇게 멋진 사람이 될 거예요.
+MKID_LIVE2D_VOICE_SOLEIL_MYROOM_SP_S: 고마워요. 당신 앞에선 멋진 모습도, 그렇지 못한\n모습도 보였는데… 항상 곁에서 소중히 대해 줘서…
+MKID_LIVE2D_VOICE_SOLEIL_MYROOM_SP_S_W: 그게 바로 제가 당신을 사랑하는 이유예요…
+MKID_LIVE2D_VOICE_SOLEIL_RELIANCE_S: 이 세상의 그 어떤 사랑스러운 것들보다\n당신을 훨씬 더 사랑해요! 좀 쑥스럽지만…
+MKID_LIVE2D_VOICE_SOLEIL_RELIANCE_S_W: 평생 제 곁에 있어 준다고… 약속해 줄래요?

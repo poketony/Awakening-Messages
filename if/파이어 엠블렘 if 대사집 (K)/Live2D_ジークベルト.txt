@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_ジークベルト
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_SIEGBERT_MYROOM_09: 초대해 주셔서 고맙습니다. 아주 유익한 시간이었어요.
+MKID_LIVE2D_VOICE_SIEGBERT_MYROOM_19: 오늘은 정말 즐거웠어요.\n아… 왕족도 즐거움을 누려도 되겠죠?
+MKID_LIVE2D_VOICE_SIEGBERT_MYROOM_29: 이렇게 대화를 나누니 좋네요.\n서로에 대해서 알아 갈 수도 있고요.
+MKID_LIVE2D_VOICE_SIEGBERT_MYROOM_38: 당신만 괜찮다면 키스해도 될까요? 네?
+MKID_LIVE2D_VOICE_SIEGBERT_MYROOM_38_W: 정말 사랑합니다…
+MKID_LIVE2D_VOICE_SIEGBERT_MYROOM_39: 당신 앞에만 서면 전 왕자로서의 품위를 지키기가 힘들어요.
+MKID_LIVE2D_VOICE_SIEGBERT_MYROOM_49: 우리를 위한 시간을 가져 볼까요?\n오직 우리 둘만을 위한 시간을요.
+MKID_LIVE2D_VOICE_SIEGBERT_MYROOM_SP_A: 제가 시간이 빨리 흐르는 곳에서 자라 다행입니다.\n아니면 우리는 지금 이렇게 가까워지지 못했을 거예요!
+MKID_LIVE2D_VOICE_SIEGBERT_MYROOM_SP_S: 당신과 있으면 전 진정한 제가 될 수 있고,\n왕자의 가면을 벗어던질 수 있어요. 우리의 사랑에…
+MKID_LIVE2D_VOICE_SIEGBERT_MYROOM_SP_S_W: 신분 따위는 문제가 되지 않아요.
+MKID_LIVE2D_VOICE_SIEGBERT_RELIANCE_S: 아직 부족한 점이 많지만,\n언젠가 전 당신에게 어울리는 남자가 될 거예요.
+MKID_LIVE2D_VOICE_SIEGBERT_RELIANCE_S_W: 사랑하는 당신을 위해서라면 어떤 일이든 할 거예요.

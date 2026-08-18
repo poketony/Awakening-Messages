@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_タクミ
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_TAKUMI_MYROOM_09: 끝났어? 나 이러고 있을 시간 없는데…
+MKID_LIVE2D_VOICE_TAKUMI_MYROOM_19: 뭐 하려고 또 부른 거야?
+MKID_LIVE2D_VOICE_TAKUMI_MYROOM_29: 노력하고 있는 건 알겠는데, 나 지금 좀 바빠.
+MKID_LIVE2D_VOICE_TAKUMI_MYROOM_38: 잠깐만 눈 감아 봐…
+MKID_LIVE2D_VOICE_TAKUMI_MYROOM_38_W: 나도 내가 뭘 한 건지 모르겠어…
+MKID_LIVE2D_VOICE_TAKUMI_MYROOM_39: 처음엔 힘든 일이 많았지만…\n지금은 세상 그 무엇보다 당신을 사랑해.
+MKID_LIVE2D_VOICE_TAKUMI_MYROOM_49: 머리… 만져도 돼? 안 될까?
+MKID_LIVE2D_VOICE_TAKUMI_MYROOM_SP_A: 이제는 정말 당신을 인정하게 된 것 같아.\n응? …좋은 뜻으로 하는 말이야.
+MKID_LIVE2D_VOICE_TAKUMI_MYROOM_SP_S: 난 당신을 위해서라면 뭐든 할 수 있어.\n당신도 그렇게 해 줄 거야?
+MKID_LIVE2D_VOICE_TAKUMI_MYROOM_SP_S_W: 말해 줘…
+MKID_LIVE2D_VOICE_TAKUMI_RELIANCE_S: 내 심장을 노린 거라면 정확히 맞췄어.
+MKID_LIVE2D_VOICE_TAKUMI_RELIANCE_S_W: 우린 이렇게 될 운명이었던 거야…

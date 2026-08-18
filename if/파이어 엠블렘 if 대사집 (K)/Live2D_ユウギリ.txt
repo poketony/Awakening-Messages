@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_ユウギリ
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_YUUGIRI_MYROOM_09: 다음 싸움에는 저도 참가하고 싶어요.\n분명 도움이 되어 드릴 수 있을 겁니다.
+MKID_LIVE2D_VOICE_YUUGIRI_MYROOM_19: 제겐 가장 위험한 임무를 주셨으면 좋겠네요.\n그게 가장 재미있거든요…
+MKID_LIVE2D_VOICE_YUUGIRI_MYROOM_29: 우리가 여기에 있는 건\n전투를 즐기기 위해서가 아닌가요?
+MKID_LIVE2D_VOICE_YUUGIRI_MYROOM_38: 네? 키스를요…? 네, 원하시는 대로 하세요…
+MKID_LIVE2D_VOICE_YUUGIRI_MYROOM_38_W: 죄송합니다. 조금 서툴렀나요?
+MKID_LIVE2D_VOICE_YUUGIRI_MYROOM_39: 그 어떤 전장이라 해도, 반드시 당신 곁으로\n돌아올 거라 맹세할게요.
+MKID_LIVE2D_VOICE_YUUGIRI_MYROOM_49: 저는 당신께 제게 적을 베어넘기는 것 보다\n더 멋진, 사랑이라는 걸 배우게 됐어요…
+MKID_LIVE2D_VOICE_YUUGIRI_MYROOM_SP_A: 우리는 서로 닮았어요. 위험을 두려워하지 않죠.\n하지만… 너무 무리하지 마세요. 전 당신의 소리가\n전장에서 사라지는 건 정말 싫거든요.
+MKID_LIVE2D_VOICE_YUUGIRI_MYROOM_SP_S: 우리는 전장이 짝지어 준 천생연분이에요.\n만약 내 나이가 너무 많다는 사람이 있다면…
+MKID_LIVE2D_VOICE_YUUGIRI_MYROOM_SP_S_W: 그 사람은 항상 등 뒤를 조심해야 할 거예요.
+MKID_LIVE2D_VOICE_YUUGIRI_RELIANCE_S: 당신도 저를 좋아한다니, 정말 멋져요…\n꿈이라도 꾸는 것 같은 기분이에요…
+MKID_LIVE2D_VOICE_YUUGIRI_RELIANCE_S_W: 이제 다른 사람들에게 알려야겠네요.

@@ -1,0 +1,15 @@
+MESS_ARCHIVE_MagicCardShop
+
+
+Message Name: Message
+
+
+MKID_CARD_魔符屋: 카드점
+MKID_CARD_概要説明: 카드를 구입하여 동료로 삼을 수 있습니다.\n그 캐슬에 있는 팀과\n같은 능력의 카드가 판매됩니다.\n그 밖의 일반 병사 카드도\n구입할 수 있습니다.
+MKID_CARD_戻る: 뒤로
+MKID_CARD_買う: 카드 구입
+MKID_CARD_買う説明: 구입한 카드의 유닛을 동료로 삼을 수 있습니다.
+MKID_CARD_買う確認: 이 카드를 구입하겠습니까?
+MKID_CARD_買う確認_はい: 예
+MKID_CARD_買う確認_いいえ: 아니요
+MKID_CARD_仲間: $a카드 「$a0」$KrP3| 동료가 되었습니다.

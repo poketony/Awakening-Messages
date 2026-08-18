@@ -1,0 +1,2445 @@
+MESS_ARCHIVE_GameData
+
+
+Message Name: Message
+
+
+MID_？？？: ???
+MPID_不明: 이계의 인물
+MPID_デフォルト名: 카무이
+MPID_ギュンター: 군터
+MPID_フェリシア: 펠리시아
+MPID_ジョーカー: 제이콥
+MPID_リンカ: 린카
+MPID_スズカゼ: 카제
+MPID_サクラ: 사쿠라
+MPID_アクア: 아주라
+MPID_カザハナ: 하나
+MPID_ツバキ: 츠바키
+MPID_サイラス: 사일러스
+MPID_サイゾウ: 사이조
+MPID_オロチ: 오로치
+MPID_ヒノカ: 히노카
+MPID_アサマ: 아자마
+MPID_セツナ: 세츠나
+MPID_ツクヨミ: 하야토
+MPID_オボロ: 오보로
+MPID_ヒナタ: 히나타
+MPID_タクミ: 타쿠미
+MPID_カゲロウ: 카게로
+MPID_ユウギリ: 레이나
+MPID_ニシキ: 카덴
+MPID_リョウマ: 료마
+MPID_クリムゾン: 스칼렛
+MPID_アシュラ: 슈라
+MPID_エリーゼ: 엘리스
+MPID_ハロルド: 아서
+MPID_エルフィ: 엘피
+MPID_オーディン: 오딘
+MPID_ゼロ: 닐스
+MPID_ニュクス: 닉스
+MPID_カミラ: 카밀라
+MPID_ルーナ: 셀레나
+MPID_ベルカ: 베르카
+MPID_ラズワルド: 라슬로
+MPID_ピエリ: 페리
+MPID_ブノワ: 베니
+MPID_シャーロッテ: 샤를로트
+MPID_レオン: 리오
+MPID_フランネル: 키튼
+MPID_マークス: 젠더
+MPID_イザナ: 이자나
+MPID_ドラジェ: 캔디스
+MPID_ユキムラ: 유키무라
+MPID_フローラ: 플로라
+MPID_ナハト: 니콜
+MPID_モズメ: 모즈
+MPID_カンナ: 칸나
+MPID_シグレ: 시구레
+MPID_ディーア: 드와이어
+MPID_ゾフィー: 소피
+MPID_ミドリコ: 미도리
+MPID_シノノメ: 시로
+MPID_キサラギ: 키라기
+MPID_グレイ: 아스기
+MPID_キヌ: 셀키
+MPID_ヒサメ: 히사메
+MPID_ミタマ: 미타마
+MPID_マトイ: 카도리
+MPID_シャラ: 라자트
+MPID_ジークベルト: 시그버트
+MPID_フォレオ: 포레스트
+MPID_イグニス: 이그니셔스
+MPID_ベロア: 벨로리아
+MPID_ルッツ: 퍼시
+MPID_オフェリア: 오펠리아
+MPID_ソレイユ: 솔레이
+MPID_エポニーヌ: 니나
+MPID_アンナ: 안나
+MPID_フウガ: 푸가
+MPID_ガンズ: 한스
+MPID_マクベス: 이아고
+MPID_ガロン: 가론
+MPID_コタロウ: 코타로
+MPID_ゾーラ: 졸라
+MPID_スメラギ: 스메라기
+MPID_シェンメイ: 아레테
+MPID_ミコト: 미코토
+MPID_ハイドラ: 아난코스
+MPID_モズ: 오모즈
+MPID_ダニエラ: 다니엘라
+MPID_ハイタカ: 하이타카
+MPID_クマゲラ: 쿠마겔라
+MPID_ウィリアム: 루이드
+MPID_ホルモン: 루웰린
+MPID_ガザック: 가자크
+MPID_バンバ: 타르바
+MPID_ファンク: 펑크
+MPID_ダイチ: 다이치
+MPID_セノウ: 세노
+MPID_ヴァスハラ: 지하라
+MPID_クーリア: 킬마
+MPID_写し身: 분신
+MPID_CASTLE_白村人男: 점원
+MPID_CASTLE_白村人女: 점원
+MPID_CASTLE_黒村人男: 점원
+MPID_CASTLE_黒村人女: 점원
+MPID_その他: 기타
+MPID_白夜兵: 백야병
+MPID_暗夜兵: 암야병
+MPID_透魔兵: 투마병
+MPID_フウマ兵: 후마병
+MPID_イズモ兵: 이즈모병
+MPID_シュヴァリエ兵: 슈바리에병
+MPID_反乱兵: 반란병
+MPID_幻影兵: 환영병
+MPID_部族兵: 부족병
+MPID_異邦の兵: 이방의 병사
+MPID_謎の兵: 의문의 병사
+MPID_賊: 도적
+MPID_村人: 마을 사람
+MPID_魔物: 몬스터
+MPID_傭兵団: 용병
+MPID_花売り: 꽃 파는 소녀
+MPID_絆_白白_01: 아이네스
+MPID_絆_白白_02: 아즈키
+MPID_絆_白白_03: 우스베니
+MPID_絆_白白_04: 우츠부시
+MPID_絆_白白_05: 쿠레나이
+MPID_絆_白白_06: 코조메
+MPID_絆_白白_07: 코가네
+MPID_絆_白白_08: 시부카미
+MPID_絆_白白_09: 토키가라
+MPID_絆_白白_10: 토키와
+MPID_絆_白白_11: 나데시코
+MPID_絆_白白_12: 하이우메
+MPID_絆_白白_13: 하지조메
+MPID_絆_白白_14: 후타아이
+MPID_絆_白白_15: 미즈가키
+MPID_絆_白白_16: 무라사키
+MPID_絆_白白_17: 모에기
+MPID_絆_白白_18: 야마부키
+MPID_絆_黒黒_01: 아이보리
+MPID_絆_黒黒_02: 앰버
+MPID_絆_黒黒_03: 카키
+MPID_絆_黒黒_04: 카민
+MPID_絆_黒黒_05: 코발트
+MPID_絆_黒黒_06: 코르크
+MPID_絆_黒黒_07: 시안
+MPID_絆_黒黒_08: 스칼렛
+MPID_絆_黒黒_09: 세피아
+MPID_絆_黒黒_10: 버밀리온
+MPID_絆_黒黒_11: 퍼플
+MPID_絆_黒黒_12: 바이올렛
+MPID_絆_黒黒_13: 브라운
+MPID_絆_黒黒_14: 블랙
+MPID_絆_黒黒_15: 블론드
+MPID_絆_黒黒_16: 베이지
+MPID_絆_黒黒_17: 화이트
+MPID_絆_黒黒_18: 마젠타
+MPID_絆_白黒_01: 오보로즈키
+MPID_絆_白黒_02: 모치즈키
+MPID_絆_白黒_03: 이자요이
+MPID_絆_白黒_04: 아마츠카제
+MPID_絆_白黒_05: 이부키
+MPID_絆_白黒_06: 츠무지카제
+MPID_絆_白黒_07: 츠구미
+MPID_絆_白黒_08: 히바리
+MPID_絆_白黒_09: 야부사메
+MPID_絆_白黒_10: 블루문
+MPID_絆_白黒_11: 이클립스
+MPID_絆_白黒_12: 루나틱
+MPID_絆_白黒_13: 거스트
+MPID_絆_白黒_14: 게일
+MPID_絆_白黒_15: 브리즈
+MPID_絆_白黒_16: 아이비스
+MPID_絆_白黒_17: 스패로우
+MPID_絆_白黒_18: 페전트
+MPID_絆_白透_01: 아사가오
+MPID_絆_白透_02: 아지사이
+MPID_絆_白透_03: 키쿄
+MPID_絆_白透_04: 사잔카
+MPID_絆_白透_05: 샤크나게
+MPID_絆_白透_06: 스이렌
+MPID_絆_白透_07: 스미레
+MPID_絆_白透_08: 츠츠지
+MPID_絆_白透_09: 츠유쿠사
+MPID_絆_白透_10: 나즈나
+MPID_絆_白透_11: 히나게시
+MPID_絆_白透_12: 히루가오
+MPID_絆_白透_13: 호즈키
+MPID_絆_白透_14: 모쿠렌
+MPID_絆_白透_15: 야마유리
+MPID_絆_白透_16: 유가오
+MPID_絆_白透_17: 유리
+MPID_絆_白透_18: 요루가오
+MPID_絆_黒透_01: 아네모네
+MPID_絆_黒透_02: 아마릴리스
+MPID_絆_黒透_03: 거베라
+MPID_絆_黒透_04: 캐모마일
+MPID_絆_黒透_05: 사프란
+MPID_絆_黒透_06: 시클라멘
+MPID_絆_黒透_07: 스위트피
+MPID_絆_黒透_08: 달리아
+MPID_絆_黒透_09: 바닐라
+MPID_絆_黒透_10: 프리지어
+MPID_絆_黒透_11: 베로니카
+MPID_絆_黒透_12: 포플러
+MPID_絆_黒透_13: 마거리트
+MPID_絆_黒透_14: 카시아
+MPID_絆_黒透_15: 라일락
+MPID_絆_黒透_16: 라벤더
+MPID_絆_黒透_17: 리치
+MPID_絆_黒透_18: 리아트리스
+MPID_絆_透透_01: 앵글
+MPID_絆_透透_02: 이퀄
+MPID_絆_透透_03: 에어리어
+MPID_絆_透透_04: 커브
+MPID_絆_透透_05: 그래프
+MPID_絆_透透_06: 시머트리
+MPID_絆_透透_07: 스피어
+MPID_絆_透透_08: 스퀘어
+MPID_絆_透透_09: 세그먼트
+MPID_絆_透透_10: 패러럴
+MPID_絆_透透_11: 프랙션
+MPID_絆_透透_12: 플러스
+MPID_絆_透透_13: 플레인
+MPID_絆_透透_14: 벡터
+MPID_絆_透透_15: 마이너스
+MPID_絆_透透_16: 라인
+MPID_絆_透透_17: 레디어스
+MPID_絆_透透_18: 라디안
+MPID_リリス: 릴리스
+MPID_リリス竜: 릴리스
+MPID_ゴーレムＡ: 골렘A
+MPID_ゴーレムＢ: 골렘B
+MPID_ゴーレムＣ: 골렘C
+MPID_絡繰人形・甲: 꼭두각시·천
+MPID_絡繰人形・乙: 꼭두각시·지
+MPID_絡繰人形・丙: 꼭두각시·인
+MPID_闘技者: 대결 상대
+MPID_ララ: 라라
+MPID_ロンタオ: 론타오
+MPID_村人おじいさん白: 할아버지
+MPID_村人おばさん白: 아주머니
+MPID_村人お姉さん白: 아가씨
+MPID_村人お兄さん白: 청년
+MPID_村人子供白: 아이
+MPID_村人おじいさん黒: 할아버지
+MPID_村人おばさん黒: 아주머니
+MPID_村人お姉さん黒: 아가씨
+MPID_村人お兄さん黒: 청년
+MPID_村人子供黒: 아이
+MPID_ノスフェラトゥ: 노스페라투
+MPID_ゴーレム: 골렘
+MPID_妖狐: 여우족
+MPID_ガルー: 늑대 인간
+MPID_忍: 닌자
+MPID_虹の賢者: 무지개 현자
+MPID_カシータ: 카시타
+MPID_フードマン: ???
+MPID_マルス: 마르스
+MPID_アイク: 아이크
+MPID_ルキナ: 루키나
+MPID_ルフレ: 러플레
+MPID_？？？: ???
+MPID_H_不明: 용의 문에서 나타났다는 의문의 인물.
+MPID_H_プレイヤー: 암야 왕국의 왕족으로서 한적한 고성에서\n자랐다. 자신의 출신을 알고 고뇌한다.
+MPID_H_ギュンター: 주인공의 신하. 암야 왕국의 베테랑 기사.\n항상 냉정하며 본인과 타인에게 엄격하다.
+MPID_H_フェリシア: 주인공의 신하. 얼음 부족 족장의 딸.\n플로라의 쌍둥이 동생이며, 덜렁거린다.
+MPID_H_ジョーカー: 주인공의 신하. 매우 유능한 집사.\n주인공에게 절대적 충성을 바친다.
+MPID_H_リンカ: 불꽃 부족 족장의 딸. 남자 못지 않게\n용감하지만 다혈질이다.
+MPID_H_スズカゼ: 백야 왕국의 닌자 일족 출신. 사이조의\n쌍둥이 동생이며 예의바르고 성실하다.
+MPID_H_サクラ: 백야 왕국의 왕녀.\n숫기가 없지만 착한 마음의 소유자.
+MPID_H_アクア: 백야 왕국의 왕족 틈에서 자랐다. 냉정한\n성격이며 노래를 하며 동료를 돕는다.
+MPID_H_カザハナ: 사쿠라의 신하. 백야 왕족의 먼 친척.\n나라에서 손꼽히는 실력자로, 밝고 명랑.
+MPID_H_ツバキ: 사쿠라의 신하. 백야 왕국의 상류 귀족.\n수려하고 명석한 두뇌의 완벽주의자.
+MPID_H_サイラス: 암야 왕국의 신입 기사. 주인공의\n소꿉친구이며 한때 절친했다.
+MPID_H_サイゾウ: 료마의 신하. 백야 왕국 닌자 일족 출신.\n카제의 쌍둥이 형으로, 무뚝뚝한 성격.
+MPID_H_オロチ: 미코토의 신하. 백야 왕국의 귀족 출신.\n밝고 장난끼 많으며 잘 웃는다.
+MPID_H_ヒノカ: 백야 왕국의 왕녀. 바르고 우직하여\n왕녀라기보다는 무인.
+MPID_H_アサマ: 히노카의 신하. 백야 왕국의 신사 태생.\n붙임성이 좋고 따뜻한 성격이지만 독설가.
+MPID_H_セツナ: 히노카의 신하. 백야 왕국의 귀족 출신.\n얼핏 쿨하고 조용해 보이지만 꽤 덜렁이.
+MPID_H_ツクヨミ: 바람 부족 출신. 자신감 넘치며\n고압적이지만 세상 물정을 모른다.
+MPID_H_オボロ: 타쿠미의 신하. 백야 왕국 포목점의 딸.\n꾸미기를 좋아하고 암야 왕국을 싫어한다.
+MPID_H_ヒナタ: 타쿠미의 신하. 왕족을 섬기는 사무라이\n일족 출신. 덤벙거리지만 동료애가 깊다.
+MPID_H_タクミ: 백야 왕국의 왕자. 신기 풍신궁 사용자.\n자기 과시욕이 강하며 조금 삐뚤어졌다.
+MPID_H_カゲロウ: 료마의 신하. 왕성을 지키는 일족 출신.\n주군을 위해서라면 죽음도 불사한다.
+MPID_H_ユウギリ: 미코토의 신하. 백야 왕국 영주의 딸.\n태평해 보이지만 전투광의 일면도 지녔다.
+MPID_H_ニシキ: 백야 왕국의 여우. 마을의 대표다. 보은이\n일과이며, 예쁜 것과 자신을 사랑한다.
+MPID_H_リョウマ: 백야 왕국의 왕자. 신기 뇌신도 사용자.\n무사도를 구현화한 것 같은 성격.
+MPID_H_クリムゾン: 슈바리에 공국 출신의 반란병.\n자유분방한 생을 구가하는 호쾌한 성격.
+MPID_H_アシュラ: 암야 왕국의 도적. 출생은 코가 공국.\n선인이라고 하긴 어렵지만 근본은 착하다.
+MPID_H_エリーゼ: 암야 왕국의 왕녀. 정신적으로 어리지만\n붙임성이 좋고 오빠, 언니를 잘 따른다.
+MPID_H_ハロルド: 엘리스의 신하. 암야 왕도 지하 마을 출신.\n늘 바름을 추구하나 극단적으로 불운하다.
+MPID_H_エルフィ: 엘리스의 신하. 암야 왕도 지하 마을 출신.\n동료애가 깊고 착한 성격. 괴력의 소유자.
+MPID_H_オーディン: 리오의 신하. 그 출신과 경력은 불명.\n돋보이려 하며, 허세 있는 말투를 사용.
+MPID_H_ゼロ: 리오의 신하. 암야 왕국 빈민가 출신.\n고생을 모르는 자를 폄하하곤 한다.
+MPID_H_ニュクス: 암야 왕국의 주술사. 냉정하고 침착한 성격.\n보이는 것보다 나이가 많다.
+MPID_H_カミラ: 암야 왕국의 왕녀. 주인공을 아끼고 사랑하며\n착하고 온순하지만, 적에게는 냉혹하다.
+MPID_H_ルーナ: 카밀라의 신하. 그 출신과 경력은 불명.\n제멋대로인 성격이지만 노력의 천재.
+MPID_H_ベルカ: 카밀라의 신하. 암야 왕국 빈민가 출신.\n굉장한 살수이며, 범접할 수 없는 분위기.
+MPID_H_ラズワルド: 젠더의 신하. 그 출신과 경력은 불명.\n여자와 춤을 좋아하나, 사실 부끄럼이 많다.
+MPID_H_ピエリ: 젠더의 신하. 암야 왕국 명문 귀족 출신.\n울보에 아이 같지만 살인에 저항이 없다.
+MPID_H_ブノワ: 암야 왕국의 국경병. 농촌 출신.\n험상궂지만 소심하며 동물이 잘 따른다.
+MPID_H_シャーロッテ: 암야 왕국의 국경병. 왕도 평민층 출신.\n여성답고 청초하지만 반전이 있다.
+MPID_H_レオン: 암야 왕국의 왕자. 신기 브륀힐데 사용자.\n뭐든 잘하는 수재이며 마법 재능이 출중하다.
+MPID_H_フランネル: 암야 왕국의 늑대인간. 무리의 리더.\n밝고 조금 바보 같지만 잔혹한 면도 있다.
+MPID_H_マークス: 암야 왕국의 왕자. 신기 지크프리트 사용자.\n기사도를 중시하며 병사들의 인망도 두텁다.
+MPID_H_イザナ: 이즈모 공국 공왕. 신성하고 아름다운\n용모와 달리 밝고 장난끼 많은 성격.
+MPID_H_ドラジェ: 암야 왕국 전설의 천재 탐험가.\n오직 탐험가의 인생을 살아왔다.
+MPID_H_ユキムラ: 미코토의 신하. 백야 왕국이 자랑하는 참모.\n온화하고 성실하며 공부를 즐긴다.
+MPID_H_フローラ: 주인공의 신하. 얼음 부족 족장의 딸.\n펠리시아의 쌍둥이 언니이며, 성실한 성격.
+MPID_H_ナハト: 암야 왕국의 병사. 모든 일에 무기력하지만\n삶에 대한 집착만은 남보다 배는 강하다.
+MPID_H_モズメ: 백야 왕국의 마을 사람.\n쭈뼛쭈뼛하지만 항상 열심히 한다.
+MPID_H_カンナ: 주인공이 자식. 밝고 명랑하지만\n사실은 외로움이 많고 눈물도 많다.
+MPID_H_シグレ: 아주라의 아들. 언행이 공손하고 온화한\n성격. 예술가 기질이 있으며 노래도 잘한다.
+MPID_H_ディーア: 제이콥의 아들. 무기력한 성격이지만\n잠재 능력은 상당히 높으며, 동료애가 깊다.
+MPID_H_ゾフィー: 사일러스의 딸. 애마의 이름은 아벨.\n많이 서툴지만 밝고 긍정적인 노력형.
+MPID_H_ミドリコ: 카제의 딸. 예의 바른 우등생.\n약 만드는 것과 연구를 즐긴다.
+MPID_H_シノノメ: 료마의 아들. 다소 감정적인 경향은 있지만\n정이 많고 싹싹해 친해지기 쉽다.
+MPID_H_キサラギ: 타쿠미의 아들. 촐랑거리지만 붙임성이 있고\n사물을 항상 긍정적으로 생각한다.
+MPID_H_グレイ: 사이조의 아들. 쿨한 수완가.\n단것을 무척 좋아하며 항상 물고 다닌다.
+MPID_H_キヌ: 카덴의 딸. 천진난만하고 밝은 성격.\n노는 것을 좋아하고 매우 활발하다.
+MPID_H_ヒサメ: 히나타의 아들. 성실하고 완고한 성격.\n무슨 일이든 신중하게 행동한다.
+MPID_H_ミタマ: 아자마의 딸. 자는 것을 무엇보다 좋아한다.\n시로 자신의 기분을 표현한다.
+MPID_H_マトイ: 츠바키의 딸. 재색을 겸비한 천재형이지만\n자기 계발의 노력도 게을리하지 않는다.
+MPID_H_シャラ: 하야토의 딸. 집착하는 경향이 있어,\n좋아하는 사람을 따라다닌 적도 많다.
+MPID_H_ジークベルト: 젠더의 아들. 상냥하고 성실한 성격.\n교양을 제대로 갖춘 엘리트.
+MPID_H_フォレオ: 리오의 아들. 착하고 배려심이 깊은 성격.\n미적 센스가 좋아, 장신구 제작이 특기.
+MPID_H_イグニス: 베니의 아들. 얼핏 무뚝뚝해 보이지만,\n아빠를 닮아 소심하고 귀여운 걸 좋아한다.
+MPID_H_ベロア: 키튼의 딸. 아빠를 매우 좋아한다.\n감정의 기복이 적고 다소 독설가.
+MPID_H_ルッツ: 아서의 아들. 파트너인 용의 이름은 미쉘.\n솔직하고 천진난만. 엄청난 행운의 소유자.
+MPID_H_オフェリア: 오딘의 딸. 몽상가이며, 별이나 돌 등을\n이용해서 독자적인 점을 본다.
+MPID_H_ソレイユ: 라슬로의 딸. 밝고 건강한 성격.\n부끄러움을 몰라 주위를 애타게 만든다.
+MPID_H_エポニーヌ: 닐스의 딸. 냉정하고 침착하며 머리도\n좋지만, 이상한 망상가이기도 하다.
+MPID_H_アンナ: 신출귀몰한 상인. 전 세계에서 장사를 하며\n같은 얼굴과 이름을 지닌 자매가 많이 있다.
+MPID_H_フウガ: 바람 부족의 족장. 선왕 스메라기의\n절친한 친구이기도 한 역전의 용사.
+MPID_H_ガンズ: 암야 왕국의 병사. 수많은 죄를 지은 죄인.\n출세욕이 강하고 원하는 건 힘으로 뺏는다.
+MPID_H_マクベス: 암야 왕국의 참모. 환술이 특기이다.\n비겁한 술책을 부리는 것을 즐긴다.
+MPID_H_ガロン: 암야 왕국의 왕. 남을 시기하고\n믿지 못하며 지배욕이 강하다.
+MPID_H_コタロウ: 후마 공국의 왕.\n나라를 강대하게 만드려는 야심을 지녔다.
+MPID_H_ゾーラ: 암야 왕국의 마도사. 이자나인 척을 하여\n주인공을 함정에 빠뜨리려 한다.
+MPID_H_スメラギ: 한때 백야의 왕.\n주인공을 감싸고 목숨을 잃는다.
+MPID_H_シェンメイ: 아주라의 어머니. 암야왕 가론의 부인이었다.\n투마 왕국과도 얕지 않은 인연이 있다.
+MPID_H_ミコト: 백야 왕국의 왕, 스메라기의 부인.\n암야 왕국의 함정에 빠져 목숨을 잃는다.
+MPID_H_ハイドラ: 투마룡. 은혜를 잊고\n자신을 괴롭히는 인간을 증오한다.
+MPID_H_モズ: 백야 왕국의 닌자.\n사이조나 카제를 대신해 국경을 지킨다.
+MPID_H_ダニエラ: 암야 왕국의 장군.\n대군을 이끌고 암야 왕국의 국경을 지킨다.
+MPID_H_ハイタカ: 백야 왕국의 장군.\n점거한 흑룡 요새를 지킨다.
+MPID_H_クマゲラ: 백야 왕국의 장군.\n암야왕 가론의 목숨을 노린다.
+MPID_H_ウィリアム: 정체불명의 광전사.\n항상 루웰린과 함께 있다.
+MPID_H_ホルモン: 정체불명의 광전사.\n항상 루이드와 함께 있다.
+MPID_H_ガザック: 변경의 악당.\n비경과 가까운 작은 마을에 산다.
+MPID_H_バンバ: 변경의 악당.\n비경 가까이서 행인을 습격한다.
+MPID_H_ファンク: 변경의 악당.\n부자의 집에 들어가 금품을 훔친다.
+MPID_H_ダイチ: 변경의 악당.\n여우를 잡아 비싸게 팔아넘기려 한다.
+MPID_H_セノウ: 변경의 악당. 희귀한 마도서를\n손에 넣어 악행을 일삼으려 한다.
+MPID_H_ヴァスハラ: 변경의 악당. 한때는 검의 명수였지만\n몰락하여 도적의 동료가 되었다.
+MPID_H_クーリア: 얼음 부족의 족장.\n플로라, 펠리시아의 아버지.
+MPID_H_ロンタオ: 투마왕의 부하.\n그 모습은 괴물로 변하였다.
+MPID_H_その他: 기타 병사들.
+MPID_H_白夜兵: 백야 왕국의 병사들.
+MPID_H_暗夜兵: 암야 왕국의 병사들.
+MPID_H_透魔兵: 투마 왕국의 병사들.
+MPID_H_フウマ兵: 닌자의 나라, 후마 공국의 병사들.
+MPID_H_イズモ兵: 신앙의 나라, 이즈모 공국의 병사들.
+MPID_H_シュヴァリエ兵: 기사의 나라, 슈바리에 공국의 병사들.
+MPID_H_幻影兵: 생명을 지니지 않은 환영 병사들.
+MPID_H_部族兵: 부족을 위해 싸우는 병사들.
+MPID_H_異邦の兵: 머나먼 곳에서 온 이세계의 병사.
+MPID_H_謎の兵: 정체불명의 수수께끼 병사.
+MPID_H_賊: 금품을 약탈하는 도적들.
+MPID_H_村人: 이 땅에 살아가는 평범한 사람들.
+MPID_H_魔物: 무차별적으로 사람을 공격하는 괴물.
+MPID_H_傭兵団: 용병단에 소속된 병사.
+MPID_H_絆ユニット: 두 사람의 인연에 의해 태어난 존재.
+MPID_H_一般ユニット: 다양한 이유로 싸우는 병사들.
+MPID_H_リリス: 성계에 사는 성룡의 후손.\n주인의 성을 지키고 있다.
+MPID_H_防衛兵: 성의 방어를 위하여 배치된 병사.
+MPID_H_マルス: 이계에서 온 수수께끼의 존재.\n어느 나라의 왕자라고 한다.
+MPID_H_アイク: 이계에서 온 수수께끼의 존재.\n어느 용병단의 단장이라고 한다.
+MPID_H_ルキナ: 이계에서 온 수수께끼의 존재.\n어느 나라의 왕녀라고 한다.
+MPID_H_ルフレ: 이계에서 온 수수께끼의 존재.\n어느 군대의 참모라고 한다.
+MCID_Z000_PREFIX: 확인장
+MCID_Z000: 확인의 땅으로
+MCID_A000_PREFIX: 서장
+MCID_A000: 그 손이 개척하는 미래
+MCID_A001_PREFIX: 1장
+MCID_A001: 암야의 동지
+MCID_A002_PREFIX: 2장
+MCID_A002: 마검 간그레리
+MCID_A003_PREFIX: 3장
+MCID_A003: 여정의 시작
+MCID_A004_PREFIX: 4장
+MCID_A004: 백야의 동지
+MCID_A005_PREFIX: 5장
+MCID_A005: 어머니와 자식
+MCID_P006_PREFIX: 6장
+MCID_P006: 그 손이 개척하는 미래
+MCID_A006_PREFIX: 6장
+MCID_A006: 빛으로 손을 뻗다
+MCID_A007_PREFIX: 7장
+MCID_A007: 모여드는 마음
+MCID_A008_PREFIX: 8장
+MCID_A008: 맹렬한 바람
+MCID_A009_PREFIX: 9장
+MCID_A009: 신들의 나라
+MCID_A010_PREFIX: 10장
+MCID_A010: 닌자의 마을
+MCID_A011_PREFIX: 11장
+MCID_A011: 바다로…
+MCID_A012_PREFIX: 12장
+MCID_A012: 낙원에서의 재회
+MCID_A013_PREFIX: 13장
+MCID_A013: 굴하지 않는 마음
+MCID_A014_PREFIX: 14장
+MCID_A014: 부드러운 빛을 뿌리고
+MCID_A015_PREFIX: 15장
+MCID_A015: 늑대 인간의 봉우리
+MCID_A016_PREFIX: 16장
+MCID_A016: 환락의 궁전
+MCID_A017_PREFIX: 17장
+MCID_A017: 얼음의 이별
+MCID_A018_PREFIX: 18장
+MCID_A018: 암야 왕자 리오
+MCID_A019_PREFIX: 19장
+MCID_A019: 무지개 현자
+MCID_A020_PREFIX: 20장
+MCID_A020: 흑룡 요새
+MCID_A021_PREFIX: 21장
+MCID_A021: 불타는 폭포
+MCID_A022_PREFIX: 22장
+MCID_A022: 죽은 왕도
+MCID_A023_PREFIX: 23장
+MCID_A023: 암야 왕녀 카밀라
+MCID_A024_PREFIX: 24장
+MCID_A024: 성룡의 눈물
+MCID_A025_PREFIX: 25장
+MCID_A025: 박쥐의 정체
+MCID_A026_PREFIX: 26장
+MCID_A026: 암야 왕자 젠더
+MCID_A027_PREFIX: 27장
+MCID_A027: 암야왕 가론
+MCID_A028_PREFIX: 종장
+MCID_A028: 어둠이 물러나는 새벽
+MCID_B006_PREFIX: 6장
+MCID_B006: 어둠으로 나아가다
+MCID_B007_PREFIX: 7장
+MCID_B007: 들리지 않는 계시
+MCID_B008_PREFIX: 8장
+MCID_B008: 얼음 마을의 소녀
+MCID_B009_PREFIX: 9장
+MCID_B009: 다시 시작된 시련
+MCID_B010_PREFIX: 10장
+MCID_B010: 바라지 않던 재회
+MCID_B011_PREFIX: 11장
+MCID_B011: 무지개 현자
+MCID_B012_PREFIX: 12장
+MCID_B012: 어둠의 계략
+MCID_B013_PREFIX: 13장
+MCID_B013: 반란 진압
+MCID_B014_PREFIX: 14장
+MCID_B014: 낙원의 노랫소리
+MCID_B015_PREFIX: 15장
+MCID_B015: 서서히 무너지고
+MCID_B016_PREFIX: 16장
+MCID_B016: 백야 침공
+MCID_B017_PREFIX: 17장
+MCID_B017: 배신의 동굴
+MCID_B018_PREFIX: 18장
+MCID_B018: 흑과 백의 왕자
+MCID_B019_PREFIX: 19장
+MCID_B019: 여우족의 산
+MCID_B020_PREFIX: 20장
+MCID_B020: 바람 마을의 패자
+MCID_B021_PREFIX: 21장
+MCID_B021: 황천의 계단
+MCID_B022_PREFIX: 22장
+MCID_B022: 백야 왕녀 사쿠라
+MCID_B023_PREFIX: 23장
+MCID_B023: 사로잡힌 눈동자
+MCID_B024_PREFIX: 24장
+MCID_B024: 백야 왕녀 히노카
+MCID_B025_PREFIX: 25장
+MCID_B025: 백야 왕자 료마
+MCID_B026_PREFIX: 26장
+MCID_B026: 반역
+MCID_B027_PREFIX: 27장
+MCID_B027: 허울뿐인 왕
+MCID_B028_PREFIX: 종장
+MCID_B028: 빛이 사라지는 황혼
+MCID_C006_PREFIX: 6장
+MCID_C006: 틈새로 가라앉다
+MCID_C007_PREFIX: 7장
+MCID_C007: 알려지지 않은 세계
+MCID_C008_PREFIX: 8장
+MCID_C008: 배신자의 오명
+MCID_C009_PREFIX: 9장
+MCID_C009: 유랑
+MCID_C010_PREFIX: 10장
+MCID_C010: 신의 목소리
+MCID_C011_PREFIX: 11장
+MCID_C011: 공동의 적
+MCID_C012_PREFIX: 12장
+MCID_C012: 얼어붙은 바다
+MCID_C013_PREFIX: 13장
+MCID_C013: 잃어버린 낙원
+MCID_C014_PREFIX: 14장
+MCID_C014: 암야군 습격
+MCID_C015_PREFIX: 15장
+MCID_C015: 무지개 현자
+MCID_C016_PREFIX: 16장
+MCID_C016: 하얀 불꽃
+MCID_C017_PREFIX: 17장
+MCID_C017: 검은 불꽃
+MCID_C018_PREFIX: 18장
+MCID_C018: 보이지 않는 왕국
+MCID_C019_PREFIX: 19장
+MCID_C019: 황폐한 거리
+MCID_C020_PREFIX: 20장
+MCID_C020: 의혹의 씨앗
+MCID_C021_PREFIX: 21장
+MCID_C021: 가야 할 길
+MCID_C022_PREFIX: 22장
+MCID_C022: 어머니의 기억
+MCID_C023_PREFIX: 23장
+MCID_C023: 권속 아레테
+MCID_C024_PREFIX: 24장
+MCID_C024: 지난날의 모습
+MCID_C025_PREFIX: 25장
+MCID_C025: 다시 나타난 마검사
+MCID_C026_PREFIX: 26장
+MCID_C026: 투마왕
+MCID_C027_PREFIX: 27장
+MCID_C027: 묻히고 풍화되어
+MCID_C028_PREFIX: 종장
+MCID_C028: 투마룡 아난코스
+MCID_X001_PREFIX: 외전
+MCID_X001: 비극에 비치는 광명
+MCID_X002_PREFIX: 외전
+MCID_X002: 용의 피가 지닌 숙명
+MCID_X003_PREFIX: 외전
+MCID_X003: 가희와 함께
+MCID_X004_PREFIX: 외전
+MCID_X004: 싸우지 않는 이유
+MCID_X005_PREFIX: 외전
+MCID_X005: 마음이 통할 때
+MCID_X006_PREFIX: 외전
+MCID_X006: 소원을 이루어 주는 약초
+MCID_X007_PREFIX: 외전
+MCID_X007: 아버지를 따라
+MCID_X008_PREFIX: 외전
+MCID_X008: 사냥의 길
+MCID_X009_PREFIX: 외전
+MCID_X009: 사이조라는 이름
+MCID_X010_PREFIX: 외전
+MCID_X010: 사냥꾼과 사냥감
+MCID_X011_PREFIX: 외전
+MCID_X011: 사랑과 미움 사이
+MCID_X012_PREFIX: 외전
+MCID_X012: 잠을 방해하는 것
+MCID_X013_PREFIX: 외전
+MCID_X013: 완벽한 딸
+MCID_X014_PREFIX: 외전
+MCID_X014: 비술의 말로
+MCID_X015_PREFIX: 외전
+MCID_X015: 숨겨 둔 각오
+MCID_X016_PREFIX: 외전
+MCID_X016: 사로잡힌 왕자
+MCID_X017_PREFIX: 외전
+MCID_X017: 수호자
+MCID_X018_PREFIX: 외전
+MCID_X018: 특이한 부녀
+MCID_X019_PREFIX: 외전
+MCID_X019: 쓸쓸함, 거짓, 기쁨
+MCID_X020_PREFIX: 외전
+MCID_X020: 궁극 최강의 마도서
+MCID_X021_PREFIX: 외전
+MCID_X021: 위기에 피는 미소
+MCID_X022_PREFIX: 외전
+MCID_X022: 뜻밖의 조우
+MCID_AY01_PREFIX: 방어전 1
+MCID_AY01: 마이 캐슬
+MCID_AY02_PREFIX: 방어전 2
+MCID_AY02: 마이 캐슬
+MCID_AY03_PREFIX: 방어전 3
+MCID_AY03: 마이 캐슬
+MCID_BY01_PREFIX: 방어전 1
+MCID_BY01: 마이 캐슬
+MCID_BY02_PREFIX: 방어전 2
+MCID_BY02: 마이 캐슬
+MCID_BY03_PREFIX: 방어전 3
+MCID_BY03: 마이 캐슬
+MCID_CY01_PREFIX: 방어전 1
+MCID_CY01: 마이 캐슬
+MCID_CY02_PREFIX: 방어전 2
+MCID_CY02: 마이 캐슬
+MCID_CY03_PREFIX: 방어전 3
+MCID_CY03: 마이 캐슬
+MCID_M001_PREFIX: 영웅전
+MCID_M001: 영웅왕 마르스
+MCID_M002_PREFIX: 영웅전
+MCID_M002: 용사 아이크
+MCID_M003_PREFIX: 영웅전
+MCID_M003: 왕녀 루키나
+MCID_M004_PREFIX: 영웅전
+MCID_M004: 참모 러플레
+MCID_ENCOUNT_PREFIX: 조우전
+MCID_CASTLE: 마이 캐슬
+MCID_CASTLE_PREFIX: 통신전
+MCID_VERSUS_PREFIX: 통신 대전
+MCID_CHAPTER_AND_TITLE: $a$a0 $a1
+MCID_T_Z000: 확인의 땅
+MCID_T_A000: 백야 평원
+MCID_T_A001: 북쪽 성채
+MCID_T_A002: 암야성·알현의 방
+MCID_T_A003: 무한 계곡의 다리
+MCID_T_A004: 산속 마을
+MCID_T_A005: 백야 왕도·광장
+MCID_T_A006: 백야 평원
+MCID_T_A007: 텐진 요새
+MCID_T_A008: 바람 부족의 마을
+MCID_T_A009: 이즈모 공국 성내
+MCID_T_A010: 후마의 숲
+MCID_T_A011: 백야 해역
+MCID_T_A012: 오페라 극장
+MCID_T_A013: 슈바리에 시가
+MCID_T_A014: 국경의 성벽
+MCID_T_A015: 늑대 인간의 봉우리
+MCID_T_A016: 마카라스 궁전 외곽
+MCID_T_A017: 얼음 부족의 마을
+MCID_T_A018: 천개의 숲
+MCID_T_A019: 칠층탑
+MCID_T_A020: 흑룡 요새
+MCID_T_A021: 데몬 폴
+MCID_T_A022: 암야 왕도 시가
+MCID_T_A023: 지하 통로
+MCID_T_A024: 암야성·연병장
+MCID_T_A025: 암야성·대계단
+MCID_T_A026: 암야성·무투의 방
+MCID_T_A027: 암야성·왕의 방
+MCID_T_A028: 암야성·왕의 방
+MCID_T_B006: 백야 평원
+MCID_T_B007: 사령의 늪
+MCID_T_B008: 얼음 부족의 마을
+MCID_T_B009: 폐허가 된 흑룡 요새
+MCID_T_B010: 항구 마을 디아
+MCID_T_B011: 칠층탑
+MCID_T_B012: 마카라스 궁전
+MCID_T_B013: 슈바리에 시가
+MCID_T_B014: 오페라 극장
+MCID_T_B015: 폐허가 된 마을
+MCID_T_B016: 암야 해역
+MCID_T_B017: 후마의 동굴
+MCID_T_B018: 이즈모 공국 성내
+MCID_T_B019: 여우족의 마을
+MCID_T_B020: 바람 부족의 마을
+MCID_T_B021: 황천의 계단
+MCID_T_B022: 텐진 요새 앞
+MCID_T_B023: 스사노오 장성
+MCID_T_B024: 백야 왕도 시가
+MCID_T_B025: 백야성·대회합실
+MCID_T_B026: 백야성·왕의 방 앞
+MCID_T_B027: 백야성·왕의 방
+MCID_T_B028: 백야성·왕의 방
+MCID_T_C006: 백야 평원
+MCID_T_C007: 어둠의 계곡
+MCID_T_C008: 텐진 요새
+MCID_T_C009: 바람 부족의 마을
+MCID_T_C010: 이즈모 공국 시가
+MCID_T_C011: 후마의 숲
+MCID_T_C012: 얼음 바다
+MCID_T_C013: 파괴된 시가
+MCID_T_C014: 항구 마을 디아
+MCID_T_C015: 칠층탑
+MCID_T_C016: 불꽃의 틈
+MCID_T_C017: 무한 계곡
+MCID_T_C018: 부유섬
+MCID_T_C019: 폐허가 된 마을
+MCID_T_C020: 이어진 기암군
+MCID_T_C021: 저주받은 지하 유적
+MCID_T_C022: 미혹의 숲
+MCID_T_C023: 흔들 다리
+MCID_T_C024: 투마성·지하
+MCID_T_C025: 투마성·시련의 방
+MCID_T_C026: 투마성·왕의 방
+MCID_T_C027: 투마성·붕괴
+MCID_T_C028: 투마성·붕괴
+MCID_T_X001: 작은 마을
+MCID_T_X002: 비경의 비밀 마을
+MCID_T_X003: 성계의 바다
+MCID_T_X004: 비경의 비밀 집
+MCID_T_X005: 강가 마을
+MCID_T_X006: 신룡의 숲
+MCID_T_X007: 하얀 사막
+MCID_T_X008: 비경의 산
+MCID_T_X009: 도적의 아지트
+MCID_T_X010: 밀렵의 숲
+MCID_T_X011: 황폐한 땅
+MCID_T_X012: 비경의 마을
+MCID_T_X013: 잔잔한 강
+MCID_T_X014: 비경의 묘지
+MCID_T_X015: 비경의 습지대
+MCID_T_X016: 교역 마을
+MCID_T_X017: 황폐한 땅의 마을
+MCID_T_X018: 깊숙한 산야
+MCID_T_X019: 산지의 요새
+MCID_T_X020: 고서의 마을
+MCID_T_X021: 돌벽의 마을
+MCID_T_X022: 부호의 저택
+MCID_T_AY01: 마이 캐슬
+MCID_T_AY02: 마이 캐슬
+MCID_T_AY03: 마이 캐슬
+MCID_T_BY01: 마이 캐슬
+MCID_T_BY02: 마이 캐슬
+MCID_T_BY03: 마이 캐슬
+MCID_T_CY01: 마이 캐슬
+MCID_T_CY02: 마이 캐슬
+MCID_T_CY03: 마이 캐슬
+MCID_T_M001: 백야 평원
+MCID_T_M002: 백야 평원
+MCID_T_M003: 백야 평원
+MCID_T_M004: 백야 평원
+MCID_T_E000: 용의 문
+MCID_RULE_ENCOUNT: 적 전멸
+MCID_RULE_CASTLE_OF: 제압 또는 적 전멸
+MCID_RULE_CASTLE_DF: 왕좌를 방어하고 적 전멸
+MCID_RULE_A000: 적 격파
+MCID_RULE_A001: 적장 격파
+MCID_RULE_A002: 적 전멸
+MCID_RULE_A003: 제압
+MCID_RULE_A004: 적 전멸
+MCID_RULE_A005: 적 전멸
+MCID_RULE_A006: 적장 격파
+MCID_RULE_A007: 적 전멸
+MCID_RULE_A008: 적 전멸
+MCID_RULE_A009: 적 전멸
+MCID_RULE_A010: 적 전멸
+MCID_RULE_A011: 적 전멸
+MCID_RULE_A012: 주인공 돌파
+MCID_RULE_A013: 적 전멸
+MCID_RULE_A014: 적장 격파
+MCID_RULE_A015: 적 전멸
+MCID_RULE_A016: 적 전멸
+MCID_RULE_A017: 적 전멸
+MCID_RULE_A018: 적장 격파
+MCID_RULE_A019: 적 전멸
+MCID_RULE_A020: 적장 격파
+MCID_RULE_A021: 적장 격파
+MCID_RULE_A022: 적 전멸
+MCID_RULE_A023: 적 전멸
+MCID_RULE_A024: 적장 격파
+MCID_RULE_A025: 적장 격파
+MCID_RULE_A026: 적장 격파
+MCID_RULE_A027: 적장 격파
+MCID_RULE_A028: 적장 격파
+MCID_RULE_B006: 적 4기 격파
+MCID_RULE_B007: 적 전멸
+MCID_RULE_B008: 적장 격파
+MCID_RULE_B009: 제압
+MCID_RULE_B010: 11턴간 녹색 지역을 방어
+MCID_RULE_B011: 적장 격파
+MCID_RULE_B012: 16턴 이내 주인공 돌파 또는 적장 격파
+MCID_RULE_B012_TELOP: 16턴 이내\n주인공 돌파 또는 적장 돌파
+MCID_RULE_B013: 적 전멸
+MCID_RULE_B014: 적장 격파
+MCID_RULE_B015: 20턴 이내 모든 아군 이탈 또는 적장 격파
+MCID_RULE_B015_TELOP: 20턴 이내\n모든 아군 이탈 또는 적장 격파
+MCID_RULE_B016: 적장 격파
+MCID_RULE_B017: 적장 격파
+MCID_RULE_B018: 20턴 이내 모든 적장 격파
+MCID_RULE_B019: 적 전멸
+MCID_RULE_B020: 제압
+MCID_RULE_B021: 모든 아군 돌파
+MCID_RULE_B022: 제압
+MCID_RULE_B023: 제압
+MCID_RULE_B024: 제압
+MCID_RULE_B025: 적장 격파
+MCID_RULE_B026: 제압
+MCID_RULE_B027: 적장 격파
+MCID_RULE_B028: 적장 격파
+MCID_RULE_C006: 5턴 이내 적장 2기 격파
+MCID_RULE_C007: 제압
+MCID_RULE_C008: 적장 격파
+MCID_RULE_C009: 제압
+MCID_RULE_C010: 제압
+MCID_RULE_C011: 적 전멸
+MCID_RULE_C012: 적장 격파
+MCID_RULE_C013: 적장 격파
+MCID_RULE_C014: 적 전멸
+MCID_RULE_C015: 제압
+MCID_RULE_C016: 적장 격파
+MCID_RULE_C017: 제압
+MCID_RULE_C018: 적장 격파
+MCID_RULE_C019: 20턴 이내 모든 아군 이탈 또는 적장 격파
+MCID_RULE_C019_TELOP: 20턴 이내\n모든 아군 이탈 또는 적장 격파
+MCID_RULE_C020: 적장 격파
+MCID_RULE_C021: 적장 격파
+MCID_RULE_C022: 제압
+MCID_RULE_C023: 제압
+MCID_RULE_C024: 적장을 찾아 격파
+MCID_RULE_C025: 적장 격파
+MCID_RULE_C026: 적장 격파
+MCID_RULE_C027: 적장 격파
+MCID_RULE_C028: 적장 격파
+MCID_RULE_X001: 적 전멸
+MCID_RULE_X002: 적 전멸
+MCID_RULE_X003: 적장 격파
+MCID_RULE_X004: 적장 격파
+MCID_RULE_X005: 적장 격파
+MCID_RULE_X006: 적장 격파
+MCID_RULE_X007: 적 전멸
+MCID_RULE_X008: 적 전멸
+MCID_RULE_X009: 아스기 이탈 전, 적장 격파
+MCID_RULE_X010: 적 전멸
+MCID_RULE_X011: 적 전멸
+MCID_RULE_X012: 적 전멸
+MCID_RULE_X013: 적 전멸
+MCID_RULE_X014: 적 전멸
+MCID_RULE_X015: 모든 용맥 기동 후, 적 전멸
+MCID_RULE_X016: 적 전멸
+MCID_RULE_X017: 적 전멸
+MCID_RULE_X018: 적 전멸
+MCID_RULE_X019: 적 전멸
+MCID_RULE_X020: 적 전멸
+MCID_RULE_X021: 적 전멸
+MCID_RULE_X022: 니나 이탈 전, 적 전멸
+MCID_RULE_AY01: 옥좌를 방어하고 적 전멸
+MCID_RULE_AY02: 옥좌를 방어하고 적 전멸
+MCID_RULE_AY03: 옥좌를 방어하고 적 전멸
+MCID_RULE_BY01: 옥좌를 방어하고 적 전멸
+MCID_RULE_BY02: 옥좌를 방어하고 적 전멸
+MCID_RULE_BY03: 옥좌를 방어하고 적 전멸
+MCID_RULE_CY01: 옥좌를 방어하고 적 전멸
+MCID_RULE_CY02: 옥좌를 방어하고 적 전멸
+MCID_RULE_CY03: 옥좌를 방어하고 적 전멸
+MCID_RULE_M001: 적 전멸
+MCID_RULE_M002: 적 전멸
+MCID_RULE_M003: 적 전멸
+MCID_RULE_M004: 적 전멸
+MCID_DRAGONLINE_H_A000: 화염으로 강을 마르게\n하여 평지로 바꾼다
+MCID_DRAGONLINE_H_A001: 바닥을 변화시켜\n회복 바닥으로 바꾼다
+MCID_DRAGONLINE_H_A002: 바람으로 잔해를 날려\n회복 바닥으로 바꾼다
+MCID_DRAGONLINE_H_A003: 무너진 바위를 복원해\n다리로 바꾼다
+MCID_DRAGONLINE_H_A004: 화염으로 설산을\n무너뜨려 평지로 바꾼다
+MCID_DRAGONLINE_H_A006: 화염으로 강을 마르게\n하여 평지로 바꾼다
+MCID_DRAGONLINE_H_A007: 바닥을 변화시켜\n회복 바닥으로 바꾼다
+MCID_DRAGONLINE_H_A008: 사막에 풀을 심어\n평지로 바꾼다
+MCID_DRAGONLINE_H_A009: 수목의 치유의 힘으로\n전 아군을 회복시킨다
+MCID_DRAGONLINE_H_A010: 죽창 함정을 작동시킨다\n매 턴 전원에게 대미지
+MCID_DRAGONLINE_H_A011: 폭풍 지형으로 바꾼다\n비행계만 이동 곤란
+MCID_DRAGONLINE_H_A012: 얼음 언덕으로 만들어\n이동할 수 있게 만든다
+MCID_DRAGONLINE_H_A013: 번개를 내려 범위 내\n전원의 HP를 1로 한다
+MCID_DRAGONLINE_H_A014: 지진으로 적 전원에게\n대미지를 준다
+MCID_DRAGONLINE_H_A015: 호우로 적 능력 감소\n턴 회복
+MCID_DRAGONLINE_H_A017: 호수를 얼려\n평지로 바꾼다
+MCID_DRAGONLINE_H_A018: 암흑 늪으로 바꾸어\n암야이외 매 턴 대미지
+MCID_DRAGONLINE_H_A020: 강한 산성의 독 늪을\n일반 바닥으로 바꾼다
+MCID_DRAGONLINE_H_A021: 갈 길을 열거나 주위를\n용암 바닥으로 바꾼다
+MCID_DRAGONLINE_H_A022: 범위 내의 아군을\n회복시킨다
+MCID_DRAGONLINE_H_A023: 폭발로 범위 내의\n적에게 큰 대미지
+MCID_DRAGONLINE_H_A024: 토네이도 지형으로 변경\n비행계만 이동 곤란
+MCID_DRAGONLINE_H_A025: 부식의 바람으로 적의\n소지품을 없애 버린다
+MCID_DRAGONLINE_H_A028: 죽음의 바닥으로 바꾼다\n암야룡 매 턴 HP 흡수
+MCID_DRAGONLINE_H_B006: 화염으로 강을 마르게\n하여 평지로 바꾼다
+MCID_DRAGONLINE_H_B008: 얼음을 녹여 호수로\n바꾼다(1턴)
+MCID_DRAGONLINE_H_B009: 강한 산성비로\n전원에게 대미지를 준다
+MCID_DRAGONLINE_H_B010: 바다를 썰물로 만들어\n평지로 바꾼다
+MCID_DRAGONLINE_H_B012: 지진을 일으켜\n항아리를 모두 깬다
+MCID_DRAGONLINE_H_B015: 본인과 목숨을 공유하는\n분신을 만든다
+MCID_DRAGONLINE_H_B017: 동굴 내의 길을\n막거나 연다
+MCID_DRAGONLINE_H_B020: 모두를 강제 이동시키는\n바람이 멎는다
+MCID_DRAGONLINE_H_B020_NORMAL: 적을 강제 이동시키는\n바람이 멎는다
+MCID_DRAGONLINE_H_B021: 적을 이동 불가로\n만든다 1턴 지속
+MCID_DRAGONLINE_H_B022: 흙 언덕을 평지로 바꾼다\n사쿠라가 쓰면?
+MCID_DRAGONLINE_H_B022_NORMAL: 흙 언덕을\n평지로 바꾼다
+MCID_DRAGONLINE_H_B024: 비행계 이동 감소, 기타\n증가, 히노카가 쓰면…?
+MCID_DRAGONLINE_H_B025: 회복 효과를 없애고\n회피하기 어렵게 한다
+MCID_DRAGONLINE_H_B028: 적장의 전체 공격을\n막는 벽을 만든다
+MCID_DRAGONLINE_H_C006: 화염으로 강을 마르게\n하여 평지로 바꾼다
+MCID_DRAGONLINE_H_C008: 바닥을 변화시켜\n회복 바닥으로 바꾼다
+MCID_DRAGONLINE_H_C009: 모두를 강제 이동시키는\n바람이 멎는다
+MCID_DRAGONLINE_H_C009_NORMAL: 적을 강제 이동시키는\n바람이 멎는다
+MCID_DRAGONLINE_H_C011: 죽창 지형을\n평지로 바꾼다
+MCID_DRAGONLINE_H_C012: 바다에 얼음 덩어리를\n띄워 길로 바꾼다
+MCID_DRAGONLINE_H_C013: 물 지대의 수위를 낮춰\n평지로 바꾼다
+MCID_DRAGONLINE_H_C014: 바다를 썰물로 만들어\n평지로 바꾼다
+MCID_DRAGONLINE_H_C016: 화염을 뿜거나\n없앨 수 있다
+MCID_DRAGONLINE_H_C018: 석상을 서서히 파괴해\n마법진으로 바꾼다
+MCID_DRAGONLINE_H_C019: 본인과 목숨을 공유하는\n분신을 만든다
+MCID_DRAGONLINE_H_C020: 다리와 그 위의 유닛을\n통째로 순간 이동시킨다
+MCID_DRAGONLINE_H_C021: 빨간 바닥과\n파란 바닥을 바꾼다
+MCID_DRAGONLINE_H_C022: 깊은 숲을 불태워\n숲으로 바꾼다
+MCID_DRAGONLINE_H_C025: 적장으로의 길을 막는\n쇠사슬을 하나 자른다
+MCID_DRAGONLINE_H_C026: 물 지대에 얼음을 깔아\n적 증원 등장을 막는다
+MCID_DRAGONLINE_H_C027: 물 지대를 마르게 하여\n회복 바닥으로 바꾼다
+MCID_DRAGONLINE_H_X002: 해자의 물을 불리거나\n말리거나 한다
+MCID_DRAGONLINE_H_X006: 깊은 숲을 불태워\n평지로 바꾼다
+MCID_DRAGONLINE_H_X007: 사막에 풀을 심어\n평지로 바꾼다
+MCID_DRAGONLINE_H_X009: 벽을 파괴하여\n바닥으로 바꾼다
+MCID_DRAGONLINE_H_X012: 강을 얼려\n평지로 바꾼다
+MCID_DRAGONLINE_H_X014: 독 늪을 평지로 바꾼다
+MCID_DRAGONLINE_H_X015: 숲과 물 지대를 조종해\n적 증원을 막는다
+MCID_DRAGONLINE_H_X018: 적 아군 전체가 마법과\n지팡이 사용 불가(1턴)
+MCID_DRAGONLINE_H_X018_NORMAL: 적 전원이 마법과\n지팡이 사용 불가(1턴)
+MCID_DRAGONLINE_H_X019: 범위 내 적에게 겁을 줘\n맵에서 이탈시킨다
+MJID_不明: 이계의 병과
+MJID_ダークブラッド: 다크 블러드
+MJID_ダークプリンス: 다크 프린스
+MJID_ダークプリンセス: 다크 프린세스
+MJID_白の血族: 백의 혈족
+MJID_パラディン: 팔라딘
+MJID_ソシアルナイト: 소셜 나이트
+MJID_グレートナイト: 그레이트 나이트
+MJID_アーマーナイト: 아머 나이트
+MJID_ジェネラル: 제너럴
+MJID_バーサーカー: 버서커
+MJID_アクスファイター: 액스 파이터
+MJID_ブレイブヒーロー: 브레이브 히어로
+MJID_マーシナリー: 머서너리
+MJID_ボウナイト: 보우 나이트
+MJID_シーフ: 시프
+MJID_アドベンチャラー: 어드벤처러
+MJID_剣聖: 검성
+MJID_侍: 사무라이
+MJID_兵法者: 병법가
+MJID_修羅: 수라
+MJID_鬼人: 귀인
+MJID_鍛冶: 대장장이
+MJID_槍聖: 창성
+MJID_槍術士: 창술사
+MJID_婆娑羅: 바사라
+MJID_呪い師: 주술사
+MJID_陰陽師: 음양사
+MJID_修験者: 수행자
+MJID_巫女: 무녀
+MJID_山伏: 도사
+MJID_戦巫女: 전투 무녀
+MJID_聖天馬武者: 성 천마 무사
+MJID_天馬武者: 천마 무사
+MJID_金鵄武者: 킨시 무사
+MJID_弓使い: 궁수
+MJID_弓聖: 궁성
+MJID_ドラゴンマスター: 드래곤 마스터
+MJID_ドラゴンナイト: 드래곤 나이트
+MJID_レヴナントナイト: 레버넌트 나이트
+MJID_上忍: 상급 닌자
+MJID_忍: 닌자
+MJID_絡繰師: 인형사
+MJID_薬商人: 약사
+MJID_大商人: 거상
+MJID_ソーサラー: 소서러
+MJID_ダークマージ: 다크 메이지
+MJID_ダークナイト: 다크 나이트
+MJID_ストラテジスト: 스트래터지스트
+MJID_ロッドナイト: 로드 나이트
+MJID_バトラー: 버틀러
+MJID_メイド: 메이드
+MJID_ガルー: 늑대 인간
+MJID_マーナガルム: 늑대 괴인
+MJID_妖狐: 여우족
+MJID_九尾の狐: 구미호
+MJID_歌姫: 가희
+MJID_村人: 마을 사람
+MJID_ランサー: 랜서
+MJID_ノスフェラトゥ: 노스페라투
+MJID_ゴーレム: 골렘
+MJID_絡繰人形: 꼭두각시
+MJID_ダークロード: 다크 로드
+MJID_竜: 용
+MJID_星竜: 성룡
+MJID_暗夜竜: 암야룡
+MJID_透魔竜: 투마룡
+MJID_水の眷属: 물의 권속
+MJID_魔戦士: 마전사
+MJID_ダークペガサス: 다크 팔콘
+MJID_シューター: 슈터
+MJID_魔女: 마녀
+MJID_スターロード: 스타 로드
+MJID_ヴァンガード: 뱅가드
+MJID_マスターロード: 마스터 로드
+MJID_神軍師: 참모
+MJID_ダミー: 더미
+MJID_INTRO_ダークブラッド: Dark Blood
+MJID_INTRO_ダークプリンス: Dark Prince
+MJID_INTRO_ダークプリンセス: Dark Princess
+MJID_INTRO_白の血族: Light Blood
+MJID_INTRO_パラディン: Paladin
+MJID_INTRO_ソシアルナイト: Social Knight
+MJID_INTRO_グレートナイト: Great Knight
+MJID_INTRO_アーマーナイト: Armor Knight
+MJID_INTRO_ジェネラル: General
+MJID_INTRO_バーサーカー: Berserker
+MJID_INTRO_アクスファイター: Axe Fighter
+MJID_INTRO_ブレイブヒーロー: Brave Hero
+MJID_INTRO_マーシナリー: Mercenary
+MJID_INTRO_ボウナイト: Bow Knight
+MJID_INTRO_シーフ: Thief
+MJID_INTRO_アドベンチャラー: Adventurer
+MJID_INTRO_剣聖: Sword Master
+MJID_INTRO_侍: Samurai
+MJID_INTRO_兵法者: Battle Master
+MJID_INTRO_修羅: Oni Chieftain
+MJID_INTRO_鬼人: Oni Savage
+MJID_INTRO_鍛冶: Blacksmith
+MJID_INTRO_槍聖: Spear Master
+MJID_INTRO_槍術士: Spear Fighter
+MJID_INTRO_婆娑羅: Basara
+MJID_INTRO_呪い師: Shaman
+MJID_INTRO_陰陽師: Onmyoji
+MJID_INTRO_修験者: Monk
+MJID_INTRO_巫女: Shrine Maiden
+MJID_INTRO_山伏: Great Master
+MJID_INTRO_戦巫女: Priestess
+MJID_INTRO_聖天馬武者: Falcon Knight
+MJID_INTRO_天馬武者: Pegasus Knight
+MJID_INTRO_金鵄武者: Kinsi Knight
+MJID_INTRO_弓使い: Bow Fighter
+MJID_INTRO_弓聖: Bow Master
+MJID_INTRO_ドラゴンマスター: Dragon Master
+MJID_INTRO_ドラゴンナイト: Dragon Knight
+MJID_INTRO_レヴナントナイト: Revenant Knight
+MJID_INTRO_上忍: Ninja Master
+MJID_INTRO_忍: Ninja
+MJID_INTRO_絡繰師: Mechanist
+MJID_INTRO_薬商人: Apothecary
+MJID_INTRO_大商人: Merchant
+MJID_INTRO_ソーサラー: Sorcerer
+MJID_INTRO_ダークマージ: Dark Mage
+MJID_INTRO_ダークナイト: Dark Knight
+MJID_INTRO_ストラテジスト: Strategist
+MJID_INTRO_ロッドナイト: Rod Knight
+MJID_INTRO_バトラー: Butler
+MJID_INTRO_メイド: Maid
+MJID_INTRO_ガルー: Wolfskin
+MJID_INTRO_マーナガルム: Wolfssegner
+MJID_INTRO_妖狐: Kitsune
+MJID_INTRO_九尾の狐: Nine-Tails
+MJID_INTRO_歌姫: Singer
+MJID_INTRO_村人: Villager
+MJID_INTRO_ランサー: Lancer
+MJID_INTRO_ノスフェラトゥ: Nosferatu
+MJID_INTRO_ゴーレム: Golem
+MJID_INTRO_絡繰人形: Automaton
+MJID_INTRO_ダークロード: Dark Lord
+MJID_INTRO_魔戦士: Magic Warrior
+MJID_INTRO_ダークペガサス: Dark Falcon
+MJID_INTRO_ダミー: 더미
+MJID_H_不明: 용의 문에서 나타났다는 의문의 병과.
+MJID_H_ダークブラッド: 암야의 마음을 지닌 자. 고귀한 피의 왕족.\n검과 용석에 더해 마도서를 사용한다.
+MJID_H_ダークプリンス: 암야 왕국의 장비를 두른 왕족.\n그 몸은 용의 힘을 품고 있다.
+MJID_H_ダークプリンセス: 암야 왕국의 장비를 두른 왕족.\n그 몸은 용의 힘을 품고 있다.
+MJID_H_白の血族: 백야의 마음을 지닌 자. 고귀한 피의 왕족.\n도와 용석에 더해 지팡이를 사용한다.
+MJID_H_パラディン: 암야의 병과. 용감한 고위 기사.\n소셜 나이트보다 뛰어난 능력을 지닌다.
+MJID_H_ソシアルナイト: 암야의 병과. 말 위에서 싸우는 기사.\n검과 창을 모두 사용할 수 있다.
+MJID_H_グレートナイト: 암야의 병과. 중장비를 걸친 말 위의 기사.\n검, 창, 도끼를 모두 다룬다.
+MJID_H_アーマーナイト: 암야의 병과. 무거운 갑옷을 두른 보병.\n이동은 느리지만 수비가 단단하다.
+MJID_H_ジェネラル: 암야의 병과. 갑옷으로 몸을 두른 장군.\n수비가 극도로 좋다.
+MJID_H_バーサーカー: 암야의 병과. 도끼를 휘두르는 광전사.\n필살의 일격이 특기다.
+MJID_H_アクスファイター: 암야의 병과. 체력이 좋은 도끼 전사.\n공격은 강하지만 방어가 약하다.
+MJID_H_ブレイブヒーロー: 암야의 병과. 용감하기로 유명한 용사.\n검과 도끼를 상황에 맞춰 쓴다.
+MJID_H_マーシナリー: 암야의 병과. 주어진 임무를 달성하는\n용병. 밸런스가 좋고, 특히 기술이 좋다.
+MJID_H_ボウナイト: 암야의 병과. 말 위에서 활을 쓰는 기사.\n활 외에도 검을 다룰 줄도 안다.
+MJID_H_シーフ: 암야의 병과. 자물쇠 열기가 특기.\n활을 쓰고 속도와 마방이 뛰어나다.
+MJID_H_アドベンチャラー: 암야의 병과. 유적 보물을 찾는 모험가.\n활과 지팡이로 다양한 활약을 한다.
+MJID_H_剣聖: 백야의 병과. 도의 경지에 오른 자.\n속도와 회피가 상당히 높다.
+MJID_H_侍: 백야의 병과. 도의 길을 가는 자.\n속도를 활용한 전투가 특기다.
+MJID_H_兵法者: 백야의 병과. 다양한 적들과 전투한다.\n도·월도·곤봉을 자유자재로 다룬다.
+MJID_H_修羅: 백야의 병과. 귀인을 넘은 귀신 같은 전사.\n곤봉과 부채로 모든 적을 분쇄한다.
+MJID_H_鬼人: 백야의 병과. 곤봉을 쓰는 귀신 같은 전사.\n힘과 수비가 뛰어나다.
+MJID_H_鍛冶: 백야의 병과. 무기를 제작하는 장인.\n도와 곤봉을 쓰며, 기술이 뛰어나다.
+MJID_H_槍聖: 백야의 병과. 월도의 경지에 오른 자.\n안정된 능력을 지니고 있다.
+MJID_H_槍術士: 백야의 병과. 월도의 길을 가는 자.\n적의 수비를 무너뜨리는 것이 특기.
+MJID_H_婆娑羅: 백야의 병과. 기발하고 튀는 삶을 사는 자.\n월도와 부채로 적을 교란시킨다.
+MJID_H_呪い師: 백야의 병과. 주술을 수양하는 자.\n부채를 이용해 백야의 술법을 사용한다.
+MJID_H_陰陽師: 백야의 병과. 다양한 주술과 학문 깨친 자.\n부채와 지팡이, 양쪽 지식에 정통하다.
+MJID_H_修験者: 백야의 병과. 깨달음을 위해 수행하는 자.\n지팡이로 동료를 치료할 수 있다.
+MJID_H_巫女: 백야의 병과. 신을 섬기며 인간을 치유하는\n여성. 지팡이로 동료를 치료할 수 있다.
+MJID_H_山伏: 백야의 병과. 고행 끝에 깨달음을 얻은 자.\n지팡이로 치료하고 월도로 적을 벤다.
+MJID_H_戦巫女: 백야의 병과. 신과 인간을 위해 싸운다.\n지팡이로 치료하고 장궁으로 적을 쏜다.
+MJID_H_聖天馬武者: 백야의 병과. 고위 천마 무사.\n월도 외에 지팡이로 동료를 지원한다.
+MJID_H_天馬武者: 백야의 병과. 천마를 다루는 하늘의\n무사. 속도, 마방이 뛰어나다.
+MJID_H_金鵄武者: 백야의 병과. 전설의 새, 킨시를 다룬다.\n월도와 장궁을 이용한 공중전에 뛰어나다.
+MJID_H_弓使い: 백야의 병과. 장궁의 길을 가는 자.\n기술이 뛰어나다.
+MJID_H_弓聖: 백야의 병과. 장궁의 경지에 오른 자.\n명중과 필살이 뛰어나다.
+MJID_H_ドラゴンマスター: 암야의 병과. 고위 용 기사. 도끼와\n창을 다루며 적군을 파괴시킨다.
+MJID_H_ドラゴンナイト: 암야의 병과. 비룡을 다루는 용 기사.\n힘과 수비가 뛰어나다.
+MJID_H_レヴナントナイト: 암야의 병과. 마룡을 다루는 마룡 기사.\n도끼와 마도서로 적군을 유린한다.
+MJID_H_上忍: 백야의 병과. 닌자들의 대장.\n수리검과 도로 표적을 처리한다.
+MJID_H_忍: 백야의 병과. 비밀 임무를 수행한다.\n수리검으로 적을 공격, 약화시킨다.
+MJID_H_絡繰師: 백야의 병과. 꼭두각시를 만드는 장인.\n수리검과 장궁을 잘 다룬다.
+MJID_H_薬商人: 백야의 병과. 약에 대해 박식한 약사.\n장궁으로 자신의 몸을 지킨다.
+MJID_H_大商人: 백야의 병과. 수완이 좋은 장사꾼.\n장궁과 월도로 자신의 몸과 부를 지킨다.
+MJID_H_ソーサラー: 암야의 병과. 심오한 경지에 오른\n고위 술사. 마력이 굉장히 높다.
+MJID_H_ダークマージ: 암야의 병과. 암야의 술법을 배운 술사.\n마도서로 적을 공격한다.
+MJID_H_ダークナイト: 암야의 병과. 마를 깃들게 한 마도 기사.\n검과 마도서, 양쪽 모두 사용한다.
+MJID_H_ストラテジスト: 암야의 병과. 마상에서 지휘하는 전술가.\n마도서와 지팡이로 전투를 이끈다.
+MJID_H_ロッドナイト: 암야의 병과. 전투력은 없다.\n지팡이로 동료를 치료한다.
+MJID_H_バトラー: 암야의 병과. 주인을 위해 싸우는 집사.\n지팡이로 치료하고 암기로 주인을 지킨다.
+MJID_H_メイド: 암야의 병과. 주인을 위해 싸우는 하녀.\n지팡이로 치료하고 암기로 주인을 지킨다.
+MJID_H_ガルー: 암야의 병과. 전설의 식인 늑대 인간.\n힘과 속도가 뛰어나다.
+MJID_H_マーナガルム: 암야의 병과. 보다 강인한 고위 늑대 인간.\n늑대 인간보다 뛰어난 능력을 지닌다.
+MJID_H_妖狐: 백야의 병과. 사람으로 둔갑한다는 여우.\n속도와 마방이 뛰어나다.
+MJID_H_九尾の狐: 백야의 병과. 강한 영력의 고위 여우.\n여우족보다 뛰어난 능력을 지닌다.
+MJID_H_歌姫: 아름다운 노래로 마음을 보듬는 여성.\n노래하여 동료를 다시 움직이게 한다.
+MJID_H_村人: 백야의 병과. 마을에 사는 평범한 사람들.\n전투 시, 월도를 들고 싸운다.
+MJID_H_ランサー: 암야의 병과. 일반적인 병사.\n창을 이용해 싸운다.
+MJID_H_ノスフェラトゥ: 죽은 괴물.\n주먹으로 상대를 내리쳐 공격한다.
+MJID_H_ゴーレム: 마도의 힘으로 움직이는 석상.\n멀리 떨어진 곳에 바위를 던져 공격한다.
+MJID_H_絡繰人形: 조종당하여 움직이는 꼭두각시.\n장궁 외에 톱으로 공격할 때도 있다.
+MJID_H_ダークロード: 암야 왕국의 국왕.\n암룡의 피를 짙게 계승하고 있다.
+MJID_H_竜: 정체불명의 용.\n신과 같은 힘을 지녔다고 한다.
+MJID_H_星竜: 성계에 사는 성룡. 무수히 많은\n작은 세계를 지닌다고 한다.
+MJID_H_暗夜竜: 암야 왕국의 암룡. 암룡의 피를\n짙게 계승한 가론이 변한 모습.
+MJID_H_透魔竜: 신조룡의 하나. 물을 관장한다. 미래를\n보는 힘과 마음을 조종하는 힘을 지녔다.
+MJID_H_水の眷属: 정체불명의 물의 괴물. 깊은 상처를\n입으면 흩날리며 피해를 입힌다.
+MJID_H_魔戦士: 백야의 병과. 특수 전투 기술을 익힌 자.\n도·곤봉·수리검을 자유롭게 다룬다.
+MJID_H_ダークペガサス: 암야의 병과. 칠흑의 천마를 다루는 기사.\n창과 마도서로 전장을 가른다.
+MJID_H_シューター: 이계의 병과. 이동 포대를 다루는 포수.\n활 외에도 포대로 광범위하게 공격한다.
+MJID_H_魔女: 이계의 병과. 공간을 다루는 자.\n마법 외에 워프로 장거리 이동을 한다.
+MJID_H_スターロード: 이계의 병과. 전설 속에 등장하는 왕.\n검을 휘두르며 싸운다.
+MJID_H_ヴァンガード: 이계의 병과. 최전선에서 싸우는 장군.\n검과 도끼를 다룰 수 있다.
+MJID_H_マスターロード: 이계의 병과. 군을 통솔하는 왕족.\n검과 함께 창도 사용한다.
+MJID_H_神軍師: 이계의 병과. 천재적인 지휘력을\n자랑하는 참모. 검과 마법을 사용한다.
+MSEID_不明: 【이계의 스킬】
+MSEID_無し: 없음
+MSEID_最大HP+5: 【최대HP+5】
+MSEID_力+2: 【힘+2】
+MSEID_魔力+2: 【마력+2】
+MSEID_技+2: 【기술+2】
+MSEID_速さ+2: 【속도+2】
+MSEID_幸運+4: 【행운+4】
+MSEID_守備+2: 【수비+2】
+MSEID_魔防+2: 【마방+2】
+MSEID_移動+1: 【이동+1】
+MSEID_竜呪: 【용의 저주】
+MSEID_力封じ: 【힘 봉인】
+MSEID_魔力封じ: 【마력 봉인】
+MSEID_速さ封じ: 【속도 봉인】
+MSEID_守備封じ: 【수비 봉인】
+MSEID_魔防封じ: 【마방 봉인】
+MSEID_力の叫び: 【힘의 외침】
+MSEID_魔力の叫び: 【마력의 외침】
+MSEID_技の叫び: 【기술의 외침】
+MSEID_速さの叫び: 【속도의 외침】
+MSEID_幸運の叫び: 【행운의 외침】
+MSEID_守備の叫び: 【수비의 외침】
+MSEID_魔防の叫び: 【마방의 외침】
+MSEID_移動の叫び: 【이동의 외침】
+MSEID_特別な歌: 【특별한 노래】
+MSEID_滅殺: 【멸살】
+MSEID_流星: 【유성】
+MSEID_竜穿: 【용의 창】
+MSEID_太陽: 【태양】
+MSEID_月光: 【월광】
+MSEID_破天: 【파천】
+MSEID_復讐: 【복수】
+MSEID_大盾: 【거대한 방패】
+MSEID_聖盾: 【성스러운 방패】
+MSEID_竜盾: 【용의 방패】
+MSEID_祈り: 【기도】
+MSEID_カウンター: 【카운터】
+MSEID_魔法カウンター: 【마법 카운터】
+MSEID_待ち伏せ: 【매복】
+MSEID_獣特効: 【야수 특효】
+MSEID_人形崩し: 【인형 부수기】
+MSEID_暗夜: 【암야】
+MSEID_白夜: 【백야】
+MSEID_救出: 【구출】
+MSEID_体当たり: 【박치기】
+MSEID_切り込み: 【파고들기】
+MSEID_入れ替え: 【바꾸기】
+MSEID_写し身人形: 【분신 인형】
+MSEID_先手必勝: 【선수 필승】
+MSEID_後手不敗: 【후수 불패】
+MSEID_広所突撃: 【평지 돌격】
+MSEID_閉所防御: 【협소 방어】
+MSEID_偶像の幻: 【짝의 환영】
+MSEID_奇襲の牙: 【홀로 솟은 이빨】
+MSEID_死線: 【사선】
+MSEID_お大尽: 【갑부】
+MSEID_清流の一撃: 【청류의 일격】
+MSEID_飛燕の一撃: 【비연의 일격】
+MSEID_鬼神の一撃: 【귀신의 일격】
+MSEID_凶鳥の一撃: 【흉조의 일격】
+MSEID_金剛の一撃: 【금강의 일격】
+MSEID_明鏡の一撃: 【명경의 일격】
+MSEID_見下す者: 【내려다보는 자】
+MSEID_守備隊形: 【수비 대형】
+MSEID_剣の達人: 【검의 달인】
+MSEID_槍の達人: 【창의 달인】
+MSEID_斧の達人: 【도끼의 달인】
+MSEID_暗器の達人: 【암기의 달인】
+MSEID_弓の達人: 【활의 달인】
+MSEID_魔の達人: 【마법의 달인】
+MSEID_守り手: 【수비수】
+MSEID_名家の令息: 【명가의 아들】
+MSEID_深窓の令嬢: 【귀족의 딸】
+MSEID_戦闘指揮: 【전투 지휘】
+MSEID_魔の風: 【마의 바람】
+MSEID_平和の声: 【평화의 소리】
+MSEID_異邦の王女: 【이방의 왕녀】
+MSEID_剣殺し: 【검 킬러】
+MSEID_槍殺し: 【창 킬러】
+MSEID_斧殺し: 【도끼 킬러】
+MSEID_暗器殺し: 【암기 킬러】
+MSEID_弓殺し: 【활 킬러】
+MSEID_魔殺し: 【마법 킬러】
+MSEID_大振り: 【마구 휘두르기】
+MSEID_下剋上: 【하극상】
+MSEID_ラッキー7: 【럭키 7】
+MSEID_天翔ける: 【천공 날기】
+MSEID_呪縛: 【주박】
+MSEID_傾奇者: 【괴짜】
+MSEID_しぶとい心: 【완고한 마음】
+MSEID_リフレッシュ: 【리프레시】
+MSEID_和の心: 【화합의 마음】
+MSEID_回復: 【회복】
+MSEID_偶然のまどろみ: 【짝의 휴식】
+MSEID_奇妙な鳴き声: 【홀의 울음소리】
+MSEID_天照らす: 【천공의 빛】
+MSEID_生命吸収: 【생명 흡수】
+MSEID_よく効く薬: 【잘 듣는 약】
+MSEID_ご奉仕の喜び: 【봉사의 기쁨】
+MSEID_蛇毒: 【뱀독】
+MSEID_死の吐息: 【죽음의 한숨】
+MSEID_四牙: 【추격하는 이빨】
+MSEID_匠の技: 【장인의 기술】
+MSEID_左うちわ: 【불로 소득】
+MSEID_高貴なる血統: 【고귀한 혈통】
+MSEID_おみくじ: 【복권】
+MSEID_良成長: 【좋은 성장】
+MSEID_常備薬: 【상비약】
+MSEID_疾風迅雷: 【질풍신뢰】
+MSEID_すり抜け: 【통과하기】
+MSEID_鍵開け: 【자물쇠 열기】
+MSEID_ブリュンヒルデ: 【브륀힐데】
+MSEID_命中回避+10: 【명중회피 +10】
+MSEID_命中回避+20: 【명중회피 +20】
+MSEID_竜鱗: 【용의 비늘】
+MSEID_神盾: 【신의 방패】
+MSEID_状態異常耐性: 【상태 이상 내성】
+MSEID_状態異常無効: 【상태 이상 무효】
+MSEID_攻防一体の陣: 【공방일체진】
+MSEID_近接射撃: 【근접 사격】
+MSEID_翼盾: 【날개 방패】
+MSEID_虚無の呪い: 【허무의 저주】
+MSEID_自壊: 【자폭】
+MSEID_無限の杖: 【무한의 지팡이】
+MSEID_凍結: 【동결】
+MSEID_負の連鎖: 【부정의 연쇄】
+MSEID_偶人の空蝉: 【짝의 위장술】
+MSEID_精神統一: 【정신 통일】
+MSEID_心頭滅却: 【무념무상】
+MSEID_居合一閃: 【발도 일섬】
+MSEID_測量術: 【측량술】
+MSEID_自動砲台: 【자동 포대】
+MSEID_砲身改造: 【포신 개조】
+MSEID_水陸両用: 【험로 답파】
+MSEID_暗闇の加護: 【어둠의 가호】
+MSEID_魔女の大釜: 【마녀의 가마】
+MSEID_ワープ: 【워프】
+MSEID_魔女の毒薬: 【마녀의 독약】
+MSEID_エリート: 【엘리트】
+MSEID_獣盾: 【야수 방패】
+MSEID_鎧盾: 【갑옷 방패】
+MSEID_力の吸収: 【힘 흡수】
+MSEID_魔力の吸収: 【마력 흡수】
+MSEID_技の吸収: 【기술 흡수】
+MSEID_速さの吸収: 【속도 흡수】
+MSEID_幸運の吸収: 【행운 흡수】
+MSEID_守備の吸収: 【수비 흡수】
+MSEID_魔防の吸収: 【마방 흡수】
+MSEID_柔剣: 【유검】
+MSEID_カリスマ: 【카리스마】
+MSEID_防陣＋: 【방진+】
+MSEID_剛剣: 【강검】
+MSEID_歴戦の勘: 【베테랑의 감】
+MSEID_天空: 【천공】
+MSEID_攻陣＋: 【공진+】
+MSEID_覚醒: 【각성】
+MSEID_戦術指南: 【전술 지침】
+MSEID_方陣: 【진법】
+MSEID_華炎: 【화려한 불꽃】
+MSEID_七色の叫び: 【무지개색 외침】
+MSEID_不思議な魅力: 【신비한 매력】
+MSEID_絶対進攻: 【절대 진격】
+MSEID_絶対援護: 【절대 원호】
+MSEID_絶対死守: 【절대 사수】
+MSEID_炎の血: 【불꽃의 피】
+MSEID_絆の祈り: 【인연의 기도】
+MSEID_癒しの声: 【치유의 소리】
+MSEID_小さな声援: 【작은 성원】
+MSEID_お転婆: 【말괄량이】
+MSEID_完璧主義: 【완벽주의】
+MSEID_友情の誓い: 【우정의 약속】
+MSEID_爆炎使い: 【폭염술사】
+MSEID_白夜の捕縛術: 【백야의 포박술】
+MSEID_叱咤激励: 【질타와 격려】
+MSEID_天罰: 【천벌】
+MSEID_ぼんやり: 【멍 때리기】
+MSEID_尊大: 【자존심】
+MSEID_暗夜嫌い: 【암야 헌터】
+MSEID_悪あがき: 【발버둥】
+MSEID_対抗意識: 【대항 의식】
+MSEID_忍法車返し: 【인법 받아치기】
+MSEID_勝者の愉悦: 【승자의 희열】
+MSEID_恩返し: 【은혜 갚기】
+MSEID_武士道: 【무사도】
+MSEID_勝利への執念: 【승리의 집념】
+MSEID_ダーティファイト: 【더티 파이트】
+MSEID_可憐な花: 【가련한 꽃】
+MSEID_不運の塊: 【불운덩어리】
+MSEID_怪力: 【괴력】
+MSEID_血の疼き: 【피의 고통】
+MSEID_暗夜の拘束術: 【암야의 구속술】
+MSEID_呪詛返し: 【저주 카운터】
+MSEID_妖艶な花: 【요염한 꽃】
+MSEID_負けん気: 【경쟁심】
+MSEID_奇襲任務: 【기습 임무】
+MSEID_蒼の踊り: 【푸른 춤】
+MSEID_殺戮本能: 【살육 본능】
+MSEID_強面: 【위협】
+MSEID_女の本性: 【여자의 본성】
+MSEID_冷血: 【냉혈】
+MSEID_拾いもの: 【습득물】
+MSEID_騎士道: 【기사도】
+MSEID_美しき王: 【아름다운 왕】
+MSEID_軍略伝授: 【군략 전수】
+MSEID_氷の血: 【얼음의 피】
+MSEID_農地の主: 【농지 주인】
+MSEID_竜の御子: 【용의 아이】
+MSEID_執事の嗜み: 【집사의 자세】
+MSEID_チューニング: 【튜닝】
+MSEID_おっちょこちょい: 【덜렁이】
+MSEID_幸運のおまじない: 【행운의 주문】
+MSEID_大義の勇: 【대의의 용기】
+MSEID_前向き: 【긍정적】
+MSEID_甘党: 【당 보충】
+MSEID_じゃれつき: 【달라붙기】
+MSEID_冷静沈着: 【냉정 침착】
+MSEID_五・七・五: 【5·7·5】
+MSEID_天才肌: 【천재】
+MSEID_執念: 【집념】
+MSEID_レディーファースト: 【레이디 퍼스트】
+MSEID_臆病: 【겁쟁이】
+MSEID_だまし討ち: 【뒤통수 치기】
+MSEID_ひろい食い: 【주워 먹기】
+MSEID_強運の塊: 【강운덩어리】
+MSEID_乙女心の躍動: 【책벌레】
+MSEID_女の子好き: 【여성 친화적】
+MSEID_邪な空想: 【부정한 공상】
+MSEID_一攫千金: 【일확천금】
+MSEID_風の血: 【바람의 피】
+MSEID_H_不明: 용의 문에서 나타났다는 의문의 스킬.
+MSEID_H_最大HP+5: 자신의 HP +5
+MSEID_H_力+2: 자신의 힘 +2
+MSEID_H_魔力+2: 자신의 마력+2
+MSEID_H_技+2: 자신의 기술 +2
+MSEID_H_速さ+2: 자신의 속도 +2
+MSEID_H_幸運+4: 자신의 행운 +4
+MSEID_H_守備+2: 자신의 수비 +2
+MSEID_H_魔防+2: 자신의 마방 +2
+MSEID_H_移動+1: 자신의 이동 +1
+MSEID_H_竜呪: 전투 후, 적의 모든 능력 -4\n효과는 턴 회복
+MSEID_H_力封じ: 전투 후, 적의 힘 -6\n효과는 턴 회복
+MSEID_H_魔力封じ: 전투 후, 적의 마력 -6\n효과는 턴 회복
+MSEID_H_速さ封じ: 전투 후, 적의 속도 -6\n효과는 턴 회복
+MSEID_H_守備封じ: 전투 후, 적의 수비 -6\n효과는 턴 회복
+MSEID_H_魔防封じ: 전투 후, 적의 마방 -6\n효과는 턴 회복
+MSEID_H_力の叫び: 「응원」 커맨드 선택 시,\n주위 2칸 이내 아군이 힘 +4(1턴)
+MSEID_H_魔力の叫び: 「응원」 커맨드 선택 시,\n주위 2칸 이내 아군이 마력 +4(1턴)
+MSEID_H_技の叫び: 「응원」 커맨드 선택 시,\n주위 2칸 이내 아군이 기술 +4(1턴)
+MSEID_H_速さの叫び: 「응원」 커맨드 선택 시,\n주위 2칸 이내 아군이 속도 +4(1턴)
+MSEID_H_幸運の叫び: 「응원」 커맨드 선택 시,\n주위 2칸 이내 아군이 행운 +8(1턴)
+MSEID_H_守備の叫び: 「응원」 커맨드 선택 시,\n주위 2칸 이내 아군이 수비 +4(1턴)
+MSEID_H_魔防の叫び: 「응원」 커맨드 선택 시,\n주위 2칸 이내 아군이 마방 +4(1턴)
+MSEID_H_移動の叫び: 「응원」 커맨드 선택 시,\n주위 2칸 이내 아군이 이동 +1(1턴)
+MSEID_H_特別な歌: 「노래」를 사용한 대상 아군을\n기술·속도·행운 +3(1턴)
+MSEID_H_滅殺: 공격 시, 기술×0.25%와 적에게 1 이상\n대미지를 입힐 때 발동. 적을 반드시 격파
+MSEID_H_流星: 공격 시, 기술×0.5%로 발동\n절반의 대미지로 5회 연속 공격
+MSEID_H_竜穿: 공격 시, 기술×0.75%로 발동\n공격력의 절반을 입히는 대미지에 추가
+MSEID_H_太陽: 공격 시, 기술%로 발동\n적에게 입힌 대미지의 절반만큼 HP 회복
+MSEID_H_月光: 공격 시, 기술%로 발동\n적 수비·마방의 절반을 무시하고 공격
+MSEID_H_破天: 공격 시, 기술×1.5%로 발동. 공격에 따라\n적의 힘이나 마력의 절반을 대미지에 추가
+MSEID_H_復讐: 공격 시, 기술×1.5%로 발동\n자신의 HP 감소량의 절반을 대미지에 추가
+MSEID_H_大盾: 기술%로 발동. 검·창·도끼·야수석·몬스터\n·꼭두각시의 공격을 받았을 때 대미지 절반
+MSEID_H_聖盾: 기술%로 발동. 활·마도서·암기·용석·브레스\n·투석의 공격을 받았을 때 대미지 절반
+MSEID_H_竜盾: 공격을 받는 아군의 행운×0.5%로 발동\n인접한 아군이 공격당했을 때 대미지 절반
+MSEID_H_祈り: 행운%로 발동. 자신의 HP가 2 이상일 때\nHP가 0이 되는 공격을 받아도 1 남는다
+MSEID_H_カウンター: 인접한 적에게 공격당했을 때\n받은 대미지만큼 적에게 대미지를 준다
+MSEID_H_魔法カウンター: 마법으로 공격당했을 때\n받은 대미지만큼 적에게 대미지를 준다
+MSEID_H_待ち伏せ: 전투 개시 시, 자신의 HP가 절반 이하일 때\n적에게 공격당해도 자신이 먼저 공격한다
+MSEID_H_獣特効: 자신이 늑대 인간, 여우족일 때\n야수 특효 공격을 가한다
+MSEID_H_人形崩し: 인간형 특효 공격을 가한다\n인형사, 꼭두각시, 골렘에게 유효
+MSEID_H_暗夜: 전투 시, 공진·방진 상대가 지닌\n전투 스킬을 자신도 공유한다
+MSEID_H_白夜: 스킬 발동 확률 +10%
+MSEID_H_救出: 「구출」 커맨드 선택 가능\n인접한 아군을 자신의 후위로 옮긴다
+MSEID_H_体当たり: 「박치기」 커맨드 선택 가능\n인접한 아군을 1칸 밀어낸다
+MSEID_H_切り込み: 「파고들기」 커맨드 선택 가능\n공격 후, 자신과 적의 위치를 바꾼다
+MSEID_H_入れ替え: 「바꾸기」 커맨드 선택 가능\n인접한 아군과 자신의 위치를 바꾼다
+MSEID_H_写し身人形: 「분신」 커맨드를 1 맵당 1회 선택 가능\n자신과 능력, 생명을 공유하는 인형을 만든다
+MSEID_H_先手必勝: 자신이 공격을 걸었을 때\n입히는 대미지 +4
+MSEID_H_後手不敗: 자신이 공격을 당했을 때\n입히는 대미지 +3
+MSEID_H_広所突撃: 자신이 지형 효과 0인 장소에서\n전투 시, 입히는 대미지 +3
+MSEID_H_閉所防御: 자신이 지형 효과 0 이외의 장소에서\n전투 시, 입는 대미지 -3
+MSEID_H_偶像の幻: 짝수 턴,\n적에게 입히는 대미지 +4
+MSEID_H_奇襲の牙: 홀수 턴,\n적에게 입히는 대미지 +4
+MSEID_H_死線: 전투 중, 적에게 입히는 대미지 +10,\n적에게 입는 대미지 +10
+MSEID_H_お大尽: 금화 소지 중 공격을 걸었을 때, 금화를\n쓰며 입히는 대미지 +10, 입는 대미지 -10
+MSEID_H_清流の一撃: 자신이 공격을 걸었을 때,\n그 전투 중, 회피 +30
+MSEID_H_飛燕の一撃: 자신이 공격을 걸었을 때,\n그 전투 중의 추가 공격이 쉬워진다(+5)
+MSEID_H_鬼神の一撃: 자신이 공격을 걸었을 때,\n그 전투 중, 필살 +20
+MSEID_H_凶鳥の一撃: 자신이 공격을 걸었을 때,\n그 전투 중, 명중 +40
+MSEID_H_金剛の一撃: 자신이 공격을 걸었을 때,\n그 전투에서 입는 물리 대미지 -10
+MSEID_H_明鏡の一撃: 자신이 공격을 걸었을 때,\n그 전투에서 입는 마법 대미지 -20
+MSEID_H_見下す者: 적이 기마 유닛 이외일 때,\n입히는 대미지 +5
+MSEID_H_守備隊形: 전투 중, 자신도 적도\n추가 공격이 발생하지 않는다
+MSEID_H_剣の達人: 검을 장비하고 공격했을 때,\n입히는 대미지 +5
+MSEID_H_槍の達人: 창을 장비하고 공격했을 때,\n입히는 대미지 +5
+MSEID_H_斧の達人: 도끼를 장비하고 공격했을 때,\n입히는 대미지 +5
+MSEID_H_暗器の達人: 암기를 장비하고 공격했을 때,\n입히는 대미지 +5
+MSEID_H_弓の達人: 활을 장비하고 공격했을 때,\n입히는 대미지 +5
+MSEID_H_魔の達人: 마도서를 장비하고 공격했을 때,\n입히는 대미지 +5
+MSEID_H_守り手: 방진 상태에서 전위일 때,\n자신의 모든 능력 +1
+MSEID_H_名家の令息: 주위 2칸 이내의 여성 아군이\n전투 시, 입는 대미지 -2
+MSEID_H_深窓の令嬢: 주위 2칸 이내의 남성 아군이\n전투 시, 입는 대미지 -2
+MSEID_H_戦闘指揮: 주위 2칸 이내의 아군이 전투 시,\n입히는 대미지 +2, 입는 대미지 -2
+MSEID_H_魔の風: 주위 2칸 이내의 적이 전투 시,\n적이 입는 마법 대미지 +2
+MSEID_H_平和の声: 주위 2칸 이내의 적이 전투 시,\n적이 입히는 물리 대미지 -2
+MSEID_H_異邦の王女: 주위 2칸 이내 「이방의 군」이 전투 시,\n적이 입히는 대미지 -2, 입는 대미지 +2
+MSEID_H_剣殺し: 적이 검을 장비하고 있을 경우,\n자신의 명중·회피 +50
+MSEID_H_槍殺し: 적이 창을 장비하고 있을 경우,\n자신의 명중·회피 +50
+MSEID_H_斧殺し: 적이 도끼를 장비하고 있을 경우,\n자신의 명중·회피 +50
+MSEID_H_暗器殺し: 적이 암기를 장비하고 있을 경우,\n자신의 명중·회피 +50
+MSEID_H_弓殺し: 적이 활을 장비하고 있을 경우,\n자신의 명중·회피 +50
+MSEID_H_魔殺し: 적이 마도서를 장비하고 있을 경우,\n자신의 명중·회피 +50
+MSEID_H_大振り: 자신의 명중 -10, 필살 +10
+MSEID_H_下剋上: 자신보다 적의 레벨이 높을 때,\n명중, 회피 +15(상급직은 레벨 +20)
+MSEID_H_ラッキー7: 7턴째 종료까지\n자신의 명중·회피 +20
+MSEID_H_天翔ける: 적이 비행 유닛일 때,\n명중·회피 +30
+MSEID_H_呪縛: 인접한 적이 전투 시,\n적의 회피 -20
+MSEID_H_傾奇者: 전투 시, 자신과 적의 명중 +30,\n확률 발동 스킬의 발생률 +15
+MSEID_H_しぶとい心: 행운%로 발동. 턴 개시 시,\n최대 HP의 20% HP 회복
+MSEID_H_リフレッシュ: 턴 개시 시, 주위 2칸 이내에 아무도\n없을 때, 최대 HP의 20% HP 회복
+MSEID_H_和の心: 턴 개시 시, 주위 2칸 이내에 아군이\n있을 때, 최대 HP의 10% HP 회복
+MSEID_H_回復: 턴 개시 시,\n최대 HP의 30% HP 회복
+MSEID_H_偶然のまどろみ: 짝수 턴 개시 시,\n최대 HP의 40% HP 회복
+MSEID_H_奇妙な鳴き声: 홀수 턴 개시 시,\n최대 HP의 40% HP 회복
+MSEID_H_天照らす: 턴 개시 시, 주위 2칸 이내의 아군은\n최대 HP의 20% HP 회복
+MSEID_H_生命吸収: 자신이 공격을 걸어 적을 쓰러뜨렸을 때,\n최대 HP의 50% HP 회복
+MSEID_H_よく効く薬: HP 회복약, 능력 상승약의\n효과 1.5배
+MSEID_H_ご奉仕の喜び: 자신이 지팡이로 아군을 회복시킬 때,\n자신도 같은 양만큼 회복한다
+MSEID_H_蛇毒: 자신이 공격을 걸었을 때, 전투 후,\n적의 HP를 최대 HP의 20% 감소시킨다
+MSEID_H_死の吐息: 자신이 공격을 걸었을 때, 전투 후, 주위\n2칸의 적 HP를 최대 HP의 20% 감소시킨다
+MSEID_H_四牙: 전투 후, 적 HP를\n최대 HP의 20% 감소시킨다
+MSEID_H_匠の技: 행운%로 발동. 공격을 걸어 적을\n쓰러뜨렸을 때, 철의 무기 중 하나를 획득
+MSEID_H_左うちわ: 행운%로 발동. 7턴째 종료까지\n행동 종료 시에 금화를 획득
+MSEID_H_高貴なる血統: 획득 경험치 1.2배
+MSEID_H_おみくじ: 행운%로 발동. 자신이 공격을 걸어 적을\n쓰러뜨렸을 때, 획득 경험치 2배
+MSEID_H_良成長: 레벨 업 시, 모든 능력의\n성장 판정에 +10
+MSEID_H_常備薬: HP 회복약, 능력 상승약을 사용했을 때,\n행동이 완료되지 않고 추가 행동 가능
+MSEID_H_疾風迅雷: 자신이 공격을 걸어 적을 쓰러뜨린 후,\n한 번 더 행동 가능(공진·방진 시 제외)
+MSEID_H_すり抜け: 적을 통과하여 이동할 수 있다
+MSEID_H_鍵開け: 열쇠가 없어도\n문이나 보물 상자를 열 수 있다
+MSEID_H_命中回避+10: 명중·회피 +10
+MSEID_H_命中回避+20: 명중·회피 +20
+MSEID_H_竜鱗: 입는 대미지 절반. 필살의 효과 감소\n멸살, 독, 카운터 계열 스킬을 무효화
+MSEID_H_神盾: 입는 대미지 절반\n멸살, 독, 카운터 계열 스킬을 무효화
+MSEID_H_状態異常耐性: 능력 감소 효과, 독 대미지,\n방해 지팡이의 명중률을 반감시킨다
+MSEID_H_状態異常無効: 능력 감소 효과, 독 대미지,\n방해 지팡이를 모두 무효화한다
+MSEID_H_攻防一体の陣: 전위 시, 방진일 때도 공진처럼 전투한다\n적의 듀얼 어택에 대한 완전 방어는 사라진다
+MSEID_H_近接射撃: 활의 사정거리를 변화시켜\n사정거리보다 가까운 적도 공격 가능해진다
+MSEID_H_翼盾: 자신이 비행계일 때, 비행 특효를 무시하며,\n지형 효과를 받을 수 있다.
+MSEID_H_虚無の呪い: 이 적과 싸웠을 때,\n획득하는 경험치는 0이 된다
+MSEID_H_自壊: HP가 절반 이하가 되면 주위 2칸 이내의\n적과 방벽에 대미지를 주고 소멸한다
+MSEID_H_無限の杖: 지팡이를 소비하지 않고 사용 가능해지며,\n사정거리가 10 미만일 경우, 10이 된다
+MSEID_H_凍結: 공격이 명중했을 때,\n적의 이동력 0, 회피 -20(1턴)
+MSEID_H_負の連鎖: 적에 대한 능력 감소 효과를 누적시킨다
+MSEID_H_偶人の空蝉: 짝수 턴,\n입는 마법 대미지 -4
+MSEID_H_精神統一: 적에게 공격당했을 때,\n입는 마법 대미지 -4
+MSEID_H_心頭滅却: 자신이 당한 능력 감소의\n회복 속도가 2배가 된다
+MSEID_H_居合一閃: 자신이 공격을 걸었을 때,\n입히는 대미지 +7
+MSEID_H_測量術: 「포대」 커맨드 사용 시,\n포대의 명중 +10
+MSEID_H_自動砲台: 기술%로 발동. 자신이 슈터일 때,\n턴 개시 시, 자동으로 범위 내 적 하나를 공격
+MSEID_H_砲身改造: 「포대」 커맨드 사용 시,\n포대의 범위 +1, 내사정·외사정 -1
+MSEID_H_水陸両用: 자신이 슈터일 때, 이동 +1 및\n진입 가능한 지형의 이동 코스트를 1로 취급
+MSEID_H_暗闇の加護: 다크 메이지 계열 전용 마법을 장비 가능
+MSEID_H_魔女の大釜: 행운%로 발동. 7턴째까지\n행동 종료 시에 약을 획득
+MSEID_H_ワープ: 「워프」 커맨드 사용 시, 자신을 아군의\n인접 칸으로 이동시키고, 이어서 행동 가능
+MSEID_H_魔女の毒薬: 기술×1.5%로 발동. 공격을 걸었을 때,\n전투 후, 적의 이동력 0, 회피 -20(1턴)
+MSEID_H_エリート: 획득 경험치 2배
+MSEID_H_獣盾: 적에게 야수, 말 특효 공격을\n당하지 않게 된다
+MSEID_H_鎧盾: 적에게 아머 특효 공격을\n당하지 않게 된다
+MSEID_H_力の吸収: 자신이 적을 쓰러뜨리면 힘 +2(최대 +10)\n(장 종료까지. 다른 흡수 스킬과 중복 불가)
+MSEID_H_魔力の吸収: 자신이 적을 쓰러뜨리면 마력 +2(최대 +10)\n(장 종료까지. 다른 흡수 스킬과 중복 불가)
+MSEID_H_技の吸収: 자신이 적을 쓰러뜨리면 기술 +2(최대 +10)\n(장 종료까지. 다른 흡수 스킬과 중복 불가)
+MSEID_H_速さの吸収: 자신이 적을 쓰러뜨리면 속도 +2(최대 +10)\n(장 종료까지. 다른 흡수 스킬과 중복 불가)
+MSEID_H_幸運の吸収: 자신이 적을 쓰러뜨리면 행운 +2(최대 +10)\n(장 종료까지. 다른 흡수 스킬과 중복 불가)
+MSEID_H_守備の吸収: 자신이 적을 쓰러뜨리면 수비 +2(최대 +10)\n(장 종료까지. 다른 흡수 스킬과 중복 불가)
+MSEID_H_魔防の吸収: 자신이 적을 쓰러뜨리면 마방 +2(최대 +10)\n(장 종료까지. 다른 흡수 스킬과 중복 불가)
+MSEID_H_柔剣: 속도 +3, 수비 -1
+MSEID_H_カリスマ: 주위 2칸 이내의 아군이 전투 시,\n적에게 입히는 대미지 +2
+MSEID_H_防陣＋: 방진에서 후위일 때, 자신이 얻는\n듀얼 가드 포인트 +1
+MSEID_H_剛剣: 힘 +3, 속도 -1
+MSEID_H_歴戦の勘: 전투 시, 필살회피 +15
+MSEID_H_天空: 공격 시, 기술×0.5%로 발동\n태양과 월광의 2회 연속 공격
+MSEID_H_攻陣＋: 공진에서 후위일 때,\n적에게 입히는 대미지 +3
+MSEID_H_覚醒: HP가 절반 이하일 때,\n명중·회피·필살·필살회피 +30
+MSEID_H_戦術指南: 방진에서 후위일 때,\n전위의 명중 +10
+MSEID_H_方陣: 인접한 아군이 전투 시,\n필살 +10, 필살회피 +10
+MSEID_H_華炎: 기술%로 발동. 물리 공격이라면 마력÷2\n마법이라면 힘÷2를 공격 시 대미지에 추가
+MSEID_H_七色の叫び: 「응원」 커맨드 선택 시, 주위 4칸\n이내의 아군이 모든 능력 +2(1턴)
+MSEID_H_不思議な魅力: 후위 시, 전위와 지원C 이상이라면 전위가\n명중 +10, 입히는 대미지 +2, 입는 대미지 -2
+MSEID_H_絶対進攻: 후위 시, 전위가 주인공이라면\n주인공의 명중 +15, 입히는 대미지 +3
+MSEID_H_絶対援護: 후위 시, 전위가 주인공이라면\n주인공이 입히는 대미지 +2, 입는 대미지 -2
+MSEID_H_絶対死守: 후위 시, 전위가 주인공이라면\n주인공의 회피 +15, 입는 대미지 -3
+MSEID_H_炎の血: 자신의 HP가 가득 차지 않았을 때,\n입히는 대미지 +4
+MSEID_H_絆の祈り: 후위 시, 전위의 행운%로 발동. 전위의\nHP가 0이 되는 공격을 받아도 1 남는다
+MSEID_H_癒しの声: 턴 개시 시, 자신의 2칸 주위 아군은\n최대 HP의 10% HP 회복
+MSEID_H_小さな声援: 아군이 2칸 이내에 있을 때,\n아군이 입는 대미지 -2
+MSEID_H_お転婆: 공격을 걸어 적을 격파했을 때, 인접한\n적 전원은 최대 HP의 20% HP가 감소
+MSEID_H_完璧主義: HP가 가득 찼을 때\n명중, 회피 +15
+MSEID_H_友情の誓い: 주인공이 아군이고, HP 절반 이하일 때,\n자신이 입히는 대미지 +3, 입는 대미지 -3
+MSEID_H_爆炎使い: 자신이 공격을 걸거나 HP 절반 이하일 때,\n2칸 이내 적 HP를 최대 HP의 20%만큼 감소
+MSEID_H_白夜の捕縛術: 마이 캐슬에 감옥이 있으면 「포획」 커맨드\n선택 가능. 격파 시, 적을 감옥에 넣는다
+MSEID_H_叱咤激励: 아군이 2칸 이내에 있을 때,\n아군이 입히는 대미지 +2
+MSEID_H_天罰: 무기를 장비하지 않고 인접한 적에게 공격을\n당했을 때, 대미지 절반을 적에게도 입힌다
+MSEID_H_ぼんやり: 자신이 지팡이로 회복을 받았을 때,\n회복량 1.5배
+MSEID_H_尊大: 전투 시, 자신의 레벨이 적 레벨 이하라면\n(상급직은 +20) 입히는 대미지 +4
+MSEID_H_暗夜嫌い: 암야와 관련된 적과 전투 시,\n입히는 대미지 +3
+MSEID_H_悪あがき: HP 절반 이하가 되는 검·창·도끼 공격을\n받았을 때, 대미지 절반을 적에게도 입힌다
+MSEID_H_対抗意識: 전위 시, 자신의 레벨이 후위 이하라면\n필살 +10, 입히는 대미지 +3, 입는 대미지 -1
+MSEID_H_忍法車返し: 암기(수리검)로 공격당했을 때, 입은\n대미지의 절반과 능력 감소를 적에게도 적용
+MSEID_H_勝者の愉悦: 자신이 공격을 걸어 적을 격파했을 때,\n자신의 최대 HP의 20% HP 회복
+MSEID_H_恩返し: 누군가 지팡이로 자신을 회복시켜 줬을 때,\n회복량의 절반은 상대방도 회복한다
+MSEID_H_武士道: 전위 시, 자신의 레벨이 후위 이하라면\n필살 +10, 입히는 대미지 +2, 입는 대미지 -2
+MSEID_H_勝利への執念: HP가 1/4 이하일 때,\n필살 +30
+MSEID_H_ダーティファイト: 자신이 공격을 걸고, 적이 반격을 못할 때,\n전투 종료 후, 적의 힘·속도 -3(턴 회복)
+MSEID_H_可憐な花: 아군이 인접해 있을 때,\n아군이 입히는 대미지 +1, 입는 대미지 -3
+MSEID_H_不運の塊: 주위 2칸 이내 적의 필살회피 -15\n자신의 필살회피 -5
+MSEID_H_怪力: 전투 시, 적의 힘보다 5 이상 높을 때,\n입히는 대미지 +3
+MSEID_H_血の疼き: 8자 이상의 연성 무기 장비 시,\n필살 +10
+MSEID_H_暗夜の拘束術: 마이 캐슬에 감옥이 있으면 「포획」 커맨드\n선택 가능. 격파 시, 적을 감옥에 넣는다
+MSEID_H_呪詛返し: 적에게 마법으로 공격당했을 때,\n입은 대미지의 절반을 적에게도 입힌다
+MSEID_H_妖艶な花: 아군이 인접해 있을 때,\n아군이 입히는 대미지 +3, 입는 대미지 -1
+MSEID_H_負けん気: 자신이 후위이며, 전위가 필살을 발생시키고\n자신의 공격도 명중하면 반드시 필살 발생
+MSEID_H_奇襲任務: 적이 반격하지 못하는 상태에서\n자신이 공격을 걸었을 때, 입히는 대미지 +4
+MSEID_H_蒼の踊り: 응원 커맨드 사용 가능. 주위 2칸 이내의\n모든 아군에게 힘·속도 +1(1턴)
+MSEID_H_殺戮本能: 자신이 공격을 걸고 적을 격파했을 때,\n힘·마력·기술·속도 +4(1턴)
+MSEID_H_強面: 주위 2칸의 모든 적은 회피 -10
+MSEID_H_女の本性: 적이 여성일 때,\n입히는 대미지 +4, 필살 +20
+MSEID_H_冷血: 전투 시, 적의 HP가 가득이 아닐 때,\n자신이 입히는 대미지 +3, 입는 대미지 -1
+MSEID_H_拾いもの: 행운%로 발동. 7턴째까지\n행동 종료 시에 광석이나 식재료를 3개 획득
+MSEID_H_騎士道: 전투 시, 적의 HP가 가득일 때,\n자신이 입히는 대미지 +2, 입는 대미지 -2
+MSEID_H_美しき王: 주위 2칸의 적, 아군 모두는\n입히는 대미지 -2
+MSEID_H_軍略伝授: 아군 전원의 명중 +5
+MSEID_H_氷の血: HP가 가득이 아닐 때 간접 공격을 받으면\n대미지 절반을 돌려주고 적의 기술·속도 -3
+MSEID_H_農地の主: 산, 숲, 황지, 논밭 지형에 있을 때,\n턴 개시 시, 최대 HP의 20% 회복
+MSEID_H_竜の御子: 턴 개시 시, 용석을 장비하고 있으면\n최대 HP의 15% 회복
+MSEID_H_執事の嗜み: 마이 캐슬에서 전투 시, 명중·회피 +20,\n입히는 대미지 +2, 입는 대미지 -2
+MSEID_H_チューニング: 응원 커맨드. 주위 2칸 이내의 아군 HP가\n자신보다 낮으면 최대 HP의 10% 회복
+MSEID_H_おっちょこちょい: 자신이 공격을 걸어 명중 시, 적의 수비 -3\n또한 적의 옷을 벗길 때가 있다
+MSEID_H_幸運のおまじない: 행운과 관련된 확률 발동 스킬의\n발동 확률 +20%
+MSEID_H_大義の勇: 전위이며, 공진·방진 상대의 HP가 가득 차지\n않았을 때, 입히는 대미지 +3, 입는 대미지 +1
+MSEID_H_前向き: 「대기」 커맨드 선택 시,\n속도 +4, 행운 +8(1턴)
+MSEID_H_甘党: 「대기」 커맨드 선택 시,\n숨겨 둔 과자를 먹어 HP 4 회복
+MSEID_H_じゃれつき: 아군 턴 개시 시,\n인접한 모든 적의 HP -5
+MSEID_H_冷静沈着: 「대기」 커맨드 선택 시,\n기술·마방 +4(1턴)
+MSEID_H_五・七・五: 턴 개시 시, 미타마를 중심으로 세로 1열로\n아군이 나란히 서 있을 때 HP를 5, 7, 5 회복
+MSEID_H_天才肌: 전투 개시 시, 적의 힘·마력 중 높은 쪽의 수치가\n자신보다 높을 경우, 적에게 입히는 대미지 +4
+MSEID_H_執念: 그 맵에서 전투한 적이 있는 적에게\n공격을 걸었을 때, 입히는 대미지 +4
+MSEID_H_レディーファースト: 후위이며, 공진·방진의 상대가 여성일 때,\n그 상대가 입히는 대미지 +2
+MSEID_H_臆病: 전위일 때, 입는 대미지 -2\n공진·방진이 아닐 때는 입는 대미지 +2
+MSEID_H_だまし討ち: 남성 적에게 공격당했을 때,\n적에게 입히는 대미지 +2
+MSEID_H_ひろい食い: 턴 개시 시, 행운%로 발동\nHP 10 회복
+MSEID_H_強運の塊: 자신의 필살회피 +5,\n주위 2칸 이내의 아군 필살회피 +15
+MSEID_H_乙女心の躍動: 마도서를 3개 이상 소지했을 때,\n필살 +10
+MSEID_H_女の子好き: 전위이며, 공진·방진 상대가 여성일 때,\n자신이 입히는 대미지 +2, 입는 대미지 -2
+MSEID_H_邪な空想: 자신에게 남성끼리의 방진이 인접했을 때,\n자신이 입히는 대미지 +2, 입는 대미지 -2
+MSEID_H_一攫千金: 행운%로 발동\n적 격파 시, 골드를 획득
+MSEID_H_風の血: HP가 가득이 아닐 때,\n명중, 회피 +10
+MIID_非公開: ????????
+MIID_不明: 이계의 아이템
+MIID_無し: 없음
+MIID_青銅の剣: 청동의 검
+MIID_鉄の剣: 철의 검
+MIID_鋼の剣: 강철의 검
+MIID_銀の剣: 은의 검
+MIID_勇者の剣: 용사의 검
+MIID_鉄の投撃剣: 철의 투척검
+MIID_鋼の投撃剣: 강철의 투척검
+MIID_銀の投撃剣: 은의 투척검
+MIID_アーマーキラー: 아머 킬러
+MIID_ドラゴンキラー: 드래곤 킬러
+MIID_キルソード: 킬 소드
+MIID_サンダーソード: 선더 소드
+MIID_ガングレリ: 간그레리
+MIID_ジークフリート: 지크프리트
+MIID_ワインボトル: 와인병
+MIID_洋傘: 우산
+MIID_暗夜の漆黒剣: 암야의 칠흑검
+MIID_レオンの冷剣: 리오의 냉검
+MIID_ルーナの鋭剣: 셀레나의 예검
+MIID_ラズワルドの舞剣: 라슬로의 무검
+MIID_青銅の刀: 청동의 도
+MIID_鉄の刀: 철의 도
+MIID_鋼の刀: 강철의 도
+MIID_銀の刀: 은의 도
+MIID_武者の刀: 무사의 도
+MIID_鉄の投撃刀: 철의 투척도
+MIID_鋼の投撃刀: 강철의 투척도
+MIID_銀の投撃刀: 은의 투척도
+MIID_斧斬りの刀: 부참도
+MIID_逆刀: 역도
+MIID_居合刀: 이합도
+MIID_小太刀: 소태도
+MIID_飛刀: 비도
+MIID_霊刀: 영도
+MIID_葉隠: 엽은도
+MIID_夜刀神: 야신도
+MIID_夜刀神・空夜: 야신도·공야
+MIID_夜刀神・白夜: 야신도·백야
+MIID_夜刀神・長夜: 야신도·장야
+MIID_夜刀神・暗夜: 야신도·암야
+MIID_夜刀神・幻夜: 야신도·환야
+MIID_夜刀神・終夜: 야신도·종야
+MIID_雷神刀: 뇌신도
+MIID_大根: 무
+MIID_和傘: 양산
+MIID_追い剥ぎの刀: 도적의 도
+MIID_白夜の霞刀: 백야의 하도
+MIID_タクミの竹刀: 타쿠미의 죽도
+MIID_カザハナの麗刀: 하나의 여도
+MIID_ヒナタの猛刀: 히나타의 맹도
+MIID_青銅の槍: 청동의 창
+MIID_鉄の槍: 철의 창
+MIID_鋼の槍: 강철의 창
+MIID_銀の槍: 은의 창
+MIID_勇者の槍: 용사의 창
+MIID_鉄の投撃槍: 철의 투척창
+MIID_鋼の投撃槍: 강철의 투척창
+MIID_銀の投撃槍: 은의 투척창
+MIID_手槍: 투척창
+MIID_スレンドスピア: 슬렌드 스피어
+MIID_ビーストキラー: 비스트 킬러
+MIID_キラーランス: 킬러 랜스
+MIID_聖なる槍: 성스러운 창
+MIID_ほうき: 빗자루
+MIID_小枝: 나뭇가지
+MIID_魔封じの槍: 마봉의 창
+MIID_マークスの指南槍: 젠더의 지휘창
+MIID_エルフィの大槍: 엘피의 창
+MIID_ピエリの小槍: 페리의 창
+MIID_青銅の薙刀: 청동의 월도
+MIID_鉄の薙刀: 철의 월도
+MIID_鋼の薙刀: 강철의 월도
+MIID_銀の薙刀: 은의 월도
+MIID_鉄の投撃薙刀: 철의 투척월도
+MIID_鋼の投撃薙刀: 강철의 투척월도
+MIID_銀の投撃薙刀: 은의 투척월도
+MIID_武者の薙刀: 무사의 투척월도
+MIID_剣薙ぎの薙刀: 검체월도
+MIID_逆薙刀: 역월도
+MIID_守りの薙刀: 수비의 월도
+MIID_神雷の薙刀: 천둥의 월도
+MIID_水車: 물레방아
+MIID_竹竿: 장대
+MIID_松の木: 소나무
+MIID_追い剥ぎの薙刀: 도적의 월도
+MIID_捨て身の薙刀: 희생의 월도
+MIID_ヒノカの紅薙刀: 히노카의 홍월도
+MIID_ツバキの金薙刀: 츠바키의 금월도
+MIID_オボロの漆薙刀: 오보로의 칠월도
+MIID_青銅の斧: 청동의 도끼
+MIID_鉄の斧: 철의 도끼
+MIID_鋼の斧: 강철의 도끼
+MIID_銀の斧: 은의 도끼
+MIID_勇者の斧: 용사의 도끼
+MIID_鉄の投撃斧: 철의 투척도끼
+MIID_鋼の投撃斧: 강철의 투척도끼
+MIID_銀の投撃斧: 은의 투척도끼
+MIID_手斧: 투척도끼
+MIID_トマホーク: 토마호크
+MIID_ハンマー: 해머
+MIID_ボルトアクス: 볼트 액스
+MIID_キラーアクス: 킬러 액스
+MIID_アウルゲルミル: 아우르겔미르
+MIID_ベルヴェルク: 볼베르크
+MIID_フライパン: 프라이팬
+MIID_獣の骨: 짐승의 뼈
+MIID_追い剥ぎの斧: 도적의 도끼
+MIID_狂戦士の斧: 광전사의 도끼
+MIID_カミラの艶斧: 카밀라의 도끼
+MIID_ハロルドの雄斧: 아서의 도끼
+MIID_ベルカの殺斧: 베르카의 도끼
+MIID_青銅の金棒: 청동의 곤봉
+MIID_鉄の金棒: 철의 곤봉
+MIID_鋼の金棒: 강철의 곤봉
+MIID_銀の金棒: 은의 곤봉
+MIID_武者の金棒: 무사의 곤봉
+MIID_鉄の投撃金棒: 철의 투척곤봉
+MIID_鋼の投撃金棒: 강철의 투척곤봉
+MIID_銀の投撃金棒: 은의 투척곤봉
+MIID_槍砕きの金棒: 창쇄의 곤봉
+MIID_逆金棒: 역곤봉
+MIID_大金棒: 대곤봉
+MIID_投げ棒: 투척곤봉
+MIID_破城の投げ棒: 파성의 투척곤봉
+MIID_鯉のぼり: 잉어 장식
+MIID_クワ: 괭이
+MIID_金剛の金棒: 금강곤봉
+MIID_リンカの鬼金棒: 린카의 귀신봉
+MIID_リョウマの鍛錬棒: 료마의 연마봉
+MIID_フウガの疾風金棒: 푸가의 질풍봉
+MIID_青銅の暗器: 청동의 암기
+MIID_鉄の暗器: 철의 암기
+MIID_鋼の暗器: 강철의 암기
+MIID_銀の暗器: 은의 암기
+MIID_強者の暗器: 강자의 암기
+MIID_果物ナイフ: 과일칼
+MIID_獣狩りの暗器: 사냥꾼의 암기
+MIID_クリスナイフ: 크리스 나이프
+MIID_羽ペン: 깃펜
+MIID_固いパン: 딱딱한 빵
+MIID_追い剥ぎナイフ: 도적의 나이프
+MIID_祈りのロウソク: 기도의 양초
+MIID_死を呼ぶナイフ: 죽음의 나이프
+MIID_フェリシアの氷皿: 펠리시아의 접시
+MIID_ジョーカーの食器: 제이콥의 식기
+MIID_青銅の手裏剣: 청동의 수리검
+MIID_鉄の手裏剣: 철의 수리검
+MIID_鋼の手裏剣: 강철의 수리검
+MIID_銀の手裏剣: 은의 수리검
+MIID_巧者の手裏剣: 실력자의 수리검
+MIID_逆手裏剣: 역수리검
+MIID_針手裏剣: 바늘 수리검
+MIID_暗殺手裏剣: 암살 수리검
+MIID_爆炎手裏剣: 폭염 수리검
+MIID_朧: 차크람
+MIID_菜箸: 젓가락
+MIID_かんざし: 비녀
+MIID_撒菱: 마름쇠
+MIID_スズカゼの疾風針: 카제의 질풍침
+MIID_サイゾウの爆炎針: 사이조의 폭염침
+MIID_カゲロウの眩惑針: 카게로의 현혹침
+MIID_青銅の弓: 청동의 활
+MIID_鉄の弓: 철의 활
+MIID_鋼の弓: 강철의 활
+MIID_銀の弓: 은의 활
+MIID_強者の弓: 강자의 활
+MIID_鉄の近撃弓: 철의 근격궁
+MIID_鋼の近撃弓: 강철의 근격궁
+MIID_銀の近撃弓: 은의 근격궁
+MIID_キラーボウ: 킬러 보우
+MIID_聖なる弓: 성스러운 활
+MIID_ショートボウ: 쇼트 보우
+MIID_シャイニングボウ: 샤이닝 보우
+MIID_ゴムの弓: 고무 활
+MIID_バイオリンの弓: 바이올린 활
+MIID_キューピッドの弓: 큐피드의 활
+MIID_狩人の弓: 사냥꾼의 활
+MIID_アンナの福弓: 안나의 복궁
+MIID_ゼロの虐弓: 닐스의 학궁
+MIID_青銅の和弓: 청동의 장궁
+MIID_鉄の和弓: 철의 장궁
+MIID_鋼の和弓: 강철의 장궁
+MIID_銀の和弓: 은의 장궁
+MIID_巧者の和弓: 실력자의 장궁
+MIID_鉄の近撃和弓: 철의 근격장궁
+MIID_鋼の近撃和弓: 강철의 근격장궁
+MIID_銀の近撃和弓: 은의 근격장궁
+MIID_逆和弓: 역장궁
+MIID_明鏡の和弓: 명경의 장궁
+MIID_必中の和弓: 필중의 장궁
+MIID_残心: 잔심궁
+MIID_風神弓: 풍신궁
+MIID_風神弓（青銅）: 풍신궁
+MIID_スカディ: 스카디
+MIID_竹の和弓: 대나무 장궁
+MIID_琵琶の和弓: 비파 장궁
+MIID_追い剥ぎの和弓: 도적의 장궁
+MIID_破魔矢: 파마의 궁
+MIID_横撃ちの和弓: 횡격의 장궁
+MIID_ミコトの霊弓: 미코토의 영궁
+MIID_セツナの緩弓: 세츠나의 완궁
+MIID_ファイアー: 파이어
+MIID_サンダー: 선더
+MIID_フィンブル: 핌불
+MIID_ライナロック: 라이나로크
+MIID_ユグドラシル: 긴눈가가프
+MIID_エクスカリバー: 엑스칼리버
+MIID_ライトニング: 라이트닝
+MIID_ミョルニル: 묠니르
+MIID_リザイア: 리자이어
+MIID_スライム: 슬라임
+MIID_ブリュンヒルデ: 브륀힐데
+MIID_プチファイアー: 미니 파이어
+MIID_ミステルトィン: 미스텔테인
+MIID_ローバー: 로버
+MIID_ブーストサンダー: 부스트 선더
+MIID_ムーンライト: 문라이트
+MIID_マクベスの惑書: 이아고의 금서
+MIID_オーディンの黒書: 오딘의 흑서
+MIID_鼠神・子: 서신·자
+MIID_牛神・丑: 우신·축
+MIID_虎神・寅: 호신·인
+MIID_兎神・卯: 토신·묘
+MIID_龍神・辰: 용신·진
+MIID_逆神・丑寅: 역신·축인
+MIID_蛇神・巳: 사신·사
+MIID_馬神・午: 마신·오
+MIID_羊神・未: 양신·미
+MIID_紙: 종이
+MIID_古びた書物: 낡은 책
+MIID_猿神・申: 원신·신
+MIID_鳥神・酉: 조신·유
+MIID_虹の賢者の墨絵: 현자의 묵화
+MIID_イザナの古呪: 이자나의 부채
+MIID_ライブ: 라이브
+MIID_リライブ: 리라이브
+MIID_リブロー: 리브로
+MIID_リカバー: 리커버
+MIID_リザーブ: 리저브
+MIID_フリーズ: 프리즈
+MIID_ウィークネス: 위크니스
+MIID_ドロー: 드로우
+MIID_ビフレスト: 비브로스트
+MIID_お菓子の杖: 과자 막대기
+MIID_キノコの杖: 버섯 막대기
+MIID_花束の杖: 꽃다발
+MIID_エリーゼの幼杖: 엘리스의 지팡이
+MIID_リリスの星杖: 릴리스의 지팡이
+MIID_春祭: 봄 축제
+MIID_夏祭: 여름 축제
+MIID_秋祭: 가을 축제
+MIID_冬祭: 겨울 축제
+MIID_大祭: 대축제
+MIID_七難即滅: 칠난즉멸
+MIID_神風招来: 신풍초래
+MIID_禍事罪穢: 화사죄예
+MIID_ちょうちん: 초롱
+MIID_団子串: 꼬치
+MIID_笹飾り: 대나무 장식
+MIID_サクラの小祓串: 사쿠라의 지팡이
+MIID_アサマの捻れ祓串: 아자마의 지팡이
+MIID_竜石: 용석
+MIID_真竜石: 진용석
+MIID_獣石: 야수석
+MIID_守獣石: 수호야수석
+MIID_超獣石: 초월야수석
+MIID_竜のブレス: 물의 비말
+MIID_暗夜竜のブレス: 암야룡의 날개
+MIID_透魔竜のブレス: 투마룡의 브레스
+MIID_乱拳: 난권
+MIID_狂乱拳: 광란권
+MIID_岩塊: 암석
+MIID_巨岩塊: 거대 암석
+MIID_星竜のブレス: 성룡의 브레스
+MIID_星竜の加護: 성룡의 가호
+MIID_絡繰鋸: 꼭두각시 톱
+MIID_絡繰巨大鋸: 꼭두각시 거대톱
+MIID_傷薬: 상처약
+MIID_調合薬: 조합약
+MIID_特効薬: 특효약
+MIID_HPの薬: HP의 약
+MIID_力の薬: 힘의 약
+MIID_魔力の薬: 마력의 약
+MIID_技の薬: 기술의 약
+MIID_速さの薬: 속도의 약
+MIID_幸運の薬: 행운의 약
+MIID_守備の薬: 수비의 약
+MIID_魔防の薬: 마방의 약
+MIID_アクアの秘薬: 아주라의 비약
+MIID_ギュンターの良薬: 군터의 양약
+MIID_グレイの創作菓子: 아스기의 과자
+MIID_虹の秘薬: 무지개 비약
+MIID_絆の種: 인연의 씨앗
+MIID_ハープ: 하프
+MIID_ほら貝: 소라 껍데기
+MIID_扉の鍵: 문 열쇠
+MIID_宝の鍵: 상자 열쇠
+MIID_万能鍵: 만능 열쇠
+MIID_天使の衣: 천사의 옷
+MIID_力のしずく: 힘의 물방울
+MIID_精霊の粉: 정령의 가루
+MIID_秘伝の書: 비전의 책
+MIID_はやての羽: 질풍의 날개
+MIID_女神の像: 여신의 상
+MIID_竜の盾: 용의 방패
+MIID_魔よけ: 퇴마구
+MIID_神竜草: 신룡초
+MIID_ブーツ: 부츠
+MIID_術書: 기술서
+MIID_マスタープルフ: 마스터 프루프
+MIID_パラレルプルフ: 패러럴 프루프
+MIID_マリッジプルフ: 매리지 프루프
+MIID_バディプルフ: 버디 프루프
+MIID_エターナルプルフ: 이터널 프루프
+MIID_チャイルドプルフ: 차일드 프루프
+MIID_予約プルフ０１: 예약 프루프01
+MIID_予約プルフ０２: 예약 프루프02
+MIID_予約プルフ０３: 예약 프루프03
+MIID_小判: 금화
+MIID_金塊（小）: 금괴(소)
+MIID_金塊（中）: 금괴(중)
+MIID_金塊（大）: 금괴(대)
+MIID_真ガングレリ: 마검 간그레리
+MIID_魔戦士の巻物: 마전사의 스크롤
+MIID_黒天馬の翼: 흑천마의 날개
+MIID_戦闘王の紋章: 전투왕의 문장
+MIID_訪問王の紋章: 방문왕의 문장
+MIID_1000G: 1000G
+MIID_2000G: 2000G
+MIID_3000G: 3000G
+MIID_5000G: 5000G
+MIID_7000G: 7000G
+MIID_10000G: 10000G
+MIID_20000G: 20000G
+MIID_障害物: 장애물
+MIID_シューター砲台: 슈터 포대
+MIID_魔女の魔法陣: 마녀의 마법진
+MIID_エリートの書: 엘리트의 책
+MIID_鎧盾の書: 갑옷 방패의 책
+MIID_獣盾の書: 야수 방패의 책
+MIID_翼盾の書: 날개 방패의 책
+MIID_近接射撃の書: 근접 사격의 책
+MIID_攻防一体の陣の書: 공방일체진의 책
+MIID_力の吸収の書: 힘 흡수의 책
+MIID_魔力の吸収の書: 마력 흡수의 책
+MIID_技の吸収の書: 기술 흡수의 책
+MIID_速さの吸収の書: 속도 흡수의 책
+MIID_幸運の吸収の書: 행운 흡수의 책
+MIID_守備の吸収の書: 수비 흡수의 책
+MIID_魔防の吸収の書: 마방 흡수의 책
+MIID_絆の王の紋章: 인연왕의 문장
+MIID_神剣ファルシオン: 신검 팔시온
+MIID_神剣ラグネル: 신검 라그넬
+MIID_裏剣ファルシオン: 이검 팔시온
+MIID_雷書トロン: 뇌서 트론
+MIID_マルスの模擬剣: 마르스의 모의검
+MIID_アイクの模擬剣: 아이크의 모의검
+MIID_ルキナの模擬剣: 루키나의 모의검
+MIID_ルフレの写本: 러플레의 사본
+MIID_H_不明: 용의 문에서 나타났다는 의문의 물품.
+MIID_H_青銅の剣: 필살회피 +10/필살 없음
+MIID_H_鉄の剣: 일반적인 검
+MIID_H_鋼の剣: 추가 공격이 어렵다(-3)
+MIID_H_銀の剣: 전투 후 능력 감소(힘·기술 -2, 턴 회복)
+MIID_H_勇者の剣: 자신이 공격을 걸면 2연속/수비·마방 -4
+MIID_H_鋼の投撃剣: 추가 공격이 어렵다(-3)
+MIID_H_銀の投撃剣: 전투 후 능력 감소(힘·기술 -2, 턴 회복)
+MIID_H_アーマーキラー: 아머 특효/그 밖에는 약하다
+MIID_H_ドラゴンキラー: 용 특효/그 밖에는 약하다
+MIID_H_キルソード: 필살 시, 특히 큰 대미지
+MIID_H_サンダーソード: 마법 무기/필살 없음
+MIID_H_ガングレリ: 주인공 전용/이계의 마검
+MIID_H_ジークフリート: 젠더 전용/소지 중, 수비 +4
+MIID_H_ワインボトル: 전투에는 적합하지 않다…
+MIID_H_洋傘: 추가 공격 불가/추가 공격을 당하기 쉽다(-5)
+MIID_H_暗夜の漆黒剣: 수비 +3
+MIID_H_レオンの冷剣: 마법 무기/전투 후 능력 감소(턴 회복)
+MIID_H_ルーナの鋭剣: 추가 공격이 어렵다(-3)
+MIID_H_ラズワルドの舞剣: 속도 +3/수비·마방 -3
+MIID_H_青銅の刀: 필살회피 +10/필살 없음
+MIID_H_鉄の刀: 도 종류는 속도 +1, 수비·마방 -1
+MIID_H_鋼の刀: 추가 공격이 어렵다(-3)
+MIID_H_銀の刀: 전투 후 능력 감소(힘·기술 -2, 턴 회복)
+MIID_H_武者の刀: 반격은 무기 위력 2배/회피 -20
+MIID_H_鋼の投撃刀: 추가 공격이 어렵다(-3)
+MIID_H_銀の投撃刀: 전투 후 능력 감소(힘·기술 -2, 턴 회복)
+MIID_H_斧斬りの刀: 도끼 특효/그 밖에는 약하다
+MIID_H_逆刀: 3상성을 역전시키고 3상성 효과를 2배로
+MIID_H_居合刀: 속도 +5, 수비·마방 -1
+MIID_H_小太刀: 추가 공격 불가/추가 공격을 당하기 쉽다(-5)\n필살 없음
+MIID_H_飛刀: 추가 공격 불가/추가 공격을 당하기 쉽다(-5)
+MIID_H_霊刀: 몬스터 특효/매 턴 HP 회복/수비·마방 -4
+MIID_H_葉隠: 전투 후, 다음 공격까지 힘 반감
+MIID_H_夜刀神: 주인공 전용
+MIID_H_夜刀神・空夜: 주인공 전용/소지 중, 힘·속도 +2
+MIID_H_夜刀神・白夜: 주인공 전용/소지 중, 힘·속도 +4
+MIID_H_夜刀神・長夜: 주인공 전용/소지 중, 수비·마방 +2
+MIID_H_夜刀神・暗夜: 주인공 전용/소지 중, 수비·마방 +4
+MIID_H_夜刀神・幻夜: 주인공 전용/소지 중, 힘·속도·수비·마방 +2
+MIID_H_夜刀神・終夜: 주인공 전용/소지 중, 힘·속도·수비·마방 +4
+MIID_H_雷神刀: 료마 전용/소지 중, 힘 +4
+MIID_H_大根: 전투에는 적합하지 않다…
+MIID_H_和傘: 추가 공격 불가/추가 공격을 당하기 쉽다(-5)
+MIID_H_追い剥ぎの刀: 3상성 유리 시, 옷 벗기기/추가 공격이 쉽다(+3)
+MIID_H_白夜の霞刀: 회피 +20
+MIID_H_タクミの竹刀: 적 HP를 1 남긴다/추가 공격 불가/수비·마방 -3
+MIID_H_カザハナの麗刀: 반격은 무기 위력 2배/추가 공격 불가
+MIID_H_ヒナタの猛刀: 공격 시 무기 위력 2배/전투 후 능력 감소\n추가 공격 불가
+MIID_H_青銅の槍: 필살회피 +10/필살 없음
+MIID_H_鉄の槍: 일반적인 창
+MIID_H_鋼の槍: 추가 공격이 어렵다(-3)
+MIID_H_銀の槍: 전투 후 능력 감소(힘·기술 -2, 턴 회복)
+MIID_H_勇者の槍: 자신이 공격을 걸면 2연속/수비·마방 -4
+MIID_H_鋼の投撃槍: 추가 공격이 어렵다(-3)
+MIID_H_銀の投撃槍: 전투 후 능력 감소(힘·기술 -2, 턴 회복)
+MIID_H_手槍: 추가 공격 불가/추가 공격을 당하기 쉽다(-5)\n필살 없음
+MIID_H_スレンドスピア: 추가 공격 불가/추가 공격을 당하기 쉽다(-5)
+MIID_H_ビーストキラー: 야수 특효/그 밖에는 약하다
+MIID_H_キラーランス: 필살 시, 특히 큰 대미지
+MIID_H_聖なる槍: 몬스터 특효/매 턴 HP 회복/수비·마방 -3
+MIID_H_ほうき: 전투에는 적합하지 않다…
+MIID_H_小枝: 기술 +3
+MIID_H_魔封じの槍: 마방 +8
+MIID_H_マークスの指南槍: 전투 후 능력 감소, 2칸 이내의 적이 힘 +4/필살 없음
+MIID_H_エルフィの大槍: 추가 공격을 하기 어렵고, 당하기 쉽다(-5, -5)
+MIID_H_ピエリの小槍: 추가 공격 불가/추가 공격을 당하기 쉽다(-5)
+MIID_H_青銅の薙刀: 필살회피 +10/필살 없음
+MIID_H_鉄の薙刀: 월도 종류는 수비·마방 +1
+MIID_H_鋼の薙刀: 추가 공격이 어렵다(-3)
+MIID_H_銀の薙刀: 전투 후 능력 감소(힘·기술 -2, 턴 회복)
+MIID_H_鋼の投撃薙刀: 추가 공격이 어렵다(-3)
+MIID_H_銀の投撃薙刀: 전투 후 능력 감소(힘·기술 -2, 턴 회복)
+MIID_H_武者の薙刀: 반격은 무기 위력 2배/회피 -20
+MIID_H_剣薙ぎの薙刀: 검 특효/그 밖에는 약하다
+MIID_H_逆薙刀: 3상성을 역전시키고 3상성 효과를 2배로
+MIID_H_守りの薙刀: 장비 중, 수비·마방 +5
+MIID_H_神雷の薙刀: 마법 무기/필살 없음
+MIID_H_水車: 전투 후, 다음 공격까지 힘 반감
+MIID_H_竹竿: 전투에는 적합하지 않다…
+MIID_H_松の木: 추가 공격이 어렵다(-3)
+MIID_H_追い剥ぎの薙刀: 3상성 유리 시, 옷 벗기기/추가 공격이 쉽다(+3)
+MIID_H_捨て身の薙刀: 추가 공격 불가/추가 공격을 당하기 쉽다(-5)
+MIID_H_ヒノカの紅薙刀: 회피 +10/수비·마방 -1
+MIID_H_ツバキの金薙刀: 적보다 기술이 높을 때, 무기 위력 2배
+MIID_H_オボロの漆薙刀: 추가 공격이 어렵다(-3)/전투 후 능력 감소
+MIID_H_青銅の斧: 필살회피 +10/필살 없음
+MIID_H_鉄の斧: 일반적인 도끼
+MIID_H_鋼の斧: 추가 공격이 어렵다(-3)
+MIID_H_銀の斧: 전투 후 능력 감소(힘·기술 -2, 턴 회복)
+MIID_H_勇者の斧: 자신이 공격을 걸면 2연속/수비·마방 -4
+MIID_H_鋼の投撃斧: 추가 공격이 어렵다(-3)
+MIID_H_銀の投撃斧: 전투 후 능력 감소(힘·기술 -2, 턴 회복)
+MIID_H_手斧: 추가 공격 불가/추가 공격을 당하기 쉽다(-5)\n필살 없음
+MIID_H_トマホーク: 추가 공격 불가/추가 공격을 당하기 쉽다(-5)
+MIID_H_ハンマー: 아머 특효/그 밖에는 약하다
+MIID_H_ボルトアクス: 마법 무기/필살 없음
+MIID_H_キラーアクス: 필살 시, 특히 큰 대미지
+MIID_H_アウルゲルミル: 전투 후, 다음 공격까지 힘 반감
+MIID_H_ベルヴェルク: 가론 전용
+MIID_H_フライパン: 전투에는 적합하지 않다…
+MIID_H_獣の骨: 마방 +3
+MIID_H_追い剥ぎの斧: 3상성 유리 시, 옷 벗기기/추가 공격이 쉽다(+3)
+MIID_H_狂戦士の斧: 공격 후, 자신의 HP가 최대 HP의 30% 감소
+MIID_H_カミラの艶斧: 여성 전용/마방 +2/전투 후 능력 감소
+MIID_H_ハロルドの雄斧: 남성 전용/수비 +2
+MIID_H_ベルカの殺斧: 필살 시, 특히 큰 대미지\n추가 공격을 당하기 쉽다(-5)
+MIID_H_青銅の金棒: 필살회피 +10/필살 없음
+MIID_H_鉄の金棒: 곤봉 종류는 필살이 조금 높다
+MIID_H_鋼の金棒: 추가 공격이 어렵다(-3)
+MIID_H_銀の金棒: 전투 후 능력 감소(힘·기술 -2, 턴 회복)
+MIID_H_武者の金棒: 반격은 무기 위력 2배/회피 -20
+MIID_H_鋼の投撃金棒: 추가 공격이 어렵다(-3)
+MIID_H_銀の投撃金棒: 전투 후 능력 감소(힘·기술 -2, 턴 회복)
+MIID_H_槍砕きの金棒: 창 특효/그 밖에는 약하다
+MIID_H_逆金棒: 3상성을 역전시키고 3상성 효과를 2배로
+MIID_H_大金棒: 필살 시, 특히 큰 대미지
+MIID_H_投げ棒: 추가 공격 불가/추가 공격을 당하기 쉽다(-5)\n필살 없음
+MIID_H_破城の投げ棒: 추가 공격 불가/추가 공격을 당하기 쉽다(-5)
+MIID_H_鯉のぼり: 전투에는 적합하지 않다…
+MIID_H_クワ: 적, 아군의 지형 효과 무효
+MIID_H_金剛の金棒: 수비 +4
+MIID_H_リンカの鬼金棒: 추가 공격이 어렵다(-3)
+MIID_H_リョウマの鍛錬棒: 속도 -5
+MIID_H_フウガの疾風金棒: 속도 +3/수비·마방 -3/전투 후 능력 감소
+MIID_H_青銅の暗器: 필살회피 +10/필살 없음
+MIID_H_鉄の暗器: 암기 종류는 명중하면 적 능력 감소(턴 회복)
+MIID_H_鋼の暗器: 추가 공격이 어렵다(-3)
+MIID_H_銀の暗器: 전투 후 능력 감소(힘·기술 -2, 턴 회복)
+MIID_H_強者の暗器: 자신이 공격을 걸면 2연속/다음 공격까지 힘 반감
+MIID_H_果物ナイフ: 장비 중, 사용하면 HP 10 회복
+MIID_H_獣狩りの暗器: 야수 특효/그 밖에는 약하다
+MIID_H_クリスナイフ: 몬스터 특효/매 턴 HP 회복/수비·마방 -3
+MIID_H_羽ペン: 전투에는 적합하지 않다…
+MIID_H_固いパン: 자신이 공격을 건 후, 최대 HP의 20% 회복
+MIID_H_追い剥ぎナイフ: 3상성 유리 시, 옷 벗기기/추가 공격이 쉽다(+3)
+MIID_H_祈りのロウソク: 행운%로 발동, HP 0이 되는\n공격을 받아도 1이 남게 된다
+MIID_H_死を呼ぶナイフ: 전투 후, 자신의 HP가 최대 HP의 30%만큼 감소
+MIID_H_フェリシアの氷皿: 마법 무기
+MIID_H_ジョーカーの食器: 전투 후 능력 감소(턴 회복)/수비 +4
+MIID_H_青銅の手裏剣: 필살회피 +10/필살 없음
+MIID_H_鉄の手裏剣: 수리검 종류는 명중하면\n적 능력 감소(턴 회복)/속도 +2
+MIID_H_鋼の手裏剣: 추가 공격이 어렵다(-3)
+MIID_H_銀の手裏剣: 전투 후 능력 감소(힘·기술 -2, 턴 회복)
+MIID_H_巧者の手裏剣: 추가 공격 불가/회피 -20
+MIID_H_逆手裏剣: 3상성을 역전시키고 3상성 효과를 2배로
+MIID_H_針手裏剣: 아머 특효/그 밖에는 약하다
+MIID_H_暗殺手裏剣: 필살 시, 특히 큰 대미지
+MIID_H_爆炎手裏剣: 마법 무기/필살 없음
+MIID_H_朧: 추가 공격을 하기 쉽고, 당하기 쉽다(+5, -5)
+MIID_H_菜箸: 전투에는 적합하지 않다…
+MIID_H_かんざし: 여성 전용
+MIID_H_撒菱: 전투 후 능력 감소(턴 회복)
+MIID_H_スズカゼの疾風針: 자신이 공격을 건 후, 주위 2칸의 아군 속도 +4
+MIID_H_サイゾウの爆炎針: 자신이 공격을 건 후, 주위 2칸의 아군 힘 +4
+MIID_H_カゲロウの眩惑針: 회피 +20
+MIID_H_青銅の弓: 필살회피 +10/필살 없음
+MIID_H_鉄の弓: 일반적인 활
+MIID_H_鋼の弓: 추가 공격이 어렵다(-3)
+MIID_H_銀の弓: 전투 후 능력 감소(힘·기술 -2, 턴 회복)
+MIID_H_強者の弓: 자신이 공격을 걸면 2연속/다음 공격까지 힘 반감
+MIID_H_鋼の近撃弓: 추가 공격이 어렵다(-3)
+MIID_H_銀の近撃弓: 전투 후 능력 감소(힘·기술 -2, 턴 회복)
+MIID_H_キラーボウ: 필살 시, 특히 큰 대미지
+MIID_H_聖なる弓: 몬스터 특효/매 턴 HP 회복/수비·마방 -3
+MIID_H_ショートボウ: 사정거리가 짧은 활
+MIID_H_シャイニングボウ: 마법 무기/필살 없음
+MIID_H_ゴムの弓: 전투에는 적합하지 않다…
+MIID_H_バイオリンの弓: 자신이 공격을 건 후, 주위 2칸의 아군 기술 +4
+MIID_H_キューピッドの弓: 공격 후, 적의 HP가 최대 HP의 20%만큼 회복
+MIID_H_狩人の弓: 야수 특효/그 밖에는 약하다
+MIID_H_アンナの福弓: 행운 +5/전투 후 능력 감소
+MIID_H_ゼロの虐弓: 적 HP를 1 남긴다/추가 공격 불가/수비·마방 -2
+MIID_H_青銅の和弓: 필살회피 +10/필살 없음
+MIID_H_鉄の和弓: 장궁 종류는 마방 +2
+MIID_H_鋼の和弓: 추가 공격이 어렵다(-3)
+MIID_H_銀の和弓: 전투 후 능력 감소(힘·기술 -2, 턴 회복)
+MIID_H_巧者の和弓: 추가 공격 불가/회피 -20
+MIID_H_鋼の近撃和弓: 추가 공격이 어렵다(-3)
+MIID_H_銀の近撃和弓: 전투 후 능력 감소(힘·기술 -2, 턴 회복)
+MIID_H_逆和弓: 3상성을 역전시키고 3상성 효과를 2배로
+MIID_H_明鏡の和弓: 마방 +10
+MIID_H_必中の和弓: 수비 -4/마방 -2/회피 -30
+MIID_H_残心: 추가 공격하기 쉽고, 당하기 쉽다(+5, -5)
+MIID_H_風神弓: 타쿠미 전용/소지 중, 지형을 평지처럼 이동
+MIID_H_スカディ: 이계의 마궁. 분신을 만들어 낸다.
+MIID_H_竹の和弓: 전투에는 적합하지 않다…
+MIID_H_琵琶の和弓: 자신이 공격을 건 후, 주위 2칸의 아군 마방 +4
+MIID_H_追い剥ぎの和弓: 3상성 유리 시, 옷 벗기기/추가 공격이 쉽다(+3)
+MIID_H_破魔矢: 마법 특효/그 밖에는 약하다/수비 -4
+MIID_H_横撃ちの和弓: 추가 공격 불가/추가 공격을 당하기 쉽다(-5)
+MIID_H_ミコトの霊弓: 전투 후 능력 감소/수비 -2/매 턴 HP 회복
+MIID_H_セツナの緩弓: 명중 후, 적 능력 감소(턴 회복)
+MIID_H_ファイアー: 필살회피 +10/필살 없음
+MIID_H_サンダー: 일반적인 마법
+MIID_H_フィンブル: 추가 공격이 어렵다(-3)
+MIID_H_ライナロック: 전투 후 능력 감소(마력·기술 -2, 턴 회복)
+MIID_H_ユグドラシル: 전투 후, 다음 공격까지 마력 반감
+MIID_H_エクスカリバー: 비행 특효\n추가 공격을 하기 쉽고, 당하기 쉽다(+5, -5)
+MIID_H_ライトニング: 자신이 공격을 걸면 2연속/전투 후 능력 감소
+MIID_H_ミョルニル: 필살 시, 특히 큰 대미지
+MIID_H_リザイア: 메이지계 전용/HP 흡수/추가 공격 불가/필살 없음
+MIID_H_ブリュンヒルデ: 리오 전용/소지 중, 기술%로 적의 마법 반감
+MIID_H_プチファイアー: 전투에는 적합하지 않다…
+MIID_H_ミステルトィン: 오펠리아 전용/기술·마방 +1
+MIID_H_ローバー: 3상성 유리 시, 옷 벗기기/추가 공격이 쉽다(+3)
+MIID_H_ブーストサンダー: 전투 후, 2칸 이내의 적 속도 +4
+MIID_H_ムーンライト: 자신이 공격을 건 후,\n자신의 최대 HP의 20%만큼 회복
+MIID_H_マクベスの惑書: 전투 후 능력 감소/전투 후 적 능력 감소
+MIID_H_オーディンの黒書: 필살 시, 특히 큰 대미지/추가 공격 불가
+MIID_H_鼠神・子: 필살회피 +10/필살 없음
+MIID_H_牛神・丑: 부채 종류는 자신의 능력을 강화한다
+MIID_H_虎神・寅: 추가 공격이 어렵다(-3)
+MIID_H_兎神・卯: 전투 후 능력 감소(마력·기술 -2, 턴 회복)
+MIID_H_龍神・辰: 용 특효/전투 후, 다음 공격까지 마력 반감
+MIID_H_逆神・丑寅: 3상성을 역전시키고 3상성 효과를 2배로
+MIID_H_蛇神・巳: 자신이 공격을 걸면 2연속/다음 공격까지 마력 반감
+MIID_H_馬神・午: 기술·속도·수비·마방 +3
+MIID_H_羊神・未: 장비 중, 사용하면 HP 10 회복
+MIID_H_紙: 전투에는 적합하지 않다…
+MIID_H_古びた書物: 추가 공격이 어렵다(-3)
+MIID_H_猿神・申: 행운 -4
+MIID_H_鳥神・酉: 회피 +15/수비 -4
+MIID_H_虹の賢者の墨絵: 반격은 무기 위력 2배/전투 후 능력 감소\n/추가 공격 불가
+MIID_H_イザナの古呪: 공격 시 무기 위력 2배/추가 공격 불가
+MIID_H_ライブ: 인접한 아군을 회복시킨다
+MIID_H_リライブ: 인접한 아군을 크게 회복시킨다
+MIID_H_リブロー: 떨어진 아군을 회복시킨다
+MIID_H_リカバー: 인접한 아군을 굉장히 크게 회복시킨다
+MIID_H_リザーブ: 주위의 아군 전원을 회복시킨다
+MIID_H_フリーズ: 적의 이동력 0, 회피 -20(1턴)
+MIID_H_ウィークネス: 적의 모든 능력 -4(턴 회복)
+MIID_H_ドロー: 적을 자신 곁으로 워프시킨다
+MIID_H_ビフレスト: 현재 맵에서 마지막으로 잃은 동료를 부활
+MIID_H_お菓子の杖: 아군의 HP 10 회복, 자신의 HP 5 회복
+MIID_H_キノコの杖: 아군의 HP 15 회복/자신의 마방 +2(해당 장)
+MIID_H_花束の杖: 아군의 HP 20 회복/아군의 행운 +4(해당 장)
+MIID_H_エリーゼの幼杖: 아군의 HP 10 회복
+MIID_H_リリスの星杖: 주위 아군 전원의 HP 7 회복
+MIID_H_春祭: 조금 떨어진 아군을 회복시킨다
+MIID_H_夏祭: 조금 떨어진 아군을 크게 회복시킨다
+MIID_H_秋祭: 멀리 떨어진 아군을 회복시킨다
+MIID_H_冬祭: 조금 떨어진 아군을 굉장히 크게 회복시킨다
+MIID_H_大祭: 주위의 아군 전원을 회복시킨다
+MIID_H_七難即滅: 떨어진 아군을 자신 곁으로 워프시킨다
+MIID_H_神風招来: 적이 마법·지팡이를 쓰지 못한다(1턴)
+MIID_H_禍事罪穢: 적의 최대 HP가 반감(해당 장)
+MIID_H_ちょうちん: 아군의 HP 7 회복
+MIID_H_団子串: 아군 HP 10 회복/사용 시 본인 HP 10 회복
+MIID_H_笹飾り: 아군 HP 15 회복/주위 2칸 아군의 행운 +8
+MIID_H_サクラの小祓串: 아군의 HP 7 회복
+MIID_H_アサマの捻れ祓串: 아군의 HP 30 회복
+MIID_H_竜石: 마법 무기/추가 공격 불가
+MIID_H_真竜石: 마법 무기/추가 공격 불가/전투 후 능력 감소
+MIID_H_獣石: 늑대 인간, 여우족 전용
+MIID_H_守獣石: 늑대 인간, 여우족 전용
+MIID_H_超獣石: 늑대 인간, 여우족 전용/전투 후 능력 감소
+MIID_H_竜のブレス: 용이 내뱉는 물의 비말
+MIID_H_暗夜竜のブレス: 암야룡의 검은 날갯짓
+MIID_H_透魔竜のブレス: 투마룡의 숨결
+MIID_H_乱拳: 노스페라투 전용
+MIID_H_狂乱拳: 노스페라투 전용/전투 후 능력 감소
+MIID_H_岩塊: 골렘 전용
+MIID_H_巨岩塊: 골렘 전용
+MIID_H_星竜のブレス: 성룡의 숨결
+MIID_H_星竜の加護: 떨어진 아군을 회복시킬 수 있다
+MIID_H_絡繰鋸: 톱은 명중시 적 능력치를 감소시킨다 (턴 회복)
+MIID_H_絡繰巨大鋸: 명중시 적 능력 감소/전투 후 능력 감소
+MIID_H_傷薬: 사용하면 HP가 10 회복되는 약
+MIID_H_調合薬: 사용하면 HP가 20 회복되는 약
+MIID_H_特効薬: 사용하면 HP가 40 회복되는 약
+MIID_H_HPの薬: 사용하면 최대 HP +5(해당 장)
+MIID_H_力の薬: 사용하면 힘 +2(해당 장)
+MIID_H_魔力の薬: 사용하면 마력 +2(해당 장)
+MIID_H_技の薬: 사용하면 기술 +2(해당 장)
+MIID_H_速さの薬: 사용하면 속도 +2(해당 장)
+MIID_H_幸運の薬: 사용하면 행운 +4(해당 장)
+MIID_H_守備の薬: 사용하면 수비 +2(해당 장)
+MIID_H_魔防の薬: 사용하면 마방 +2(해당 장)
+MIID_H_アクアの秘薬: 인접한 아군의 HP가 10 회복되는 약
+MIID_H_ギュンターの良薬: 사용하면 HP가 25 회복되는 약
+MIID_H_グレイの創作菓子: HP 10 회복, 힘·기술·속도 +2(해당 장)
+MIID_H_虹の秘薬: 사용하면 행운 +4, 다른 모든 능력 +2(해당 장)
+MIID_H_絆の種: 방진 시에 사용하면 상대와 사이가 좋아진다
+MIID_H_ハープ: 사용하면 주위 2칸 아군의 속도 +4(1턴)
+MIID_H_ほら貝: 사용하면 주위 2칸 아군의 수비 +4(1턴)
+MIID_H_扉の鍵: 가까이 있는 문을 열 수 있는 열쇠
+MIID_H_宝の鍵: 가까이 있는 보물 상자를 열 수 있는 열쇠
+MIID_H_万能鍵: 가까이 있는 문·보물 상자를 열 수 있는 열쇠
+MIID_H_天使の衣: 사용하면 최대 HP +5
+MIID_H_力のしずく: 사용하면 힘 +2
+MIID_H_精霊の粉: 사용하면 마력 +2
+MIID_H_秘伝の書: 사용하면 기술 +2
+MIID_H_はやての羽: 사용하면 속도 +2
+MIID_H_女神の像: 사용하면 행운 +4
+MIID_H_竜の盾: 사용하면 수비 +2
+MIID_H_魔よけ: 사용하면 마방 +2
+MIID_H_神竜草: 사용하면 모든 능력 +1
+MIID_H_ブーツ: 사용하면 이동력 +1
+MIID_H_術書: 사용하면 무기 레벨 상승
+MIID_H_マスタープルフ: 레벨 10 이상의 하급 병과가 상급 병과로 전직
+MIID_H_パラレルプルフ: 소질을 지닌 다른 병과로 전직(레벨 유지)
+MIID_H_マリッジプルフ: 지원S 상대의 초기 병과로 전직(레벨 유지)
+MIID_H_バディプルフ: 지원A+ 상대의 초기 병과로 전직(레벨 유지)
+MIID_H_エターナルプルフ: 레벨 최대 시(하급 제외), +5 레벨 성장 가능
+MIID_H_チャイルドプルフ: 성장된 상급 병과가 된다 (소지자 한정)
+MIID_H_予約０１: 다른 병과로 클래스 체인지 가능
+MIID_H_予約０２: 다른 병과로 클래스 체인지 가능
+MIID_H_予約０３: 다른 병과로 클래스 체인지 가능
+MIID_H_小判: 300G에 팔 수 있다
+MIID_H_金塊（小）: 1000G에 팔 수 있다
+MIID_H_金塊（中）: 5000G에 팔 수 있다
+MIID_H_金塊（大）: 10000G에 팔 수 있다
+MIID_H_真ガングレリ: 전투 후, 자신의 HP가 최대 HP의 20%만큼 감소
+MIID_H_魔戦士の巻物: 마전사로 클래스 체인지 가능
+MIID_H_黒天馬の翼: 다크 팔콘으로 클래스 체인지 가능
+MIID_H_戦闘王の紋章: 소지 중, 힘·마력·기술·속도 +2
+MIID_H_訪問王の紋章: 소지 중, 행운·수비·마방 +2
+MIID_H_1000G: 1000G
+MIID_H_2000G: 2000G
+MIID_H_3000G: 3000G
+MIID_H_5000G: 5000G
+MIID_H_7000G: 7000G
+MIID_H_10000G: 10000G
+MIID_H_20000G: 20000G
+MIID_H_障害物: 「설치」로 인접한 칸에 배치할 수 있다
+MIID_H_シューター砲台: 슈터로 클래스 체인지 가능/남성 전용
+MIID_H_魔女の魔法陣: 마녀로 클래스 체인지 가능/여성 전용
+MIID_H_エリートの書: 「엘리트」 스킬을 습득 가능
+MIID_H_鎧盾の書: 「갑옷 방패」 스킬을 습득 가능
+MIID_H_獣盾の書: 「야수 방패」 스킬을 습득 가능
+MIID_H_翼盾の書: 「날개 방패」 스킬을 습득 가능
+MIID_H_近接射撃の書: 「근접 사격」 스킬을 습득 가능
+MIID_H_攻防一体の陣の書: 「공방일체진」 스킬을 습득 가능
+MIID_H_力の吸収の書: 「힘 흡수」 스킬을 습득 가능
+MIID_H_魔力の吸収の書: 「마력 흡수」 스킬을 습득 가능
+MIID_H_技の吸収の書: 「기술 흡수」 스킬을 습득 가능
+MIID_H_速さの吸収の書: 「속도 흡수」 스킬을 습득 가능
+MIID_H_幸運の吸収の書: 「행운 흡수」 스킬을 습득 가능
+MIID_H_守備の吸収の書: 「수비 흡수」 스킬을 습득 가능
+MIID_H_魔防の吸収の書: 「마방 흡수」 스킬을 습득 가능
+MIID_H_絆の王の紋章: 소지 중, 모든 능력 +1
+MIID_H_神剣ファルシオン: 용 특효/장비 중, 사용하면 HP 10 회복/본인 전용
+MIID_H_神剣ラグネル: 수비 +3/추가 공격이 어렵다(-3)/본인 전용
+MIID_H_裏剣ファルシオン: 용 특효/추가 공격이 쉽다(+3)/본인 전용
+MIID_H_雷書トロン: 마방 +3/본인 전용
+MIID_H_マルスの模擬剣: 필살회피 +10
+MIID_H_アイクの模擬剣: 수비 +3/추가 공격이 어렵다(-3)
+MIID_H_ルキナの模擬剣: 추가 공격이 쉽다(+3)
+MIID_H_ルフレの写本: 마방 +3
+MID_個性_HP: 건강
+MID_個性_力: 완력
+MID_個性_魔力: 명석
+MID_個性_技: 능숙
+MID_個性_速さ: 민첩
+MID_個性_幸運: 운수
+MID_個性_守備: 맷집
+MID_個性_魔防: 침착
+MID_短所_HP: 병약
+MID_短所_力: 미력
+MID_短所_魔力: 둔감
+MID_短所_技: 미숙
+MID_短所_速さ: 나태
+MID_短所_幸運: 비운
+MID_短所_守備: 유리 몸
+MID_短所_魔防: 다혈질
+MTID_移動不可: 이동 불가
+MTID_平地: 평지
+MTID_氷丘: 얼음 언덕
+MTID_毒沼: 독 늪
+MTID_闇沼: 암흑 늪
+MTID_竹槍: 죽창
+MTID_溶岩床: 용암
+MTID_嵐: 폭풍
+MTID_林: 숲
+MTID_砂漠: 사막
+MTID_荒地: 황지
+MTID_田畑: 논밭
+MTID_山: 산
+MTID_高山: 고산
+MTID_崖: 벼랑
+MTID_断崖: 절벽
+MTID_深い森: 깊은 숲
+MTID_空: 하늘
+MTID_風の渦: 회오리바람
+MTID_竜巻: 토네이도
+MTID_橋: 다리
+MTID_河: 강
+MTID_泉: 연못
+MTID_海: 바다
+MTID_湖: 호수
+MTID_砦: 요새
+MTID_召喚床: 소환 바닥
+MTID_穴: 구멍
+MTID_城門: 성문
+MTID_廃墟門: 폐허 문
+MTID_墓: 무덤
+MTID_村: 마을
+MTID_閉じ村: 닫힌 마을
+MTID_廃村: 폐허 마을
+MTID_建物: 건물
+MTID_低建物: 낮은 건물
+MTID_壁: 벽
+MTID_本棚: 책장
+MTID_水晶玉: 수정구
+MTID_篝火: 화톳불
+MTID_桜: 벚나무
+MTID_大樹: 큰 나무
+MTID_低壁: 낮은 벽
+MTID_瓦礫: 잔해
+MTID_庭石: 정원석
+MTID_隆起: 융기
+MTID_土塁: 흙 언덕
+MTID_床: 바닥
+MTID_階段: 계단
+MTID_門口: 출입구
+MTID_暗夜床: 죽음의 바닥
+MTID_柱: 기둥
+MTID_座布団: 방석
+MTID_玉座: 옥좌
+MTID_回復床: 회복 바닥
+MTID_剣の間: 검의 방
+MTID_扉: 문
+MTID_襖: 장지
+MTID_宝箱: 보물 상자
+MTID_古木: 고목
+MTID_暗器砲台: 암기 포대
+MTID_弓砲台: 활 포대
+MTID_魔道砲台: 마도 포대
+MTID_氷海: 빙해
+MTID_海の道: 바다의 길
+MTID_良薬: 양약
+MTID_劇薬: 극약
+MTID_撒菱: 마름쇠
+MTID_水壁: 수벽
+MTID_障壁: 장벽
+MTID_魔方陣: 마법진
+MTID_渓谷: 계곡
+MTID_炎壁: 화염벽
+MTID_御神木: 신목
+MTID_太柱: 굵은 기둥
+MTID_闇: 어둠
+MTID_氷: 얼음
+MTID_鎖: 쇠사슬
+MTID_守護床: 수호 바닥
+MTID_氷結泉: 빙결 연못
+MTID_水たまり: 물 지대
+MTID_防壁: 방벽
+MTID_障害物: 장애물
+MTID_宇宙: 허무
+MTID_竜の体: 용의 몸
+MTID_竜の足: 용의 앞다리
+MTID_竜の核: 용의 핵
+MTID_コア: 용의 심장
+MTID_堀: 해자
+MTID_空堀: 빈 해자
+MBID_その他: 기타
+MBID_マイユニット軍: $a$Nu군
+MBID_白夜王国軍: 백야 왕국군
+MBID_暗夜王国軍: 암야 왕국군
+MBID_透魔王国軍: 투마 왕국군
+MBID_フウマ公国軍: 후마 공국군
+MBID_シュヴァリエ公国軍: 슈바리에 공국군
+MBID_幻影軍: 환영군
+MBID_部族軍: 부족군
+MBID_異邦の軍: 이방의 군
+MBID_謎の軍: 수수께끼의 군
+MBID_賊: 도적
+MBID_村人: 마을 사람
+MBID_通信対戦自軍: $a$Nl0군
+MBID_通信対戦敵軍: $a$Nl1군
+MBID_デフォルト軍: $a$Nu군
+MBID_デフォルト他軍: 이계의 군
+MBID_H_その他: 기타 세력의 군대
+MBID_H_マイユニット軍: $a$Nu$KrP4| 그 동료들의 군대
+MBID_H_白夜王国軍: 평화를 중요시하는\n백야 왕국의 군대
+MBID_H_暗夜王国軍: 전란을 즐기는\n암야 왕국의 군대
+MBID_H_透魔王国軍: 수수께끼로 가득 찬\n투마 왕국의 군대
+MBID_H_フウマ公国軍: 닌자들의 나라,\n후마 공국의 군대
+MBID_H_シュヴァリエ公国軍: 기사들의 나라,\n슈바리에 공국의 군대
+MBID_H_幻影軍: 생명을 지니지 않는\n만들어진 환영의 군대
+MBID_H_部族軍: 얼음, 불꽃, 바람, 야수 등\n부족민들의 군대
+MBID_H_異邦の軍: 이계에서 온\n신비한 사람들의 군대
+MBID_H_謎の軍: 정체불명,\n의문의 괴물 군대
+MBID_H_賊: 주민들을 약탈하는\n불량배들의 군대
+MBID_H_村人: 이 땅에 사는\n평범한 사람들
+MBID_H_通信対戦自軍: $a$Nl0$KrP4| 그 동료들의 군대
+MBID_H_通信対戦敵軍: $a$Nl1$KrP4| 그 동료들의 군대
+MIKID_H_剣: 검 무기 레벨
+MIKID_H_斧: 도끼 무기 레벨
+MIKID_H_槍: 창 무기 레벨
+MIKID_H_魔道書: 마도서 무기 레벨
+MIKID_H_弓: 활 무기 레벨
+MIKID_H_暗器: 암기 무기 레벨
+MIKID_H_杖: 지팡이 무기 레벨
+MIKID_H_竜石: 용석 무기 레벨
+MIKID_H_獣石: 야수석 무기 레벨
+MIKID_H_ブレス: 브레스 무기 레벨
+MIKID_H_魔物: 몬스터 무기 레벨
+MIKID_H_投擲: 투석 무기 레벨
+MIKID_H_絡繰: 꼭두각시 무기 레벨

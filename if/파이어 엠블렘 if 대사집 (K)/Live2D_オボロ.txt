@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_オボロ
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_OBORO_MYROOM_09: 방이 아주 좋은데요. 또 초대해 주실래요?
+MKID_LIVE2D_VOICE_OBORO_MYROOM_19: 전 여기에 오는 게 좋아요. 다음에 또 초대해 주세요!
+MKID_LIVE2D_VOICE_OBORO_MYROOM_29: 제가 옷에는 일가견이 있거든요.\n당신에게 어떤 새로운 옷이 어울릴지 궁금하네요!
+MKID_LIVE2D_VOICE_OBORO_MYROOM_38: 좋아요, 당신! 입 내밀어요.
+MKID_LIVE2D_VOICE_OBORO_MYROOM_38_W: 나쁘지 않네요, 그쵸?
+MKID_LIVE2D_VOICE_OBORO_MYROOM_39: 전 당신과 껴안고 있는 시간이 좋아요.
+MKID_LIVE2D_VOICE_OBORO_MYROOM_49: 둘이서만 있을 수 있는 시간이 찾아와서 너무 좋아요.\n우린 항상 사람들에게 둘러싸여 있잖아요!
+MKID_LIVE2D_VOICE_OBORO_MYROOM_SP_A: 왕족과 이렇게 가까이 지내서는 안 된다는 걸 알아요.\n하지만 전 마음이 가는 대로 행동하겠어요!
+MKID_LIVE2D_VOICE_OBORO_MYROOM_SP_S: 언젠가 함께 우리 부모님의 무덤에 가자.\n그래서 인사도 드리고…
+MKID_LIVE2D_VOICE_OBORO_MYROOM_SP_S_W: 두 분께 축복도 받자.
+MKID_LIVE2D_VOICE_OBORO_RELIANCE_S: 언젠가는 당신만큼 세상을 사랑할 수 있게 되었으면 좋겠어.
+MKID_LIVE2D_VOICE_OBORO_RELIANCE_S_W: 그때까지 내 곁에 있어 줘.

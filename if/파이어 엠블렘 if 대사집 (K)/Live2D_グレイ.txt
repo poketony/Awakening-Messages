@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_グレイ
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_GUREI_MYROOM_09: 설마 빈 손으로 돌려 보낼 생각은 아니시겠죠?\n음… 보수로는 만쥬가 좋겠어요.
+MKID_LIVE2D_VOICE_GUREI_MYROOM_19: 윽…, 제 신성한 간식 시간을 방해하셨으니…\n각오하시는 게 좋을 걸요…?
+MKID_LIVE2D_VOICE_GUREI_MYROOM_29: 의뢰라면 언제든 환영이에요.\n특별히 싸게 해 드릴게요.
+MKID_LIVE2D_VOICE_GUREI_MYROOM_38: 입술이 정말 달콤해 보여요…\n제가 맛 좀 봐도 될까요…?
+MKID_LIVE2D_VOICE_GUREI_MYROOM_38_W: …음. 역시 달콤하네요…
+MKID_LIVE2D_VOICE_GUREI_MYROOM_39: 과자는 필요 없어요. 당신만 있으면…\n언제든 달콤함을 맛 볼 수 있거든요…
+MKID_LIVE2D_VOICE_GUREI_MYROOM_49: …사랑해요… 당신이 제게 해 준 것처럼\n당신의 인생도 달콤하게 만들어 드릴게요.
+MKID_LIVE2D_VOICE_GUREI_MYROOM_SP_A: 제가 그렇게 좋으세요? …후. 어쩔 수 없네요…\n제 비장의 간식을 나눠 드릴게요. 단, 이번 한 번 뿐이에요.
+MKID_LIVE2D_VOICE_GUREI_MYROOM_SP_S: 제가 가장 좋아하는 과자예요.\n당신을 위해 제가 직접 만들었어요.
+MKID_LIVE2D_VOICE_GUREI_MYROOM_SP_S_W: 당신 외엔 아무것도 필요 없어요.
+MKID_LIVE2D_VOICE_GUREI_RELIANCE_S: 당신은 그 어떤 간식들보다 달콤해요.\n커다란 케이크로 우리의 사랑을 축하할까요?
+MKID_LIVE2D_VOICE_GUREI_RELIANCE_S_W: 농담 아니에요.\n이 세상에서 제일 큰 케이크여야만 해요.

@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_マトイ
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_MATOI_MYROOM_09: 여기 오면 배울 게 많아요.\n저도 언젠가는 완벽해질 수 있겠죠?
+MKID_LIVE2D_VOICE_MATOI_MYROOM_19: 아까 작은 상처가 생긴 걸 봤어요…\n항상 컨디션 관리에 유념하셔야 돼요.
+MKID_LIVE2D_VOICE_MATOI_MYROOM_29: 다른 사람들에겐 약한 모습 보인 적 없는데…\n아무한테도 말하면 안 돼요.
+MKID_LIVE2D_VOICE_MATOI_MYROOM_38: 우리, 훈련은 열심히 했지만\n입술엔 소홀했던 것 같지 않아요…?
+MKID_LIVE2D_VOICE_MATOI_MYROOM_38_W: …이 훈련도 좋아질 것 같아요.
+MKID_LIVE2D_VOICE_MATOI_MYROOM_39: 그거 아세요? 제게 당신은 백마 탄 왕자님이에요.\n절 고독 속에서 구해내 주셨으니까요…
+MKID_LIVE2D_VOICE_MATOI_MYROOM_49: 사랑해요… 제가 완벽해야 한다는 부담감을\n내려놓을 수 있는 건 오직 당신 앞뿐이에요.
+MKID_LIVE2D_VOICE_MATOI_MYROOM_SP_A: 가끔… 제 부족한 부분이 걱정될 때가 있어요.\n하지만 당신과 함께라면 전 충분히 행복해요.
+MKID_LIVE2D_VOICE_MATOI_MYROOM_SP_S: 고마워요. 제 곁에 있어 줘서,\n그리고 진정한 사랑을 가르쳐 줘서…
+MKID_LIVE2D_VOICE_MATOI_MYROOM_SP_S_W: 앞으로도 영원히 당신을 사랑할게요…
+MKID_LIVE2D_VOICE_MATOI_RELIANCE_S: 이 사랑은 영원할 거예요.\n만약 먼 미래에 우리가 다시 만나게 돼도…
+MKID_LIVE2D_VOICE_MATOI_RELIANCE_S_W: 절 기억해 주세요. 약속이에요…

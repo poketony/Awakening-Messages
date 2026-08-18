@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_フウガ
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_FUUGA_MYROOM_09: 그러고 보니 스메라기와도 종종 이렇게 얘기를 나누었지…
+MKID_LIVE2D_VOICE_FUUGA_MYROOM_19: 이런 시간을 보내는 것도 좋지만, 수련을 게을리 해선 안 돼.
+MKID_LIVE2D_VOICE_FUUGA_MYROOM_29: 너는 야신도의 선택을 받은 자다. 그 책임을 다해야만 해.
+MKID_LIVE2D_VOICE_FUUGA_MYROOM_38: 해선 안 될 행동인 것 같지만… 입맞춤을 하고 싶군…
+MKID_LIVE2D_VOICE_FUUGA_MYROOM_38_W: 아무도 몰라야 할 텐데…
+MKID_LIVE2D_VOICE_FUUGA_MYROOM_39: 너와 함께 있으면 마음이 편해. 마음에 산들 바람이 부는 듯…
+MKID_LIVE2D_VOICE_FUUGA_MYROOM_49: 이런 감정을 또 느끼게 될 줄이야. 내게 무슨 짓을 한 거지?
+MKID_LIVE2D_VOICE_FUUGA_MYROOM_SP_A: 오랜 세월을 살며 많은 사람을 알고 지냈지만\n이제 넌 나의 가장 소중한 사람이 되었다. 고마워…
+MKID_LIVE2D_VOICE_FUUGA_MYROOM_SP_S: 네가 내 삶으로 들어와 줘서 상당히 기쁘군.\n넌 내 삶을 송두리째 바꿔 놓았어.
+MKID_LIVE2D_VOICE_FUUGA_MYROOM_SP_S_W: 이 세상을 떠날 때까지 네 곁이 있을 것을 약속하지.
+MKID_LIVE2D_VOICE_FUUGA_RELIANCE_S: 너는 정말 최고의 여자야.
+MKID_LIVE2D_VOICE_FUUGA_RELIANCE_S_W: 영원히 함께하도록 하지.

@@ -1,0 +1,79 @@
+MESS_ARCHIVE_Debug
+
+
+Message Name: Message
+
+
+MDID_ゲーム設定: Game Settings
+MDID_デバッグ設定: Debug Settings
+MDID_データ編集: Edit Data
+MDID_セーブ: Save
+MDID_ロード: Load
+MDID_キャッスルメニュー: Castle Menu
+MDID_フリーカメラ: Camera
+MDID_軍データ: Army Data
+MDID_ユニット集合: $aCluster Units: $a0
+MDID_ユニット集合_全: All
+MDID_ユニット集合_青: Blue
+MDID_ユニット集合_赤: Red
+MDID_ユニット集合_緑: Green
+MDID_配置データ: Placement Data
+MDID_ユニット生成: Generate Unit
+MDID_全仲間加入: Add All Allies
+MDID_全ゲスト枠加入: Add All Guest Units
+MDID_全名前有りゲスト加入: Add All Named Guest Units
+MDID_全ゲスト枠加入（モブ）: Add All Minor Guest Units
+MDID_レベル底上げ: Increase Characters' Lv to:
+MDID_輸送隊: Convoy
+MDID_輸送隊個別: Convoy (Individually)
+MDID_錬成: Forged Items
+MDID_日常遭遇: Daily Encounter
+MDID_フラグ: Flags
+MDID_変数: Variables
+MDID_戦績: Records
+MDID_通信交流: Parley
+MDID_フィールド再読み込み: Reload Field
+MDID_ユニット再読み込み: Reload Unit
+MDID_フィールドビュアー: Field Viewer
+MDID_オブジェクトビュアー: Object Viewer
+MDID_マップクリア: Clear the Map
+MDID_タイトルへ戻る: Return to Title
+MDID_パラメータ: Parameter
+MDID_ドーピング: Max Stats
+MDID_レベルアップ: Level Up
+MDID_持ち物: Equipments
+MDID_支援: Support Rank
+MDID_支援上昇スコア: Support Rank Gauge
+MDID_状態変化: Status Ailments
+MDID_スキルプール: List of Skills
+MDID_エディット: Edit Player Info
+MDID_家系: Family Tree
+MDID_AI: AI
+MDID_自動入力: Auto Command
+MDID_アイコン更新: Update Player Icon
+MDID_交代: Switch
+MDID_回復: Restore HP
+MDID_瀕死: Critically Injured
+MDID_葬儀: Knocked Out
+MDID_待機解除: Move Unit
+MDID_建物メニュー: Building Menu
+MDID_全建物から直接訪問: Visit Shops Directly
+MDID_キャッスルの人々: People in My Castle
+MDID_調整可能パラメータ: Adjustable Parameters
+MDID_通信テスト: Wireless Test
+MDID_個別仲間加入: Add an Ally
+MDID_全ゲスト脱退: Remove Guest Units from Roster
+MDID_店レベル設定: Change Shop Lv.
+MDID_店在庫設定: Shop Inventory
+MDID_プリセットの呼び出し: Preset Layout
+MDID_リリス: Lilith
+MDID_個性オープン: Unlock characteristics
+MDID_アミーボ: amiibo
+MDID_アクセサリ一覧: Accessory List
+MDID_アクセサリ全追加: Add All Accessories
+MDID_鉱石: Gems
+MDID_食材: Ingredients
+MDID_素材全追加: Add All Resources
+MDID_マイユニット編集: Edit My Unit
+MDID_マイルーム編集: Edit My Room
+MDID_時間経過イベントの操作: Alter In-game Time

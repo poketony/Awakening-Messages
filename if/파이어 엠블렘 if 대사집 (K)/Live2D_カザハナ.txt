@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_カザハナ
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_KAZAHANA_MYROOM_09: 이야압! …앗, 죄송해요! 옆에 있는 줄 몰랐어요!
+MKID_LIVE2D_VOICE_KAZAHANA_MYROOM_19: 방 안에만 있는 건 싫어요.\n나가서 몸을 움직이는 게 더 좋아요.
+MKID_LIVE2D_VOICE_KAZAHANA_MYROOM_29: 훈련할 땐 봐주는 거 없으니 각오하시라구요!
+MKID_LIVE2D_VOICE_KAZAHANA_MYROOM_38: 검술 대련 말고 다른 것도 연습해 보지 않을래요…?
+MKID_LIVE2D_VOICE_KAZAHANA_MYROOM_38_W: …이런 거 말이에요.
+MKID_LIVE2D_VOICE_KAZAHANA_MYROOM_39: 오늘 밤에도 또 같이 훈련 어때요?\n잠깐… 얼굴 빨개진 거 알아요?
+MKID_LIVE2D_VOICE_KAZAHANA_MYROOM_49: 사랑해요… 당신을 사랑하는 마음은\n세상에서 제가 가장 강하다구요…!
+MKID_LIVE2D_VOICE_KAZAHANA_MYROOM_SP_A: 많은 일이 있었지만,\n지금은 이렇게 함께할 수 있어서 기뻐요.
+MKID_LIVE2D_VOICE_KAZAHANA_MYROOM_SP_S: 당신에게 꼭 안겨 있으면 행복해져요…\n그리고 당신을 지키고 싶어져서 힘이 나요.
+MKID_LIVE2D_VOICE_KAZAHANA_MYROOM_SP_S_W: 누구도 내 남편에게 상처 주지 못하게 할 거야.
+MKID_LIVE2D_VOICE_KAZAHANA_RELIANCE_S: 그렇게 말해 줘서 기뻐요… 저도 사랑해요!
+MKID_LIVE2D_VOICE_KAZAHANA_RELIANCE_S_W: 우린 세상에서 가장 행복한 부부가 될 거예요…

@@ -1,0 +1,11 @@
+MESS_ARCHIVE_M002
+
+
+Message Name: Message
+
+
+MID_M002_OP1: $t1$Wmアイク|7$Wmusername|3$w0|$Wsアイク|$Wa$E怒,|$SvpVOICE_IKE_B_SUPPORT_04|상대로서 부족함은 없군…$k$p너와 싸운다고 생각하니\n기쁨이 느껴질 정도야.$k$p$Eキメ,|자, 얼른 덤벼.$k$p네 힘과 정의…\n어느 정도인지 나에게 증명해 봐.$k
+MID_M002_BT: $t0$Wmアイク|0$w0|$Wsアイク|$Wa$E怒,|자… 와라.\n내 눈앞에 선 이상 봐주지 않겠어.$k
+MID_M002_DIE: $t0$Wmアイク|0$w0|$Wsアイク|$Wa$E苦,汗|윽…!!\n여기까지인가…!$k
+MID_M002_ED1_PCM1: $a$t1$Wmアイク|7$w0|$Wmusername|3$w0|$Wsアイク|$Wa$E笑,|$SvpVOICE_IKE_B_WIN_01|강하군, $Nu.$k$p역시 너는\n내가 생각한 대로 훌륭한 전사야.$k$p이 정도라면…\n함께할 가치가 있겠어.$k\n$Wsusername|$Wa$SvpVOICE_PLAYER_M#_EVT_21|함께한다고…?$k\n$Wsアイク|$Wa$E通常,|$SvpVOICE_IKE_EVT_03|그래… 단도직입적으로 말하지.\n나를 너희의 동료로 삼아 줘.$k\n$Wsusername|$Wa$E通常,汗|$SvpVOICE_PLAYER_M#_DAMAGE_00|도, 동료로!?\n아이크가… 동료가 되어 준다는 말이야?$k\n$Wsアイク|$Wa$E笑,|$SvpVOICE_IKE_EVT_01|그래, 너와 함께라면\n나도 더 강해질 것 같은 기분이 들어.$k$p호적수와 함께 수련을 쌓으면\n서로에게 격려도 될 테고 말이야.$k$p게다가… 너를 따라가면 강한 녀석들과\n싸울 수 있을 것 같기도 하고.$k\n$Wsusername|$Wa$E笑,|$SvpVOICE_PLAYER_M#_EVT_31|그게 본심이구나.$k\n$Wsアイク|$Wa$E通常,|$SvpVOICE_IKE_MYROOM_20|흠… 그럴지도 모르지.\n하지만 반드시 도움이 될 거다.$k\n$Wsusername|$Wa$E笑,|$SvpVOICE_PLAYER_M#_EVT_36|응, 알겠어.$k$p나도 너 같은 전사가 있어 준다면\n정말 든든하지.$k$p앞으로 잘 부탁해, 아이크.$k\n$Wsアイク|$Wa$E笑,|$SvpVOICE_IKE_EVT_09|잘 부탁한다, $Nu.$k
+MID_M002_ED1_PCF2: $a$t1$Wmアイク|7$w0|$Wmusername|3$w0|$Wsアイク|$Wa$E笑,|$SvpVOICE_IKE_B_WIN_01|강하군, $Nu.$k$p역시 너는\n내가 생각한 대로 훌륭한 전사야.$k$p이 정도라면…\n함께할 가치가 있겠어.$k\n$Wsusername|$Wa$SvpVOICE_PLAYER_F#_EVT_21|함께한다고…?$k\n$Wsアイク|$Wa$E通常,|$SvpVOICE_IKE_EVT_03|그래… 단도직입적으로 말하지.\n나를 너희의 동료로 삼아 줘.$k\n$Wsusername|$Wa$E通常,汗|$SvpVOICE_PLAYER_F#_DAMAGE_00|도, 동료로!?\n아이크가… 동료가 되어 준다는 말이야?$k\n$Wsアイク|$Wa$E笑,|$SvpVOICE_IKE_EVT_01|그래, 너와 함께라면\n나도 더 강해질 것 같은 기분이 들어.$k$p호적수와 함께 수련을 쌓으면\n서로에게 격려도 될 테고 말이야.$k$p게다가… 너를 따라가면 강한 녀석들과\n싸울 수 있을 것 같기도 하고.$k\n$Wsusername|$Wa$E笑,|$SvpVOICE_PLAYER_F#_EVT_31|그게 본심이구나.$k\n$Wsアイク|$Wa$E通常,|$SvpVOICE_IKE_MYROOM_20|흠… 그럴지도 모르지.\n하지만 반드시 도움이 될 거다.$k\n$Wsusername|$Wa$E笑,|$SvpVOICE_PLAYER_F#_EVT_36|응, 알겠어.$k$p나도 너 같은 전사가 있어 준다면\n정말 든든하지.$k$p앞으로 잘 부탁해, 아이크.$k\n$Wsアイク|$Wa$E笑,|$SvpVOICE_IKE_EVT_09|잘 부탁한다, $Nu.$k

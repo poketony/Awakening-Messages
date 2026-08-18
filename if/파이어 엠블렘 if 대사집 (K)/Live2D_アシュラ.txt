@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_アシュラ
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_ASYURA_MYROOM_09: 나 같은 놈과 있어 봤자 시간 낭비야. 동료들과 있도록 해.
+MKID_LIVE2D_VOICE_ASYURA_MYROOM_19: 우리가 이렇게 사이좋게 있으면 몇몇은 유쾌해하지 않을 거야.
+MKID_LIVE2D_VOICE_ASYURA_MYROOM_29: 상황이 달랐다면 우린 진정한 친구가 될 수 있었을 텐데.
+MKID_LIVE2D_VOICE_ASYURA_MYROOM_38: 억지로 키스하고 싶진 않아.\n난 네가 해 줬으면 좋겠어.
+MKID_LIVE2D_VOICE_ASYURA_MYROOM_38_W: 그래, 좋아.
+MKID_LIVE2D_VOICE_ASYURA_MYROOM_39: 그 어떤 일이 일어나도, 난 널 놓지 않겠어.
+MKID_LIVE2D_VOICE_ASYURA_MYROOM_49: 조금만 더 같이 있으면 안 될까…?\n홀로 집에 가고 싶지 않아.
+MKID_LIVE2D_VOICE_ASYURA_MYROOM_SP_A: 나한테 시간 낭비 하지 말라고 했지…\n그래도 넌 그러는구나. 고마워.
+MKID_LIVE2D_VOICE_ASYURA_MYROOM_SP_S: 나는 일이 이렇게 되기를 감히 바랄 수 없었어.
+MKID_LIVE2D_VOICE_ASYURA_MYROOM_SP_S_W: 널 많이 사랑한다…
+MKID_LIVE2D_VOICE_ASYURA_RELIANCE_S: 이 꿈은 계속될 거야.
+MKID_LIVE2D_VOICE_ASYURA_RELIANCE_S_W: 미래가 우리를 어디로 이끌든…

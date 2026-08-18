@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_モズメ
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_MOZUME_MYROOM_09: 초대해 주셔서 감사해요.\n당신과 친구여서 정말 기뻐요!
+MKID_LIVE2D_VOICE_MOZUME_MYROOM_19: 저, 여기서 방해가 되고 있는 건 아니죠?
+MKID_LIVE2D_VOICE_MOZUME_MYROOM_29: 외로워질 때면, 또 찾아와도 될까요…?
+MKID_LIVE2D_VOICE_MOZUME_MYROOM_38: 눈을 감으라고요?\n뭘 하시려고요…?
+MKID_LIVE2D_VOICE_MOZUME_MYROOM_38_W: 아이참…
+MKID_LIVE2D_VOICE_MOZUME_MYROOM_39: 제게 또 가족이 생길 거라곤 상상도 못 했어요. 사랑해요!
+MKID_LIVE2D_VOICE_MOZUME_MYROOM_49: 오늘밤은 같이 있고 싶어요…
+MKID_LIVE2D_VOICE_MOZUME_MYROOM_SP_A: 그거 아세요? 당신은 제 영웅이에요.\n당신이 없었더라면 지금쯤 어떻게 되었을지…
+MKID_LIVE2D_VOICE_MOZUME_MYROOM_SP_S: 그날, 당신과 만난 건 정말 행운이에요…
+MKID_LIVE2D_VOICE_MOZUME_MYROOM_SP_S_W: 영원히 당신만을 사랑할 거예요…
+MKID_LIVE2D_VOICE_MOZUME_RELIANCE_S: 당신을 만난 덕분에\n제게 새로운 세상이 열렸어요!
+MKID_LIVE2D_VOICE_MOZUME_RELIANCE_S_W: 항상 제 곁에서 함께해 주세요.

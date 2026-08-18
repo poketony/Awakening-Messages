@@ -1,0 +1,167 @@
+MESS_ARCHIVE_AcceShop
+
+
+Message Name: Message
+
+
+MKID_ACCESHOP_買う: 구입
+MKID_ACCESHOP_着替え: 변경
+MKID_ACCESHOP_ユニット選択: 누가 구입하겠습니까?
+MKID_ACCESHOP_ユニット選択_着替え: 누구를 변경하겠습니까?
+MKID_ACCESHOP_着替え中: 변경 중
+MKID_ACCESHOP_タイトル: 액세서리점
+MKID_ACCESHOP_概要説明: 외모가 변하고 캐슬전에서 유리해\n지는 장식품을 구입할 수 있습니다.\n장식품 구입에는 소재가 필요합니다.\n점원에 따라서 필요한 소재가\n적어지는 경우도 있습니다.
+MKID_ACCESHOP_戻る: 뒤로
+MKID_ACCESHOP_ビュワー: 보기
+MKID_ACCESHOP_無し: (장비 없음)
+MKID_ACCESHOP_下着_装備不可: 탐험가의 속옷
+MKID_ACCESHOP_カテゴリ無し: 없음
+MKID_ACCESHOP_やめる: 취소
+MKID_ACCESHOP_カメラ: 카메라
+MKID_ACCESHOP_ズーム: 줌
+MKID_ACCESHOP_アクション: 액션
+MKID_ACCESHOP_貴重品ボックス説明: 해제한 장식품은 「변경」에서\n자유롭게 다시 착용할 수 있습니다.
+MKID_ACCESHOP_貴重品ボックス: 귀중품 박스
+MKID_ACCESHOP_装備確認: 다른 사람이 장비하고 있습니다.\n괜찮겠습니까?\n(액세서리는 사라지지 않습니다)
+MKID_ACCESHOP_献上確認: 선물합니다.\n괜찮겠습니까?\n(액세서리는 사라지지 않습니다)
+MKID_ACCESHOP_装備確認_はい: 변경
+MKID_ACCESHOP_装備確認_いいえ: 취소
+MKID_ACCESHOP_貴重品ボックス_移送: 귀중품 박스로 보냈습니다
+MKID_ACCESHOP_購入中: 무엇을 구입하겠습니까?
+MKID_ACCESHOP_交換確認_はい: 건네기
+MKID_ACCESHOP_マルスのティアラ: 마르스의 티아라
+MKID_ACCESHOP_神竜の髪飾り: 신룡 머리 장식
+MKID_ACCESHOP_熊の髪飾り: 곰 머리 장식
+MKID_ACCESHOP_邪竜の羽根: 사룡의 날개
+MKID_ACCESHOP_ルフレの書架: 러플레의 책장
+MKID_ACCESHOP_アイクの肩当て: 아이크의 보호구
+MKID_ACCESHOP_蒼炎のメダリオン: 창염의 보호구
+MKID_ACCESHOP_頭巾: 두건
+MKID_ACCESHOP_素朴なカーチフ: 소박한 커치프
+MKID_ACCESHOP_花の髪飾り: 꽃 머리 장식
+MKID_ACCESHOP_大きなクシ: 커다란 빗
+MKID_ACCESHOP_ピンクの帽子: 핑크 모자
+MKID_ACCESHOP_修験者の頭襟: 수행자의 두건
+MKID_ACCESHOP_メイドの髪飾り: 메이드 머리 장식
+MKID_ACCESHOP_プリンセスリボン: 프린세스 리본
+MKID_ACCESHOP_黄金の髪飾り: 황금 머리 장식
+MKID_ACCESHOP_魔道士の冠: 마도사의 관
+MKID_ACCESHOP_プリンセスの冠: 프린세스의 관
+MKID_ACCESHOP_プリンスの冠: 프린스의 관
+MKID_ACCESHOP_女王の日輪: 여왕의 티아라
+MKID_ACCESHOP_白いリボン: 하얀 리본
+MKID_ACCESHOP_ナイトキャップ: 나이트캡
+MKID_ACCESHOP_くじ引き屋の帽子: 뽑기점의 모자
+MKID_ACCESHOP_コックの帽子: 주방장 모자
+MKID_ACCESHOP_温泉の手拭い: 온천의 수건
+MKID_ACCESHOP_丸メガネ: 둥근 안경
+MKID_ACCESHOP_十字の眼帯: 십자 안대
+MKID_ACCESHOP_鬼のお面: 귀신 가면
+MKID_ACCESHOP_革のマスク: 가죽 마스크
+MKID_ACCESHOP_忍の覆面: 닌자의 복면
+MKID_ACCESHOP_案山子のお面: 허수아비 가면
+MKID_ACCESHOP_獅子の面当て: 사자 얼굴 장식
+MKID_ACCESHOP_ゴーレムの面: 골렘 가면
+MKID_ACCESHOP_婆娑羅の面: 바사라 가면
+MKID_ACCESHOP_ヒーローのお面: 히어로 가면
+MKID_ACCESHOP_王妃の羽飾り: 왕비의 날개 장식
+MKID_ACCESHOP_魔符屋の仮面: 카드점 가면
+MKID_ACCESHOP_牢屋番の仮面: 옥졸 가면
+MKID_ACCESHOP_色つきメガネ: 색안경
+MKID_ACCESHOP_アーマーの甲羅: 아머 껍데기
+MKID_ACCESHOP_大型狐面: 여우 보호구
+MKID_ACCESHOP_獣のしっぽ: 여우 꼬리
+MKID_ACCESHOP_傭兵の盾: 용병의 보호구
+MKID_ACCESHOP_商人の薬箱: 상인의 약상자
+MKID_ACCESHOP_ライオンの盾: 사자 방패
+MKID_ACCESHOP_紋章の盾: 문장의 방패
+MKID_ACCESHOP_ハートの盾: 하트 보호구
+MKID_ACCESHOP_槍聖ののぼり: 창성의 깃발
+MKID_ACCESHOP_ジェネラルの甲羅: 제너럴의 갑옷
+MKID_ACCESHOP_修羅のひょうたん: 수라의 호리병
+MKID_ACCESHOP_武器屋の証: 무기점의 증표
+MKID_ACCESHOP_道具屋の証: 도구점의 증표
+MKID_ACCESHOP_錬成屋の証: 연성점의 증표
+MKID_ACCESHOP_闘技士の証: 투기사의 증표
+MKID_ACCESHOP_きわどい水着: 야한 수영복
+MKID_ACCESHOP_バスタオル: 샤워 타월
+MKID_ACCESHOP_草花の水着: 꽃잎 수영복
+MKID_ACCESHOP_闇の衣: 어둠의 옷
+MKID_ACCESHOP_貝殻の下着: 조개 수영복
+MKID_ACCESHOP_ダーククラウン: 다크 크라운
+MKID_ACCESHOP_蝶の仮面: 나비 가면
+MKID_ACCESHOP_白夜の面当て: 백야의 왕관
+MKID_ACCESHOP_愛の腕輪: 사랑의 팔찌
+MKID_ACCESHOP_愛の水着: 사랑의 수영복
+MKID_H_ACCESHOP_マルスのティアラ: 이계의 왕자가 사용한다는 왕관.\n상대 캐슬에서 전투 시, 입는 대미지 -2.
+MKID_H_ACCESHOP_神竜の髪飾り: 이계의 신룡이 사용한다는 머리 장식.\n상대 캐슬에서 전투 시, 입는 대미지 -2.
+MKID_H_ACCESHOP_熊の髪飾り: 이계의 왕녀가 좋아한다는 머리 장식.\n상대 캐슬에서 전투 시, 입는 대미지 -2.
+MKID_H_ACCESHOP_邪竜の羽根: 이계의 사룡의 날개를 닮은 의문의 장식품.\n상대 캐슬에서 전투 시, 입는 대미지 -2.
+MKID_H_ACCESHOP_ルフレの書架: 이계의 참모가 지녔다는 책장.\n상대 캐슬에서 전투 시, 입는 대미지 -2.
+MKID_H_ACCESHOP_アイクの肩当て: 이계의 용사가 사용한다는 보호구.\n상대 캐슬에서 전투 시, 입는 대미지 -2.
+MKID_H_ACCESHOP_蒼炎のメダリオン: 이계의 메달을 닮은 의문의 장식품.\n상대 캐슬에서 전투 시, 입는 대미지 -2.
+MKID_H_ACCESHOP_頭巾: 청소 등의 작업 시 사용하는 두건.\n상대 캐슬에서 전투 시, 입는 대미지 -1.
+MKID_H_ACCESHOP_素朴なカーチフ: 암야의 서민 여성들이 쓰는 커치프.\n상대 캐슬에서 전투 시, 입는 대미지 -1.
+MKID_H_ACCESHOP_花の髪飾り: 백야의 서민이 사용하는 소박한 장식.\n상대 캐슬에서 전투 시, 입는 대미지 -1.
+MKID_H_ACCESHOP_大きなクシ: 머리에 장식하는 백야의 황금 빗.\n상대 캐슬에서 전투 시, 입는 대미지 -1.
+MKID_H_ACCESHOP_ピンクの帽子: 보석이 박힌 여성용 베레모.\n상대 캐슬에서 전투 시, 입는 대미지 -1.
+MKID_H_ACCESHOP_修験者の頭襟: 산에서 수행할 때 쓰는 백야의 두건.\n상대 캐슬에서 전투 시, 입는 대미지 -1.
+MKID_H_ACCESHOP_魔道士の冠: 마도사가 사용하는 관.\n상대 캐슬에서 전투 시, 입는 대미지 -1.
+MKID_H_ACCESHOP_プリンセスリボン: 양쪽에 착용하는 암야의 고귀한 리본.\n상대 캐슬에서 전투 시, 입는 대미지 -1.
+MKID_H_ACCESHOP_黄金の髪飾り: 성스럽게 빛나는 백야 왕국의 머리 장식.\n상대 캐슬에서 전투 시, 입는 대미지 -2.
+MKID_H_ACCESHOP_メイドの髪飾り: 일할 때 머리를 묶기 위한 머리 장식.\n상대 캐슬에서 전투 시, 입는 대미지 -2.
+MKID_H_ACCESHOP_プリンセスの冠: 암야 왕국의 왕녀가 쓰는 고귀한 관.\n상대 캐슬에서 전투 시, 입는 대미지 -2.
+MKID_H_ACCESHOP_プリンスの冠: 암야 왕국의 왕자가 쓰는 고귀한 관.\n상대 캐슬에서 전투 시, 입는 대미지 -2.
+MKID_H_ACCESHOP_女王の日輪: 뜨는 태양을 표현한 백야 왕국의 장신구.\n상대 캐슬에서 전투 시, 입는 대미지 -2.
+MKID_H_ACCESHOP_白いリボン: 후두부에 착용하는 희고 커다란 리본.\n상대 캐슬에서 전투 시, 입는 대미지 -2.
+MKID_H_ACCESHOP_ナイトキャップ: 둥근 털실이 달린 원뿔형 모자.\n상대 캐슬에서 전투 시, 입는 대미지 -2.
+MKID_H_ACCESHOP_くじ引き屋の帽子: 컬러풀하고 재밌는 분위기의 모자.\n뽑기점의 점원으로 뽑히기 쉬워진다.
+MKID_H_ACCESHOP_コックの帽子: 요리할 때 쓰는 큰 주방장 모자.\n식당의 점원으로 뽑히기 쉬워진다.
+MKID_H_ACCESHOP_温泉の手拭い: 온천에서 몸을 닦기 위해 쓰는 수건.\n온천의 점원으로 뽑히기 쉬워진다.
+MKID_H_ACCESHOP_丸メガネ: 지적인 인상을 주는 백야의 둥근 안경.\n상대 캐슬에서 전투 시, 입히는 대미지 +1.
+MKID_H_ACCESHOP_十字の眼帯: 십자 모양이 각인된 안대.\n상대 캐슬에서 전투 시, 입히는 대미지 +1.
+MKID_H_ACCESHOP_鬼のお面: 빨간 머리카락이 달린 백야의 귀신 가면.\n상대 캐슬에서 전투 시, 입히는 대미지 +1.
+MKID_H_ACCESHOP_革のマスク: 금속이 달린 광기 어린 마스크.\n상대 캐슬에서 전투 시, 입히는 대미지 +1.
+MKID_H_ACCESHOP_忍の覆面: 백야의 닌자가 얼굴을 가릴 때 쓰는 복면.\n상대 캐슬에서 전투 시, 입히는 대미지 +1.
+MKID_H_ACCESHOP_案山子のお面: 문자로 얼굴이 그려진 소박한 가면.\n상대 캐슬에서 전투 시, 입히는 대미지 +1.
+MKID_H_ACCESHOP_獅子の面当て: 붉은 사자를 상징하는 백야 왕자의 장식.\n상대 캐슬에서 전투 시, 입히는 대미지 +2.
+MKID_H_ACCESHOP_ゴーレムの面: 골렘 얼굴을 본뜬 금속 가면.\n상대 캐슬에서 전투 시, 입히는 대미지 +2.
+MKID_H_ACCESHOP_婆娑羅の面: 전설의 괴인을 본뜬 긴 코의 붉은 가면.\n상대 캐슬에서 전투 시, 입히는 대미지 +2.
+MKID_H_ACCESHOP_ヒーローのお面: 정의의 편을 이미지하여 디자인한 가면.\n상대 캐슬에서 전투 시, 입히는 대미지 +2.
+MKID_H_ACCESHOP_王妃の羽飾り: 왕비와 어울리는 고귀하고 검은 장식.\n상대 캐슬에서 전투 시, 입히는 대미지 +2.
+MKID_H_ACCESHOP_魔符屋の仮面: 기묘한 분위기의 가면.\n카드점의 점원으로 뽑히기 쉬워진다.
+MKID_H_ACCESHOP_牢屋番の仮面: 포로를 위협하는 듯한 철가면.\n감옥지기로 뽑히기 쉬워진다.
+MKID_H_ACCESHOP_色つきメガネ: 요즘 유행하는 컬러풀하고 멋진 안경.\n액세서리점의 점원으로 뽑히기 쉬워진다.
+MKID_H_ACCESHOP_アーマーの甲羅: 어깨부터 등을 감싸는 암야의 갑옷 껍데기.\n상대 캐슬에서 전투 시, 입는 대미지 -1.
+MKID_H_ACCESHOP_大型狐面: 백야의 전사가 어깨에 착용하는 보호구.\n상대 캐슬에서 전투 시, 입는 대미지 -1.
+MKID_H_ACCESHOP_獣のしっぽ: 허리에 착용하는 여우의 꼬리.\n상대 캐슬에서 전투 시, 입는 대미지 -1.
+MKID_H_ACCESHOP_傭兵の盾: 암야의 전사가 어깨에 착용하는 보호구.\n상대 캐슬에서 전투 시, 입는 대미지 -1.
+MKID_H_ACCESHOP_商人の薬箱: 백야의 상인이 약을 넣는 상자.\n상대 캐슬에서 전투 시, 입는 대미지 -1.
+MKID_H_ACCESHOP_ライオンの盾: 사자를 형상화하여 만든 방패.\n상대 캐슬에서 전투 시, 입는 대미지 -1.
+MKID_H_ACCESHOP_紋章の盾: 이세계의 불꽃의 문장을 형상화한 방패.\n상대 캐슬에서 전투 시, 입는 대미지 -2.
+MKID_H_ACCESHOP_ハートの盾: 하트 모양을 본뜬 보호구.\n상대 캐슬에서 전투 시, 입는 대미지 -2.
+MKID_H_ACCESHOP_槍聖ののぼり: 등에 꽂는 백야의 깃발.\n상대 캐슬에서 전투 시, 입는 대미지 -2.
+MKID_H_ACCESHOP_ジェネラルの甲羅: 어깨와 등을 덮는 단단한 암야의 갑옷.\n상대 캐슬에서 전투 시, 입는 대미지 -2.
+MKID_H_ACCESHOP_修羅のひょうたん: 물을 넣어 허리에 차는 거대 호리병.\n상대 캐슬에서 전투 시, 입는 대미지 -2.
+MKID_H_ACCESHOP_武器屋の証: 무기점의 문양이 사용된 방패.\n무기점의 점원으로 뽑히기 쉬워진다.
+MKID_H_ACCESHOP_道具屋の証: 도구점의 문양이 사용된 방패.\n도구점의 점원으로 뽑히기 쉬워진다.
+MKID_H_ACCESHOP_錬成屋の証: 연성점의 문양이 사용된 방패.\n연성점의 점원으로 뽑히기 쉬워진다.
+MKID_H_ACCESHOP_闘技士の証: 전사의 문양이 사용된 금속 방패.\n투기장의 전사로 뽑히기 쉬워진다.
+MKID_H_ACCESHOP_きわどい水着: 노출이 많은 수영복.\n상대 캐슬에서 전투 시, 입히는 대미지 +1.
+MKID_H_ACCESHOP_バスタオル: 몸을 가릴 수 있을 정도로 커다란 타월.\n상대 캐슬에서 전투 시, 입히는 대미지 +1.
+MKID_H_ACCESHOP_草花の水着: 꽃과 잎으로 만든 자연 친화적 수영복.\n상대 캐슬에서 전투 시, 입히는 대미지 +2.
+MKID_H_ACCESHOP_闇の衣: 어른스러운 분위기의 요염한 옷.\n상대 캐슬에서 전투 시, 입히는 대미지 +2.
+MKID_H_ACCESHOP_貝殻の下着: 조개 껍데기로 만든 수영복.\n상대 캐슬에서 전투 시, 입히는 대미지 +2.
+MKID_H_ACCESHOP_ダーククラウン: 암야왕이 쓰는 빨려 들 듯한 칠흑의 관.\n상대 캐슬에서 전투 시, 입는 대미지 -2.
+MKID_H_ACCESHOP_蝶の仮面: 이국의 나비 모양 가면.\n상대 캐슬에서 전투 시, 입히는 대미지 +2.
+MKID_H_ACCESHOP_白夜の面当て: 뿔이 달린 사자를 형상화한 백야왕의 왕관.\n상대 캐슬에서 전투 시, 입히는 대미지 +2.
+MKID_H_ACCESHOP_愛の腕輪: 둘의 사랑을 형상화한 팔찌.\n상대 캐슬에서 전투 시, 입는 대미지 -2.
+MKID_H_ACCESHOP_愛の水着: 둘의 사랑을 형상화한 수영복.\n상대 캐슬에서 전투 시, 입히는 대미지 +2.
+MKID_ACCESHOP_初回プレゼント: $a첫 방문 기념으로\n$a0$KrP2| 하나 받았다!
+MKID_ACCESHOP_覚醒プレゼント: $a각성 엇갈림 선물!\n$a0$KrP2| 하나 받았다!
+MKID_ACCESHOP_腕輪プレゼント: $a사랑의 증표!\n$a0$KrP2| 하나 받았다!
+MKID_ACCESHOP_水着プレゼント: $a최상급 사랑의 증표!\n$a0$KrP2| 하나 받았다!
+MKID_H_ACCESHOP_下画面__頭頂: 머리에 착용하는 액세서리
+MKID_H_ACCESHOP_下画面__顔面: 얼굴에 착용하는 액세서리
+MKID_H_ACCESHOP_下画面__前腕: 팔이나 기타 부위에 착용하는 액세서리
+MKID_H_ACCESHOP_下画面__下着: 몸에 두르는 액세서리

@@ -1,0 +1,252 @@
+MESS_ARCHIVE_Fortune
+
+
+Message Name: Message
+
+
+MKID_FORTUNE_占う: 궁합 보기
+MKID_FORTUNE_占わない: 취소
+MKID_FORTUNE_爺_イントロ: 자, 점을 볼 두 사람을 선택해 보게.
+MKID_FORTUNE_爺_選択中: 누구와 누구를 볼 겐가.\n두근두근.
+MKID_FORTUNE_爺_再度: 다른 조합으로 궁합을 보겠나?\n
+MKID_FORTUNE_爺_さらば: 잘 가시게!
+MKID_FORTUNE_説明: 임의의 두 사람이 지금 서로를\n어떻게 생각하는지 궁합을 봅니다.\n\n$c30,130,0,255|※결과는 본편에 영향이 없습니다.
+MKID_FORTUNE_愛_01: 사랑에 빠졌다
+MKID_FORTUNE_愛_02: 엄청 좋다
+MKID_FORTUNE_愛_03: 진짜 좋다
+MKID_FORTUNE_愛_04: 볼을 비비고 싶다
+MKID_FORTUNE_愛_05: 몰래 동경한다
+MKID_FORTUNE_愛_06: 좋아하나 말은 못한다
+MKID_FORTUNE_愛_07: 완전 타입
+MKID_FORTUNE_愛_08: 심장이 쿵쾅
+MKID_FORTUNE_愛_09: 곁에 있고 싶다
+MKID_FORTUNE_愛_10: 다음 생에도 만났으면
+MKID_FORTUNE_愛_11: 떨어지기 싫다
+MKID_FORTUNE_愛_12: 모두 바치고 싶다
+MKID_FORTUNE_愛_13: 소중한 사람
+MKID_FORTUNE_愛_14: 항상 신경 쓰인다
+MKID_FORTUNE_愛_15: 못 보면 쓸쓸하다
+MKID_FORTUNE_愛_16: 첫사랑
+MKID_FORTUNE_愛_17: 항상 보고 있다
+MKID_FORTUNE_愛_18: 늘 함께하고 싶다
+MKID_FORTUNE_愛_19: 운명이라 생각한다
+MKID_FORTUNE_愛_20: 목숨도 바칠 수 있다
+MKID_FORTUNE_愛_21: 마지막 사랑
+MKID_FORTUNE_愛_22: 사랑한다
+MKID_FORTUNE_愛_23: 타인과 있으면 질투
+MKID_FORTUNE_愛_24: 손잡고 싶다
+MKID_FORTUNE_愛_25: 좋은 향기가 난다
+MKID_FORTUNE_愛_26: 매력적이다
+MKID_FORTUNE_愛_27: 귀엽다
+MKID_FORTUNE_愛_28: 멋지다
+MKID_FORTUNE_愛_29: 아찔할 정도로 좋다
+MKID_FORTUNE_愛_30: 사랑을 속삭이고 싶다
+MKID_FORTUNE_好_01: 그냥 좋다
+MKID_FORTUNE_好_02: 상담 상대
+MKID_FORTUNE_好_03: 의지가 된다
+MKID_FORTUNE_好_04: 함께 쇼핑하고 싶다
+MKID_FORTUNE_好_05: 친해지고 싶다
+MKID_FORTUNE_好_06: 붙어 보고 싶다
+MKID_FORTUNE_好_07: 절친한 친구
+MKID_FORTUNE_好_08: 잘 맞는다
+MKID_FORTUNE_好_09: 최고의 파트너
+MKID_FORTUNE_好_10: 싫지 않다
+MKID_FORTUNE_好_11: 음식 취향이 맞다
+MKID_FORTUNE_好_12: 질리지 않는다
+MKID_FORTUNE_好_13: 즐거운 사람
+MKID_FORTUNE_好_14: 재미있는 사람
+MKID_FORTUNE_好_15: 취미가 같다
+MKID_FORTUNE_好_16: 얘기가 통한다
+MKID_FORTUNE_好_17: 요즘 사이가 좋다
+MKID_FORTUNE_好_18: 등 뒤를 맡길 수 있다
+MKID_FORTUNE_好_19: 신뢰한다
+MKID_FORTUNE_好_20: 호흡이 맞는다
+MKID_FORTUNE_好_21: 좋은 녀석
+MKID_FORTUNE_好_22: 같이 있으면 편하다
+MKID_FORTUNE_好_23: 동료
+MKID_FORTUNE_好_24: 함께 훈련하고 싶다
+MKID_FORTUNE_好_25: 존경하는 사람
+MKID_FORTUNE_好_26: 속을 보일 수 있다
+MKID_FORTUNE_好_27: 안심이 된다
+MKID_FORTUNE_好_28: 사이가 좋다
+MKID_FORTUNE_好_29: 좋은 친구
+MKID_FORTUNE_好_30: 멋지게 산다
+MKID_FORTUNE_嫌_01: 솔직히 아무래도 좋다
+MKID_FORTUNE_嫌_02: 흥미 없다
+MKID_FORTUNE_嫌_03: 뭔가 불편하다
+MKID_FORTUNE_嫌_04: 성격이 안 맞는다
+MKID_FORTUNE_嫌_05: 음악 취향이 다르다
+MKID_FORTUNE_嫌_06: 열 받는다
+MKID_FORTUNE_嫌_07: 최근, 말이 안 통한다
+MKID_FORTUNE_嫌_08: 이 사람, 무섭다
+MKID_FORTUNE_嫌_09: 꿍꿍이가 있을 듯하다
+MKID_FORTUNE_嫌_10: 속이 검을 것 같다
+MKID_FORTUNE_嫌_11: 별난 사람
+MKID_FORTUNE_嫌_12: 패션 센스가 미묘하다
+MKID_FORTUNE_嫌_13: 표면상의 관계
+MKID_FORTUNE_嫌_14: 화나면 무서울 듯
+MKID_FORTUNE_嫌_15: 얽히고 싶지 않다
+MKID_FORTUNE_嫌_16: 머리 모양 바꿨으면
+MKID_FORTUNE_嫌_17: 별로 좋지 않다
+MKID_FORTUNE_嫌_18: 어려운 사람
+MKID_FORTUNE_嫌_19: 취미가 다르다
+MKID_FORTUNE_嫌_20: 요즘 거리가 느껴진다
+MKID_FORTUNE_嫌_21: 존재를 잊었었다
+MKID_FORTUNE_嫌_22: 얼굴이 이상하다
+MKID_FORTUNE_嫌_23: 그냥 아는 사람
+MKID_FORTUNE_嫌_24: 이해 못할 행동들
+MKID_FORTUNE_嫌_25: 날 못 봤으면
+MKID_FORTUNE_嫌_26: 친화력이 없다
+MKID_FORTUNE_嫌_27: 느낌이 오지 않는다
+MKID_FORTUNE_嫌_28: 공통 화제가 없다
+MKID_FORTUNE_嫌_29: 전투 방식이 싫다
+MKID_FORTUNE_嫌_30: 다가오지 말았으면
+MKID_FORTUNE_愛愛_女女: 여자끼리의 우정은 과격하구먼.
+MKID_FORTUNE_愛愛_男男: 남자끼리 무슨 생각인가.
+MKID_FORTUNE_愛愛_男女A: 얼레리 꼴레리~
+MKID_FORTUNE_愛愛_男女B: 한눈팔지 말도록 하게.
+MKID_FORTUNE_愛愛_男女C: 불륜의 예감이 드네만.
+MKID_FORTUNE_愛愛_夫婦: 이것이 베스트 커플이지!
+MKID_FORTUNE_愛愛_親子: 훌륭한 부모 자식 관계일세!
+MKID_FORTUNE_愛愛_兄弟: 장래가 걱정되는 형제일세.
+MKID_FORTUNE_愛好_女女: 사이가 너무 좋은 듯하구먼.
+MKID_FORTUNE_愛好_男男: 미묘한 관계가 되지 않으면 좋겠구먼.
+MKID_FORTUNE_愛好_男女A: 차라리 사귀는 게 어떤가.
+MKID_FORTUNE_愛好_男女B: 결혼 상대에게 들키면 섬뜩하겠군.
+MKID_FORTUNE_愛好_男女C: 남의 것은 더 좋아 보이지.
+MKID_FORTUNE_愛好_夫婦: 매우 사이가 좋은 부부일세.
+MKID_FORTUNE_愛好_親子: 부모 자식 사이가 깊은 모양일세.
+MKID_FORTUNE_愛好_兄弟: 부모도 놀랄 정도로 사이가 좋구먼!
+MKID_FORTUNE_愛嫌_女女: 한쪽의 속이 시커멓구먼.
+MKID_FORTUNE_愛嫌_男男: 한쪽이 묘한 감정을 품고 있네.
+MKID_FORTUNE_愛嫌_男女A: 짝사랑도 정도가 있네!
+MKID_FORTUNE_愛嫌_男女B: 그 녀석은 포기하는 게 좋을 걸세.
+MKID_FORTUNE_愛嫌_男女C: 불륜으로 발전하지는 않았으면 하네.
+MKID_FORTUNE_愛嫌_夫婦: 한쪽이 엄청나게 참고 있는 듯하네.
+MKID_FORTUNE_愛嫌_親子: 집안에 무슨 일이 있는 모양이로군.
+MKID_FORTUNE_愛嫌_兄弟: 이해하기 힘든 가족 관계일세.
+MKID_FORTUNE_好好_女女: 이상적인 우정일세.
+MKID_FORTUNE_好好_男男: 마음이 맞는 사이구먼.
+MKID_FORTUNE_好好_男女A: 이성 친구로서 좋은 관계일세.
+MKID_FORTUNE_好好_男女B: 좋은 친구인 모양이군.
+MKID_FORTUNE_好好_男女C: 결혼을 하더라도 변치 않을 우정일세.
+MKID_FORTUNE_好好_夫婦: 친구 같은 부부 관계로구먼.
+MKID_FORTUNE_好好_親子: 사이 좋은 부모 자식 관계로구먼.
+MKID_FORTUNE_好好_兄弟: 미소 짓게 되는 형제 관계일세.
+MKID_FORTUNE_好嫌_女女: 일방통행과 같은 우정이로구먼.
+MKID_FORTUNE_好嫌_男男: 한쪽이 거리를 두고 있네.
+MKID_FORTUNE_好嫌_男女A: 우정조차 성립되지 않았네.
+MKID_FORTUNE_好嫌_男女B: 그다지 사이가 좋지 않은 모양이구먼.
+MKID_FORTUNE_好嫌_男女C: 겉으로만 웃고 있구먼.
+MKID_FORTUNE_好嫌_夫婦: 한쪽이 완전히 식었구먼.
+MKID_FORTUNE_好嫌_親子: 어색한 부모 자식 관계일세.
+MKID_FORTUNE_好嫌_兄弟: 우애가 곧 깨질 것 같구먼.
+MKID_FORTUNE_嫌嫌_女女: 여자들의 우정은 이런 것일세.
+MKID_FORTUNE_嫌嫌_男男: 사이가 너무 안 좋아서 웃음이 나는구먼.
+MKID_FORTUNE_嫌嫌_男女A: 절망적으로 안 맞는 모양이로군.
+MKID_FORTUNE_嫌嫌_男女B: 두 사람의 과거가 의심스럽구먼.
+MKID_FORTUNE_嫌嫌_男女C: 결혼 전에 무슨 일이 있었나…
+MKID_FORTUNE_嫌嫌_夫婦: 이게 권태기라는 녀석일세.
+MKID_FORTUNE_嫌嫌_親子: 가, 가정 붕괴의 위기일세!
+MKID_FORTUNE_嫌嫌_兄弟: 부모님과 상담하도록 하게!
+MKID_FORTUNE_点数_000: 오늘 두 사람의 궁합은 「무」일세.\n서로의 존재를 완전히 잊었구먼.
+MKID_FORTUNE_点数_001: 오늘 두 사람은 궁합이 문제가 아닐세.\n서로 아예 관심이 없는 것 같구먼.
+MKID_FORTUNE_点数_002: 오늘 두 사람은 궁합이 문제가 아닐세.\n서로에게 그저 수증기 같은 존재야.
+MKID_FORTUNE_点数_003: 오늘 두 사람은 궁합이 문제가 아닐세.\n서로에게 그저 잡초 같은 존재야.
+MKID_FORTUNE_点数_004: 오늘 두 사람은 궁합이 문제가 아닐세.\n서로에게 그저 돌멩이 같은 존재야.
+MKID_FORTUNE_点数_005: 오늘 두 사람은 궁합이 문제가 아닐세.\n서로에게 그저 나무 껍질 같은 존재야.
+MKID_FORTUNE_点数_006: 오늘 두 사람은 궁합이 문제가 아닐세.\n서로에게 그저 티끌 같은 존재야.
+MKID_FORTUNE_点数_007: 오늘 두 사람은 궁합이 문제가 아닐세.\n서로에게 그저 지렁이 같은 존재야.
+MKID_FORTUNE_点数_008: 오늘 두 사람은 궁합이 문제가 아닐세.\n서로에게 그저 메뚜기 같은 존재야.
+MKID_FORTUNE_点数_009: 오늘 두 사람은 궁합이 문제가 아닐세.\n서로에게 그저 프라이팬 같은 존재야.
+MKID_FORTUNE_点数_010: 오늘 두 사람의 궁합은 최악일세.\n마주칠 때마다 덤벼들 게야.
+MKID_FORTUNE_点数_011: 오늘 두 사람의 궁합은 최악일세.\n마주칠 때마다 무기를 꺼내들 게야.
+MKID_FORTUNE_点数_012: 오늘 두 사람의 궁합은 최악일세.\n마주칠 때마다 서로 위협하겠지.
+MKID_FORTUNE_点数_013: 오늘 두 사람의 궁합은 최악일세.\n마주칠 때마다 침을 뱉을 게야.
+MKID_FORTUNE_点数_014: 오늘 두 사람의 궁합은 최악일세.\n마주칠 때마다 물건을 던질 게야.
+MKID_FORTUNE_点数_015: 오늘 두 사람의 궁합은 최악일세.\n마주칠 때마다 혀를 찰 게야.
+MKID_FORTUNE_点数_016: 오늘 두 사람의 궁합은 최악일세.\n마주칠 때마다 얼굴이 굳을 게야.
+MKID_FORTUNE_点数_017: 오늘 두 사람의 궁합은 최악일세.\n마주칠 때마다 화를 낼 게야.
+MKID_FORTUNE_点数_018: 오늘 두 사람의 궁합은 최악일세.\n마주칠 때마다 한숨을 쉴 게야.
+MKID_FORTUNE_点数_019: 오늘 두 사람의 궁합은 최악일세.\n마주칠 때마다 억지로 웃겠지.
+MKID_FORTUNE_点数_020: 오늘 두 사람의 궁합은 나쁘네.\n가까이 하면 집에 나쁜 일이 생길 게야.
+MKID_FORTUNE_点数_021: 오늘 두 사람의 궁합은 나쁘네.\n가까이 하면 배가 아파 올 걸세.
+MKID_FORTUNE_点数_022: 오늘 두 사람의 궁합은 나쁘네.\n가까이 하면 눈썹이 자랄 게야.
+MKID_FORTUNE_点数_023: 오늘 두 사람의 궁합은 나쁘네.\n가까이 하면 눈이 나빠질 걸세.
+MKID_FORTUNE_点数_024: 오늘 두 사람의 궁합은 나쁘네.\n가까이 하면 털이 곤두설 걸세.
+MKID_FORTUNE_点数_025: 오늘 두 사람의 궁합은 나쁘네.\n가까이 하면 충치가 쑤실 게야.
+MKID_FORTUNE_点数_026: 오늘 두 사람의 궁합은 나쁘네.\n가까이 하면 마음이 불안해질 게야.
+MKID_FORTUNE_点数_027: 오늘 두 사람의 궁합은 나쁘네.\n가까이 하면 눈썹이 옅어질 걸세.
+MKID_FORTUNE_点数_028: 오늘 두 사람의 궁합은 나쁘네.\n가까이 하면 우울해질 걸세.
+MKID_FORTUNE_点数_029: 오늘 두 사람의 궁합은 나쁘네.\n가까이 하면 불쾌해질 걸세.
+MKID_FORTUNE_点数_030: 오늘 두 사람의 궁합은 별로군.\n경험치 분배로 다툴지도 모르네.
+MKID_FORTUNE_点数_031: 오늘 두 사람의 궁합은 별로군.\n저녁 메뉴 결정으로 다툴지도 모르네.
+MKID_FORTUNE_点数_032: 오늘 두 사람의 궁합은 별로군.\n이상형에 관한 얘기로 다툴지도 모르네.
+MKID_FORTUNE_点数_033: 오늘 두 사람의 궁합은 별로군.\n음악 취향 문제로 다툴지도 모르네.
+MKID_FORTUNE_点数_034: 오늘 두 사람의 궁합은 별로군.\n인기의 유무 문제로 다툴지도 모르네.
+MKID_FORTUNE_点数_035: 오늘 두 사람의 궁합은 별로군.\n가치관의 불일치로 다툴지도 모르네.
+MKID_FORTUNE_点数_036: 오늘 두 사람의 궁합은 별로군.\n금전 감각 차이로 다툴지도 모르네.
+MKID_FORTUNE_点数_037: 오늘 두 사람의 궁합은 별로군.\n쳐다봤냐 안 봤냐로 다툴지도 모르네.
+MKID_FORTUNE_点数_038: 오늘 두 사람의 궁합은 별로군.\n얽힌 연애 관계로 다툴지도 모르네.
+MKID_FORTUNE_点数_039: 오늘 두 사람의 궁합은 별로군.\n바람 핀 것이 들켜 다툴지도 모르네.
+MKID_FORTUNE_点数_040: 오늘 두 사람의 궁합은 그저 그렇군.\n겸연쩍게 웃으며 어색함을 지우게.
+MKID_FORTUNE_点数_041: 오늘 두 사람의 궁합은 그저 그렇군.\n옷이라도 칭찬하며 어색함을 지우게.
+MKID_FORTUNE_点数_042: 오늘 두 사람의 궁합은 그저 그렇군.\n헤어스타일 얘기로 어색함을 지우게.
+MKID_FORTUNE_点数_043: 오늘 두 사람의 궁합은 그저 그렇군.\n날씨 얘기라도 꺼내 어색함을 지우게.
+MKID_FORTUNE_点数_044: 오늘 두 사람의 궁합은 그저 그렇군.\n가십거리라도 얘기하며 어색함을 지우게.
+MKID_FORTUNE_点数_045: 오늘 두 사람의 궁합은 그저 그렇군.\n춤이라도 추며 어색함을 지우게.
+MKID_FORTUNE_点数_046: 오늘 두 사람의 궁합은 그저 그렇군.\n심리 테스트라도 하며 어색함을 지우게.
+MKID_FORTUNE_点数_047: 오늘 두 사람의 궁합은 그저 그렇군.\n무기라도 손질하며 어색함을 지우게.
+MKID_FORTUNE_点数_048: 오늘 두 사람의 궁합은 그저 그렇군.\n아무 얘기라도 꺼내 어색함을 지우게.
+MKID_FORTUNE_点数_049: 오늘 두 사람의 궁합은 그저 그렇군.\n개인기라도 보여 어색함을 지우게.
+MKID_FORTUNE_点数_050: 오늘 두 사람의 궁합은 보통일세.\n좋아하는 무기 얘길 하면 즐거워질 게야.
+MKID_FORTUNE_点数_051: 오늘 두 사람의 궁합은 보통일세.\n좋아하는 이성 얘길 하면 즐거워질 게야.
+MKID_FORTUNE_点数_052: 오늘 두 사람의 궁합은 보통일세.\n서로의 옛날 얘길 하면 즐거워질 게야.
+MKID_FORTUNE_点数_053: 오늘 두 사람의 궁합은 보통일세.\n어제 본 꿈 얘길 하면 즐거워질 게야.
+MKID_FORTUNE_点数_054: 오늘 두 사람의 궁합은 보통일세.\n서로 푸념하다 보면 즐거워질 게야.
+MKID_FORTUNE_点数_055: 오늘 두 사람의 궁합은 보통일세.\n서로의 무용담을 나누면 즐거워질 게야.
+MKID_FORTUNE_点数_056: 오늘 두 사람의 궁합은 보통일세.\n머리 색깔 얘길 하면 즐거워질 게야.
+MKID_FORTUNE_点数_057: 오늘 두 사람의 궁합은 보통일세.\n서로의 첫인상 얘길 하면 즐거워질 게야.
+MKID_FORTUNE_点数_058: 오늘 두 사람의 궁합은 보통일세.\n남의 연애 얘길 하면 즐거워질 게야.
+MKID_FORTUNE_点数_059: 오늘 두 사람의 궁합은 보통일세. 아이에\n붙일 이름 얘길 하면 즐거워질 게야.
+MKID_FORTUNE_点数_060: 오늘 두 사람의 궁합은 좋은 편일세.\n함께 정찰을 나가 사이를 돈독히 하게.
+MKID_FORTUNE_点数_061: 오늘 두 사람의 궁합은 좋은 편일세.\n함께 나무에 오르며 사이를 돈독히 하게.
+MKID_FORTUNE_点数_062: 오늘 두 사람의 궁합은 좋은 편일세.\n함께 훈련하며 사이를 돈독히 하게.
+MKID_FORTUNE_点数_063: 오늘 두 사람의 궁합은 좋은 편일세.\n함께 산책하며 사이를 돈독히 하게.
+MKID_FORTUNE_点数_064: 오늘 두 사람의 궁합은 좋은 편일세.\n함께 쇼핑하며 사이를 돈독히 하게.
+MKID_FORTUNE_点数_065: 오늘 두 사람의 궁합은 좋은 편일세.\n함께 요리하며 사이를 돈독히 하게.
+MKID_FORTUNE_点数_066: 오늘 두 사람의 궁합은 좋은 편일세.\n함께 대결하며 사이를 돈독히 하게.
+MKID_FORTUNE_点数_067: 오늘 두 사람의 궁합은 좋은 편일세.\n함께 헌팅하며 사이를 돈독히 하게.
+MKID_FORTUNE_点数_068: 오늘 두 사람의 궁합은 좋은 편일세.\n함께 밥을 먹으며 사이를 돈독히 하게.
+MKID_FORTUNE_点数_069: 오늘 두 사람의 궁합은 좋은 편일세.\n함께 목욕하며 사이를 돈독히 하게.
+MKID_FORTUNE_点数_070: 오늘 두 사람의 궁합은 상당히 좋구먼.\n손잡고 식사를 할 정도로 좋아.
+MKID_FORTUNE_点数_071: 오늘 두 사람의 궁합은 상당히 좋구먼.\n손잡고 이인삼각을 할 정도로 좋아.
+MKID_FORTUNE_点数_072: 오늘 두 사람의 궁합은 상당히 좋구먼.\n손잡고 바다에 뛰어들 정도로 좋아.
+MKID_FORTUNE_点数_073: 오늘 두 사람의 궁합은 상당히 좋구먼.\n손잡고 꿈 얘기를 할 정도로 좋아.
+MKID_FORTUNE_点数_074: 오늘 두 사람의 궁합은 상당히 좋구먼.\n손잡고 외출할 정도로 좋아.
+MKID_FORTUNE_点数_075: 오늘 두 사람의 궁합은 상당히 좋구먼.\n손잡고 전장에 나갈 정도로 좋아.
+MKID_FORTUNE_点数_076: 오늘 두 사람의 궁합은 상당히 좋구먼.\n손잡고 훈련할 정도로 좋아.
+MKID_FORTUNE_点数_077: 오늘 두 사람의 궁합은 상당히 좋구먼.\n손잡고 거리를 거닐 정도로 좋아.
+MKID_FORTUNE_点数_078: 오늘 두 사람의 궁합은 상당히 좋구먼.\n손잡고 뛰어다닐 정도로 좋아.
+MKID_FORTUNE_点数_079: 오늘 두 사람의 궁합은 상당히 좋구먼.\n손잡고 빙글빙글 돌 정도로 좋아.
+MKID_FORTUNE_点数_080: 오늘 두 사람의 궁합은 엄청나게 좋네.\n사이좋게 적에게 일격을 날리게.
+MKID_FORTUNE_点数_081: 오늘 두 사람의 궁합은 엄청나게 좋네.\n사이좋게 적 앞에서 사랑을 속삭이게.
+MKID_FORTUNE_点数_082: 오늘 두 사람의 궁합은 엄청나게 좋네.\n사이좋게 전장에서 간식을 나눠 먹게.
+MKID_FORTUNE_点数_083: 오늘 두 사람의 궁합은 엄청나게 좋네.\n사이좋게 해변에서 술래잡기를 하게.
+MKID_FORTUNE_点数_084: 오늘 두 사람의 궁합은 엄청나게 좋네.\n사이좋게 꽃잎 점이라도 보게.
+MKID_FORTUNE_点数_085: 오늘 두 사람의 궁합은 엄청나게 좋네.\n사이좋게 커플 아이템이라도 사게.
+MKID_FORTUNE_点数_086: 오늘 두 사람의 궁합은 엄청나게 좋네.\n사이좋게 이름을 새긴 무기를 만들게.
+MKID_FORTUNE_点数_087: 오늘 두 사람의 궁합은 엄청나게 좋네.\n사이좋게 쿠키라도 만들어 보게.
+MKID_FORTUNE_点数_088: 오늘 두 사람의 궁합은 엄청나게 좋네.\n사이좋게 요새에서 놀도록 하게.
+MKID_FORTUNE_点数_089: 오늘 두 사람의 궁합은 엄청나게 좋네.\n사이좋게 어깨동무라도 하게.
+MKID_FORTUNE_点数_090: 오늘 두 사람의 궁합은 최고로군!\n함께 있으면 인생이 장밋빛일세!
+MKID_FORTUNE_点数_091: 오늘 두 사람의 궁합은 최고로군!\n함께 있으면 세상이 빛나 보일 걸세!
+MKID_FORTUNE_点数_092: 오늘 두 사람의 궁합은 최고로군!\n함께 있으면 사랑을 외치고 싶어질 걸세!
+MKID_FORTUNE_点数_093: 오늘 두 사람의 궁합은 최고로군!\n함께 있으면 엄청난 용기가 생길 걸세!
+MKID_FORTUNE_点数_094: 오늘 두 사람의 궁합은 최고로군!\n함께 있으면 웃음이 멈추지 않을 걸세!
+MKID_FORTUNE_点数_095: 오늘 두 사람의 궁합은 최고로군!\n함께 있으면 절로 흥얼거리게 될 걸세!
+MKID_FORTUNE_点数_096: 오늘 두 사람의 궁합은 최고로군!\n함께 있으면 전쟁은 보이지도 않을 테지!
+MKID_FORTUNE_点数_097: 오늘 두 사람의 궁합은 최고로군!\n함께 있으면 주위가 꽃밭으로 보일 걸세!
+MKID_FORTUNE_点数_098: 오늘 두 사람의 궁합은 최고로군!\n함께 있으면 다른 이는 보이지 않을 걸세!
+MKID_FORTUNE_点数_099: 오늘 두 사람의 궁합은 최고로군!\n오히려 남은 1점이 무엇인지 궁금하구먼!
+MKID_FORTUNE_点数_100: 오늘 두 사람의 궁합은 만점일세!!\n밤에 둘이서 어딘가로 사라질지도…

@@ -1,0 +1,17 @@
+MESS_ARCHIVE_Live2D_サイゾウ
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_SAIZOU_MYROOM_09: 무슨 짓인가 싶긴 하지만, 나에 대한 호의로 생각해 주지…
+MKID_LIVE2D_VOICE_SAIZOU_MYROOM_19: 만약 상대가 네가 아니었다면,\n이건 엄청난 시간 낭비였을 테지…
+MKID_LIVE2D_VOICE_SAIZOU_MYROOM_38: 조금 더 가까이 와 봐…
+MKID_LIVE2D_VOICE_SAIZOU_MYROOM_38_W: 훗, 성공했군.
+MKID_LIVE2D_VOICE_SAIZOU_MYROOM_39: 앞으로 결코 네 곁을 떠나지 않겠다고 맹세하지.
+MKID_LIVE2D_VOICE_SAIZOU_MYROOM_49: 내 약점이 간지럼을 엄청나게 탄다는 것이란 건\n아마 너밖에 모를 거다.
+MKID_LIVE2D_VOICE_SAIZOU_MYROOM_SP_A: 어느 틈에 이렇게 너와 끈끈해졌는지 모르겠군…\n내가 료마님 외의 다른 누군가와 이렇게 밀접해질 줄이야…
+MKID_LIVE2D_VOICE_SAIZOU_MYROOM_SP_S: 내가 누군가에게 이렇게 빠질 거라고\n어느 누가 상상이나 했을까… 하지만 넌 그걸 해냈어.
+MKID_LIVE2D_VOICE_SAIZOU_MYROOM_SP_S_W: 난 이제 너의 손바닥 위야.
+MKID_LIVE2D_VOICE_SAIZOU_RELIANCE_S: 이제 더 이상 쑥스러워하지 않아…
+MKID_LIVE2D_VOICE_SAIZOU_RELIANCE_S_W: 내 모든 마음을 표현하겠어.

@@ -1,0 +1,22 @@
+MESS_ARCHIVE_Live2D_アクア
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_AQUA_MYROOM_09: 우리의 인연은 이미 만나기 전부터 시작되어 있었어…\n결국엔 이렇게 서로를 알 수 있는 기회가 생겨서 기뻐.
+MKID_LIVE2D_VOICE_AQUA_MYROOM_19: 네게 묻고 싶은 게 많아.\n우리 꼭 다시 만나자.
+MKID_LIVE2D_VOICE_AQUA_MYROOM_29: 네 용기와 힘이 있으면 우리는 이 세계를 지킬 수 있어.\n내 노래와 힘은 널 따를 거야.
+MKID_LIVE2D_VOICE_AQUA_MYROOM_38: 나답지 않은 행동인 건 알아, 하지만…\n키스해 줘.
+MKID_LIVE2D_VOICE_AQUA_MYROOM_38_W: 정말… 황홀했어.\n고마워.
+MKID_LIVE2D_VOICE_AQUA_MYROOM_39: 운명이 우리를 갈라놓더라도\n이 달콤한 순간은 언제나 우리 마음속에 간직하자…
+MKID_LIVE2D_VOICE_AQUA_MYROOM_49: 널 많이 사랑해.\n우리가 함께하는 동안 난 계속 네 곁에 있고 싶어.
+MKID_LIVE2D_VOICE_AQUA_MYROOM_SP_A: 난 사람을 잘 믿지 못해. 하지만 넌 그런 내 벽을\n가볍게 무너뜨리고 내 안으로 들어와 줬어. 고마워…
+MKID_LIVE2D_VOICE_AQUA_MYROOM_SP_S: 우리에게, 아니 이 세상에 어떤 일이 일어나더라도\n너는 항상 내 가슴속에 있어.
+MKID_LIVE2D_VOICE_AQUA_MYROOM_SP_S_W: 내 노래에 새로운 의미를 만들어 줘서 고마워.
+MKID_LIVE2D_VOICE_AQUA_RELIANCEW_S: 나도… 나도 널 사랑해…\n그동안의 내 잘못을 용서해 줘…
+MKID_LIVE2D_VOICE_AQUA_RELIANCEW_S_W: 그리고 약속해 줘. 나와 영원히 함께하겠다고.
+MKID_LIVE2D_VOICE_AQUA_RELIANCEB_S: 이제야 진정한 행복이 무엇인지 알았어.\n앞으로 무슨 일이 일어나도, 내 사랑…
+MKID_LIVE2D_VOICE_AQUA_RELIANCEB_S_W: 난 항상 네 곁에 있을 거야.
+MKID_LIVE2D_VOICE_AQUA_RELIANCEI_S: 왜인지는 모르겠지만, 난 이미 예전부터 널 사랑했던 것 같아…\n함께 이 세계를 지키자.
+MKID_LIVE2D_VOICE_AQUA_RELIANCEI_S_W: 제발, 날 떠나지 마…

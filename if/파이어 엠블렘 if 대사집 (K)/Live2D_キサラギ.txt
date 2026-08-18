@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_キサラギ
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_KISARAGI_MYROOM_09: 다음엔 곰을 잡아서 가져올게요!
+MKID_LIVE2D_VOICE_KISARAGI_MYROOM_19: 비경도 즐거웠지만 여기도 정말 좋아요!
+MKID_LIVE2D_VOICE_KISARAGI_MYROOM_29: 더 많이 실력을 쌓아서 힘이 돼 줄게요!
+MKID_LIVE2D_VOICE_KISARAGI_MYROOM_38: 음… 열심히 해 볼게요.
+MKID_LIVE2D_VOICE_KISARAGI_MYROOM_38_W: 헤헤. 화살, 명중했네요.
+MKID_LIVE2D_VOICE_KISARAGI_MYROOM_39: 당신 곁에 있으면 긴장돼서\n활조차 제대로 쥘 수가 없어요.
+MKID_LIVE2D_VOICE_KISARAGI_MYROOM_49: 머릿속이 온통 당신 생각으로 가득차서\n활을 똑바로 쏘기가 힘들 정도예요!
+MKID_LIVE2D_VOICE_KISARAGI_MYROOM_SP_A: 아버지를 빨리 따라잡을 수 있도록 노력할 거예요.\n이 세상에서 괴로운 일을 모두 없애고 싶거든요!
+MKID_LIVE2D_VOICE_KISARAGI_MYROOM_SP_S: 당신 없는 세상에서는 살아갈 자신이 없어요.\n하지만 곁에 당신이 있다면...
+MKID_LIVE2D_VOICE_KISARAGI_MYROOM_SP_S_W: …전 언제든 안심하고 활을 쏠 수 있을 거예요.
+MKID_LIVE2D_VOICE_KISARAGI_RELIANCE_S: 저 말고도 궁수는 많이 있지만…\n당신의 마음에 화살을 맞힌 건 저뿐이에요.
+MKID_LIVE2D_VOICE_KISARAGI_RELIANCE_S_W: 지금 전 최고로 행복해요.

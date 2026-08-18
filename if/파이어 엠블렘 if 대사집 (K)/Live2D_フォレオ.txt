@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_フォレオ
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_FOLEO_MYROOM_09: 옷이 찢어지면 말씀해 주세요.\n제가 금방 고쳐 드릴 테니까요.
+MKID_LIVE2D_VOICE_FOLEO_MYROOM_19: 우리는 왕족이죠. 하지만 기품은 내면에서\n우러나오는 것이라는 걸 잊어서는 안 돼요.
+MKID_LIVE2D_VOICE_FOLEO_MYROOM_29: 신께선 항상 절 지켜보고 계세요.\n지금도 분명 지켜보고 계시겠죠.
+MKID_LIVE2D_VOICE_FOLEO_MYROOM_38: 키스보다 로맨틱한 건 없을 거예요.
+MKID_LIVE2D_VOICE_FOLEO_MYROOM_38_W: 그렇죠?
+MKID_LIVE2D_VOICE_FOLEO_MYROOM_39: 우리보다 사랑스러운 커플이 또 있을까요?
+MKID_LIVE2D_VOICE_FOLEO_MYROOM_49: 당신과 함께할 수만 있다면\n전 아무것도 필요 없어요.
+MKID_LIVE2D_VOICE_FOLEO_MYROOM_SP_A: 제 아름다움의 비결이요? 다른 이들의 말에 상관 말고\n스스로를 사랑할 것. 그게 제일 중요한 비결이랍니다.
+MKID_LIVE2D_VOICE_FOLEO_MYROOM_SP_S: 전 프릴과 레이스를 정말 좋아해요. 실크와 새틴도 마찬가지죠.\n하지만 제가 제일 사랑하는 건 당신이에요. 왜냐고요? 그야…
+MKID_LIVE2D_VOICE_FOLEO_MYROOM_SP_S_W: 제가 무엇을 입고 있다 한들,\n당신의 사랑 없인 벌거벗은 기분일 테니까요.
+MKID_LIVE2D_VOICE_FOLEO_RELIANCE_S: 전 당신의 있는 그대로를 사랑해요.\n당신도 절 있는 그대로 사랑해 주니까요.\n우린 멋진 한 쌍이 될 수 있을 거예요.
+MKID_LIVE2D_VOICE_FOLEO_RELIANCE_S_W: 사랑으로 이겨내지 못할 건 없어요.

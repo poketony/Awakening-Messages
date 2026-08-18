@@ -1,0 +1,90 @@
+MESS_ARCHIVE_Sortie
+
+
+Message Name: Message
+
+
+MID_SORTIE_タイトル: 진격 준비
+MID_SORTIE_タイトル_防衛配置: 방어 배치
+MID_SORTIE_タイトル_通信対戦: 팀 편성
+MID_SORTIE_ユニット選択: 유닛 선택
+MID_H_SORTIE_ユニット選択: 출격할 유닛을 선택할 수 있습니다
+MID_SORTIE_マップ・配置: 맵·배치
+MID_H_SORTIE_マップ・配置: 맵 확인, 출격 유닛의 배치를 변경할 수 있습니다
+MID_SORTIE_持ち物整理: 정비
+MID_H_SORTIE_持ち物整理: 유닛의 소지품을 정리할 수 있습니다
+MID_SORTIE_スキル着脱: 스킬 장비
+MID_H_SORTIE_スキル着脱: 유닛의 스킬을 장비할 수 있습니다
+MID_SORTIE_支援会話: 지원 회화
+MID_H_SORTIE_支援会話: 유닛끼리의 인연이 깊어지는 대화를 할 수 있습니다
+MID_SORTIE_記録: 저장
+MID_H_SORTIE_記録: 현재 플레이 상황을 저장할 수 있습니다
+MID_SORTIE_戻る: 뒤로
+MID_SORTIE_戻る_防衛配置: 뒤로
+MID_SORTIE_戻る_通信対戦: 뒤로
+MID_H_SORTIE_戻る: 마이 캐슬로 돌아갑니다
+MID_H_SORTIE_戻る_防衛配置: 마이 캐슬로 돌아갑니다
+MID_H_SORTIE_戻る_通信対戦: 파일 선택으로 돌아갑니다
+MID_SORTIE_戻る確認: 돌아가겠습니까?
+MID_SORTIE_編成終了: 전투 개시
+MID_H_SORTIE_編成終了: 편성을 종료하고 전투를 개시합니다
+MID_SORTIE_編成終了確認: 전투를 개시하겠습니까?
+MID_SORTIE_編成終了_防衛配置: 결정
+MID_SORTIE_編成終了_通信対戦: 결정
+MID_H_SORTIE_編成終了_防衛配置: 편성을 결정합니다
+MID_H_SORTIE_編成終了_通信対戦: 편성을 결정합니다
+MID_SORTIE_編成終了確認_防衛配置: 결정하겠습니까?\n(「방어 배치 자동 갱신」이\n켜져 있을 경우, 부족한 인원이\n자동 보충될 수 있습니다)
+MID_SORTIE_編成終了確認_通信対戦: 결정하겠습니까?
+MID_SORTIE_スキル着脱_外す: 해제
+MID_SORTIE_スキル着脱_並替え: 재정렬
+MID_SORTIE_スキル着脱_装備: 장비
+MID_SORTIE_スキル着脱_交換: 교환
+MID_SORTIE_スキル着脱_習得済みスキル: 습득한 스킬
+MID_SORTIE_スキル着脱_無し: (장비 없음)
+MID_SORTIE_スキル着脱_無し2: (모두 장비)
+MID_SORTIE_一括整理: 위임
+MID_SORTIE_一括整理_おまかせ整理: 위임 정리
+MID_H_SORTIE_一括整理_おまかせ整理: 출격 유닛의 소지품 정리를 위임합니다
+MID_SORTIE_一括整理_おまかせ整理確認: 맵에 출격하는 유닛의\n소지품 정리를 위임하겠습니까?\n(출격하지 않는 유닛의 소지품은\n모두 수송대에 맡겨집니다)
+MID_SORTIE_一括整理_おまかせ整理警告: 수송대의 소지품이 부족하여\n출격할 모든 유닛에게\n소지품을 줄 수 없었습니다.
+MID_SORTIE_一括整理_おまかせ整理警告2: 수송대의 재고가 가득 차서\n소지품을 정리할 수 없었습니다.
+MID_SORTIE_一括整理_全預け: 모두 위탁
+MID_H_SORTIE_一括整理_全預け: 모든 유닛의 소지품을 수송대에 맡깁니다
+MID_SORTIE_一括整理_全預け確認: 모든 유닛의 소지품을\n수송대에 맡기겠습니까?
+MID_SORTIE_一括整理_全預け警告: 수송대의 재고가 가득 차서\n모든 유닛의 소지품을\n맡길 수 없었습니다.
+MID_H_SORTIE_出撃人数: $a앞으로 $a0명 더 출격 유닛을 선택할 수 있습니다
+MID_B_SORTIE_部隊表: 부대표
+MID_B_SORTIE_一覧: 목록
+MID_B_SORTIE_おまかせ: 위임
+MID_B_SORTIE_切り替え: 전환
+MID_B_SORTIE_ユニット変更: 변경
+MID_SORTIE_持ち物整理_持ち物: 소지품
+MID_H_SORTIE_持ち物整理_持ち物: 이 유닛의 소지품을 정리합니다
+MID_SORTIE_持ち物整理_交換: 교환
+MID_H_SORTIE_持ち物整理_交換: 이 유닛의 소지품과 다른 유닛의 소지품을 교환합니다
+MID_SORTIE_持ち物整理_交換警告: 수송대의 재고가 가득 차서\n소지품을 교환할 수 없습니다.
+MID_H_SORTIE_持ち物整理_交換相手選択: 소지품을 교환할 상대를 선택해 주십시오
+MID_SORTIE_持ち物整理_おまかせ整理: 위임
+MID_H_SORTIE_持ち物整理_おまかせ整理: 이 유닛의 소지품의 정리를 위임합니다
+MID_SORTIE_持ち物整理_おまかせ整理警告: 수송대의 소지품이 부족하여\n소지품을 줄 수 없었습니다.
+MID_SORTIE_持ち物整理_おまかせ整理警告2: 수송대의 재고가 가득 차서\n소지품을 정리할 수 없었습니다.
+MID_SORTIE_持ち物整理_全預け: 모두 위탁
+MID_H_SORTIE_持ち物整理_全預け: 이 유닛의 소지품을 수송대에 맡깁니다
+MID_SORTIE_持ち物整理_全預け警告: 수송대의 재고가 가득 차서\n모든 유닛의 소지품을\n맡길 수 없었습니다.
+MID_SORTIE_持ち物整理_預ける: 맡기기
+MID_SORTIE_持ち物整理_受け取る: 받기
+MID_SORTIE_持ち物整理_統合: 통합
+MID_SORTIE_持ち物整理_統合確認: 통합하겠습니까?
+MID_SORTIE_持ち物整理_統合確認2: 통합하겠습니까?\n(사용 횟수는 최대치까지만 회복됩니다)
+MID_SORTIE_持ち物整理_装備: 장비
+MID_SORTIE_持ち物整理_外す: 해제
+MID_SORTIE_持ち物整理_並べ替え: 재정렬
+MID_SORTIE_持ち物整理_使う: 사용
+MID_SORTIE_持ち物整理_使う警告: 수송대의 재고가 가득 차서\n소지품을 사용할 수 없습니다.
+MID_SORTIE_持ち物整理_無し: 아무것도 없습니다
+MID_SORTIE_持ち物整理_輸送隊: 수송대
+MID_SORTIE_持ち物整理_在庫: 재고
+MID_RELIANCE_会話相手選択: 상대를 선택해 주십시오
+MID_RELIANCE_名前不明: ??????
+MID_RELIANCE_支援S確認: 지원S로 하겠습니까?\n(한 유닛에 지원S가 되는\n상대는 한 명뿐입니다)
+MID_RELIANCE_支援A+確認: 지원A+로 하겠습니까?\n(한 유닛에 지원A+가 되는\n상대는 한 명뿐입니다)\n(자신→상대의 지원이 A+가 됩니다.\n상대→자신의 지원은 변화 없습니다)

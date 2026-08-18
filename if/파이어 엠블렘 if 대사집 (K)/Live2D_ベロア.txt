@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_ベロア
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_VELOUR_MYROOM_09: 정말 즐거웠어요! 아빠한테도\n당신이 정말 멋진 분이라고 얘기할 거예요.
+MKID_LIVE2D_VOICE_VELOUR_MYROOM_19: 이 방은 정말 굉장해요… 보물들이 잔뜩 있는 걸요.\n이런 종이 조각들 말이에요! 제가 가져가도 될까요? 네?
+MKID_LIVE2D_VOICE_VELOUR_MYROOM_29: 전 사실 혼자서 낮잠을 자거나, 먼지가 뭉친 걸\n보는 걸 좋아하지만… 이곳도 재미있어요.
+MKID_LIVE2D_VOICE_VELOUR_MYROOM_38: 정말 날 사랑하나요? 그렇다면 증명해 봐요.\n내게 키스해 주세요.
+MKID_LIVE2D_VOICE_VELOUR_MYROOM_38_W: …후훗, 저도 사랑해요.
+MKID_LIVE2D_VOICE_VELOUR_MYROOM_39: 저기, 제 털을 조금만 더 빗겨주면 안 될까요?\n오랫동안 함께 있었지만… 아직 부족하단 말이에요.
+MKID_LIVE2D_VOICE_VELOUR_MYROOM_49: 사랑해요… 우리가 함께 하는 시간들은\n이 세상의 그 무엇과도 비교할 수 없어요.\n정말 정말 소중한 보물이에요…
+MKID_LIVE2D_VOICE_VELOUR_MYROOM_SP_A: 제가 아빠에 대한 얘길 많이 하는 건 아빠가 세상에서\n제일 멋지기 때문이에요! 하지만 당신도 세상에서 가장\n멋져요. …네? 최고가 둘인 게 뭐가 어때서요?
+MKID_LIVE2D_VOICE_VELOUR_MYROOM_SP_S: 제 삶엔 당신에게 받은 보물들이 아주 많아요.\n이 반지, 소중한 동료들, 우리의 추억…
+MKID_LIVE2D_VOICE_VELOUR_MYROOM_SP_S_W: 그 중에서 가장 소중한 보물은 바로…\n당신이 내게 준 사랑이에요.
+MKID_LIVE2D_VOICE_VELOUR_RELIANCE_S: 난 당신이 특별한 사람이라는 걸 이미 알고 있었어요.\n아빠가 당신을 대하는 걸 봤거든요.
+MKID_LIVE2D_VOICE_VELOUR_RELIANCE_S_W: 앞으로 우리에게 남겨진 시간을 함께 살아가요.\n편안하고 즐겁게 말이에요…

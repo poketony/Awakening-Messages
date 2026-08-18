@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_ギュンター
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_GUNTHER_MYROOM_09: 이 방은 꽤 편안하군요. 다음에도 종종 불러 주십시오.
+MKID_LIVE2D_VOICE_GUNTHER_MYROOM_19: 다음에는 대련을 펼쳐 보는 건 어떻겠습니까?
+MKID_LIVE2D_VOICE_GUNTHER_MYROOM_29: 당신에게 영원한 충성을 맹세합니다.
+MKID_LIVE2D_VOICE_GUNTHER_MYROOM_38: 격려를 위한 키스를 해도 되겠나…?
+MKID_LIVE2D_VOICE_GUNTHER_MYROOM_38_W: …미안하군, 내가 조금 거칠었나?
+MKID_LIVE2D_VOICE_GUNTHER_MYROOM_39: 우리 두 사람이 이렇게 될 줄이야…
+MKID_LIVE2D_VOICE_GUNTHER_MYROOM_49: 나에게서 어떤 매력을 느꼈는지는 모르겠지만,\n아무튼 난 지금 굉장히 행복해.
+MKID_LIVE2D_VOICE_GUNTHER_MYROOM_SP_A: 저에게 이렇게 시간을 할애해 주셔서 감사합니다.\n당신이 저를 필요로 하는 한, 결코 곁을 떠나지 않겠습니다.
+MKID_LIVE2D_VOICE_GUNTHER_MYROOM_SP_S: 이젠 평생 홀로 살 것이라고 생각했었는데…\n내 인생은 마치 꺼져 가는 불씨와 같았지…
+MKID_LIVE2D_VOICE_GUNTHER_MYROOM_SP_S_W: 하지만 당신이 다시 그 불씨를 살려 줬어.
+MKID_LIVE2D_VOICE_GUNTHER_RELIANCE_S: 역시 잡지 못하셨군요. 그렇다면 이제는\n확실히 말하겠습니다. …저와…
+MKID_LIVE2D_VOICE_GUNTHER_RELIANCE_S_W: 결혼해 주시겠습니까?

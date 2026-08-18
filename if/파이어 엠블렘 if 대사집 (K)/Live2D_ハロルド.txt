@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_ハロルド
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_HAROLD_MYROOM_09: 이렇게 정의로운 동료와 멋진 시간을 함께 보낼 수 있어서\n영광입니다. 다음에도 종종 만났으면 좋겠군요!
+MKID_LIVE2D_VOICE_HAROLD_MYROOM_19: 좋은 시간이었습니다. 다음에는 정의와 복수 사이의\n미묘하지만 뚜렷한 차이에 대해 얘길 나누고 싶군요!
+MKID_LIVE2D_VOICE_HAROLD_MYROOM_29: 당신의 눈빛에서 진정한 영웅의 힘을 느꼈습니다.\n이 땅에 영원한 평화가 찾아올 때까지 함께 싸웁시다!
+MKID_LIVE2D_VOICE_HAROLD_MYROOM_38: 우리의 사랑을 키스로 축복해 볼까?\n자, 눈을 감아 봐…
+MKID_LIVE2D_VOICE_HAROLD_MYROOM_38_W: 오오, 난 최고의 행운아야!
+MKID_LIVE2D_VOICE_HAROLD_MYROOM_39: 난 지금껏 운이란 걸 가진 적이 없었지. 하지만 그건\n당신의 사랑을 얻기 위함이었는지도 몰라.
+MKID_LIVE2D_VOICE_HAROLD_MYROOM_49: 사랑해… 당신은 나에게 천사 같은 존재야.\n당신이 곁에 있으면 난 천하무적이라고!
+MKID_LIVE2D_VOICE_HAROLD_MYROOM_SP_A: 내가 이 세상에서 가장 아끼는 존재는\n정의의 여신인데, 사실 그 관계는 짝사랑에 가깝지요…
+MKID_LIVE2D_VOICE_HAROLD_MYROOM_SP_S: 사랑해… 앞으로 영원히 진실과 정의를 위해\n함께 싸워 나갔으면 좋겠군…
+MKID_LIVE2D_VOICE_HAROLD_MYROOM_SP_S_W: 그리고 우리의 나라를 위해…
+MKID_LIVE2D_VOICE_HAROLD_RELIANCE_S: 당신의 사랑은 정의의 그것보다 훨씬 달콤하군요!\n그 어떤 것보다 당신을 사랑합니다.
+MKID_LIVE2D_VOICE_HAROLD_RELIANCE_S_W: 정의에게 말하진 마세요.

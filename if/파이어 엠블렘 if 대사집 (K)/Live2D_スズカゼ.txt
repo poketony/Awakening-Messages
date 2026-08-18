@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_スズカゼ
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_SUZUKAZE_MYROOM_09: 평화를 지키기 위한 당신의 노력에\n제가 도울 수 있는 일이 있다면 언제든 말씀해 주세요.
+MKID_LIVE2D_VOICE_SUZUKAZE_MYROOM_19: 포로로 잡혔을 때, 전 죽을 생각이었습니다.\n하지만 당신 덕분에 전 여전히 이렇게 살아 있어요. 고맙습니다.
+MKID_LIVE2D_VOICE_SUZUKAZE_MYROOM_29: 제 삶은 당신의 것입니다.\n전 당신의 안위와 행복을 지키기 위해 모든 순간을 바칠 거예요.
+MKID_LIVE2D_VOICE_SUZUKAZE_MYROOM_38: 당신을 향한 제 깊은 애정을 보여 드릴 수 있게\n허락해 주십시오…
+MKID_LIVE2D_VOICE_SUZUKAZE_MYROOM_38_W: 마음에 차셨으면 좋겠습니다만.
+MKID_LIVE2D_VOICE_SUZUKAZE_MYROOM_39: 당신과 있으면… 행복해집니다.\n닌자에게는 위험한 감정이지만요…
+MKID_LIVE2D_VOICE_SUZUKAZE_MYROOM_49: 당신의 사랑은 몸을 숨길 수 있는 그 어떤 벽도 허물어 버리고,\n절 무장 해제 시킵니다. 괜찮으시다면 좀 더 같이 있고 싶어요.
+MKID_LIVE2D_VOICE_SUZUKAZE_MYROOM_SP_A: 절 당신에게 헌신함으로서 제 인생에는 의미가 생겼습니다.\n무슨 일이 있어도 당신 곁에 있겠어요.
+MKID_LIVE2D_VOICE_SUZUKAZE_MYROOM_SP_S: 당신이 제 아내가 되어서 전 더 이상 춥고 외로운 밤을 보내지\n않아도 돼요. 당신은 이 세상에서 제가 바라는 전부입니다…
+MKID_LIVE2D_VOICE_SUZUKAZE_MYROOM_SP_S_W: 영원히 제 품에, 그리고 제 마음속에 있어 주세요…
+MKID_LIVE2D_VOICE_SUZUKAZE_RELIANCE_S: 나의 주군… 나의 사랑… 제 모든 것이 당신을 사모합니다.\n영원히 당신을 소중히 여길 것을 맹세합니다…
+MKID_LIVE2D_VOICE_SUZUKAZE_RELIANCE_S_W: 그리고 영원히 사랑하겠습니다.

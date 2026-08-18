@@ -1,0 +1,72 @@
+MESS_ARCHIVE_MyRoom
+
+
+Message Name: Message
+
+
+MKID_MYROOM_タイトル: 마이 룸
+MKID_MYROOM_概要説明: 마이 캐슬이 오후·밤이 될 때마다\n동료를 초대해 교류할 수 있습니다.\n(하트 마크가 있는 동료와\n교류하면 사이가 좋아집니다)\n그리고 누군가와 결혼을 하면\n새로운 일이 일어납니다.
+MKID_MYROOM_眺める: 보기
+MKID_MYROOM_戻る: 뒤로
+MKID_MYROOM_招待する: 초대하기
+MKID_MYROOM_髪型を変える: 머리 변경
+MKID_MYROOM_立ち去る: 나가기
+MKID_MYROOM_一緒に過ごす: 함께 지내기
+MKID_MYROOM_カメラ: 카메라
+MKID_MYROOM_ズーム: 줌
+MKID_LIVE2D_スクロール: 스크롤
+MKID_LIVE2D_WAIT_TUTORIAL: 터치펜으로\n천천히 쓰다듬어 주자.
+MKID_LIVE2D_WAIT_SLEEP: 깨워 주자.
+MKID_LIVE2D_WAIT_SPA: 불어 주자.
+MKID_LIVE2D_WAIT_SPA_FAILURE: 다음에는 확실히\n불어 주자.
+MKID_MYROOM_プレゼント受け取り: $a오늘은 $a0에게서\n꽃 선물!
+MKID_MYROOM_プレゼント受け取り_誕生日: $a오늘은 $Nu의 생일!\n$a0에게서 꽃 선물!
+MKID_MYROOM_ユニット確認: 초대하겠습니까?
+MKID_MYROOM_プレゼント渡し: $a$Nu에게서\n꽃 선물!
+MKID_MYROOM_アクセサリー取得_愛の腕輪: 【!】인연이 보다 깊어져\n액세서리점에서\n「사랑의 팔찌」를 받을 수 있습니다.
+MKID_MYROOM_アクセサリー取得_愛の水着: 【!】인연이 보다 깊어져\n액세서리점에서\n「사랑의 수영복」을 받을 수 있습니다.
+MKID_MYROOM_別れ確認: 보내겠습니까?
+MKID_MYROOM_招待者_帰宅: $a$a0$KrP1| 돌아갔습니다.
+MKID_MYROOM_訪問者_帰宅: $a$a0$KrP1| 돌아갔습니다.
+MKID_LIVE2D_仲良くなった: 인연이 깊어졌다.
+MKID_MYROOM_SLEEP_RELEASE: 【!】인연이 보다 깊어져\n새로운 일이 생길 것입니다!
+MKID_MYROOM_SPA_RELEASE: 【!】인연이 보다 깊어져\n새로운 일이 생길 것입니다!
+MKID_MYROOM_PRESENT_RELEASE: 【!】인연이 보다 깊어져\n새로운 일이 생길 것입니다!
+MKID_MYROOM_BANGLE_RELEASE: 사랑의 팔찌 해제
+MKID_MYROOM_SWIM_RELEASE: 사랑의 수영복 해제
+MKID_MYROOM_挨拶_PCM1: 자, 뭘 할까?
+MKID_MYROOM_挨拶_PCM2: 자, 뭘 할까?
+MKID_MYROOM_挨拶_PCM3: 자, 뭘 할까?
+MKID_MYROOM_挨拶_PCF1: 자, 뭘 할까?
+MKID_MYROOM_挨拶_PCF2: 자, 뭘 할까?
+MKID_MYROOM_挨拶_PCF3: 자, 뭘 할까?
+MKID_MYROOM_他には_PCM1: 자, 또 뭘 할까?
+MKID_MYROOM_他には_PCM2: 자, 또 뭘 할까?
+MKID_MYROOM_他には_PCM3: 자, 또 뭘 할까?
+MKID_MYROOM_他には_PCF1: 자, 또 뭘 할까?
+MKID_MYROOM_他には_PCF2: 자, 또 뭘 할까?
+MKID_MYROOM_他には_PCF3: 자, 또 뭘 할까?
+MKID_MYROOM_睡眠開始_PCM1: 음? 뭐지…?
+MKID_MYROOM_睡眠開始_PCM2: 음? 뭐지…?
+MKID_MYROOM_睡眠開始_PCM3: 음? 뭐지…?
+MKID_MYROOM_睡眠開始_PCF1: 음? 뭐지…?
+MKID_MYROOM_睡眠開始_PCF2: 음? 뭐지…?
+MKID_MYROOM_睡眠開始_PCF3: 음? 뭐지…?
+MKID_LIVE2D_睡眠開始_PCM1: 아아, 잤구나
+MKID_LIVE2D_睡眠開始_PCM2: 아아, 잤구나
+MKID_LIVE2D_睡眠開始_PCM3: 아아, 잤구나
+MKID_LIVE2D_睡眠開始_PCF1: 아아, 잤구나
+MKID_LIVE2D_睡眠開始_PCF2: 아아, 잤구나
+MKID_LIVE2D_睡眠開始_PCF3: 아아, 잤구나
+MKID_MYROOM_花_貰う_PCM1: $E笑,|선물 고마워.\n정말 기뻐.
+MKID_MYROOM_花_貰う_PCM2: $E笑,|선물 고마워.\n정말 기뻐.
+MKID_MYROOM_花_貰う_PCM3: $E笑,|선물 고마워.\n정말 기뻐.
+MKID_MYROOM_花_貰う_PCF1: $E笑,|선물 고마워.\n정말 기뻐.
+MKID_MYROOM_花_貰う_PCF2: $E笑,|선물 고마워.\n정말 기뻐.
+MKID_MYROOM_花_貰う_PCF3: $E笑,|선물 고마워.\n정말 기뻐.
+MKID_LIVE2D_風呂開始_PCM1: 아, 샤워하고 왔구나
+MKID_LIVE2D_風呂開始_PCM2: 아, 샤워하고 왔구나
+MKID_LIVE2D_風呂開始_PCM3: 아, 샤워하고 왔구나
+MKID_LIVE2D_風呂開始_PCF1: 아, 샤워하고 왔구나
+MKID_LIVE2D_風呂開始_PCF2: 아, 샤워하고 왔구나
+MKID_LIVE2D_風呂開始_PCF3: 아, 샤워하고 왔구나

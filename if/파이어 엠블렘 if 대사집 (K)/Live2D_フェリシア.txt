@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_フェリシア
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_FELICIA_MYROOM_09: 아앗, 초대해 주셔서 감사해요…\n방 청소를 하는 게 아니라, 함께 대화를\n나눌 수 있어서 기뻤어요!
+MKID_LIVE2D_VOICE_FELICIA_MYROOM_19: 항상 친절하게 대해 주셔서 감사해요…\n메이드가 아닌 한 사람으로서,\n동등하게 대해 주셔서… 정말 감사해요.
+MKID_LIVE2D_VOICE_FELICIA_MYROOM_29: 네, 우리는 좋은 친구사이죠. 하지만…\n저는 지금도 당신을 위해 일하는 게 정말 좋아요.\n필요할 땐 언제든지 불러 주세요!
+MKID_LIVE2D_VOICE_FELICIA_MYROOM_38: 드, 드리고 싶은 게 있어요…\n눈을 감아주시겠어요?
+MKID_LIVE2D_VOICE_FELICIA_MYROOM_38_W: 헤헷… 어떠셨어요?
+MKID_LIVE2D_VOICE_FELICIA_MYROOM_39: 정말 정말, 사랑해요… 저, 당신을 위해\n요리를 배울 거예요. 맛있는 요리를 해 드릴게요!
+MKID_LIVE2D_VOICE_FELICIA_MYROOM_49: 저는 연인끼리 어떤 걸 하는지를 잘 몰라요…\n저, 저는 제대로 연인처럼 행동하고 있나요?
+MKID_LIVE2D_VOICE_FELICIA_MYROOM_SP_A: 전 언제나 당신 곁에 있을 거예요.\n…그래도 너무 자주 여행을 떠나진 마세요.
+MKID_LIVE2D_VOICE_FELICIA_MYROOM_SP_S: 우리는 동화 속 주인공이에요…\n모든 일이 끝나면 정말 행복하게 살 수 있을 거예요!
+MKID_LIVE2D_VOICE_FELICIA_MYROOM_SP_S_W: 저는 모든 것이 끝난 뒤에\n우리가 어떻게 지내게 될 지가 너무 궁금해요!
+MKID_LIVE2D_VOICE_FELICIA_RELIANCE_S: 아앗… 제가 이걸 망치지 않아서\n정말 다행이에요.
+MKID_LIVE2D_VOICE_FELICIA_RELIANCE_S_W: 사랑해요…

@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_イザナ
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_IZANA_MYROOM_09: 주인이 아니라 손님이 되니 기분이 묘하네. 근데 좋은 것 같아!
+MKID_LIVE2D_VOICE_IZANA_MYROOM_19: 네 게임은 정말 웃긴다. 적어 둬야지…
+MKID_LIVE2D_VOICE_IZANA_MYROOM_29: 이곳은 항상 올 때마다 좋아. 그럼 안녕~!
+MKID_LIVE2D_VOICE_IZANA_MYROOM_38: 난 이 순간을 오래도록 기다려 왔어. 눈을 감아 주겠니?
+MKID_LIVE2D_VOICE_IZANA_MYROOM_38_W: 음, 신이시여.
+MKID_LIVE2D_VOICE_IZANA_MYROOM_39: 난 아직도 우리가 결혼했다는 게 믿기지 않아!\n네가 내게 반지를 끼워 줬다고!
+MKID_LIVE2D_VOICE_IZANA_MYROOM_49: 난 항상 이 방에서는 완벽한 신사였어.\n자, 우리 이 방에서 나갈까?
+MKID_LIVE2D_VOICE_IZANA_MYROOM_SP_A: 우리가 언제까지나 친구일 것이란 사실을 알려 주는\n신성한 통찰력 따위는 필요 없어.
+MKID_LIVE2D_VOICE_IZANA_MYROOM_SP_S: 난 널 위해 거품 목욕을 포기하겠어. 아니면 내 인생.
+MKID_LIVE2D_VOICE_IZANA_MYROOM_SP_S_W: 하지만 난 포기하기보다는 그 둘을 너와 함께 공유하고 싶어.
+MKID_LIVE2D_VOICE_IZANA_RELIANCE_S: 우리는 함께할 운명이야.
+MKID_LIVE2D_VOICE_IZANA_RELIANCE_S_W: 내가 대충 지어내는 말이 아니라고…

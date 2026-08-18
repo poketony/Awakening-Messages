@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_アサマ
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_ASAMA_MYROOM_09: 당신에게 이런 취미가 있었는지는 몰랐네요.
+MKID_LIVE2D_VOICE_ASAMA_MYROOM_19: 흠, 아주 심도 있는 논의였어요.\n하지만 안타깝게도 당신은 완전히 잘못 알고 있습니다.
+MKID_LIVE2D_VOICE_ASAMA_MYROOM_29: 당신은 놀라우리만치 예측하기 힘든 사람이에요.\n그래서 좋아합니다.
+MKID_LIVE2D_VOICE_ASAMA_MYROOM_38: 우리는 지금 키스를 해야 할 운명인 것 같군요.
+MKID_LIVE2D_VOICE_ASAMA_MYROOM_38_W: 네, 전 이미 알고 있었습니다.
+MKID_LIVE2D_VOICE_ASAMA_MYROOM_39: 내가 열반에 오른 겁니까? 아니면 이곳은 림보인가요?\n당신의 사랑은 날 혼란스럽게 만들어요!
+MKID_LIVE2D_VOICE_ASAMA_MYROOM_49: 사랑합니다.\n당신은 이 물질계에서 제가 유일하게 신경 쓰는 사람이에요.
+MKID_LIVE2D_VOICE_ASAMA_MYROOM_SP_A: 우리는 함께 많은 시간을 보냈죠.\n부디 제가 당신의 명상 시간을 빼앗은 게 아니기를 바랍니다.
+MKID_LIVE2D_VOICE_ASAMA_MYROOM_SP_S: 질투는 약한 마음의 근간이 되는 감정입니다.\n그러니…
+MKID_LIVE2D_VOICE_ASAMA_MYROOM_SP_S_W: 제가 당신의 유일한 사람이 되게 해 주세요…
+MKID_LIVE2D_VOICE_ASAMA_RELIANCE_S: 이 존재의 세계에서 당신을 찾게 되어 행복합니다!
+MKID_LIVE2D_VOICE_ASAMA_RELIANCE_S_W: 이제는 열반이 기다릴 테지요…

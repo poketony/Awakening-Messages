@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_エポニーヌ
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_EPONINE_MYROOM_09: 와, 전 그저 당신의 물건을 조금 훔치고 떠나려고 했는데,\n이제 이런 재미도 못 보겠네요.
+MKID_LIVE2D_VOICE_EPONINE_MYROOM_19: 혹시 다음에 누구를 초대해야 되면 남자를 초대해요.\n동료 한 4명 정도가 좋겠네요.
+MKID_LIVE2D_VOICE_EPONINE_MYROOM_29: 이건 내 다른 취미들 만큼 재밌네요.\n우리 다음에 또 해요!
+MKID_LIVE2D_VOICE_EPONINE_MYROOM_38: 이건 내가 예상하던 상황이 아니에요, 하지만…
+MKID_LIVE2D_VOICE_EPONINE_MYROOM_38_W: 아주 좋네요.
+MKID_LIVE2D_VOICE_EPONINE_MYROOM_39: 남자 동료들과 함께 시간을 보내는 걸 불쾌해하지 마세요.
+MKID_LIVE2D_VOICE_EPONINE_MYROOM_49: 당신이 제게 진정한 사랑이 무엇인지를 보여 줬어요.\n전 이제 망상의 세계로는 돌아갈 수 없어요…
+MKID_LIVE2D_VOICE_EPONINE_MYROOM_SP_A: 정말 놀라운 일이에요. 당신이 제 인생에 들어오기 전까지는\n조금 외로웠거든요. 제 곁에 있어 줘서 고마워요.
+MKID_LIVE2D_VOICE_EPONINE_MYROOM_SP_S: 전 가벼운 사랑은 하지 않아요…\n영원히 당신 곁에 있을게요.
+MKID_LIVE2D_VOICE_EPONINE_MYROOM_SP_S_W: 당신은 제 모든 꿈을 현실로 만들어 줬어요.
+MKID_LIVE2D_VOICE_EPONINE_RELIANCE_S: 제 엉뚱한 꿈들이 실현됐어요!
+MKID_LIVE2D_VOICE_EPONINE_RELIANCE_S_W: 제 미래는 앞으로 어떻게 되어 갈까요…?

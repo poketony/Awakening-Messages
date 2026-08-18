@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_フランネル
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_FLANNEL_MYROOM_09: 털 쓰다듬어 주는 건 좋지만 난 네 애완동물이 아냐.\n꼬리 흔드는 거 아니거든?
+MKID_LIVE2D_VOICE_FLANNEL_MYROOM_19: 내 털 부드럽지? 계속 쓰다듬어도 돼.\n특별히 허락해 주지.
+MKID_LIVE2D_VOICE_FLANNEL_MYROOM_29: 오늘 즐거웠어.\n그… 다음에 또 불러 줘.
+MKID_LIVE2D_VOICE_FLANNEL_MYROOM_38: 눈 감아 봐. 그냥, 감아 보라니까.
+MKID_LIVE2D_VOICE_FLANNEL_MYROOM_38_W: …내 새로운 보물로 삼아야겠어.
+MKID_LIVE2D_VOICE_FLANNEL_MYROOM_39: 정말 좋아해.\n날 두고 사라지면 용서하지 않을 거야…
+MKID_LIVE2D_VOICE_FLANNEL_MYROOM_49: 저기… 한번만 깨물어 봐도 돼?\n좋아서 그래.
+MKID_LIVE2D_VOICE_FLANNEL_MYROOM_SP_A: 그… 내가 하루종일 널 따라다녀도\n뭐라고 하지 않을 거지?
+MKID_LIVE2D_VOICE_FLANNEL_MYROOM_SP_S: 이렇게 나한테 사랑을 많이 주면 어떡해? 치사하게…
+MKID_LIVE2D_VOICE_FLANNEL_MYROOM_SP_S_W: 그래도 특별히 용서해 줄게… 내 공주님.
+MKID_LIVE2D_VOICE_FLANNEL_RELIANCE_S: 이제 넌 내 최고의 보물이야.\n행복해질 준비는 돼 있지?
+MKID_LIVE2D_VOICE_FLANNEL_RELIANCE_S_W: 앞으로 내가 널 쭉 지켜 줄게.

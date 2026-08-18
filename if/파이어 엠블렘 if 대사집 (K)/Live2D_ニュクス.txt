@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_ニュクス
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_NYX_MYROOM_09: 초대해 줘서 고마워.\n이제 그만 가 봐도 될까?
+MKID_LIVE2D_VOICE_NYX_MYROOM_19: 여기 정말 조용하다. 안심할 수 있는\n곳이 있다는 건 정말 감사할 일이야.
+MKID_LIVE2D_VOICE_NYX_MYROOM_29: 정말 이상해… 너와 있으면 마음이 편안해지면서\n마치 내 자신이 평범한 사람처럼 느껴져… 고마워.
+MKID_LIVE2D_VOICE_NYX_MYROOM_38: 내 사랑…\n눈 감고 가만히 있어 봐…
+MKID_LIVE2D_VOICE_NYX_MYROOM_38_W: 때론, 가장 간단한 주문이\n가장 효과적인 법이지.
+MKID_LIVE2D_VOICE_NYX_MYROOM_39: 내 모습이 변하지 않는 것처럼\n널 향한 내 마음도 변치 않을 거야.
+MKID_LIVE2D_VOICE_NYX_MYROOM_49: 내가 사랑에 빠지게 되는 날이 올 줄이야…\n넌 내 심장을 마구 뛰게 만들어.\n부탁이니 날 놓지 말아 줘…
+MKID_LIVE2D_VOICE_NYX_MYROOM_SP_A: 난 인생의 대부분을 혼자서 보내 왔어…\n하지만 너와 있으면 내가 살아 있음을 느껴.\n꼭… 마법에 걸린 것만 같아.
+MKID_LIVE2D_VOICE_NYX_MYROOM_SP_S: 전보다 훨씬 남자다워진 것 같아…\n우리의 미래는 어떤 모습일지 정말 기대 돼.
+MKID_LIVE2D_VOICE_NYX_MYROOM_SP_S_W: 널 향한 내 사랑은 결코 변치 않을 거야.
+MKID_LIVE2D_VOICE_NYX_RELIANCE_S: 내 진짜 모습을 보려 해 줘서 고마워.\n그동안 사랑이란 감정을 잊고 살았는데…
+MKID_LIVE2D_VOICE_NYX_RELIANCE_S_W: 네 덕분에 다시 알게 됐어… 고마워.

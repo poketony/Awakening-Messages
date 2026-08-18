@@ -1,0 +1,9 @@
+MESS_ARCHIVE_CardEntry
+
+
+Message Name: Message
+
+
+MID_魔符登録_ヘルプ: $a앞으로 $a0명, 서포터 명부에 등록할 유닛을 선택할 수 있습니다.
+MID_魔符登録_確認: 결정하겠습니까?
+MID_魔符登録_上書き確認: 잠겨 있습니다만, 덮어쓰겠습니까?

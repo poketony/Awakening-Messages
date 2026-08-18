@@ -1,0 +1,29 @@
+MESS_ARCHIVE_Arena
+
+
+Message Name: Message
+
+
+MKID_ARENA_戦う: 전투
+MKID_ARENA_タイトル: 투기장
+MKID_ARENA_概要説明: 광석이나 식재료를 걸고\n점원이 투기장 전사와 전투를 합니다.\n승리하면 건 소재가 늘어납니다.\n패배하면 건 소재를 잃게 됩니다.\n전투 중, X 버튼을 누르면 항복하며,\n건 소재는 돌아옵니다.
+MKID_ARENA_戻る: 뒤로
+MKID_ARENA_素材選択タイトル: 걸 소재를 선택
+MKID_ARENA_素材選択ヘルプ: 소재를 하나 걸고 싸웁니다
+MKID_ARENA_一戦目: 1차전
+MKID_ARENA_二戦目: 2차전
+MKID_ARENA_三戦目: 3차전
+MKID_ARENA_前衛選択タイトル: 전위를 선택해 주십시오.
+MKID_ARENA_セットアップ確認: 이걸로 괜찮겠습니까?
+MKID_ARENA_やめる: 취소
+MKID_ARENA_賞品説明: $a승리하면 $a0$KrP3| $a1→$a2개로 늘어납니다
+MKID_ARENA_勝利後ウィンドウ: $a$a0$KrP3| $a1→$a2개로 늘었습니다!\nHP가 조금 회복되었습니다.
+MKID_ARENA_対戦確認: 패배하면 건 소재를 모두 잃습니다.\n정말로 싸우겠습니까?
+MKID_ARENA_素材無し: 걸 소재가 없기 때문에 싸울 수 없습니다.
+MKID_ARENA_勝利: $a$a0$KrP2| $a1개 획득했습니다.
+MKID_ARENA_敗北: $a걸었던 $a0$KrP1| 모두 몰수되었습니다.
+MKID_ARENA_返却: $a걸었던 $a0$KrP1| 반환되었습니다.
+MKID_ARENA_やめる確認: 취소하면 소재는 그대로 가질 수 있습니다\n정말로 그만두겠습니까?
+MKID_ARENA_はい: 예
+MKID_ARENA_いいえ: 아니요
+MKID_ARENA_降伏入力済み: 항복 접수

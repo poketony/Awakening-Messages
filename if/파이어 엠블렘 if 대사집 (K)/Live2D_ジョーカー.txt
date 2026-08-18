@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_ジョーカー
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_JOKER_MYROOM_09: 전 항상 당신 곁에 있습니다.\n필요할 땐 언제든 불러 주세요.
+MKID_LIVE2D_VOICE_JOKER_MYROOM_19: 당신 같은 분을 모실 수 있다니…\n이보다 행복할 수 있을까요.
+MKID_LIVE2D_VOICE_JOKER_MYROOM_29: 다른 분들도 이 방으로 불러들이는 건 아니시겠죠?
+MKID_LIVE2D_VOICE_JOKER_MYROOM_38: 제 입술은 항상 준비되어 있습니다.
+MKID_LIVE2D_VOICE_JOKER_MYROOM_38_W: 저만의 특권이나 마찬가지죠.
+MKID_LIVE2D_VOICE_JOKER_MYROOM_39: 당신이 다른 분들과 계시는 걸 보면,\n때때로 평정심을 유지하기 힘들어집니다.
+MKID_LIVE2D_VOICE_JOKER_MYROOM_49: 모두의 앞에선 언제나처럼 집사로 있겠습니다.\n하지만 지금은… 제가 하고 싶은대로 해도 될까요…?
+MKID_LIVE2D_VOICE_JOKER_MYROOM_SP_A: 당신은 저의 빛.\n당신의 곁에서 함께 세상을 밝혀도 괜찮을까요?
+MKID_LIVE2D_VOICE_JOKER_MYROOM_SP_S: 한때, 주인과 집사였을 뿐인 때도 있었지만, 제 마음이\n커질 수록 그 관계가 편치만은 않았습니다. 하지만 지금은…
+MKID_LIVE2D_VOICE_JOKER_MYROOM_SP_S_W: …청소라면 제게 맡겨 주세요.
+MKID_LIVE2D_VOICE_JOKER_RELIANCE_S: 사랑합니다… 이 말을 하기가 너무 두려웠습니다.\n하지만 오늘부터는 몇 번이고 말씀 드릴게요.
+MKID_LIVE2D_VOICE_JOKER_RELIANCE_S_W: 당신을 진심으로 사랑합니다.

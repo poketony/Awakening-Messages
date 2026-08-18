@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_ツクヨミ
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_TSUKUYOMI_MYROOM_09: 그대 앞에서는 긴장을 할래야 할 수가 없구나.
+MKID_LIVE2D_VOICE_TSUKUYOMI_MYROOM_19: 가끔이지만 내 가족이 정말 그리울 때가 있다…\n하지만… 내 곁엔 그대가 있으니 그걸로 충분해.
+MKID_LIVE2D_VOICE_TSUKUYOMI_MYROOM_29: 언제나 날 존중해 줘서 고맙다.
+MKID_LIVE2D_VOICE_TSUKUYOMI_MYROOM_38: 잠깐 눈을 감아주지 않겠어?
+MKID_LIVE2D_VOICE_TSUKUYOMI_MYROOM_38_W: 무슨 일이 있었나? 난 아무것도 하지 않았어.
+MKID_LIVE2D_VOICE_TSUKUYOMI_MYROOM_39: 그대도 알고 있겠지만…\n나는 내 아내라고 해서 특별하게 대하진 못해.
+MKID_LIVE2D_VOICE_TSUKUYOMI_MYROOM_49: 미안한데, 지금은 그럴 기분이 아니야.
+MKID_LIVE2D_VOICE_TSUKUYOMI_MYROOM_SP_A: 쓸쓸할 때는 언제든 날 부르도록 해.
+MKID_LIVE2D_VOICE_TSUKUYOMI_MYROOM_SP_S: 난… 내가 그대의 품에 안길 때 느끼는 만큼의 행복을\n그대도 느낄 수 있게… 행복하게 해 주고 싶다.
+MKID_LIVE2D_VOICE_TSUKUYOMI_MYROOM_SP_S_W: 그러니… 부디, 내 곁을 떠나지 말아 줘…
+MKID_LIVE2D_VOICE_TSUKUYOMI_RELIANCE_S: 앞으로 우리가 살아갈 미래를\n그대와 함께 그려 보고 싶어.
+MKID_LIVE2D_VOICE_TSUKUYOMI_RELIANCE_S_W: 사랑한다…

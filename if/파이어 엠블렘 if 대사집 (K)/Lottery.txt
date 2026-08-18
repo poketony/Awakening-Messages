@@ -1,0 +1,13 @@
+MESS_ARCHIVE_Lottery
+
+
+Message Name: Message
+
+
+MKID_LOTTERY_概要説明: 마이 캐슬에 낮이 찾아올 때마다\n뽑기를 1회씩 할 수 있습니다.\n아이템이나 광석, 식재료 등이\n당첨됩니다.
+MKID_LOTTERY_白クジ: 백야 뽑기
+MKID_LOTTERY_黒クジ: 암야 뽑기
+MKID_LOTTERY_クジ確認_白: 백야 뽑기를 하겠습니까?
+MKID_LOTTERY_クジ確認_黒: 암야 뽑기를 하겠습니까?
+MKID_LOTTERY_タイトル: 뽑기점
+MKID_LOTTERY_戻る: 뒤로

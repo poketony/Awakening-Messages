@@ -1,0 +1,26 @@
+MESS_ARCHIVE_Network
+
+
+Message Name: Message
+
+
+MID_MESSAGECARD_個性: 개성
+MID_H_MESSAGECARD_個性: 별명을 선택합니다
+MID_MESSAGECARD_表情: 표정
+MID_H_MESSAGECARD_表情: 표정을 선택합니다
+MID_MESSAGECARD_表情_普通: 보통
+MID_MESSAGECARD_表情_キメ: 당당
+MID_MESSAGECARD_表情_怒: 분노
+MID_MESSAGECARD_表情_笑: 웃음
+MID_MESSAGECARD_表情_苦: 고통
+MID_MESSAGECARD_出身地: 출신지
+MID_H_MESSAGECARD_出身地: 출신지를 선택합니다
+MID_MESSAGECARD_普段の姿: 평상시 모습
+MID_H_MESSAGECARD_普段の姿: 평상시 모습을 선택합니다
+MID_MESSAGECARD_メッセージ: 메시지
+MID_H_MESSAGECARD_メッセージ: 한마디 메시지를 편집합니다
+MID_MESSAGECARD_難易度公開: 난이도 공개
+MID_H_MESSAGECARD_難易度公開: 난이도 공개 여부를 선택합니다
+MID_MESSAGECARD_難易度公開_公開: 공개
+MID_MESSAGECARD_難易度公開_非公開: 미공개
+MID_HELP_通信メニュー: 통신 메뉴나 여행자 광장에서는\n인터넷이나 로컬 통신,\n엇갈림 통신에 의해\n유저가 공개한 마이 캐슬이나\n각종 메시지를 송수신할 수 있습니다.

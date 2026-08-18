@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_ルッツ
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_LUTZ_MYROOM_09: 여기에 오게 되어서 기뻐요. 자, 악에 맞서 싸워 볼까요!
+MKID_LIVE2D_VOICE_LUTZ_MYROOM_19: 방이 좋네요. 에이스를 데려오고 싶어요.\n하지만 너무 커서 이 방엔 들어올 수 없겠죠?!
+MKID_LIVE2D_VOICE_LUTZ_MYROOM_29: 정말 즐거웠어요. 에이스가 질투하겠다!
+MKID_LIVE2D_VOICE_LUTZ_MYROOM_38: 내 키스… 내 키스가…
+MKID_LIVE2D_VOICE_LUTZ_MYROOM_38_W: 그렇게 서투르지 않았길 바래요.
+MKID_LIVE2D_VOICE_LUTZ_MYROOM_39: 하! 이 닭살 돋는 짓에 익숙해진 것 같아요.
+MKID_LIVE2D_VOICE_LUTZ_MYROOM_49: 첫사랑과 결혼을 하다니, 전 정말 운이 좋은 것 같아요!
+MKID_LIVE2D_VOICE_LUTZ_MYROOM_SP_A: 당신이 날 오늘 초대해 주길 간절히 기도했어요.\n제 꿈이 현실이 됐네요!
+MKID_LIVE2D_VOICE_LUTZ_MYROOM_SP_S: 당신 곁에 있으면 세상이 온통 빛나는 것 같아요.\n당신도 저와 같았으면 좋겠는데… 그렇지 않다면…
+MKID_LIVE2D_VOICE_LUTZ_MYROOM_SP_S_W: 제가 느끼는 이 반짝임을 모두 당신께 드릴게요.
+MKID_LIVE2D_VOICE_LUTZ_RELIANCE_S: 아, 전 정말 운이 좋은 것 같아요!\n당신과 결혼도 하고 매일 용도 타고!
+MKID_LIVE2D_VOICE_LUTZ_RELIANCE_S_W: 에이스를 우리 방에서 재우면 안 될까요?

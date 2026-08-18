@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_キヌ
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_KINU_MYROOM_09: 이렇게 많이 놀아줘서 고마워요!\n다음에 또 불러주면 안돼요?
+MKID_LIVE2D_VOICE_KINU_MYROOM_19: 난 당신이 내 귀 뒤쪽을 긁어주는게 너무 좋아요!\n너무 좋아서 방 안을 마구 뛰어다니고 싶을 정도라구요!
+MKID_LIVE2D_VOICE_KINU_MYROOM_29: 정말 정말 재미있었어요.\n우리 이제 밖에 나가서 같이 놀아요!
+MKID_LIVE2D_VOICE_KINU_MYROOM_38: 난 당신한테 키스를 해 줄 거예요!\n안 된다고 해도 소용 없다구요!
+MKID_LIVE2D_VOICE_KINU_MYROOM_38_W: 헤헷, 어때요?
+MKID_LIVE2D_VOICE_KINU_MYROOM_39: 항상 함께 놀아줘서 고마워요. 나 정말 행복해요!!\n있잖아요, 우리 같이 놀러갈래요? 지금이요!
+MKID_LIVE2D_VOICE_KINU_MYROOM_49: 지난 일주일 동안 한 번도 여기 있는 가구를\n깨물거나 씹지 않았어요! 이건 신기록이라구요!
+MKID_LIVE2D_VOICE_KINU_MYROOM_SP_A: 항상 같이 놀아줘서 정말 고마워요. 난 우리가\n나이를 아주 많이 먹은 뒤에도 이렇게 함께\n지냈으면 좋겠어요. 다람쥐도 막 쫓아 다닐 거예요!
+MKID_LIVE2D_VOICE_KINU_MYROOM_SP_S: 나 있죠, 드디어 내가 가장 무서워하는 게 뭔지\n알게 됐어요! 그게 뭐냐면요… 바로 당신을 잃는 거예요!\n난 그게 정말 정말 두렵고 무서워요.
+MKID_LIVE2D_VOICE_KINU_MYROOM_SP_S_W: 우린 앞으로도 쭉 같이 있을 수 있는 거죠? 그렇죠?
+MKID_LIVE2D_VOICE_KINU_RELIANCE_S: 우우~ 역시 당신은 최고에요!
+MKID_LIVE2D_VOICE_KINU_RELIANCE_S_W: 내 사랑이 담긴 태클을 받을 준비는 됐죠?

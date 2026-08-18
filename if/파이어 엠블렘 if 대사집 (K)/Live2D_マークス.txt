@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_マークス
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_MARKS_MYROOM_09: 훈련보다 중요한 건 없다. 하지만…\n휴식을 취하는 것도 그만큼 중요하지.
+MKID_LIVE2D_VOICE_MARKS_MYROOM_19: 잊지 마라. 난 언제나 네 편이다.\n그 무엇도 내 마음을 바꾸지는 못할 거야.
+MKID_LIVE2D_VOICE_MARKS_MYROOM_29: 네가 외롭거나 사명이 너를 짓눌러 힘이 들 때,\n나를 떠올려 다오. 난 언제나 네 곁에 있을 테니.
+MKID_LIVE2D_VOICE_MARKS_MYROOM_38: 자, 눈을 감아… 나의 어린 공주여…
+MKID_LIVE2D_VOICE_MARKS_MYROOM_38_W: 너는 내게 정말 멋진 것을 주었어…
+MKID_LIVE2D_VOICE_MARKS_MYROOM_39: 난 언제나 내 의무만을 생각해 왔다. 그런 내가\n사랑에 빠질 줄이야… 상상조차 하지 못했던 일이다.\n고맙다. 네가 나를 바꿔 준 거야…
+MKID_LIVE2D_VOICE_MARKS_MYROOM_49: 이대로는 만족할 수 없어… 오늘은 쭉 너와 함께\n지내고 싶다. 서로의 품 안에서 말이야…
+MKID_LIVE2D_VOICE_MARKS_MYROOM_SP_A: 우리의 인연은 피보다 더 진하다. 우리는 가족이야.\n지금까지 그랬듯이, 앞으로도 쭉 그럴 거다.
+MKID_LIVE2D_VOICE_MARKS_MYROOM_SP_S: 나의 어린 공주여, 너를 사랑해.\n고난이 닥쳐와 우리를 괴롭히더라도\n나는 절대 후회하지 않을 거다.
+MKID_LIVE2D_VOICE_MARKS_MYROOM_SP_S_W: 왜냐하면, 이건 모두\n너를 사랑하기에 한 선택이니까…
+MKID_LIVE2D_VOICE_MARKS_RELIANCE_S: 너를 사랑한다. 진심으로…\n오래 전부터 이 말을 네게 전하고 싶었다…\n그리고 이제… 너는 내 소중한 아내가 되는 거다.
+MKID_LIVE2D_VOICE_MARKS_RELIANCE_S_W: 내 명예를 걸고, 너를 반드시 지켜주마.\n무슨 수를 써서라도… 그게 바로 내 의무니까.

@@ -1,0 +1,24 @@
+MESS_ARCHIVE_P006
+
+
+Message Name: Message
+
+
+MID_A006_OP1_PCM1: $a$t1$Wmマークス|3$w0|$Wsマークス|$Wa$E笑,|$SvpVOICE_MARKS_B_GUARD_00|무사한가, $Nu…!\n아아, 살아 있었구나…!$k\n$Wmusername|7$w0|$Wsusername|$Wa$SvpVOICE_PLAYER_M#_EVT_00|$E怒,汗|젠더 형!\n어째서 이런 전쟁을!?$k\n$Wsマークス|$Wa$SvpVOICE_MARKS_B_SUPPORT_01|$E怒,|$p자… 가자.\n너도 합류해라, $Nu.$k$p너만 있으면\n전쟁은 금방 끝날 것이다.$k$p무고한 희생을 하지 않고도\n백야 왕국을 정복할 수 있을 테지.$k\n$Wsusername|$Wa$SvpVOICE_PLAYER_M#_DAMAGE_01|$E苦,汗|$p젠더 형…\n난…$k\n$Wsマークス|$Wd$w0|$Wsusername|$Wd$w0|$Wmリョウマ|7$w0|$Wsリョウマ|$Wa$SvpVOICE_RYOUMA_B_SUPPORT_01|$Eキメ,|조심해, $Nu.\n이 남자는 암야 왕국의 왕자다.$k\n$Wmusername|3$w0|$Wsusername|$Wa$SvpVOICE_PLAYER_M#_EVT_02|$E怒,汗|$p료마 형…$k
+MID_A006_OP1_PCF2: $a$t1$Wmマークス|3$w0|$Wsマークス|$Wa$E笑,|$SvpVOICE_MARKS_B_GUARD_00|무사한가, $Nu…!\n아아, 살아 있었구나…!$k\n$Wmusername|7$w0|$Wsusername|$Wa$SvpVOICE_PLAYER_F#_EVT_00|$E怒,汗|젠더 오빠!\n어째서 이런 전쟁을!?$k\n$Wsマークス|$Wa$SvpVOICE_MARKS_B_SUPPORT_01|$E怒,|$p자… 가자.\n너도 합류해라, $Nu.$k$p너만 있으면\n전쟁은 금방 끝날 것이다.$k$p무고한 희생을 하지 않고도\n백야 왕국을 정복할 수 있을 테지.$k\n$Wsusername|$Wa$SvpVOICE_PLAYER_F#_DAMAGE_01|$E苦,汗|$p젠더 오빠…\n난…$k\n$Wsマークス|$Wd$w0|$Wsusername|$Wd$w0|$Wmリョウマ|7$w0|$Wsリョウマ|$Wa$SvpVOICE_RYOUMA_B_SUPPORT_01|$Eキメ,|조심해, $Nu.\n이 남자는 암야 왕국의 왕자다.$k\n$Wmusername|3$w0|$Wsusername|$Wa$SvpVOICE_PLAYER_F#_EVT_02|$E怒,汗|$p료마 오빠…$k
+MID_A006_OP1_02_PCM1: $a$t1$Wmカミラ|3$w0|$Wsカミラ|$Wa$SvpVOICE_CAMILLA_EVT_03|$Eキメ,|아아… $Nu…!\n살아 있었구나, 정말 다행이야…$k\n$Wsカミラ|$Wd$w0|$Wmレオン|3$w0|$Wsレオン|$Wa$SvpVOICE_LEON_EVT_05|$E笑,|…하여튼 운이 좋다니까,\n$Nu 형은.$k\n$Wsレオン|$Wd$w0|$Wmエリーゼ|3$w0|$Wsエリーゼ|$Wa$SvpVOICE_ELISE_B_GUARD_00|$E笑,|정말 다행이야~!\n$Nu 오빠!$k
+MID_A006_OP1_02_PCF1: $a$t1$Wmカミラ|3$w0|$Wsカミラ|$Wa$SvpVOICE_CAMILLA_EVT_03|$Eキメ,|아아… $Nu…!\n살아 있었구나, 정말 다행이야…$k\n$Wsカミラ|$Wd$w0|$Wmレオン|3$w0|$Wsレオン|$Wa$SvpVOICE_LEON_EVT_05|$E笑,|…하여튼 운이 좋다니까,\n$Nu 누나는.$k\n$Wsレオン|$Wd$w0|$Wmエリーゼ|3$w0|$Wsエリーゼ|$Wa$SvpVOICE_ELISE_B_GUARD_00|$E笑,|정말 다행이야~!\n$Nu 언니!$k
+MID_A006_OP1_03_PCM1: $a$t1$Wmヒノカ|7$w0|$Wsヒノカ|$Wa$SvpVOICE_HINOKA_EVT_02|$E怒,|무슨 소리냐, 동생을 빼앗아 가 놓고…\n$Nu$KrP1| 내 동생이야!$k\n$Wmカミラ|3$w0|$Wsカミラ|$Wa$SvpVOICE_CAMILLA_EVT_01|$E怒,|아니, $Nu$KrP1| 내 동생이야.\n누구에게도 넘겨줄 수 없어…$k
+MID_A006_OP1_03_PCF1: $a$t1$Wmヒノカ|7$w0|$Wsヒノカ|$Wa$SvpVOICE_HINOKA_EVT_02|$E怒,|무슨 소리냐, 동생을 빼앗아 가 놓고…\n$Nu$KrP1| 내 동생이야!$k\n$Wmカミラ|3$w0|$Wsカミラ|$Wa$SvpVOICE_CAMILLA_EVT_01|$E怒,|아니, $Nu$KrP1| 내 동생이야.\n누구에게도 넘겨줄 수 없어…$k
+MID_A006_OP1_04: $a$t1$Wmリョウマ|7$w0|$Wsリョウマ|$Wa$SvpVOICE_RYOUMA_EVT_01|$E怒,|속지 마라, $Nu.\n넌 우리의 소중한 가족이야.$k\n$Wmマークス|3$w0|$Wsマークス|$Wa$SvpVOICE_MARKS_EVT_15|$E苦,|돌아와, $Nu!\n다시 우리 가족이 함께 사는 거다.$k\n$Wsマークス|$Wd$w0|$Wsリョウマ|$Wa$Eキメ,|$Nu!$k\n$Wsリョウマ|$Wd$w0|$Wmマークス|3$w0|$Wsマークス|$Wa$E苦,|$Nu!$k
+MID_A006_OP2A_00: $t1$Wmusername|3$w0|$Wsusername|$Wa$E怒,汗|…………$k
+MID_A006_OP2_SELECT: 【운명의 분기점】나아갈 길을 선택해 주십시오.
+MID_A006_OP2_SELECT_A: 백야의 가족들을 위해 백야군의 방위에 협력
+MID_A006_OP2_SELECT_B: 암야의 가족들을 위해 암야군의 침략에 협력
+MID_A006_OP2_SELECT_C: 어느 쪽에도 협력하지 않는다
+MID_A006_OP2_SELECT_A_確認: 이 루트에서는 경험치 및 소지금을\n자유롭게 모을 수 있는 장소가 있어,\n캐릭터 육성을 즐길 수 있습니다.\n이 루트로 진행하겠습니까?
+MID_A006_OP2_SELECT_B_確認: 이 루트에서는 제한된 경험치와\n소지금만으로 전략을 세우는\n재미를 맛볼 수 있습니다.\n이 루트로 진행하겠습니까?
+MID_A006_OP2_SELECT_C_確認: 처음 플레이할 때에는 이 루트를\n선택하지 않을 것을 권장합니다.\n「백야군의 방위」「암야군의 침략」\n양쪽 루트를 플레이한 후에 선택하면\n더욱 재미있게 즐길 수 있습니다.\n정말 이 루트로 진행하겠습니까?
+MID_A006_OP2_購入確認: 이 루트의 데이터를\n가지고 있지 않습니다.\n이 루트로 진행하면\n현재 장을 클리어한 뒤에\n구입 페이지로 이동합니다.\n이 루트로 진행하겠습니까?
+MID_A006_OP2_購入不可: 이 루트는\n백야편 또는 암야편의 데이터를\n가지고 있는 경우에만\n선택할 수 있습니다.
+MID_A006_OP2_未購入: 이 루트의 데이터를\n가지고 있지 않습니다.

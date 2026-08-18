@@ -1,0 +1,19 @@
+MESS_ARCHIVE_Backup
+
+
+Message Name: Message
+
+
+MID_BACKUP_NOT_FOUND: 저장 데이터의\n액세스에 실패했습니다.\n전원을 끄고\n카드를 다시 꽂아 주십시오.
+MID_BACKUP_NOT_FORMATTED: 게임을 시작할 준비를 합니다.
+MID_BACKUP_VERIFICATION_FAILED: 저장 데이터 파손이 확인되었습니다.\n손상된 저장 데이터를 삭제합니다.
+MID_BACKUP_NOT_ENOUGH_SPACE: 저장 데이터의 빈 용량이 부족합니다.
+MID_BACKUP_FORMAT: 게임을 시작할 준비를 하고 있습니다.\n전원을 끄거나\n카드를 뽑지 말아 주십시오.
+MID_BACKUP_VERIFICATION_FAILED_FILE: 손상된 저장 데이터를\n삭제하고 있습니다.\n전원을 끄거나\n카드를 뽑지 말아 주십시오.
+MID_BACKUP_FORMAT_COMPLETE: 게임을 시작할 준비가\n완료되었습니다.
+MID_BACKUP_EXT_MEDIA_NOT_FOUND: SD 카드를 인식할 수 없습니다.
+MID_BACKUP_EXT_OPERATION_DENIED: SD 카드의 처리에 실패했습니다.\n전원을 끄고\nSD 카드를 다시 꽂아 주십시오.
+MID_BACKUP_EXT_VERIFICATION_FAILED: 저장 데이터의\n파손이 확인되었습니다.\n손상된 저장 데이터를 삭제합니다.
+MID_BACKUP_EXT_VERIFICATION_FAILED2: 저장 데이터의\n파손이 확인되었습니다.\n저장 데이터를 재구축합니다.
+MID_BACKUP_EXT_NOT_ENOUGH_SPACE: SD 카드의 빈 용량이 부족합니다.
+MID_BACKUP_EXT_WRITE_PROTECT: SD 카드가 쓰기 금지 상태입니다.\n전원을 끄고 SD 카드의 쓰기 금지\n스위치를 해제한 후,\n다시 꽂아 주십시오.

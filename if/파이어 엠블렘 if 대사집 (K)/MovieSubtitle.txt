@@ -1,0 +1,131 @@
+MESS_ARCHIVE_MovieSubtitle
+
+
+Message Name: Message
+
+
+MID_S01_SUBTITLE_00: 하늘거리는 물거품♪\n정처없는 마음의 저울
+MID_S01_SUBTITLE_01: 이어지는 물줄기♪\n그 손이 개척하는 미래
+MID_S01_SUBTITLE_02: 암야 장군이여! 나는 백야 왕국의 제1왕자 료마!\n너에게 일대일 대결을 제안한다!
+MID_S01_SUBTITLE_03: 백야의 왕자여, 너의 제안을 받아들이겠다
+MID_S01_SUBTITLE_04: 하지만 난 장군이 아니다.\n암야 왕국 제1왕자 젠더다!
+MID_S02_SUBTITLE_00: 쏴라
+MID_S02_SUBTITLE_01: 실망이군, 스메라기 왕.\n이런 함정에 빠질 줄이야
+MID_S02_SUBTITLE_03: 불쌍한 것
+MID_S02_SUBTITLE_04: 어린 나이에 고아로 전락하다니,
+MID_S02_SUBTITLE_05: 너는 내 아이로 삼아 주마
+MID_S03_SUBTITLE_00: 이어지는 물줄기♪\n그 손이 개척하는 미래
+MID_S04_SUBTITLE_02: 무사한가요? 다친 곳은… 없지요?
+MID_S04_SUBTITLE_03: 네…
+MID_S04_SUBTITLE_04: 다행이에요…
+MID_S04_SUBTITLE_05: 어머니!
+MID_S04_SUBTITLE_06: 어머님… 어머님!
+MID_S04_SUBTITLE_07: 웬 놈이냐!
+MID_S04_SUBTITLE_08: 모습을 드러내라!
+MID_S05_SUBTITLE_01: 하늘거리는 물거품♪
+MID_S05_SUBTITLE_02: 아주라! 멈춰, 위험해!
+MID_S05_SUBTITLE_03: 하늘거리는 물거품♪\n정처없는 마음의 저울
+MID_S05_SUBTITLE_04: 이어지는 물줄기♪
+MID_S05_SUBTITLE_07: 그 손이 개척하는 미래♪
+MID_S05_SUBTITLE_08: 죽여도 좋아, 하지만…\n원래대로 돌아와 줘
+MID_S06_SUBTITLE_00: 이쪽이다!
+MID_S06_SUBTITLE_01: 오라버니?
+MID_S06_SUBTITLE_01F: 언니?
+MID_S06_SUBTITLE_02: 오빠!
+MID_S06_SUBTITLE_02F: 언니!
+MID_S06_SUBTITLE_03: 우린 너의 가족이다
+MID_S07_SUBTITLE_00: 빛으로 손을 뻗는♪\n순결한 은의 검
+MID_S07_SUBTITLE_01: 꿈 같은 생각을 베고♪
+MID_S07_SUBTITLE_02: 노래하는 평온♪\n수정은 부드러운 빛을 뿌리고
+MID_S07_SUBTITLE_03: 어둠이 물러나는 새벽♪\n홀로 생각하네
+MID_S08_SUBTITLE_03: 보지 마, 부탁이야…
+MID_S09_SUBTITLE_00: 좋다, 너는 너의 정의를 지키기 위해\n죽어라. 나는 내 나라를 지키겠다!
+MID_S09_SUBTITLE_01: 엘리스!
+MID_S09_SUBTITLE_02: 엘리스! 정신 차려!
+MID_S09_SUBTITLE_04: 오빠… 날 위해 검을 내려 줘…
+MID_S09_SUBTITLE_06: 사랑하는 사람을 지키기 위해\n필요한 건 힘이 아니라…
+MID_S09_SUBTITLE_08: 따뜻한 손길…\n그리고 눈물.
+MID_S09_SUBTITLE_09: 그것뿐이야, 싸움을 멈춰 줘.
+MID_S10_SUBTITLE_00: 마지막으로 당신의 미소를 볼 수 있을까?
+MID_S10_SUBTITLE_01: 떠나기 전에 단 한 번만…
+MID_S10_SUBTITLE_02: 응… 고마워…
+MID_S11_SUBTITLE_00: 항상 너를 태우고 하늘을 날고 싶었어
+MID_S11_SUBTITLE_01: 저기, 저기! 하늘에서 보는 전망은 어떠세요?!
+MID_S11_SUBTITLE_02: 떨어지지 않게 조심해!
+MID_S11_SUBTITLE_03: 어머니께 전쟁은 끝났다고 말씀드렸다
+MID_S11_SUBTITLE_04: 어머니께서 항상 평화를 위해 노력하신\n그 의지, 우리가 잇겠습니다.
+MID_S11_SUBTITLE_05: 응
+MID_S11_SUBTITLE_06: 물론
+MID_S11_SUBTITLE_07: 네
+MID_S11_SUBTITLE_08: 분명 험난한 일들이 기다릴 거다.\n하지만 그것이 얼마나 힘든 일이든…
+MID_S11_SUBTITLE_09: 우린 할 수 있다…
+MID_S11_SUBTITLE_10: 모두 함께 손을 맞잡는다면
+MID_S12_SUBTITLE_00: 어둠으로 나아가는♪\n공허한 백악의 옥좌
+MID_S12_SUBTITLE_01: 자신을 모든 것을 속이고♪
+MID_S12_SUBTITLE_02: 자아내는 이치♪\n흑요는 서서히 무너지고
+MID_S12_SUBTITLE_03: 빛이 사라지는 황혼♪\n홀로 생각하네
+MID_S13_SUBTITLE_00: 어째서…
+MID_S13_SUBTITLE_01: 네가 왜 이곳에?
+MID_S14_SUBTITLE_00: 적의 손에 목숨을 잃는 것은 수치,\n고로 나는…
+MID_S14_SUBTITLE_01: 사무라이의…
+MID_S14_SUBTITLE_02: 명예를 지키겠다!
+MID_S14_SUBTITLE_03: 너를 믿겠다.
+MID_S15_SUBTITLE_01: 아버님…?
+MID_S15_SUBTITLE_02: 이게 무슨…
+MID_S15_SUBTITLE_03: 내 본 모습을 보았구나…
+MID_S16_SUBTITLE_00: 이리 와, 얼른!
+MID_S16_SUBTITLE_01: 어머, 도와줄게
+MID_S16_SUBTITLE_02: 또 늦잠 잔 거야?
+MID_S16_SUBTITLE_03: 자, 얼른 와
+MID_S16_SUBTITLE_04: 제 시간에 왔구나.
+MID_S16_SUBTITLE_05: 너희는 예전부터 항상 한결같구나.\n그리고 앞으로도 그렇겠지
+MID_S16_SUBTITLE_09: 이번 전쟁에 정의는 없었다.\n오직 광기와 탐욕만 있었지
+MID_S16_SUBTITLE_10: 전쟁은 악이야. 우린 나라를\n위한 전쟁이라 믿어 왔지만…
+MID_S16_SUBTITLE_11: 그건 피로 인해 이득을 취하려는\n자들의 거짓이었다
+MID_S16_SUBTITLE_12: 내가 새롭게 통치하는 암야 왕국에서는\n평화와 이해를 가슴에 새길 것을 맹세한다
+MID_S16_SUBTITLE_13: 손을 맞잡은 너와 함께
+MID_S18_SUBTITLE_00: 나는 잊혀진 용,\n배신당한 왕, 파묻힌 신
+MID_S18_SUBTITLE_01: 투마왕의 이름으로\n너에게 죽음을 선고하노라!
+MID_S21_SUBTITLE_00: 선조룡의 이름을 걸고\n암야 왕국을 대표하는 나 젠더는…
+MID_S21_SUBTITLE_01: 그리고\n백야 왕국을 대표하는 나 료마는…
+MID_S21_SUBTITLE_02: 서로 평화를 지킬 것을 맹세한다
+MID_S21_SUBTITLE_03: 우리 모두 반드시 맹세를 지켜야 해
+MID_S21_SUBTITLE_04: 응, 모두를 위한 평화니까
+MID_S21_SUBTITLE_05: 나도 맹세할게
+MID_S21_SUBTITLE_06: 후후
+MID_S21_SUBTITLE_07: 야호! 우린 이제 친구야!
+MID_S21_SUBTITLE_08: 친구…!
+MID_S21_SUBTITLE_09: 그게 그렇게 쉬운 일만은 아닐 텐데…\n안 그래?
+MID_S21_SUBTITLE_10: 맞아… 하지만 서로 믿지 않으면\n아무것도 시작되지 않지
+MID_S21_SUBTITLE_11: 맞아
+MID_S21_SUBTITLE_12: 모든 백성과 나라를 걸고 맹세하지
+MID_S21_SUBTITLE_13: 그리고 두 나라를 이어준\n용사이자…
+MID_S21_SUBTITLE_14: 백야와 암야,\n서로에게 있어서 둘도 없는 형제…
+MID_S21_SUBTITLE_15: 너에게도!
+MID_S22_SUBTITLE_00: 왔구나
+MID_S22_SUBTITLE_01: 이제…
+MID_S22_SUBTITLE_02: 결판을 내자!
+MID_S23_SUBTITLE_01: 돌아오게 된 걸 환영한다
+MID_S24_SUBTITLE_00: 암야 왕국의 법에서\n배신자에 대한 심판은
+MID_S24_SUBTITLE_01: 오직 하나…
+MID_S24_SUBTITLE_02: 사형이다!
+MID_S25_SUBTITLE_00: 아아, 내가 그리워서 왔구나…
+MID_S25_SUBTITLE_01: 사랑스럽기도 하지…
+MID_S26_SUBTITLE_00: 지금까지 잘해 왔다
+MID_S26_SUBTITLE_01: 하지만 그건 장난에 불과해
+MID_S26_SUBTITLE_02: 이제는 죽음뿐이다!
+MID_S27_SUBTITLE_00: 배신…
+MID_S27_SUBTITLE_01: 배신…
+MID_S27_SUBTITLE_02: 바로 내가!
+MID_S28_SUBTITLE_00: 당신은 가족과 백야를 버렸어
+MID_S28_SUBTITLE_01: 이제 배신에 대한\n대가를 치를 때다!
+MID_S29_SUBTITLE_00: 너를 찾는 데 모든 시간을 쏟았어
+MID_S29_SUBTITLE_01: 그리고… 마침내 찾았지!
+MID_S30_SUBTITLE_00: 이렇게 다시 만날 수 있다니…
+MID_S30_SUBTITLE_01: 정말로 기쁘군요…
+MID_S37_SUBTITLE_00: 음…\n함께하게 해 주셔서 고마워요
+MID_S37_SUBTITLE_01: 저… 정말 보고 싶었어요
+MID_S37_SUBTITLE_02: 도움이 되도록 노력할게요
+MID_S38_SUBTITLE_00: 이제 쭉 함께 놀 수 있겠다!
+MID_S38_SUBTITLE_01: 야호!
+MID_S38_SUBTITLE_02: 정말 기뻐!

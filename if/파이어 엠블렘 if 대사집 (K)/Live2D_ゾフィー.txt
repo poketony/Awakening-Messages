@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_ゾフィー
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_SOPHIE_MYROOM_09: 초대해 주셔서 감사해요!\n다음엔 에이블도 데려 올게요.
+MKID_LIVE2D_VOICE_SOPHIE_MYROOM_19: 대화 즐거웠어요!\n여기 오면 나쁜 기억들이 전부 날아가 버리는 것 같아요!
+MKID_LIVE2D_VOICE_SOPHIE_MYROOM_29: 덕분에 잘 쉬었다 가요.\n전 다시 훈련하러 가 볼게요!
+MKID_LIVE2D_VOICE_SOPHIE_MYROOM_38: 네? 키스요…? 조, 좋아요…
+MKID_LIVE2D_VOICE_SOPHIE_MYROOM_38_W: 아-! 얼굴을 못 보겠어요-!
+MKID_LIVE2D_VOICE_SOPHIE_MYROOM_39: 당신과 함께하면 심장이 두근거려 못 견디겠어요…!
+MKID_LIVE2D_VOICE_SOPHIE_MYROOM_49: 저, 저어…, 오늘밤엔 훈련도 없고…\n부부끼리 오붓하게 보내는 거 어때요…?
+MKID_LIVE2D_VOICE_SOPHIE_MYROOM_SP_A: 모든 일에 최선을 다하자!\n제 기사로서의 신념이에요.\n당신께 하는 약속이기도 하고요.
+MKID_LIVE2D_VOICE_SOPHIE_MYROOM_SP_S: 아시다시피 전 칠칠맞지 못해요.\n그럼에도 불구하고 당신과 함께하면…
+MKID_LIVE2D_VOICE_SOPHIE_MYROOM_SP_S_W: 마치 하늘 위를 걷는 기분이에요.
+MKID_LIVE2D_VOICE_SOPHIE_RELIANCE_S: 사랑해요! 당신과 저, 그리고 언젠가 태어날 아이들.\n모두가 함께하면 완벽한 가정을 꾸릴 수 있을 거예요.
+MKID_LIVE2D_VOICE_SOPHIE_RELIANCE_S_W: 아, 물론 에이블도요.

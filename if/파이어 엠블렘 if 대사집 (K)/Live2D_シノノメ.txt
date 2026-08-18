@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_シノノメ
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_SHINONOME_MYROOM_09: 오늘은 초대해 줘서 고마워요.\n그럼 전 이만 훈련하러 가 볼게요.
+MKID_LIVE2D_VOICE_SHINONOME_MYROOM_19: 여기 오면 즐거워요. 또 같이 노는 건가요?
+MKID_LIVE2D_VOICE_SHINONOME_MYROOM_29: 죄송해요. 좀 생각할 게 있어서…\n전 더 강해지고 싶어요.
+MKID_LIVE2D_VOICE_SHINONOME_MYROOM_38: 제 눈 앞에 기회가 있네요…
+MKID_LIVE2D_VOICE_SHINONOME_MYROOM_38_W: …전 행운아예요.
+MKID_LIVE2D_VOICE_SHINONOME_MYROOM_39: 사랑해요. 당신의 모든 걸…
+MKID_LIVE2D_VOICE_SHINONOME_MYROOM_49: 전 당신 거고, 당신은 제 거예요.\n이런 게 바로 사랑이에요.
+MKID_LIVE2D_VOICE_SHINONOME_MYROOM_SP_A: 앞으로 얼마나 많은 싸움이 이어진다 하더라도\n전 당신과 함께 싸울게요.
+MKID_LIVE2D_VOICE_SHINONOME_MYROOM_SP_S: 제가 자란 비경은 이곳보다 시간이 빨리 흘렀죠.\n이제는 제 시간이 당신과 함께 흘렀으면 좋겠어요…
+MKID_LIVE2D_VOICE_SHINONOME_MYROOM_SP_S_W: 앞으로도 영원히…
+MKID_LIVE2D_VOICE_SHINONOME_RELIANCE_S: 당신이 옆에 있으면 전 더 강해져요.
+MKID_LIVE2D_VOICE_SHINONOME_RELIANCE_S_W: 영원히 제 곁에 있어 주세요…

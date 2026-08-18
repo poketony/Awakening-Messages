@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_ヒナタ
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_HINATA_MYROOM_09: 즐거웠어. 뭐 또 필요하면 언제든 불러!
+MKID_LIVE2D_VOICE_HINATA_MYROOM_19: 뭘 한 건진 잘 모르겠지만… 즐거웠어!
+MKID_LIVE2D_VOICE_HINATA_MYROOM_29: 가끔 나가서 대련도 좀 하자고!
+MKID_LIVE2D_VOICE_HINATA_MYROOM_38: 잠깐 눈 좀 감아 봐. 깜짝 선물이 있어…
+MKID_LIVE2D_VOICE_HINATA_MYROOM_38_W: …어때, 별로였어?
+MKID_LIVE2D_VOICE_HINATA_MYROOM_39: 네 눈빛을 보면 누구든 얼굴을\n붉힐 수밖에 없을 거야!
+MKID_LIVE2D_VOICE_HINATA_MYROOM_49: 여기 올 때마다 계속 네게 반하고 또 반하는 것 같아…
+MKID_LIVE2D_VOICE_HINATA_MYROOM_SP_A: 내 주군은 타쿠미님이지만,\n앞으로는 너도 늘 지켜 줄게.
+MKID_LIVE2D_VOICE_HINATA_MYROOM_SP_S: 달콤하고 그럴듯한 말을 생각해 내는\n재주는 없지만… 그래도…
+MKID_LIVE2D_VOICE_HINATA_MYROOM_SP_S_W: 이것만은 말할 수 있어. 영원히 널 사랑할게…
+MKID_LIVE2D_VOICE_HINATA_RELIANCE_S: 도망가지 마! 나, 널 정말 좋아한다고.\n앞으로도 내가 널 지켜 줄게.
+MKID_LIVE2D_VOICE_HINATA_RELIANCE_S_W: 나만의 공주님…

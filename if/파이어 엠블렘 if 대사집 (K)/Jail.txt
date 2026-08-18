@@ -1,0 +1,33 @@
+MESS_ARCHIVE_Jail
+
+
+Message Name: Message
+
+
+MKID_JAIL_牢屋: 감옥
+MKID_JAIL_概要説明: 「백야의 포박술」 「암야의 구속술」\n스킬을 지닌 유닛은 일부 적 유닛을\n포로로 삼을 수 있습니다. 포로는\n소재를 지불하면 동료로 할 수 있으며,\n점원이 「설득」하면\n필요한 소재 수를 줄일 수 있습니다.
+MKID_JAIL_決定: 결정
+MKID_JAIL_戻る: 뒤로
+MKID_JAIL_空き牢屋: 비어 있음
+MKID_JAIL_強さを見る: 능력 확인
+MKID_JAIL_強さを見る_説明: 포로의 능력을 살필 수 있습니다.
+MKID_JAIL_スカウトする: 스카우트
+MKID_JAIL_スカウトする_説明: 광석이나 식재료로 바로 동료로 삼습니다.
+MKID_JAIL_説得する: 설득
+MKID_JAIL_説得する_説明: 설득하여 시간을 들여 동료로 삼습니다.
+MKID_JAIL_解放する: 석방
+MKID_JAIL_解放する_説明: 포로를 감옥에서 석방해 줍니다.
+MKID_JAIL_スカウト確認: 소재를 지불하여\n스카우트하겠습니까?
+MKID_JAIL_スカウト不可通知: 스카우트하기 위한\n광석이나 식재료가 부족합니다.
+MKID_JAIL_スカウト_仲間: $a$a0$KrP3| 동료가 되었습니다.
+MKID_JAIL_説得回数限界: 현재, 더 이상 설득할 수 없습니다.
+MKID_JAIL_説得確認: $a$a0$KrP3| 설득합니다.
+MKID_JAIL_説得確認_はい: 설득
+MKID_JAIL_説得確認_いいえ: 취소
+MKID_JAIL_説得_屈しない: 조금 효과가 있었나 봅니다.
+MKID_JAIL_説得_あと少し: 다음에는 기대할 수 있을 것 같습니다.
+MKID_JAIL_説得_仲間: $a설득에 성공!\n$a0$KrP3| 동료가 되었습니다.
+MKID_JAIL_解放確認: 석방하면 돌아오지 않습니다.
+MKID_JAIL_解放確認_はい: 석방
+MKID_JAIL_解放確認_いいえ: 취소
+MKID_JAIL_解放した: $a$a0$KrP2| 석방했습니다.

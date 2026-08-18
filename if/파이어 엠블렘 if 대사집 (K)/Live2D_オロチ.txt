@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_オロチ
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_OROCHI_MYROOM_09: 당신과 함께 있어 즐거웠어요.
+MKID_LIVE2D_VOICE_OROCHI_MYROOM_19: 미코토님께서 우리를 보신다면 흐뭇해하실 겁니다.
+MKID_LIVE2D_VOICE_OROCHI_MYROOM_29: 당신을 만나면 미코토님께서 여전히\n우리 곁에 계시는 듯한 기분이 듭니다.
+MKID_LIVE2D_VOICE_OROCHI_MYROOM_38: 디저트를 먹을 시간이로군요.
+MKID_LIVE2D_VOICE_OROCHI_MYROOM_38_W: 으음~ 맛있어라!
+MKID_LIVE2D_VOICE_OROCHI_MYROOM_39: 일에는 다 때가 있는 법입니다…
+MKID_LIVE2D_VOICE_OROCHI_MYROOM_49: 당신이 아주 날 들었다 놨다 하는군요. 참 재밌습니다!
+MKID_LIVE2D_VOICE_OROCHI_MYROOM_SP_A: 난 당신이 언제 날 이곳으로 초대할지 압니다.\n그날은 내 운세가 아무것도 말해 주지 않거든요!
+MKID_LIVE2D_VOICE_OROCHI_MYROOM_SP_S: 널 무척 사랑한다. 혹자들은 내가 네게 홀렸다 이야기하지.\n하지만 그들은 아무것도 몰라…
+MKID_LIVE2D_VOICE_OROCHI_MYROOM_SP_S_W: 네가 내게 빠진 것인데.
+MKID_LIVE2D_VOICE_OROCHI_RELIANCE_S: 나는 너를 만나기도 전에 우리가 하나 될 것을 알았다.\n점괘에 보였거든…
+MKID_LIVE2D_VOICE_OROCHI_RELIANCE_S_W: 그리고 나의 점괘는 틀린 적이 없지.

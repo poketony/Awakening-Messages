@@ -1,0 +1,67 @@
+MESS_ARCHIVE_Versus
+
+
+Message Name: Message
+
+
+MID_VERSUS_通信対戦: 통신 대전
+MID_VERSUS_戦闘力: 전투력:
+MID_VERSUS_ローカル対戦: 로컬 대전
+MID_H_VERSUS_ローカル対戦: 가까운 사람과 대전합니다
+MID_VERSUS_インターネット対戦: 인터넷 대전
+MID_H_VERSUS_インターネット対戦: 인터넷을 이용하여 대전합니다
+MID_VERSUS_チーム編成: 팀 편성
+MID_H_VERSUS_チーム編成: 통신 대전용 팀을 편성합니다
+MID_VERSUS_ブラックリスト削除: 블랙리스트 삭제
+MID_H_VERSUS_ブラックリスト削除: 블랙리스트 설정을 초기화합니다
+MID_VERSUS_インターネット対戦_通常: 랜덤 통상 대전
+MID_H_VERSUS_インターネット対戦_通常: 통상 룰로 대전합니다
+MID_VERSUS_インターネット対戦_エターナル禁止: 랜덤 제한 대전
+MID_H_VERSUS_インターネット対戦_エターナル禁止: 성장 효과 무효로 대전(이터널 프루프 등)
+MID_VERSUS_インターネット対戦_フレンド: 친구 대전
+MID_H_VERSUS_インターネット対戦_フレンド: 친구와 대전합니다
+MID_VERSUS_チーム0: 팀A
+MID_VERSUS_チーム1: 팀B
+MID_VERSUS_チーム2: 팀C
+MID_VERSUS_チーム3: 팀D
+MID_VERSUS_チーム4: 팀E
+MID_VERSUS_チーム選択: 팀 선택
+MID_H_VERSUS_チーム選択_対戦: 대전할 팀을 선택해 주십시오
+MID_H_VERSUS_チーム選択_編成: 팀을 편성합니다
+MID_H_VERSUS_チーム確認: 편성한 팀을 확인합니다
+MID_VERSUS_チーム選択_作成: 작성
+MID_VERSUS_チーム選択_確認: 확인
+MID_VERSUS_チーム選択_削除: 삭제
+MID_VERSUS_チーム選択_決定確認: 이 팀으로 대전하겠습니까?
+MID_VERSUS_チーム選択_削除確認: 삭제하겠습니까?
+MID_VERSUS_チーム選択_戻る確認: 통신을 종료하겠습니까?
+MID_VERSUS_ファイル選択: 파일 선택
+MID_H_VERSUS_ファイル選択: 팀 편성에서 사용할 파일을 선택해 주십시오
+MID_VERSUS_ルール設定: 룰 설정
+MID_VERSUS_ルール設定_オフ: 꺼짐
+MID_VERSUS_ルール設定_オン: 켜짐
+MID_VERSUS_ルール設定_マップ: 맵
+MID_VERSUS_ルール設定_マップ_おまかせ: 위임
+MID_VERSUS_ルール設定_マップ_自分のキャッスル: 자신의 캐슬
+MID_VERSUS_ルール設定_マップ_相手のキャッスル: 상대의 캐슬
+MID_VERSUS_ルール設定_ハンディキャップ: 핸디캡
+MID_VERSUS_ルール設定_エターナル禁止: 능력 제한
+MID_VERSUS_ルール設定_配置: 배치
+MID_VERSUS_ルール設定_配置_通常: 통상
+MID_VERSUS_ルール設定_配置_ランダム: 랜덤
+MID_VERSUS_ルール設定_時間制限: 시간 제한
+MID_VERSUS_ルール設定_時間制限_3分: 3분
+MID_VERSUS_ルール設定_時間制限_5分: 5분
+MID_VERSUS_ルール設定_時間制限_10分: 10분
+MID_VERSUS_ルール設定_決定確認: 결정하겠습니까?
+MID_VERSUS_ルール設定_戻る確認: 팀 선택으로 돌아가겠습니까?
+MID_H_VERSUS_ルール設定_マップ: 맵을 설정합니다
+MID_H_VERSUS_ルール設定_ハンディキャップ: 핸디캡의 유무를 설정합니다
+MID_H_VERSUS_ルール設定_エターナル禁止: 성장 효과를 무효로 설정(이터널 프루프 등)
+MID_H_VERSUS_ルール設定_配置: 유닛의 초기 배치를 설정합니다
+MID_H_VERSUS_ルール設定_時間制限: 시간 제한을 설정합니다
+MID_H_VERSUS_ルール設定_対戦相手待ち: 대전 상대를 기다리고 있습니다
+MID_MSG_VERSUS_通信中: 통신 중입니다.
+MID_MSG_VERSUS_対戦相手降参: 대전 상대가 항복했습니다.
+MID_MSG_VERSUS_説明: 「팀 편성」에서 팀을 편성하고\n통신 대전을 실시할 수 있습니다.\n통신 대전에서 선택 가능한 맵에는\n자신이나 통신 상대의 캐슬도\n포함되어 있습니다.
+MID_MSG_VERSUS_説明_進撃準備: 통신 대전 시작 시에는\n지팡이 사용 횟수가 절반이 됩니다.

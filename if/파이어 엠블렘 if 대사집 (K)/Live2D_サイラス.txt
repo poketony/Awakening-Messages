@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_サイラス
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_SILAS_MYROOM_09: 난 그저 널 다시 만나기 위해 기사가 됐어.\n다시 만날 수 있어서 정말 기뻐.
+MKID_LIVE2D_VOICE_SILAS_MYROOM_19: 넌 정말 옛날 그대로구나.\n여전히 내 자랑스러운 친구야.
+MKID_LIVE2D_VOICE_SILAS_MYROOM_29: 이러고 있으면 예전 생각이 나…\n앞으로도 쭉 이렇게 친한 친구 사이로 있고 싶어
+MKID_LIVE2D_VOICE_SILAS_MYROOM_38: 지… 지금 키스할 거야. 더 이상은 못 참겠어…
+MKID_LIVE2D_VOICE_SILAS_MYROOM_38_W: 아… 나 얼굴 빨개진 것 같아.
+MKID_LIVE2D_VOICE_SILAS_MYROOM_39: 너무 귀여워… 이런 게 어딨어. 하루가 다르게\n사랑스러워져 가잖아. 이런 널 볼 수 있어 행운이야.
+MKID_LIVE2D_VOICE_SILAS_MYROOM_49: 바쁜 건 알지만… 조금 더 같이 있을 순 없을까?\n아직 널 혼자 차지하고 있고 싶어…
+MKID_LIVE2D_VOICE_SILAS_MYROOM_SP_A: 이런 말 하긴 좀 쑥스럽지만…\n너 같은 녀석이 내 친구라 정말 자랑스러워.
+MKID_LIVE2D_VOICE_SILAS_MYROOM_SP_S: 넌 내게 있어 정말 소중한 사람이야.\n다 네가 가르쳐 줬지. 우정도, 즐거움도…
+MKID_LIVE2D_VOICE_SILAS_MYROOM_SP_S_W: 그리고 사랑도…
+MKID_LIVE2D_VOICE_SILAS_RELIANCE_S: 난 항상 널 가장 친한 친구라고 생각해 왔어.\n하지만 지금은 그보다 훨씬 더 소중해… 사랑해.\n네 인생을 함께할 짝이 될 수 있어서 기뻐.
+MKID_LIVE2D_VOICE_SILAS_RELIANCE_S_W: 다시는 네 곁을 떠나지 않겠다고 약속할게…

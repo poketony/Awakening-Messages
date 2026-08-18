@@ -1,0 +1,18 @@
+MESS_ARCHIVE_Live2D_ユキムラ
+
+
+Message Name: Message
+
+
+MKID_LIVE2D_VOICE_YUKIMURA_MYROOM_09: 당신의 행동 하나하나를 볼 때마다\n당신의 부모님이 생각납니다.
+MKID_LIVE2D_VOICE_YUKIMURA_MYROOM_19: 백야 왕국과 미코토님을 위해서라도…\n우리는 힘을 내야합니다.
+MKID_LIVE2D_VOICE_YUKIMURA_MYROOM_29: 이곳에서 시간을 보내니 참으로 행복하군요.\n앞으로도 언제든 불러 주십시오.
+MKID_LIVE2D_VOICE_YUKIMURA_MYROOM_38: 자, 잠시 키스를 해도 될까요…
+MKID_LIVE2D_VOICE_YUKIMURA_MYROOM_38_W: 이런, 제 안경이 방해가 되었나요?
+MKID_LIVE2D_VOICE_YUKIMURA_MYROOM_39: 사랑합니다… 이런 행복한 기억들을\n앞으로도 함께 만들어 나가고 싶군요.
+MKID_LIVE2D_VOICE_YUKIMURA_MYROOM_49: 사랑합니다… 이 세상의 그 누구보다…
+MKID_LIVE2D_VOICE_YUKIMURA_MYROOM_SP_A: 처음엔 책임감 때문에 당신을 따랐지만… 지금은 당신을\n지키고 싶다는 마음 하나로 당신과 함께하고 있습니다.
+MKID_LIVE2D_VOICE_YUKIMURA_MYROOM_SP_S: 우리의 많은 추억들은 전장에서 비롯되었죠.\n하지만 이젠 다른 곳에서 추억을 만들 날이 왔으면 좋겠군요.
+MKID_LIVE2D_VOICE_YUKIMURA_MYROOM_SP_S_W: 평화로운 세상에서요…
+MKID_LIVE2D_VOICE_YUKIMURA_RELIANCE_S: 이제 함께 새로운 추억을 만들어 나갑시다…
+MKID_LIVE2D_VOICE_YUKIMURA_RELIANCE_S_W: 나의 사랑…
