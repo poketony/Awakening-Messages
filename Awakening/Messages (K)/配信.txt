@@ -148,7 +148,7 @@ MID_BOSS_挨拶会話_アルム: 소피아인들은 보호가 필요해!
 MID_BOSS_挨拶会話_ノルン: 인사는 나중으로 미룰게요.
 MID_BOSS_挨拶会話_カチュア: 천마 기사단의 카츄아라고 합니다. 
 MID_BOSS_挨拶会話_マリス: 내 검은 싸지 않다고.
-MID_BOSS_挨拶会話_アテナ: 나 말이야 나! 나 혼자라고!
+MID_BOSS_挨拶会話_アテナ: 나 말이다 나! 나 혼자다!
 MID_BOSS_挨拶会話_ホルス: 나는 한때 기사였었지.
 MID_BOSS_挨拶会話_エッツェル: 난 에첼이다. 마법을 좀 쓰지.
 MID_BOSS_挨拶会話_ローロー: 우키! 원하는 게 뭐냐? 
@@ -261,14 +261,14 @@ MID_BOSS_戦闘会話_マイセン: 싸움의 길엔 슬픔밖에 없다…
 MID_BOSS_戦闘会話_バルボ: 간다!
 MID_BOSS_戦闘会話_リュート: 그렇게 내 마력을 느끼고 싶나?
 MID_BOSS_戦闘会話_クレーベ: 내 전략을 막을 수는 없을 거다!
-MID_BOSS_戦闘会話_ノーマ: Let the goddess take you, then!
-MID_BOSS_戦闘会話_ディーン: You'll feel the kiss of my sword.
+MID_BOSS_戦闘会話_ノーマ: 여신의 곁으로 보내 주마!
+MID_BOSS_戦闘会話_ディーン: 갈기갈기 베어 주지.
 MID_BOSS_戦闘会話_セリカ: Couldn't we talk this through?
 MID_BOSS_戦闘会話_アルム: You leave me with no choice.
 MID_BOSS_戦闘会話_ノルン: I always get the job done!
 MID_BOSS_戦闘会話_カチュア: Very well! Here I come!
 MID_BOSS_戦闘会話_マリス: Heh. What are you waiting for?
-MID_BOSS_戦闘会話_アテナ: Vat? You have death vish?
+MID_BOSS_戦闘会話_アテナ: 뭐지? 죽고 싶나?
 MID_BOSS_戦闘会話_ホルス: Then ready your weapon.
 MID_BOSS_戦闘会話_エッツェル: Just what I need...
 MID_BOSS_戦闘会話_ローロー: 우키! 싸움이다 싸움!
@@ -352,9 +352,9 @@ MID_BOSS_戦闘会話_ネフェニー: I reckon you should clear out.
 MID_BOSS_戦闘会話_サナキ: 난 포기하지 않을 것이다.
 MID_BOSS_戦闘会話_シグルーン: We will engage you now!
 MID_BOSS_戦闘会話_サザ: I'll give you a fight.
-MID_BOSS_戦闘会話_漆黒の騎士: Have at me and learn your folly.
-MID_BOSS_戦闘会話_セフェラン: You insist on a fight?
-MID_BOSS_戦闘会話_ミカヤ: The goddess judges all equally.
+MID_BOSS_戦闘会話_漆黒の騎士: 분수를 알아라.
+MID_BOSS_戦闘会話_セフェラン: 저와 싸우실 생각입니까?
+MID_BOSS_戦闘会話_ミカヤ: 누구에게나 여신의 가호가 있기를…
 MID_BOSS_戦闘会話_カミュ: You are mere dust in my cloak.
 MID_BOSS_戦闘会話_トラバント: I show no mercy to the defiant!
 MID_BOSS_戦闘会話_イシュタル: No words will suffice, I see.
@@ -369,7 +369,7 @@ MID_BOSS_仲間会話_ニーナ: Destiny brought us together.
 MID_BOSS_仲間会話_シーダ: I knew you were a fine person.
 MID_BOSS_仲間会話_リンダ: I will fight with you.
 MID_BOSS_仲間会話_マリク: Mine is the ultimate magic!
-MID_BOSS_仲間会話_チキ: Promise? I hate being alone...
+MID_BOSS_仲間会話_チキ: 약속이야? 나 혼자 두면 안 돼…
 MID_BOSS_仲間会話_ミネルバ: My gratitude.
 MID_BOSS_仲間会話_オグマ: I'll help in whatever way I can.
 MID_BOSS_仲間会話_ナバール: My sword is yours.

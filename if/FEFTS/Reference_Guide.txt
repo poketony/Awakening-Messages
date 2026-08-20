@@ -1,0 +1,498 @@
+Fire Emblem If Text Simulator Guide (Version 4.2)
+
+FEFTS by SciresM (https://gbatemp.net/members/sciresm.347030/)
+Guide by luyairis (https://twitter.com/luyairis)
+Proofread by Ranaline
+Localized by Robotortoise
+
+*TO SAVE YOUR CURRENT IMAGE, CLICK ON IT*
+*TO SAVE THE ENTIRE CONVERSATION, RIGHT CLICK ON IT* (it'll save a photo with every text box in the code - you'll see)
+
+So you want to make your own stupid Fire Emblem Fates conversations? Have fun!
+
+Notes:
+http://pastebin.com/e0BjJn6J <-- Character hair color hex codes (the simulator has a built in option)
+LIST OF SUPPORTED CHARACTERS: http://pastebin.com/aBhQtujY
+
+-------------------------------------------------------------------------------------------
+What's in Version 4.2 that makes it special?
+-------------------------------------------------------------------------------------------
+
+-Localized names
+
+-------------------------------------------------------------------------------------------
+What's in this guide?
+-------------------------------------------------------------------------------------------
+
+-Reference codes for every unit
+-How to do one person text simulations
+-How to do two person text simulations, conversations included
+
+-------------------------------------------------------------------------------------------
+General Code
+-------------------------------------------------------------------------------------------
+
+$Wm(character)|(3 or 7)$w0|$Ws(character2)|$Wa$E(emotion),(optional emotion)|text
+
+Where:
+(character) - the character whose portrait appears.
+(character2) - the character whose name appears in the box.
+        -You want this the same as (character) unless you're trolling
+        -(character2) also allows you to add a custom name - add anything you want (other languages okay)
+(3 or 7) - determines which side of the simulator the character will appear on
+        -3 is left side
+        -7 is right side
+(emotion) - what expression or emotion the character has on at the time
+(optional emotion) - adds a blush or some sweat
+
+(character), (character2), (emotion), and (optional emotion) are nominated with Japanese variables. 
+See the reference guide below. 
+
+*WHEN YOU REPLACE THE VARIABLES REPLACE THE PARANTHESES TOO*
+
+-------------------------------------------------------------------------------------------
+Variables You Should Know
+-------------------------------------------------------------------------------------------
+
+$Nu - used in the text for the Avatar's name. See below for more details.
+\n - creates a line break
+$k$p - scrolls a line
+(See below about using \n and $k$p, it's IMPORTANT)
+
+-------------------------------------------------------------------------------------------
+One-Person Conversations
+-------------------------------------------------------------------------------------------
+
+Simple as it sounds, take the general code, and replace the variables. 	
+
+Here's an example:
+$Wmスズカゼ|3$w0|$Wsスズカゼ|$Wa$E通常,汗|lol
+
+^ Works for every playable and major character except Corrin. (Major as in not generic)	
+
+-------------------------------------------------------------------------------------------
+Two-Person Conversations
+-------------------------------------------------------------------------------------------
+
+Simply put, just add a $k$p between the two blocks of code. 
+
+Confused? Take a look at the code you see when you first start the program:
+
+$Wmエリーゼ|3$w0|$Wsエリーゼ|$Wa$Eびっくり,汗|This is an example conversation.$k$p$Wmサクラ|7$w0|$Wsサクラ|$Wa$E怒,汗|It takes place between\nSakura and Elise.
+
+(I've removed $t1 and $k, they don't matter in the simulator)
+
+See that $k$p after "conversation." and before the next "$Wm?" It's that easy. 
+
+-------------------------------------------------------------------------------------------
+Text That Just Goes Too Long ($k$p, \n)
+-------------------------------------------------------------------------------------------
+
+Sadly, in FEFTS (and the actual game itself) you have to manually add line breaks and text scroll.
+
+\n causes a line break, while $k$p makes a line scroll. 
+
+Confused? Test this line:
+
+$Wmスズカゼ|3$w0|$Wsスズカゼ|$Wa$E通常,汗|THIS IS AN EXAMPLE OF A SENTENCE THAT IS QUITE VERY MUCH TOO LONG
+
+How do I fix it? Add a \n, then a $k$p, then a $Nu, as much as needed where the sentence extends too much... BE SURE TO ALTERNATE
+(That doesn't mean you can't start with a $k$p, then \n, etc. You can do anything you want, but don't use \n, then \n again.)
+
+And there you have it:
+
+$Wmスズカゼ|3$w0|$Wsスズカゼ|$Wa$E通常,汗|THIS IS AN EXAMPLE \nOF A SENTENCE THAT MAY BE QUITE $k$pVERY TOO LONG.
+
+*For the half-box tester, you don't need fancy code. Just \n, etc..
+
+-------------------------------------------------------------------------------------------
+Coding Notes for the Almost-Advanced
+-------------------------------------------------------------------------------------------
+
+$Ws (the code that shows the name) - is optional. If you remove it, no name will appear.
+Emotions are also optional ($E). Defaults to "general"
+
+In short, a code does not have to be complete to work. Here's an example:
+
+$Wmタクミ|7$w0|$Wmusername|3$w0|$Wsusername|$Wa$Eキメ|CHEESEBURGERS ARE LOVE, \nCHEESEBURGERS ARE LIFE!!
+
+-------------------------------------------------------------------------------------------
+Main Unit Coding Confusion
+-------------------------------------------------------------------------------------------
+
+At line 120, you might've noticed I used "username"
+That's cause Corrin has two codes that you should use:
+
+"username" is the one you want to use in the code (no quotation marks)
+$Nu is the one you want to use in any text ($Nu will be replaced with the (Fe)MU name).
+
+Confused?
+
+$a$Wmスズカゼ|3$w0|$Wsスズカゼ|$Wa$E通常,汗|$Nu! 
+
+vs
+
+$Wmusername|3$w0|$Wsusername|$Wa$E通常,汗|lol
+
+Notice the $a in the first code. In order for $Nu to work, add a $a to the beginning of the code. 
+You can add $a at the beginning of the first line, it'll affect all lines going down.
+
+Example: 
+
+$a$Wmusername|3$w0|$Wsusername|$Wa$E通常,汗|lol$k$p$Wmスズカゼ|3$w0|$Wsスズカゼ|$Wa$E通常,汗|$Nu!
+
+vs 
+
+$Wmusername|3$w0|$Wsusername|$Wa$E通常,汗|lol$k$p$a$Wmスズカゼ|3$w0|$Wsスズカゼ|$Wa$E通常,汗|$Nu!
+
+Both work. BUT $a MUST APPEAR BEFORE THE FIRST INSTANCE OF $Nu. 
+
+-------------------------------------------------------------------------------------------
+People seem to be having trouble using the codes. JUST COPY/PASTE IT? Should be obvious..
+-------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------
+EMOTION GUIDE
+-------------------------------------------------------------------------------------------
+
+汗 - Adds sweat
+照 - Adds blush
+通常 - General  (standard)
+びっくり - Surprised
+怒 - Angry
+苦 - Suffering (about to take heavy damage)
+笑 - Laughing
+キメ - Great (advantage in battle)
+やけくそ - Desperate (yelling, like when Sakura yells at Hana and Subaki to shut up)
+囚 - Possessed/angry (think Takumi)
+
+-------------------------------------------------------------------------------------------
+BOTH PATH CHARACTERS 
+-------------------------------------------------------------------------------------------
+
+1st Generation:
+
+username - Corrin (gender, etc, determined in app)
+アンナ　- Anna
+アクア - Azura
+フェリシア - Felicia
+イザナ - Izana
+ジョーカー - Jakob
+モズメ - Kaze
+アシュラ - Shura
+サイラス - Silas
+
+2nd Generation/Children:
+
+ディーア - Dweyer
+カンナ男 - Kana (Female)
+カンナ女 - Kana (Male)
+ミドリコ - Midori
+シグレ - Shigure
+ゾフィー - Sophie
+
+-------------------------------------------------------------------------------------------
+HOSHIDO CHARACTERS 
+-------------------------------------------------------------------------------------------
+
+1st Generation:
+
+アサマ - Azama
+カザハナ - Hana
+ツクヨミ - Hayato
+ヒナタ - Hinata
+ヒノカ - Hinoka
+ニシキ - Kaden
+カゲロウ - Kagero
+オボロ - Oboro
+オロチ - Orochi
+ユウギリ - Reina
+リンカ - Rinkah
+リョウマ - Ryouma
+サイゾウ - Saizo
+サクラ - Sakura
+クリムゾン - Scarlet
+セツナ - Setsuna
+ツバキ - Subaki
+タクミ - Takumi
+ユキムラ - Yukimura
+
+2nd Generation/Children:
+
+グレイ - Asugi
+マトイ - Caeldori
+ヒサメ - Hisame
+キサラギ - Kiragi
+ミタマ - Mitama
+シャラ - Rhajat
+キヌ - Selkie
+シノノメ - Shiro
+
+-------------------------------------------------------------------------------------------
+NOHR CHARACTERS
+-------------------------------------------------------------------------------------------
+
+1st Generation:
+
+ハロルド - Arthur
+ブノワ - Benny
+ベルカ - Beruka
+カミラ - Camilla
+シャーロッテ - Charlotte
+エルフィ - Effie
+エリーゼ　- Elise
+フローラ - Flora
+ギュンター - Gunther
+フランネル - Keaton
+ラズワルド - Laslow
+レ オン - Leo
+ゼロ - Niles
+ニュクス　- Nyx
+オーディン - Odin
+ピエリ - Peri
+ルーナ - Serena
+マークス - Xander
+
+2nd Generation/Children:
+
+フォレオ - Forrest
+イグニス - Ignatius
+エポニーヌ - Nina
+オフェリア - Ophelia
+ルッツ - Percy
+ジークベルト - Siegbert
+ソレイユ - Soleil
+ベロア - Velouria
+
+-------------------------------------------------------------------------------------------
+MAJOR NPC CHARACTERS
+-------------------------------------------------------------------------------------------
+
+Normal:
+
+ガンズ - Hans
+ガロン - Garon
+マクベス - Iago
+ミコト - Mikoto
+ロンタオ - Anthony
+シェンメイ - Arete 
+スメラギ - Sumeragi
+ゾーラ - Zola
+
+Alternate Forms:
+
+ミコト影 - Mikoto's Shadow
+シェンメイ影 - Arete's Shadow
+スメラギ影 - Sumeragi's Shadow
+スライムガロン - Empty Vessel Garon
+
+Extra Characters:
+
+カシータ - Cassita
+ララ - Layla
+虹の賢者 - Rainbow Sage
+フードマン - Sumeragi (Hodded)
+
+-------------------------------------------------------------------------------------------
+CAPTURABLE UNITS (with unique portrait)
+-------------------------------------------------------------------------------------------
+
+ドラジェ - Candace
+ダイチ - Daichi
+ダニエラ - Daniela
+ファンク - Funke
+カザック - Gazzak
+ハイタカ - Haitaka
+クマゲラ - Kumagera
+ホルモン - Llewelyn
+ウィリアム - Lloyd
+ナハト - Nichol
+モズ - Omozu
+セノウ - Senno
+バンバ - Tarba
+ヴァスハラ - Zhara
+
+-------------------------------------------------------------------------------------------
+BOSSES
+-------------------------------------------------------------------------------------------
+
+クーリア - Kilma 
+フウガ - Fuga
+コタロウ - Kotaro
+
+-------------------------------------------------------------------------------------------
+OTHER FIRE EMBLEM CHARACTERS
+-------------------------------------------------------------------------------------------
+
+マルス - Ike
+ルキナ - Lucina
+マルス - Marth
+ルフレ - Robin
+
+-------------------------------------------------------------------------------------------
+ENEMIES + VILLAGERS
+-------------------------------------------------------------------------------------------
+
+ノスフェラトゥ - Faceless
+ゴーレム - Stoneborn
+
+村人お兄さん白 - Hoshidian Boy
+村人子供白 - Hoshidian Child
+村人お姉さん白 - Hoshidian Girl
+村人おじいさん白 - Hoshidian Old Man (Elder)
+村人おばさん白 - Hoshidian Old Woman
+村人お兄さん黒 - Nohrian Boy
+村人子供黒 - Nohrian Child
+村人お姉さん黒 - Nohrian Girl
+村人おじいさん黒 - Nohrian Old Man
+村人おばさん黒 - Nohrian Old Woman
+
+-------------------------------------------------------------------------------------------
+DRAGONS
+-------------------------------------------------------------------------------------------
+
+面をつけた透魔竜 - Anankos
+暗夜竜 - Blight Dragon
+竜の状態の透魔竜 - Anankos
+
+-------------------------------------------------------------------------------------------
+DLC
+-------------------------------------------------------------------------------------------
+
+クロム右 - Chrom (1)
+クロム左 - Chrom (2)
+リズ - Lissa
+フレデリク - Frederick
+金ノスフェラトゥ - Gold Faceless
+ウード - Owain
+アズール -Inigo
+セレナ - Severa
+影リリス - Lilith
+善ハイドラ - Anankos (Hooded)
+
+-------------------------------------------------------------------------------------------
+GENERICS
+-------------------------------------------------------------------------------------------
+
+薬商人男 - Apothecary
+弓使い男 - Archer
+婆娑羅男 - Basara
+バーサーカー男 - Berserker
+鍛冶男 - Blacksmith
+ボウナイト男 - Bow Knight
+ソシアルナイト男 - Cavalier
+ダークナイト男 - Dark Knight
+ダークマージ男 - Dark Mage
+呪い師男 - Diviner
+マーナガルム男 - Empty Vessel Garon
+聖天馬武者女 - Falcon Knight
+アクスファイター男 - Fighter
+ジェネラル男 - General
+グレートナイト男 - Great Knight
+山伏男 - Great Master
+ブレイブヒーロー男 - Hero
+マーシナリー男 - Hero
+金鵄武者女 - Kinshi Knight
+妖狐男 - Kitsune
+アーマーナイト男 - Knight
+ランサー男 - Lancer
+メイド女 - Maid
+レヴナントナイト男 - Malig Knight
+上忍男 - Master Ninja
+忍男 - Master Ninja
+兵法者男 - Master of Arms
+絡繰師 - Mechanist
+大商人男 - Merchant
+侍男 - Myrmidon
+九尾の狐男 - Nine-Tails
+鬼人男 - Oni
+修羅男 - Oni Chieftain
+パラディン男 - Paladin
+天馬武者女 - Pegasus Knight
+戦巫女 - Priestess
+巫女 - Priestess
+絡繰人形 - Replica
+陰陽師男 - Sage
+槍聖男 - Sentinel
+弓聖男 - Sniper
+ソーサラー男 - Sorcerer
+槍術士男 - Spear Fighter
+ストラテジスト女 - Strategist
+シーフ男 - Thief
+アドベンチャラー男 - Trickster
+ロッドナイト女 - Troubadour
+剣聖男 - Trueblade
+カゲマン - Unknown Unit (Shadow unit)
+村人女 - Villager
+ガルー男 - Wolfskin
+ドラゴンマスター男 - Wyvern Lord
+ドラゴンナイト男 - Wyvern Rider
+
+
+
+-------------------------------------------------------------------------------------------
+PORTRAIT GENERATOR JAPANESE UNITS (IN ORDER)
+-------------------------------------------------------------------------------------------
+
+竜の状態の透魔竜 - Anankos
+面をつけた透魔竜 - Anankos
+薬商人男 - Apothecary
+弓使い男 - Archer
+シェンメイ影 - Arete's Shadow
+婆娑羅男 - Basara
+バーサーカー男 - Berserker
+鍛冶男 - Blacksmith
+暗夜竜 - Blight Dragon
+ボウナイト男 - Bow Knight
+ソシアルナイト男 - Cavalier
+ダークナイト男 - Dark Knight
+ダークマージ男 - Dark Mage
+ドラゴンナイト男 - Dragon Knight
+スライムガロン - Empty Vessel Garon
+聖天馬武者女 - Falcon Knight
+アクスファイター男 - Fighter
+ガザック - Gazzak
+ジェネラル男 - General
+グレートナイト男 - Great Knight
+山伏男 - Great Master
+ブレイブヒーロー男 - Hero
+金鵄武者女 - Kinshi Knight
+妖狐男 - Kitsune
+アーマーナイト男 - Knight
+ランサー男 - Lancer
+呪い師男 - Mage
+メイド女 - Maid
+レヴナントナイト男 - Malig Knight
+上忍男 - Master Ninja
+兵法者男 - Master of Arms
+絡繰師 - Mechanist
+マーシナリー男 - Mercenary
+大商人男 - Merchant
+ミコト影 - Mikoto's Shadow
+侍男 - Myrmidon
+九尾の狐男 - Nine-Tails
+忍男 - Ninja
+修羅男 - Oni Chieftain
+鬼人男 - Oni Sage
+パラディン男 - Paladin
+天馬武者女 - Pegasus Knight
+戦巫女 - Priestess
+絡繰人形 - Replica
+陰陽師男 - Sage
+巫女 - Shrine Maiden
+弓聖男 - Sniper
+ソーサラー男 - Sorcerer
+槍術士男 - Spear Fighter
+槍聖男 -  Spear Master
+ガルー男 - Stoneborn
+ストラテジスト女 - Strategist
+スメラギ影 - Sumeragi's Shadow
+カゲマン - Test Portrait
+シーフ男 - Thief
+アドベンチャラー男 - Trickster
+ロッドナイト女 - Troubadour
+剣聖男 - Trueblade
+村人女 - Villager (Female)
+村人男 - Villager (Male)
+マーナガルム男 - Wolfssegner
+ドラゴンマスター男 - Wyvern Lord
